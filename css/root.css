@@ -1,0 +1,15 @@
+:root {
+  --theme-color: #D81F37;
+  --secondary-color: #b41329;
+  --black:black;
+  --white: white;
+  --theme-font:"Inter", sans-serif; 
+  --theme-border-radius: 8px;
+  --default-font-size: 14px;
+  --relative:relative;
+  --absolute:absolute;
+  --full:100%;
+  --flex: flex;
+  --transition: all 0.3s ease-in-out;
+  --no-decoration: none;
+}

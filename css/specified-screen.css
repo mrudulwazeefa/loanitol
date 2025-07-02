@@ -1,0 +1,42 @@
+@media screen and (width: 540px) {
+.carousel-indicators {
+margin-bottom: clamp(95px, 5vw, 45px) !important;
+}
+.testimonial_area .testimonial_img_section .sm-logo {
+    left: 64vw!important;
+}
+.people_say .loanitol-service .owl-theme .owl-dots,
+.people_say2 .loanitol-service .owl-theme .owl-dots {
+    margin-left: -25.5em !important;
+}
+.bg-contact-area {
+    padding: 9% 5%!important;
+}
+.about_loan_area_gradient {
+    padding: 12% 2%!important;
+}
+.document .bg-- {
+    padding-bottom: 10% !important;
+}
+.eligibility {
+    padding: 8% 2% 8% 2%!important;
+}
+.details-section {
+    padding: 7% 2% 7% 2%!important;
+}
+.empower-section {
+    padding: 9% 2% 8% 2%!important;
+}
+.copyright-bg-area {
+    padding: 3% 0%!important;
+}
+
+
+}
+
+@media only screen and (width:720px){
+  .people_say .loanitol-service .owl-theme .owl-dots,
+  .people_say2 .loanitol-service .owl-theme .owl-dots {
+        margin-left:calc(10vw + -31rem)!important;
+    }
+}

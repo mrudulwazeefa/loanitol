@@ -1,0 +1,2091 @@
+/* responsive area */
+@media only screen and (min-width:100px) and (max-width:350px) {
+  .bg-contact-area {
+    padding: 15% 5%!important;
+  }
+
+  .insurance-carousel {
+    padding-top: 0px!important;
+  }
+}
+
+@media only screen and (min-width:100px) and (max-width:390px) {
+  .modal-body .item_p .nav-link span {
+    display: none;
+  }
+
+  .loanitol_center_area .btn {
+    margin-bottom: 5%;
+  }
+
+  .h4-size-area {
+    font-size: 30px!important;
+  }
+
+  .form-pd h3,
+  .h6-size {
+    font-size: 6vw!important;
+  }
+
+  .carousel-indicators {
+    bottom: 64px !important;
+  }
+
+  .breadcrumb {
+    display: none;
+  }
+}
+
+@media screen and (width: 540px) {
+  .advisory-section .col-lg-11 {
+    margin-left: -10%;
+  }
+
+  .testimonial_area .testimonial_img_section .sm-logo {
+    left: 65vw!important;
+  }
+
+  .h4-size,
+  .h4-testimonial-size,
+  .loanitol_center_area h4 {
+    font-size: 33px!important;
+  }
+
+  .list-style {
+    padding: 5% 3%!important;
+    font-size: 15px;
+  }
+
+  .carouselOption h5 {
+    font-size: 7vw!important;
+  }
+
+  .insurance-carousel .service-item .item h2 {
+    text-align: center!important;
+  }
+
+  .service-carousel1 .service-item .item_padding {
+    padding: 12% 8%!important;
+  }
+
+  .bg-contact-area .btn {
+    padding: 3% 5%!important;
+    font-size: 15px!important;
+  }
+
+  .h5-size {
+    font-size: 7vw!important;
+  }
+
+  .form-pd h3,
+  .h6-size {
+    font-size: 4.5vw!important;
+  }
+
+  .form-pd {
+    padding: 8% 0% 10% 0%!important;
+  }
+}
+
+/* @media screen and (max-width: 600px) {
+
+  .carouselOption h5 span,
+  .carouselOption h5,
+  .carouselOption p {
+    color: var(--white)fff!important;
+  }
+
+  .carouselOption h5 {
+    padding-bottom: 3%;
+  }
+
+  .carouselOption p {
+    display: none;
+  }
+
+  .carouselOption h5 {
+    font-size: 7.5vw;
+  }
+
+  .service_section_margin {
+    margin-top: -14%;
+  }
+
+  .navbar-text {
+    display: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev {
+    display: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-next {
+    display: none;
+  }
+
+  .about_loan_area_gradient {
+    padding: 13% 2%;
+  }
+
+
+
+  .image-section {
+    margin-bottom: 8%;
+  }
+
+  .insurance_loan_area {
+    padding: 14% 2%;
+  }
+
+  .lender-section-area {
+    padding: 0% 0% 20% 0%;
+  }
+
+  .lender-section-area img {
+    padding-top: 4%;
+  }
+
+  .advisory-section {
+    padding: 2% 0% 9% 0%;
+  }
+
+  .fund_loan_area {
+    padding: 8% 3% 16% 3%;
+  }
+
+  .why-section-area {
+    padding: 2% 2% 8% 2%;
+  }
+
+  .people_say {
+    padding: 8% 2% 7% 2%;
+  }
+
+  .why-section-area .align-items-stretch {
+    margin-top: 5%;
+  }
+
+  .hide-cols {
+    display: none;
+  }
+
+  .testimonial_area .testimonial_img_section .sm-logo {
+    left: 56vw;
+    bottom: 64%;
+  }
+
+  .testimonial_area {
+    background-position: right bottom;
+  }
+
+  .loanitol_center_area {
+    padding: 13% 2%;
+  }
+
+  .loanitol_center_area button {
+    margin-bottom: 5%;
+  }
+
+  .list-style,
+  .accordion-button {
+    padding: 6% 3%;
+  }
+
+  .accordion-body {
+    padding: 6% 7%;
+  }
+
+  .lender-section-area {
+    padding: 0% 3% 20% 3%;
+  }
+
+  .partner-section-area {
+    padding: 11% 3% 13% 3%;
+  }
+
+  .bg-contact-area {
+    padding: 13% 5%;
+  }
+
+  .footer-bg-area {
+    padding: 15% 0% 9% 0%;
+  }
+
+  .copyright-bg-area {
+    padding: 5% 0%;
+  }
+
+  .copyright-bg-area .f-right p {
+    float: left;
+    padding-top: 2%;
+  }
+
+  .testimonial_area .testimonial_img_section {
+    margin-bottom: 10%;
+  }
+
+  .service-carousel1 .service-item .item h2 {
+    font-size: 17px;
+  }
+
+  .h4-size-area {
+    font-size: 28px;
+  }
+
+  .h4-testimonial-size {
+    font-size: 26px;
+    margin-bottom: 5%;
+  }
+
+  .fixed-buttons .btn-blue,
+  .fixed-buttons .btn-red {
+    display: none;
+  }
+
+  .btn-md-red,
+  .btn-md-blue {
+    display: block;
+  }
+
+  .people_say .service-carousel1 .owl-theme .owl-dots,
+  .people_say2 .service-carousel1 .owl-theme .owl-dots {
+    margin-left: 0%;
+    margin-top: 31px;
+    margin-bottom: 4px;
+    z-index: 2;
+  }
+
+  .loanitol_center_area .btn {
+    margin-bottom: 5%;
+  }
+
+  .sticky-nav {
+    display: none;
+  }
+
+  .empower-section {
+    padding: 12% 2% 10% 2%;
+  }
+
+  .details-section {
+    padding: 7% 2% 10% 2%;
+  }
+
+  #emi-calculator .emi-form {
+    padding: 10% 2% 10% 2%;
+  }
+
+  .img-position {
+    margin-left: 0px;
+  }
+
+  .eligibility {
+    padding: 10% 2% 10% 2%;
+  }
+
+  .emi-label {
+    width: 30dvw;
+  }
+
+  .hero-section-area img {
+    display: none;
+  }
+
+  .hero-section-area {
+    padding: 15% 0%;
+  }
+
+  .h5-size {
+    font-size: 8vw;
+  }
+
+  .details-section .img-frame {
+    margin: 5% 0%;
+  }
+
+  #emi-calculator form {
+    padding: 8% 0% 10% 0%;
+  }
+
+  .eligibility .col-md-4 {
+    padding: 3% 2% 5% 2%;
+  }
+
+  .people_say2 {
+    padding: 3% 2%;
+  }
+
+  .form-pd h3,
+  .h6-size {
+    font-size: 5vw;
+  }
+
+  .form-pd h3 {
+    margin-bottom: 6%;
+  }
+
+  .hero-small--section-area {
+    background-color: #f5dadf;
+    padding: 10% 0% 10% 0%;
+  }
+
+  .form-pd {
+    padding: 10% 0% 18% 0%;
+  }
+
+  .address {
+    padding-top: 7%;
+  }
+
+  .carouselOption h5 span {
+    display: contents;
+  }
+
+  .owl-carousel .grid-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .service_section_margin .btn {
+    padding: 4% 10%;
+  }
+
+  h4 span {
+    display: block;
+    line-height: 20px;
+  }
+
+  .service-carousel1 h4 {
+    font-size: 24px;
+    line-height: 41px;
+  }
+
+  .counter-item {
+    font-size: 6vw;
+  }
+
+  .counter-item p {
+    font-size: 3vw;
+  }
+
+  .counter-item {
+    font-size: 30px;
+    padding: 7% 5%;
+    border-bottom: 1px dashed #c7c1c1;
+    border-right: 1px dashed transparent;
+  }
+
+  .no-border-right {
+    border-bottom: 1px dashed transparent;
+  }
+
+  .circle-count img {
+    width: 70px;
+    padding: 2.2%;
+  }
+
+  .counter-item {
+    font-size: 33px;
+  }
+
+  .carouselOption .btn {
+    padding: 2.5% 6%;
+  }
+
+  .links-hd ul li a:hover {
+    color: #d71920 !important;
+  }
+  .carousel-item {
+    padding-top: 3%;
+  }
+
+  .carousel-content {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .carousel-inner {
+    padding: 30px 10px 0px 10px;
+  }
+
+  .carousel-indicators {
+    margin-left: -5px;
+    left: 5vw !important;
+  }
+
+  .carousel-content h5 {
+    font-size: 7vw;
+    font-weight: 600;
+  }
+
+  .carousel-content span {
+    display: inline;
+  }
+
+  .carousel-content {
+    font-family: var(--theme-font);
+  }
+
+  .carousel-content h5 {
+    font-size: 7vw;
+    font-weight: 600;
+  }
+
+  .carousel-content span {
+    color: var(--theme-color) !important;
+    display: block;
+  }
+
+  .carousel-content p {
+    font-size: 1rem;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 4%;
+    font-family: var(--theme-font);
+    position: var(--relative);
+    overflow: hidden;
+    background: var(--theme-color);
+    border: 1px solid var(--theme-color);
+    color: white !important;
+    padding: 1.5% 4%;
+    font-size: 13px;
+    cursor: pointer;
+    border-radius: var(--theme-border-radius);
+    display: var(--flex);
+    align-items: center;
+    width: max-content;
+    gap: 8px;
+    transition: var(--transition);
+  }
+
+  .carousel-content .circle_white_btn {
+    width: 30px;
+    height: 30px;
+    background: var(--white);
+    border-radius: 50%;
+  }
+
+  .why-section-area .btn {
+    padding: 4% 10%;
+  }
+} */
+
+@media screen and (min-width: 640px) {
+  .carousel-content h5 {
+    margin-top: 25%;
+    font-size: 20px;
+    margin-left: 15%;
+    font-weight: 600;
+  }
+
+  .carousel-content p {
+    margin-top: 10px;
+    margin-left: 15%;
+    margin-bottom: 20px;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 20%;
+    font-family: var(--theme-font);
+    position: var(--relative);
+    overflow: hidden;
+    background: var(--theme-color);
+    border: 1px solid var(--theme-color);
+    color: white !important;
+    padding: 1.5% 3%;
+
+    margin-left: 15%;
+  }
+}
+
+/* @media screen and (min-width: 600px) {
+  .w-80 {
+    width: 80% !important;
+  }
+
+  .carouselOption h5 {
+    font-size: 4vw;
+  }
+
+  .insurance-carousel .service-item .item h2 {
+    font-size: var(--default-font-size);
+    color: var(--black);
+    text-align: left;
+    padding-left: 10px;
+  }
+
+  .insurance_loan_area .service-item .item {
+    height: 80px;
+  }
+
+  .insurance_loan_area {
+    padding: 5% 0%;
+  }
+
+  .insurance-carousel .owl-theme .owl-nav {
+    margin-top: -27px;
+  }
+
+  .carouselOption {
+    top: 56%;
+    left: 56vw;
+  }
+
+  .carousel-indicators {
+    bottom: 28px !important;
+  }
+
+  .advisory_section_area .icon-frame {
+    width: 50px;
+    height: 50px;
+  }
+
+  .advisory-section .col-lg-11 {
+    padding-left: 6%;
+  }
+
+  .h4-size {
+    font-size: 24px;
+    margin-bottom: 3px;
+  }
+
+  .navbar-text {
+    font-size: var(--default-font-size);
+  }
+
+
+  .about_loan_area_gradient {
+    padding: 7% 0% 5% 0%;
+  }
+
+  .partner-section-area {
+    padding: 4% 0% 4% 0%;
+  }
+
+  .why-section-area .image-section {
+    display: none;
+  }
+
+  .choose_frame {
+    min-height: 170px;
+  }
+
+  .bg-contact-area button {
+    padding: 1.5% 4%;
+  }
+
+  .footer-bg-area h5 {
+    font-size: 16px;
+  }
+
+  .footer-bg-area ul li a {
+    font-size: 13px;
+    transition: all linear 0.3s;
+  }
+
+  .links-hd ul li a:hover {
+    color: #d71920 !important;
+    margin-left: 3px;
+    transition: all linear 0.3s;
+  }
+
+  .footer-bg-area ul li img:hover {
+    margin-left: 0px!important;
+  }
+
+  .fixed-buttons .btn-blue,
+  .fixed-buttons .btn-red {
+    display: none;
+  }
+
+  .loanitol_center_area .btn {
+    margin-bottom: 5%;
+  }
+
+  .loanitol_center_area h4 {
+    color: var(--white);
+    font-size: 26px;
+  }
+
+  .bg-contact-area .btn {
+    padding: 2% 6%;
+  }
+
+  .testimonial_area .testimonial_img_section .sm-logo {
+    width: 63px;
+    left: 137px;
+    bottom: 43%;
+  }
+
+  .people_say .service-carousel1 .owl-theme .owl-dots,
+  .people_say2 .service-carousel1 .owl-theme .owl-dots {
+    margin-left: 3%;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    z-index: 2;
+  }
+
+  .sticky-nav {
+    display: none;
+  }
+
+  .hero-section-area {
+    padding: 7% 0%;
+  }
+
+  .h5-size {
+    font-size: 4vw;
+  }
+
+  .hero-section-area img,
+  .details-section .img-frame img {
+    display: none;
+  }
+
+  .img-position {
+    display: none;
+    margin-left: 0px;
+  }
+
+  .form-pd h3 {
+    font-size: 2.8vw;
+  }
+
+  .h6-size {
+    font-size: 2.6vw;
+  }
+
+  .hero-small--section-area {
+    padding: 5% 0% 5% 0%;
+  }
+
+  .address {
+    padding: 5% 0% 6% 0%;
+    display: var(--flex);
+    width: var(--full);
+  }
+
+  .address div:nth-child(1) {
+    width: 50%;
+  }
+
+  .address div:nth-child(2) {
+    width: 50%;
+  }
+
+  iframe {
+    width: var(--full);
+    height: auto;
+  }
+
+  .service_section_margin .btn,
+  .why-section-area .btn {
+    padding: 2.5% 8%;
+  }
+
+  .counter-item {
+    font-size: 24px;
+  }
+
+  .no-border-right-sm {
+    border-right: 1px dashed transparent;
+  }
+
+  .pd-choose {
+    padding-top: 3%;
+  }
+
+  .hv {
+    min-height: 268px;
+  }
+
+  .carouselOption p {
+    display: none;
+  }
+
+  .carouselOption h5 {
+    padding-bottom: 1.5%;
+  }
+
+  h4 span {
+    line-height: 19px;
+    display: block;
+    font-size: var(--default-font-size);
+    font-weight: 400;
+  }
+} */
+
+@media screen and (width: 600px) and (max-width: 768px) {
+  .navbar-text {
+    display: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev {
+    display: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-next {
+    display: none;
+  }
+
+  .quick-service .service-item .item {
+    height: 233px;
+  }
+
+  .insurance_loan_area {
+    padding: 11% 0%;
+  }
+
+  h4 {
+    font-size: 27px;
+  }
+
+  .carousel-content {
+    font-family: var(--theme-font);
+  }
+
+  .carousel-content h5 {
+    font-size: 2.5vw;
+    font-weight: 600;
+  }
+
+  .carousel-content span {
+    color: var(--theme-color) !important;
+    display: block;
+  }
+
+  .carousel-content p {
+    font-size: 1rem;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 4%;
+    font-family: var(--theme-font);
+    position: var(--relative);
+    overflow: hidden;
+    background: var(--theme-color);
+    border: 1px solid var(--theme-color);
+    color: white !important;
+    padding: 1.5% 4%;
+    font-size: 13px;
+    cursor: pointer;
+    border-radius: var(--theme-border-radius);
+    display: var(--flex);
+    align-items: center;
+    width: max-content;
+    gap: 8px;
+    transition: var(--transition);
+  }
+
+  .carousel-content .circle_white_btn {
+    width: 30px;
+    height: 30px;
+    background: var(--white);
+    border-radius: 50%;
+  }
+
+  .fund_loan_area {
+    padding: 11% 3%;
+  }
+
+  .about_loan_area_gradient {
+    padding: 11% 2%;
+  }
+
+  .why-section-area {
+    padding: 0% 3% 8% 3%;
+  }
+
+  .why-section-area .image-section img {
+    border-radius: 30px;
+    margin-bottom: 11%;
+  }
+
+  .why-section-area .align-items-stretch {
+    margin-top: 6%;
+  }
+
+  .testimonial_area {
+    background-position: right bottom;
+  }
+
+  .testimonial_area .main_img {
+    margin-bottom: 7%;
+  }
+
+  .testimonial_area .sm-logo {
+    left: 220px;
+    bottom: 64%;
+  }
+
+  .loanitol_center_area {
+    padding: 11% 3%;
+  }
+
+  .loanitol_center_area button {
+    margin-bottom: 5%;
+  }
+
+  .list-style {
+    padding: 8% 3%;
+  }
+
+  .footer-bg-area h5 {
+    font-size: 18px;
+  }
+
+  .footer-bg-area ul li a {
+    font-size: var(--default-font-size);
+  }
+
+  .fixed-buttons .btn-blue,
+  .fixed-buttons .btn-red {
+    display: none;
+  }
+
+  .btn-md-red,
+  .btn-md-blue {
+    display: block;
+  }
+
+  .emi-label {
+    width: 17dvw!important;
+  }
+}
+
+
+
+
+
+@media screen and (width: 667px) {
+  .h4-testimonial-size {
+    font-size: 20px;
+  }
+
+  .testimonial_area .testimonial_img_section .sm-logo {
+    width: 65px;
+    left: 128px;
+    bottom: 38%;
+  }
+
+  .people_say .owl-theme .owl-dots,
+  .people_say .owl-theme .owl-nav {
+    margin-top: 0px;
+  }
+
+  .testimonial_area {
+    padding: 7% 0% 4% 0%;
+  }
+
+  .loanitol_center_area button {
+    padding: 1.5% 6% !important;
+    margin-bottom: 3%;
+  }
+
+  .lender-section-area .w-80 {
+    width: 60% !important;
+  }
+
+  .w-80 {
+    width: 74% !important;
+  }
+
+  .service-carousel1 .service-item .item {
+    padding: 10% 6%;
+  }
+
+  .about_loan_area_gradient {
+    padding: 7% 0% 7% 0%;
+  }
+
+  .partner-section-area {
+    padding: 6% 0% 8% 0%;
+  }
+
+  .bg-contact-area {
+    padding: 6% 0%;
+  }
+
+  .fixed-buttons .btn-blue,
+  .fixed-buttons .btn-red {
+    display: none;
+  }
+
+  .btn-md-red,
+  .btn-md-blue {
+    display: block;
+  }
+
+  .copyright-bg-area {
+    padding: 3% 0%;
+  }
+
+  .copyright-bg-area p {
+    font-size: 13.5px !important;
+  }
+
+  .emi-label {
+    width: 18dvw;
+  }
+
+  /**/
+  .carousel-content p {
+    display: none;
+  }
+
+  .carousel-content span {
+    display: inline;
+  }
+
+  .carousel-indicators {
+    bottom: 17px;
+  }
+
+  /**/
+  .carousel-content {
+    padding-left: 39px!important;
+    padding-right: 0px;
+  }
+
+  .carousel-content h5 {
+    margin-top: 12%;
+  }
+
+  .carousel-indicators {
+    bottom: 25px !important;
+    left: 11.5vw !important;
+  }
+
+  .carousel-content h5 {
+    font-size: 3.3vw!important;
+  }
+
+  .testimonial_area .testimonial_img_section .sm-logo {
+    width: 49px;
+    left: 124px;
+    bottom: 73%;
+    display: none;
+  }
+
+  .testimonial_area .testimonial_img_section .main_img {
+    width: 28%!important;
+    border-radius: 30px!important;
+  }
+
+  .testimonial_area .testimonial_img_section {
+    padding: 0px 16px 16px 16px!important;
+  }
+}
+
+@media screen and (width: 720px) {
+  .carousel-content {
+    padding-left: 130px!important;
+    padding-right: 0px;
+  }
+
+  .carousel-item {
+    padding-top: 3%!important;
+  }
+
+  .carousel-indicators {
+    left: 16vw !important;
+    bottom: 21px !important;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 19%!important;
+  }
+
+  .carousel-content h5 {
+    font-size: 3vw!important;
+  }
+
+  .carousel-content h5 {
+    margin-top: 0%;
+    font-size: 2.5vw;
+    margin-left: 0%;
+    font-weight: 600;
+  }
+
+  .carousel-content p {
+    margin-top: 10px;
+    margin-left: 0%;
+    margin-bottom: 20px;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 20%;
+    font-family: var(--theme-font);
+    position: var(--relative);
+    overflow: hidden;
+    background: var(--theme-color);
+    border: 1px solid var(--theme-color);
+    color: white !important;
+    padding: 1.5% 3%;
+
+    margin-left: 0%;
+  }
+
+  .testimonial_area .testimonial_img_section .sm-logo {
+    width: 49px;
+    left: 124px;
+    bottom: 73%;
+    display: none;
+  }
+
+  .testimonial_area .testimonial_img_section .main_img {
+    width: 28%!important;
+    border-radius: 30px!important;
+  }
+
+  .testimonial_area .testimonial_img_section {
+    padding: 0px 16px 16px 16px!important;
+  }
+}
+
+@media screen and (width: 740px) {
+  .carousel-content {
+    padding-left: 130px!important;
+    padding-right: 0px;
+  }
+
+  .carousel-item {
+    padding-top: 5%!important;
+  }
+
+  .carousel-indicators {
+    left: 16vw !important;
+    bottom: 10px !important;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 16%!important;
+  }
+
+  .carousel-content h5 {
+    font-size: 3vw!important;
+  }
+
+  .carousel-content h5 {
+    margin-top: 0%;
+    font-size: 2.5vw;
+    margin-left: 0%;
+    font-weight: 600;
+  }
+
+  .carousel-content p {
+    margin-top: 10px;
+    margin-left: 0%;
+    margin-bottom: 20px;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 20%;
+    font-family: var(--theme-font);
+    position: var(--relative);
+    overflow: hidden;
+    background: var(--theme-color);
+    border: 1px solid var(--theme-color);
+    color: white !important;
+    padding: 1.5% 3%;
+    margin-left: 0%;
+  }
+
+  .testimonial_area .testimonial_img_section .sm-logo {
+    width: 49px;
+    left: 124px;
+    bottom: 73%;
+    display: none;
+  }
+
+  .testimonial_area .testimonial_img_section .main_img {
+    width: 28%!important;
+    border-radius: 30px!important;
+  }
+
+  .testimonial_area .testimonial_img_section {
+    padding: 0px 16px 16px 16px!important;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+
+  .carousel-content h5 {
+    margin-top: 0%;
+    font-size: 2.5vw;
+    margin-left: 0%;
+    font-weight: 600;
+  }
+
+  .carousel-content p {
+    margin-top: 10px;
+    margin-left: 0%;
+    margin-bottom: 20px;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 4%;
+    font-family: var(--theme-font);
+    position: var(--relative);
+    overflow: hidden;
+    background: var(--theme-color);
+    border: 1px solid var(--theme-color);
+    color: white !important;
+    padding: 1.5% 3%;
+    margin-left: 0%;
+  }
+
+  .carouselOption {
+    top: 54%;
+    left: 50%;
+  }
+
+  .carousel-indicators {
+    bottom: 42px !important;
+    left: 9vw !important;
+  }
+
+  .insurance-carousel .service-item .item h2 {
+    font-size: var(--default-font-size);
+    text-align: left;
+    padding: 5px 6px;
+  }
+
+  .insurance_loan_area .service-item .item {
+    height: 80px;
+  }
+
+  .insurance-carousel .owl-theme .owl-nav {
+    margin-top: -31px;
+  }
+
+  .insurance_loan_area {
+    padding: 5% 0%;
+  }
+
+  .advisory_section_area .icon-frame {
+    width: 50px;
+    height: 50px;
+  }
+
+  .advisory-section .col-lg-11 {
+    padding-left: 3%;
+  }
+
+  .why-section-area .image-section {
+    display: none;
+  }
+
+  .choose_frame {
+    min-height: 164px;
+  }
+
+  .testimonial_area .testimonial_img_section .main_img {
+    width: 90%;
+  }
+
+  .testimonial_area .testimonial_img_section .sm-logo {
+    width: 57px;
+    left: 164px;
+    bottom: 39%;
+  }
+
+  .footer-bg-area h5 {
+    font-size: 17px;
+  }
+
+  .footer-bg-area ul li {
+    font-size: var(--default-font-size);
+  }
+
+  .social_media ul li img {
+    padding-bottom: 6%;
+  }
+
+  .footer-bg-area ul {
+    padding: 10% 0%;
+  }
+
+  .service-carousel1 .service-item .item h2 {
+    font-size: var(--default-font-size);
+  }
+
+  .footer-bg-area ul li a {
+    font-size: 13.5px;
+  }
+
+  .fixed-buttons-md .btn-md-red {
+    padding: 12px 10px;
+  }
+
+  .fixed-buttons .btn-blue,
+  .fixed-buttons .btn-red {
+    display: none;
+  }
+
+  .modal-body .item_p2 {
+    padding: 3% 3%;
+  }
+
+  .bg-contact-area .btn {
+    padding: 4% 10%;
+  }
+
+  .people_say .service-carousel1 .owl-theme .owl-dots,
+  .people_say2 .service-carousel1 .owl-theme .owl-dots {
+    margin-left: -19%;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    z-index: 2;
+  }
+
+  .sticky-nav {
+    display: block;
+  }
+
+  .details-section .img-frame img,
+  .img-position {
+    display: block;
+  }
+
+  .details-section .img-frame img {
+    display: none;
+  }
+
+  .details-section {
+    padding: 5% 0% 7% 0%;
+  }
+
+  .people_say2 {
+    padding: 3.5% 0% 0% 0%;
+  }
+
+  .h5-size {
+    font-size: 3.5vw;
+  }
+
+  .hero-section-area img {
+    display: block;
+  }
+
+  .hero-section-area {
+    padding: 4% 0%;
+  }
+
+  .form-pd h3 {
+    font-size: 2.7vw;
+  }
+
+  .h6-size {
+    font-size: 2.6vw;
+  }
+
+  .hero-small--section-area {
+    padding: 4% 0%;
+  }
+
+  .owl-carousel .grid-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .service_section_margin .btn {
+    padding: 2% 5%;
+  }
+
+  .circle-count img {
+    width: 50px;
+  }
+
+  .counter-item {
+    font-size: 24px;
+  }
+
+  .no-border-right-sm {
+    border-right: 1px dashed #f0f0f0;
+  }
+
+  .hv {
+    min-height: 268px;
+  }
+
+  .carouselOption p {
+    display: block;
+  }
+
+  .carouselOption h5 {
+    padding-bottom: 0%;
+  }
+
+  /**/
+  .carousel-content {
+    padding-left: 60px!important;
+    padding-right: 0px;
+  }
+
+  .carousel-item {
+    padding-top: 4%;
+  }
+
+  .carousel-content p {
+    font-size: 13px;
+  }
+
+  .carousel-content h5 {
+    font-size: 3.5vw;
+  }
+
+  .circle_white_btn {
+    width: 25px;
+    height: 25px;
+  }
+
+  .carousel-indicators {
+    bottom: 15px !important;
+    left: 6vw !important;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 13%;
+  }
+
+  .why-section-area .btn {
+    padding: 2% 5%;
+  }
+
+  .hide-cols {
+    display: none;
+  }
+
+
+
+
+
+  h4 span {
+    line-height: 24px;
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .features-style-box-height {
+    min-height: 210px;
+  }
+}
+
+/* @media screen and (max-width: 992px) {
+  .carousel-indicators {
+    bottom: 30px;
+  }
+} */
+
+@media screen and (min-width: 800px) and (max-width: 932px) {
+  .carouselOption h5 {
+    font-size: 3vw;
+  }
+
+  .carouselOption {
+    left: 53%;
+  }
+
+  .bg-contact-area button {
+    padding: 3% 11%;
+  }
+
+  .carousel-indicators {
+    left: 12vw !important;
+    bottom: 30px !important;
+  }
+
+
+  .bg-contact-area {
+    padding: 5% 0%;
+  }
+
+  .h4-size-area {
+    font-size: 28px;
+  }
+
+  .service-carousel1 .service-item .item_padding {
+    padding: 13% 8%;
+  }
+
+  .align-items-stretch {
+    padding-top: 4%;
+  }
+
+  .service-carousel1 .service-item .item h2 {
+    font-size: var(--default-font-size);
+  }
+
+  .fund_loan_area .service-carousel1 .service-item .item {
+    padding: 6% 4%;
+  }
+
+  .testimonial_area .testimonial_img_section .main_img {
+    width: 87%;
+  }
+
+  .accordion-button {
+    font-size: 15px !important;
+  }
+
+  .about_loan_area_gradient {
+    padding: 6% 0%;
+  }
+
+  .fixed-buttons .btn-blue,
+  .fixed-buttons .btn-red {
+    display: none;
+  }
+
+  .btn-md-red,
+  .btn-md-blue {
+    display: block;
+  }
+
+  .people_say .service-carousel1 .owl-theme .owl-dots,
+  .people_say2 .service-carousel1 .owl-theme .owl-dots {
+    margin-left: -19%;
+    margin-top: 9px;
+    margin-bottom: 35px;
+    z-index: 2;
+  }
+
+  .hero-section-area {
+    padding: 4% 0%;
+  }
+
+  .details-section .img-frame {
+    display: none;
+  }
+
+  .details-section {
+    padding: 5% 0% 5% 0%;
+  }
+
+  #emi-calculator .emi-form {
+    padding: 3% 0% 3% 0%;
+  }
+
+  .people_say2 {
+    padding: 3% 0% 0% 0%;
+  }
+
+  .address {
+    padding: 5% 0% 6% 0%;
+    display: var(--flex);
+    width: var(--full);
+  }
+
+  .address div:nth-child(1) {
+    width: 50%;
+  }
+
+  .address div:nth-child(2) {
+    width: 50%;
+  }
+
+  iframe {
+    width: var(--full);
+    height: auto;
+  }
+
+  .hv {
+    min-height: 268px;
+  }
+
+  /**/
+  .carousel-item {
+    padding-top: 3%;
+  }
+
+  .carousel-content p {
+    font-size: 13px;
+  }
+
+  .carousel-content {
+    padding-left: 124px!important;
+    padding-right: 0px;
+  }
+
+  .carousel-indicators {
+    bottom: 26px !important;
+    left: 12.5vw !important;
+  }
+
+  .carousel-content h5 {
+    font-size: 3.2vw;
+  }
+
+  .carousel-content span {
+    display: inline;
+  }
+}
+
+@media only screen and (width: 820px) {
+  .carousel-content {
+    padding-left: 96px!important;
+    padding-right: 0px;
+  }
+
+  .carousel-item {
+    padding-top: 5%!important;
+  }
+
+  .carousel-indicators {
+    left: 10vw !important;
+    bottom: 21px !important;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 16%!important;
+  }
+}
+
+/* 820 & 844 same */
+@media only screen and (width: 844px) {
+  .carousel-content {
+    padding-left: 96px!important;
+    padding-right: 0px;
+  }
+
+  .carousel-item {
+    padding-top: 4%!important;
+  }
+
+  .carousel-indicators {
+    left: 10vw !important;
+    bottom: 21px !important;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 11%!important;
+  }
+}
+
+@media only screen and (width: 853px) {
+  .carousel-content {
+    padding-left: 96px!important;
+    padding-right: 0px;
+  }
+
+  .carousel-item {
+    padding-top: 8%!important;
+  }
+
+  .carousel-indicators {
+    left: 10vw !important;
+    bottom: 10px !important;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 20%!important;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .service-carousel1 .service-item h2 {
+    font-size: 16px;
+  }
+
+  .carouselOption h5 {
+    font-size: 2.8vw;
+  }
+
+  .why-section-area .image-section {
+    display: block;
+  }
+
+  .choose_frame {
+    min-height: 198px;
+  }
+
+  .testimonial_area .testimonial_img_section .sm-logo {
+    width: 100px;
+    position: var(--absolute);
+    left: 246px;
+    bottom: 28%;
+  }
+
+  .service-carousel1 .service-item .item {
+    padding: 9%;
+  }
+
+  .w-80 {
+    width: 90%;
+  }
+
+  .insurance-carousel .service-item .item h2,
+  .service-carousel1 .service-item .item h2 {
+    font-size: 15px;
+  }
+
+  .footer-bg-area ul li a {
+    font-size: var(--default-font-size);
+  }
+
+  .advisory-section .col-lg-11 {
+    padding-left: 0%;
+  }
+
+  .advisory_section_area .icon-frame {
+    width: 60px;
+    height: 60px;
+  }
+
+  .fixed-buttons .btn-blue,
+  .fixed-buttons .btn-red,
+  .fixed-buttons .btn-blue,
+  .fixed-buttons .btn-blue {
+    display: block;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+
+  .hero-section-area {
+    padding: 4% 0% 4% 0%;
+  }
+
+  .h5-size {
+    font-size: 2.5vw;
+  }
+
+  .details-section .img-frame img {
+    display: block;
+  }
+
+  .details-section {
+    padding: 3% 0% 3% 0%;
+  }
+
+  .address {
+    display: block;
+  }
+
+  .address div:nth-child(1),
+  .address div:nth-child(2) {
+    width: var(--full);
+  }
+
+  iframe {
+    height: 110px;
+  }
+
+  .form-pd {
+    padding: 0% 0%;
+  }
+
+  .carouselOption {
+    top: 50%;
+    left: 50%;
+  }
+
+  .carousel-indicators {
+    bottom: 61px !important;
+    left: 9vw !important;
+  }
+
+  .owl-carousel .grid-container {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .service-carousel1 .service-item .item p {
+    -webkit-line-clamp: unset;
+    line-clamp: unset;
+    margin-bottom: 0px;
+  }
+
+
+
+  .service_section_margin .btn,
+  .why-section-area .btn {
+    padding: 1.5% 4%;
+  }
+
+  .circle-count img {
+    width: 50px;
+  }
+
+  .counter-item {
+    font-size: 24px;
+  }
+
+  .circle-count img {
+    width: 60px;
+  }
+
+  .counter-item {
+    font-size: 30px;
+  }
+
+  .carousel-item {
+    padding-top: 0%;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 4%;
+  }
+
+  .hide-cols {
+    display: none;
+  }
+
+
+  .features-style-box-height {
+    min-height: 145px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .fund_loan_area .service-carousel1 .service-item .item h2 {
+    text-align: left;
+    padding: 10px 11px;
+  }
+
+  .fund_loan_area .service-carousel1 .service-item .item {
+    padding: 4%;
+    height: 90px;
+  }
+
+  .testimonial_area .testimonial_img_section .main_img {
+    width: 80%;
+  }
+
+  .testimonial_area .testimonial_img_section .sm-logo {
+    width: 73px;
+    left: 207px;
+    bottom: 39%;
+  }
+
+  .carouselOption h5 {
+    font-size: 2.7vw;
+  }
+
+  .insurance-carousel .service-item .item h2,
+  .service-carousel1 .service-item .item h2 {
+    font-size: 16px;
+  }
+
+  .insurance_loan_area h2 {
+    font-size: 15px!important;
+  }
+
+  .bg-contact-area button {
+    padding: 3% 8%;
+  }
+
+
+
+  .insurance_loan_area .service-item .item {
+    height: 93px;
+  }
+
+  .footer-bg-area h5 {
+    font-size: 19px;
+  }
+
+  .footer-bg-area ul {
+    padding: 4% 0%;
+  }
+
+  .fixed-buttons-md .btn-md-red,
+  .fixed-buttons-md .btn-md-blue {
+    display: none;
+  }
+
+  .sticky-nav .nav-link {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .sticky-nav {
+    display: block;
+  }
+
+  .hero-section-area {
+    padding: 4% 0%;
+  }
+
+  .form-pd h3 {
+    font-size: 2vw;
+  }
+
+  .h6-size {
+    font-size: 2.3vw;
+  }
+
+  .hero-small--section-area {
+    padding: 3% 0%;
+  }
+
+  .service-carousel1 .service-item .item {
+    padding: 9%;
+  }
+
+  .hv {
+    min-height: 268px;
+  }
+
+  /**/
+  .carousel-content {
+    padding-left: 65px!important;
+    padding-right: 0px;
+  }
+
+  .carousel-indicators {
+    left: 5vw !important;
+    bottom: 42px !important;
+  }
+
+  .carousel-indicators {
+    bottom: 28px;
+  }
+
+  .carousel-content h5 {
+    font-size: 2.7vw;
+  }
+
+  .people_say .service-carousel1 .owl-theme .owl-dots,
+  .people_say2 .service-carousel1 .owl-theme .owl-dots {
+    margin-left: -24%;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    z-index: 2;
+  }
+
+  .h5-size span {
+    display: block;
+  }
+
+  .h5-size {
+    font-size: 3vw;
+  }
+
+  .details-section-height {
+    min-height: 235px;
+  }
+}
+
+@media only screen and (width: 1180px) {
+  .carousel-content {
+    padding-left: 132px!important;
+    padding-right: 0px;
+  }
+
+  .carousel-indicators {
+    left: 10vw !important;
+    bottom: 83px !important;
+  }
+
+  .carousel-content .btn {
+    margin-bottom: 11%!important;
+  }
+}
+
+@media screen and (min-width: 1366px) {
+
+  .people_say .service-carousel1 .owl-theme .owl-dots,
+  .people_say2 .service-carousel1 .owl-theme .owl-dots {
+    margin-left: -24% !important;
+    margin-top: -13px;
+    margin-bottom: 30px;
+    z-index: 2;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+
+  .people_say .service-carousel1 .owl-theme .owl-dots,
+  .people_say2 .service-carousel1 .owl-theme .owl-dots {
+    margin-left: -25% !important;
+    margin-top: -13px;
+    margin-bottom: 30px;
+    z-index: 2;
+  }
+}
+
+/* @media only screen and (min-width: 1200px) {
+  .service-carousel1 .service-item h2 {
+    font-size: 18px;
+  }
+
+  .testimonial_area .testimonial_img_section .sm-logo {
+    width: 94px;
+    position: var(--absolute);
+    left: 246px;
+    bottom: 28%;
+  }
+
+  .h4-testimonial-size {
+    font-size: 30px;
+  }
+
+  .h4-size {
+    font-size: 32px;
+  }
+
+  .h4-size2 {
+    font-size: 28px;
+  }
+
+  .h4-size-area {
+    font-size: 32px;
+  }
+
+  .align-items-stretch {
+    padding-top: 3%;
+  }
+
+  .about_loan_area_gradient {
+    padding: 3% 0% 4% 0%;
+  }
+
+
+  .sticky-nav .nav-link {
+    padding-left: 20px;
+    padding-right: 20px
+  }
+
+  .sticky-nav {
+    overflow: hidden;
+  }
+
+  .hero-section-area {
+    padding: 3% 0%;
+  }
+
+  .form-pd h3 {
+    font-size: 2vw;
+  }
+
+  .h6-size {
+    font-size: 1.6vw;
+  }
+
+  .hero-small--section-area {
+    padding: 5% 0%;
+  }
+
+  .service-carousel1 .service-item .item {
+    padding: 9%;
+  }
+
+  .hv {
+    min-height: 235px;
+  }
+
+
+  .carousel-content {
+    padding-left: 99px!important;
+    padding-right: 0px;
+  }
+
+  .carousel-indicators {
+    bottom: 76px !important;
+    left: 6.5vw !important;
+  }
+
+  .carousel-content h5 {
+    font-size: 2.6vw;
+  }
+
+  .carousel-item {
+    padding-top: 0%;
+  }
+
+  .h5-size span {
+    display: block;
+  }
+
+  .h5-size {
+    font-size: 3vw;
+  }
+
+  .details-section-height {
+    min-height: 200px;
+  }
+} */
+
+@media screen and (min-width: 1300px) {
+  .service-carousel1 .service-item h2 {
+    font-size: 16px;
+  }
+
+  .carouselOption h5 {
+    font-size: 2.4vw;
+  }
+
+  .form-pd h3 {
+    font-size: 2vw;
+  }
+
+  .h6-size {
+    font-size: 1.6vw;
+  }
+
+  .hero-small--section-area {
+    padding: 5% 0%;
+  }
+
+  .hv {
+    min-height: 235px;
+  }
+
+  .carousel-content {
+    padding-left: 143px!important;
+    padding-right: 0px;
+  }
+
+  .carousel-indicators {
+    bottom: 76px !important;
+    left: 9.5vw !important;
+  }
+
+  .h5-size {
+    font-size: 2.6vw;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .carouselOption {
+    top: 54%;
+    left: 58%;
+  }
+
+  .carousel-indicators {
+    bottom: 90px !important;
+    left: 8.6vw !important;
+  }
+
+  .testimonial_area .testimonial_img_section .sm-logo {
+    left: 293px;
+    bottom: 37%;
+  }
+
+  .w-img {
+    width: 96%;
+  }
+
+  .people_say .service-carousel1 .owl-theme .owl-dots,
+  .people_say2 .service-carousel1 .owl-theme .owl-dots {
+    margin-left: -26% !important;
+    margin-top: -13px;
+    margin-bottom: 30px;
+    z-index: 2;
+  }
+}
+
+@media only screen and (min-width: 1920px) {
+  .carousel-indicators {
+    bottom: 90px !important;
+    left: 16.5vw !important;
+  }
+
+  .carousel-content {
+    padding-left: 326px !important;
+    padding-right: 0px;
+  }
+}
