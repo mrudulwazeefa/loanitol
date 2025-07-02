@@ -30,13 +30,30 @@ margin-bottom: clamp(95px, 5vw, 45px) !important;
 .copyright-bg-area {
     padding: 3% 0%!important;
 }
-
-
+.features-image-box img,
+.benefits-image-box img{
+    object-position: top;
+}
 }
 
 @media only screen and (width:720px){
   .people_say .loanitol-service .owl-theme .owl-dots,
   .people_say2 .loanitol-service .owl-theme .owl-dots {
         margin-left:calc(10vw + -31rem)!important;
+    }
+    .features-image-box{
+        height: 36vh!important;
+    }
+    .benefits-image-box{
+        height: 32vh!important;
+    }
+}
+
+@media only screen and (width:912px){
+    .features-image-box{
+        height: 15vh!important;
+    }
+    .benefits-image-box{
+        height: 15vh!important;
     }
 }
