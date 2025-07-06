@@ -34,6 +34,9 @@ margin-bottom: clamp(95px, 5vw, 45px) !important;
 .benefits-image-box img{
     object-position: top;
 }
+.video-frame {
+    height: 24rem!important;
+}
 }
 
 @media only screen and (width:720px){
