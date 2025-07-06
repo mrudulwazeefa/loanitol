@@ -90,21 +90,6 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // accordion-button
 
 const accordionButtons = document.querySelectorAll('.accordion-button');
@@ -273,3 +258,6 @@ this.textContent = isHidden ? "Show Less" : "View More";
       observer.observe(counter);
     });
   });
+
+
+  
