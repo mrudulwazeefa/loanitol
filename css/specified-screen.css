@@ -37,6 +37,12 @@ margin-bottom: clamp(95px, 5vw, 45px) !important;
 .video-frame {
     height: 24rem!important;
 }
+    .partner-section-area {
+        padding: 10% 3%!important;
+    }
+        .management_area_gradient h5 {
+        padding-left: 12% !important;
+    }
 }
 
 @media only screen and (width:720px){
@@ -50,8 +56,19 @@ margin-bottom: clamp(95px, 5vw, 45px) !important;
     .benefits-image-box{
         height: 32vh!important;
     }
+    .about-timeline {
+        padding: 70px 0 0px!important;
+    }
+     .management_area_gradient .quote-img {
+    top: 6%!important;
+}
 }
 
+@media only screen and (width:740px){
+    .management_area_gradient .quote-img {
+    top: 6%!important;
+}
+}
 @media only screen and (width:912px){
     .features-image-box{
         height: 15vh!important;
