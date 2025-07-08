@@ -520,4 +520,29 @@ document.addEventListener("DOMContentLoaded", function () {
     if (el) el.style.display = "none";
   };
 
+
+// video play modal
+
+document.querySelector('#videoModal .modal-body').addEventListener('click', function (e) {
+    const video = document.getElementById('localVideo');
+    if (!video.contains(e.target)) {
+      const modalInstance = bootstrap.Modal.getInstance(document.getElementById('videoModal'));
+      modalInstance.hide();
+    }
+  });
+    const video = document.getElementById('localVideo');
+    const modal = document.getElementById('videoModal');
+
+    modal.addEventListener('shown.bs.modal', function () {
+      video.currentTime = 0;
+      video.play();
+    });
+
+    modal.addEventListener('hidden.bs.modal', function () {
+      video.pause();
+      video.currentTime = 0;
+    });
+
+
+
 });
