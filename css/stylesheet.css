@@ -834,8 +834,8 @@ option {
 
 .advisory_section_area .icon-frame {
   background: var(--theme-color);
-  width: 60px;
-  height: 60px;
+  width: 50px;
+  height: 50px;
   border-radius: 50px;
   display: var(--flex);
   align-items: center;
@@ -2801,11 +2801,6 @@ textarea {
 .card-page.active {
   display: block;
 }
-/* .card img {
-  width: var(--full);
-  height: auto;
-  object-fit: cover;
-} */
 .page-link {
   border: 1px solid #dedede !important;
   border-radius: var(--full);
@@ -2931,31 +2926,6 @@ li::marker{
   height: 100%;
   object-fit: cover;
 }
-.card{
-  background: #FFF;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-  border: none!important;
-  padding: 2%;
-  margin-bottom: 3%;
-}
-.card-title{
-  font-size: 1.3em;
-}
-.card-body a {
-  font-size: var(--default-font-size);
-  font-family: var(--theme-font);
-  color: var(--black); 
-  transition: all linear 0.3s;
-}
-.card-body a:hover{
-  color: var(--theme-color)!important;
-  transition: all linear 0.3s;
-}
-.card-body a:hover img{
-  rotate: 40deg;
-  transition: all linear 0.3s;
-  margin-left: 4px;
-}
 .pagination {
   font-size: var(--default-font-size);
   font-family: var(--theme-font);
@@ -2986,8 +2956,8 @@ li::marker{
   margin-top: 6rem!important;
 }
 .advisory_section_area svg{
-  width: 24px;
-  height: 24px;
+  width: 18px;
+  height: 18px;
 }
 .advisory_section_area svg g path, .advisory_section_area clipPath react{
   fill: var(--white);
@@ -3574,11 +3544,74 @@ color: #3d3c3c;
   display: none;
 }
 
+/* learn */
+.learn-card {
+display: flex;
+align-items: center;
+background-color: #fff;
+border-radius: 0.5rem;
+box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+transition: box-shadow 0.2s;
+height: 100%;
+}
+.learn-padding{
+  padding: 1.5rem;
+}
+.blog-padding{
+  padding: 1.7rem;
+}
+
+.learn-card:hover {
+cursor: pointer;
+box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+}
+
+.learn-card:hover a{
+color: var(--theme-color)!important;
+}
+.learn-card:hover img{
+rotate: 40deg;
+transition: all linear 0.3s;
+margin-left: 4px;
+}
+
+.learn-icon {
+flex-shrink: 0;
+width: 50px;
+height: 50px;
+margin-right: 2rem;
+background-color:var(--theme-color); 
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.learn-icon svg {
+width: 18px;
+height: 18px;
+fill: #fff;
+}
+
+.learn-text h4 {
+font-family: var(--theme-font);
+font-size: 1.15rem;
+font-weight: 500;
+color: #333;
+}
+.learn-text h5 {
+font-family: var(--theme-font);
+font-size: 1.15rem;
+font-weight: 600;
+color: #333;
+}
+.learn-text a{
+font-family: var(--theme-font);
+font-size: 0.875rem;
+}
+
 /*  Responsive */
 @media screen and (max-width:400px){
-  .card-title {
-    font-size: 1.15em;
-  }
   .people_say .loanitol-service .owl-theme .owl-dots,
   .people_say2 .loanitol-service .owl-theme .owl-dots {
       padding-left:13vw;
@@ -3690,13 +3723,6 @@ text-align: left;
   .advisory_section_area svg g path, .advisory_section_area clipPath react{
   fill: var(--theme-color);
   }
-  .card-body{
-    padding-top: 0px!important;
-  }
-  .card{
-  margin-bottom: 6%;
-  }
-
   .features-image-box{
     height: 20vh;
   }
@@ -4011,27 +4037,18 @@ padding-left: 10%;
   .board {
     padding: 6% 0% 8% 0%;
   }
-  .card-body{
-    padding-top: 0px!important;
-  }
   .pagination_height {
     margin-top: 3rem !important;
-  }
-  .card-body a {
-  font-size: var(--default-font-size);
   }
     .advisory_section_area .icon-frame{
     background-color: var(--white);
   }
   .advisory_section_area svg{
-    width: 20px;
-    height: 20px;
+    width: 18px;
+    height: 18px;
   }
   .advisory_section_area svg g path, .advisory_section_area clipPath react{
   fill: var(--theme-color);
-  }
-  .card-title {
-    font-size: 1em;
   }
   .document .bg-- {
     padding: 6% 3% 3% 3%;
@@ -4241,20 +4258,29 @@ padding-left: 10%;
 }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-   .management_area_gradient .quote-img {
+  .learn-text h4 {
+    font-size: 1.1rem;
+  }
+  .learn-text h5 {
+    font-size: 1.1rem;
+  }
+  .learn-text a {
+    font-size: 0.8rem;
+  }
+  .management_area_gradient .quote-img {
     top: 8%;
-}
-    .quote-left {
-  left: 3%;
-}
-.quote-right {
-right: auto;
-left: 3%;
-transform: rotate(0deg);
-}
-.management_area_gradient h5 {
-padding-left: 10%;
-}
+  }
+  .quote-left {
+    left: 3%;
+  }
+  .quote-right {
+    right: auto;
+    left: 3%;
+    transform: rotate(0deg);
+  }
+  .management_area_gradient h5 {
+    padding-left: 10%;
+  }
   .h4-size{
     text-align: left;
   }
@@ -4280,9 +4306,6 @@ padding-left: 10%;
   .video-thumb {
     object-position: center;
   }
-    .card-body{
-    padding-top: 1rem!important;
-  }
   .pagination_height {
     margin-top: 3rem !important;
   }
@@ -4291,13 +4314,6 @@ padding-left: 10%;
   }
   .advisory_section_area svg g path, .advisory_section_area clipPath react{
   fill: var(--white);
-  }
-
-  .card-body a {
-  font-size: 13px;
-  }
-  .card-title {
-    font-size: 1em;
   }
   .features-image-box{
     height: 17vh;
@@ -4520,18 +4536,26 @@ padding-left: 10%;
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-    
+  .learn-text h4 {
+  font-size: 1.15rem;
+  }
+  .learn-text h5 {
+  font-size: 1.24rem;
+  }
+  .learn-text a {
+  font-size: 0.875rem;
+  }  
   .quote-left {
   left: 3%;
-}
-.quote-right {
-right: auto;
-left: 3%;
-transform: rotate(0deg);
-}
-.management_area_gradient h5 {
-padding-left: 10%;
-}
+  }
+  .quote-right {
+  right: auto;
+  left: 3%;
+  transform: rotate(0deg);
+  }
+  .management_area_gradient h5 {
+  padding-left: 10%;
+  }
   .management_area_gradient .h-management {
     padding-top: 1%;
     padding-bottom: 1%;
@@ -4584,8 +4608,8 @@ padding-left: 10%;
     padding-left: 0%;
   }
   .advisory_section_area .icon-frame {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
   }
   .fixed-buttons .btn-blue,
   .fixed-buttons .btn-red,
@@ -4691,9 +4715,6 @@ padding-left: 9%;
   }
   .video-thumb {
     object-position: center;
-  }
-  .card-title {
-    font-size: 1.2em;
   }
   .features-image-box{
   height: 9.5rem;
