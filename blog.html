@@ -19,7 +19,7 @@
   <script src="js/jquery.min.js"></script>
   <script src="js/owl.carousel.min.js"></script>
   <!-- title -->
-  <title>Blog 2 | Loanitol</title>
+  <title>Blog | Loanitol</title>
 </head>
 <body>
   <nav class="navbar bg-white sticky-top p-3">
@@ -125,7 +125,7 @@
     <div class="row d-flex align-items-center">
         <div class="col-lg-12">
           <h6 class="h6-size col-sm-10 mb-0">
-            <span>Blog 2</span>
+            <span>Blog</span>
           </h6>
         </div>
     </div>
@@ -285,32 +285,8 @@
         </div>
       </div>
       <!--  -->
-
-<script>
-   document.querySelector('#videoModal .modal-body').addEventListener('click', function (e) {
-    const video = document.getElementById('localVideo');
-    if (!video.contains(e.target)) {
-      const modalInstance = bootstrap.Modal.getInstance(document.getElementById('videoModal'));
-      modalInstance.hide();
-    }
-  });
-    const video = document.getElementById('localVideo');
-    const modal = document.getElementById('videoModal');
-
-    modal.addEventListener('shown.bs.modal', function () {
-      video.currentTime = 0;
-      video.play();
-    });
-
-    modal.addEventListener('hidden.bs.modal', function () {
-      video.pause();
-      video.currentTime = 0;
-    });
- </script>
     <img src="assets/blog/blog-ads.jpg" alt="ads" class="w-img blog-ads d-none d-sm-none d-md-block">
     </div>
-
-
     </div>
     <div class="col-sm-12 pagination_height">
       <nav aria-label="...">
