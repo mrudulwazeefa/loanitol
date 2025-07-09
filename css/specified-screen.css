@@ -1,6 +1,6 @@
 @media screen and (width: 540px) {
 .carousel-indicators {
-margin-bottom: clamp(95px, 5vw, 45px) !important;
+    margin-bottom: clamp(95px, 5vw, 45px) !important;
 }
 .testimonial_area .testimonial_img_section .sm-logo {
     left: 64vw!important;
@@ -37,31 +37,39 @@ margin-bottom: clamp(95px, 5vw, 45px) !important;
 .video-frame {
     height: 24rem!important;
 }
-    .partner-section-area {
-        padding: 10% 3%!important;
-    }
-        .management_area_gradient h5 {
-        padding-left: 12% !important;
-    }
+.partner-section-area {
+    padding: 10% 3%!important;
+}
+.management_area_gradient h5 {
+    padding-left: 12% !important;
+}
+.learn-inner .btn {
+    padding: 2% 4%!important;
+}
 }
 
 @media only screen and (width:720px){
-  .people_say .loanitol-service .owl-theme .owl-dots,
-  .people_say2 .loanitol-service .owl-theme .owl-dots {
-        margin-left:calc(10vw + -31rem)!important;
-    }
-    .features-image-box{
-        height: 36vh!important;
-    }
-    .benefits-image-box{
-        height: 32vh!important;
-    }
-    .about-timeline {
-        padding: 70px 0 0px!important;
-    }
-     .management_area_gradient .quote-img {
+.people_say .loanitol-service .owl-theme .owl-dots,
+.people_say2 .loanitol-service .owl-theme .owl-dots {
+    margin-left:calc(10vw + -31rem)!important;
+}
+.features-image-box{
+    height: 36vh!important;
+}
+.benefits-image-box{
+    height: 32vh!important;
+}
+.about-timeline {
+    padding: 70px 0 0px!important;
+}
+.management_area_gradient .quote-img {
     top: 6%!important;
 }
+.learn-inner .btn {
+    margin-top: 4%!important;
+    padding: 2% 4%!important;
+}
+
 }
 
 @media only screen and (width:740px){

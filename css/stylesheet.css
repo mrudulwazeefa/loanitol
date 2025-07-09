@@ -3610,6 +3610,161 @@ font-family: var(--theme-font);
 font-size: 0.875rem;
 }
 
+/* Learn Inner */
+
+.learn-inner {
+display: grid;
+align-items: center;
+background-color: #fff;
+border-radius: 0.5rem;
+box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+transition: box-shadow 0.2s;
+margin-top: -15%;
+}
+.learn-padding{
+  padding: 2.5rem;
+}
+.gradient-bg{
+  background-image: linear-gradient(#FFF3F5, #FFF9FA);
+  padding: 3% 2.5%;
+  border-radius: var(--theme-border-radius);
+}
+.pattern{
+  background-image: url('../assets/blog/pattern.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.learn-inner p {
+font-family: var(--theme-font);
+font-size: 14px;
+color:var(--black);
+}
+.learn-inner ul{
+  padding-left: 0px;
+}
+.learn-inner ol{
+  font-family: var(--theme-font)!important;
+  font-size: 14px;
+  color: var(--black);
+}
+.learn-inner h6{
+  font-family: var(--theme-font)!important;
+  font-weight: 600;
+  color:var(--black);
+  padding-top: 2%;
+}
+.learn-inner .learn-text h4 {
+font-family: var(--theme-font);
+font-size: 1.6rem;
+font-weight: 500;
+color: #000;
+padding: 1% 0 2.5% 2%;
+}
+.innerpage-banner{
+  background-color: #ffedf0;
+  padding: 9% 0 11% 0;
+}
+.button-top{
+  margin-top:4%;
+}
+.learn-inner .btn img{
+    transform:rotate(268deg);
+    transition: all 0.3s ease;
+}
+.learn-inner .btn:hover img{
+    transform:rotate(220deg);
+    transition: all 0.3s ease;
+}
+.learn-inner .btn {
+  font-family: var(--theme-font);
+  position: var(--relative);
+  overflow: hidden;
+  background: var(--theme-color);
+  border: 1px solid var(--theme-color);
+  color: white !important;
+  padding: 1% 2%;
+  font-size: 13px;
+  width: max-content;
+  cursor: pointer;
+  border-radius: var(--theme-border-radius);
+  display: var(--flex);
+  align-items: center;
+  gap: 8px;
+  transition: var(--transition);
+}
+/* Shine Effect */
+.learn-inner .btn::before {
+  content: "";
+  position: var(--absolute);
+  top: 0;
+  left: -120%;
+  width: 50%;
+  height: var(--full);
+  background: linear-gradient(120deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.1) var(--full));
+  transform: skewX(-45deg);
+  opacity: 0;
+  transition: left 0.7s ease-in-out, opacity var(--transition);
+}
+.learn-inner .btn:hover::before {
+  left: 150%;
+  opacity: 1;
+}
+.learn-inner .btn:hover {
+  background: var(--secondary-color);
+  color: var(--white);
+}
+.learn-inner .btn:active {
+  background: var(--secondary-color)!important;
+  color: var(--white)!important;
+}
+@keyframes shine {
+  from {
+    left: -150%;
+  }
+
+  to {
+    left: 150%;
+  }
+}
+.learn-inner .btn:hover::before,
+.learn-inner .btn:active::before {
+  opacity: 1;
+  animation: shine 1.2s ease-in-out;
+}
+.learn-inner .btn .circle_white {
+  background: var(--white);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  padding: 2px;
+  transition: transform 0.3s ease, opacity 0.3s ease, margin-left 0.3s ease;
+}
+.learn-inner .btn .circle_white img {
+  max-width: 80%;
+  max-height: 80%;
+}
+@keyframes moveBackground {
+  0% {
+    background-position: left top, right top;
+    background-size: 220px, 430px;
+  }
+
+  50% {
+    background-position: left top 0px, right top 0px;
+    background-size: 220px, 440px;
+  }
+
+  100% {
+    background-position: left top, right top;
+    background-size: 220px, 430px;
+  }
+}    
+
+
+
+
+
 /*  Responsive */
 @media screen and (max-width:400px){
   .people_say .loanitol-service .owl-theme .owl-dots,
@@ -3619,6 +3774,25 @@ font-size: 0.875rem;
 }
 /* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 600px) {
+.innerpage-banner{
+  padding: 17% 0 18% 0;
+}
+.learn-inner{
+  margin-top: -25%;
+}
+.learn-padding {
+  padding: 1.5rem;
+}
+.gradient-bg {
+  padding: 9% 8%;
+}
+.learn-inner .learn-text h4{
+  font-size: 1.4rem;
+}
+.learn-inner .btn{
+  padding: 2.5% 6%;
+  margin-top: 4%;
+}
 .quote-left {
 left: 4%;
 }
@@ -4014,17 +4188,20 @@ text-align: left;
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media screen and (min-width: 600px) {
-    .quote-left {
-  left: 3%;
-}
-.quote-right {
-right: auto;
-left: 3%;
-transform: rotate(0deg);
-}
-.management_area_gradient h5 {
-padding-left: 10%;
-}
+  .learn-inner .btn{
+    padding: 1.5% 4%;
+  }
+  .quote-left {
+    left: 3%;
+  }
+  .quote-right {
+    right: auto;
+    left: 3%;
+    transform: rotate(0deg);
+  }
+  .management_area_gradient h5 {
+    padding-left: 10%;
+  }
   .why-section-area {
     padding: 6% 0%;
   }
@@ -4258,6 +4435,9 @@ padding-left: 10%;
 }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+  .learn-inner .btn{
+    padding: 1.5% 3%;
+  }
   .learn-text h4 {
     font-size: 1.1rem;
   }
@@ -4536,6 +4716,9 @@ padding-left: 10%;
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+  .learn-inner .btn{
+    padding: 1% 2%;
+  }
   .learn-text h4 {
   font-size: 1.15rem;
   }
