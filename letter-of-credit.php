@@ -19,7 +19,8 @@
                             </li>
                         </ol>
                     </nav>
-                    <h5 class="h5-size col-sm-12">Confidence in Every Cross-Border Deal<span> – With Our LC Support</span>
+                    <h5 class="h5-size col-sm-12">Confidence in Every Cross-Border Deal<span> – With Our LC
+                            Support</span>
                     </h5>
                     <p>Close International Deals Confidently with Our Letter of Credit (LC) Support.
                     </p>
@@ -61,7 +62,11 @@
         <div class="empower-section">
             <div class="container">
                 <h4 class="h4-size2">Overview</h4>
-                <p>A Letter of Credit (LC) is a financial document that a bank issues to ensure that a buyer will pay a seller on schedule and in the exact amount. The bank pays the entire amount or the remaining balance if the buyer is unable to complete the payment. In order to reduce the risks involved in cross-border transactions and provide security for both buyers and sellers, LCs are frequently utilized in international trade.</p>
+                <p>A Letter of Credit (LC) is a financial document that a bank issues to ensure that a buyer will pay a
+                    seller on schedule and in the exact amount. The bank pays the entire amount or the remaining balance
+                    if the buyer is unable to complete the payment. In order to reduce the risks involved in
+                    cross-border transactions and provide security for both buyers and sellers, LCs are frequently
+                    utilized in international trade.</p>
             </div>
         </div>
     </section>
@@ -74,7 +79,8 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="features-style-box box-height d-flex flex-column justify-content-center">
                                 <div class="icon-style d-flex justify-content-center align-items-center">
-                                   <img src="assets/services/msme-loan/icons/adaptable-credit-limit.svg" alt="logo" width="16">
+                                    <img src="assets/services/msme-loan/icons/adaptable-credit-limit.svg" alt="logo"
+                                        width="16">
                                 </div>
                                 <h6>Reduces payment risk in trade.</h6>
                             </div>
@@ -82,7 +88,8 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="features-style-box box-height d-flex flex-column justify-content-center">
                                 <div class="icon-style d-flex justify-content-center align-items-center">
-                                     <img src="assets/services/msme-loan/icons/revolving-facility.svg" alt="logo" width="16">
+                                    <img src="assets/services/msme-loan/icons/revolving-facility.svg" alt="logo"
+                                        width="16">
                                 </div>
                                 <h6>Can be revocable or irrevocable.</h6>
                             </div>
@@ -92,13 +99,15 @@
                                 <div class="icon-style d-flex justify-content-center align-items-center">
                                     <img src="assets/services/msme-loan/icons/interest-only.svg" alt="logo" width="16">
                                 </div>
-                                <h6>Typically involves multiple parties (buyer, seller, issuing bank, and advising bank).</h6>
+                                <h6>Typically involves multiple parties (buyer, seller, issuing bank, and advising
+                                    bank).</h6>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="features-style-box box-height d-flex flex-column justify-content-center">
                                 <div class="icon-style d-flex justify-content-center align-items-center">
-                                   <img src="assets/services/msme-loan/icons/collateral-requirement.svg" alt="logo" width="16">
+                                    <img src="assets/services/msme-loan/icons/collateral-requirement.svg" alt="logo"
+                                        width="16">
                                 </div>
                                 <h6>Ensures timely payment upon meeting condition</h6>
                             </div>
@@ -145,7 +154,8 @@
                                         width="16">
                                 </div>
                                 <h6>Working Capital Support: </h6>
-                                <p>Allows companies to carry on without experiencing interruptions in their cash flow.</p>
+                                <p>Allows companies to carry on without experiencing interruptions in their cash flow.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -155,7 +165,8 @@
                                     <img src="assets/services/msme-loan/icons/boosts-credit.svg" alt="logo" width="16">
                                 </div>
                                 <h6>Credit Enhancement: </h6>
-                                <p>Improves buyer-seller interactions by serving as a credit instrument to guarantee payment.
+                                <p>Improves buyer-seller interactions by serving as a credit instrument to guarantee
+                                    payment.
                                 </p>
                             </div>
                         </div>
@@ -204,7 +215,8 @@
                 <div class="col-lg-8 col-md-12">
                     <h4 class="h4-size2">Eligibility Criteria</h4>
                     <ul>
-                        <li>It must be a commercial entity, such as a company, partnership, LLP, or proprietorship. </li>
+                        <li>It must be a commercial entity, such as a company, partnership, LLP, or proprietorship.
+                        </li>
                         <li>Needs to have a current, active bank account. </li>
                         <li>A solid financial record and credit history.</li>
                         <li>If applicable, a positive prior experience with the bank.</li>
@@ -233,7 +245,8 @@
                             <li>ID & Address proof PAN cards of the business owner or owners </li>
                             <li>Proof of address (such as a rent agreement or electricity bill)</li>
                             <li>Proof of Business Registration (Partnership Deed, Incorporation Certificate, etc.)</li>
-                            <li>GST Registration Certificate, Udyam Certificate Income Tax Returns (ITR) over the previous two to three years</li>
+                            <li>GST Registration Certificate, Udyam Certificate Income Tax Returns (ITR) over the
+                                previous two to three years</li>
                             <li>Bank statements over the last six to twelve months</li>
                             <li>Balance sheet and profit and loss statement audit (for loans over ₹10 lakh) </li>
                         </ul>
@@ -245,7 +258,8 @@
                             <li>A copy of the purchase order or proforma invoice that supports the LC. </li>
                             <li>Draft Bill of Exchange: The exporter's signature. </li>
                             <li>Commercial Invoice: Verifies the items' worth.</li>
-                            <li>Transportation Records: Bill of Lading, Airway Bill, or Railroad Receipt, according to the shipment.</li>
+                            <li>Transportation Records: Bill of Lading, Airway Bill, or Railroad Receipt, according to
+                                the shipment.</li>
                         </ul>
                     </div>
                 </div>
@@ -272,7 +286,10 @@
                         </h2>
                         <div id="loanitol_item1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Businesses involved in international trade, whether as importers (buyers) or exporters (sellers), can apply for a Letter of Credit (LC). Exporting companies can be the beneficiaries of an LC. To qualify, businesses typically need to have an established relationship with a bank and meet the bank's specific requirements.
+                                Businesses involved in international trade, whether as importers (buyers) or exporters
+                                (sellers), can apply for a Letter of Credit (LC). Exporting companies can be the
+                                beneficiaries of an LC. To qualify, businesses typically need to have an established
+                                relationship with a bank and meet the bank's specific requirements.
                             </div>
                         </div>
                     </div>
@@ -296,9 +313,12 @@
                                     <li>Beneficiary (Seller): The person or company selling the goods.</li>
                                     <li>Issuing Bank: The buyer's bank that issues the LC.</li>
                                     <li>Advising Bank: The seller's bank that notifies them about the LC.</li>
-                                    <li>Confirming Bank (optional): A bank that guarantees payment if the issuing bank fails.</li>
-                                    <li>Negotiating Bank: The bank that verifies and processes the seller's documents.</li>
-                                    <li>Reimbursing Bank: The bank that pays the negotiating or confirming bank on behalf of the issuing bank.</li>
+                                    <li>Confirming Bank (optional): A bank that guarantees payment if the issuing bank
+                                        fails.</li>
+                                    <li>Negotiating Bank: The bank that verifies and processes the seller's documents.
+                                    </li>
+                                    <li>Reimbursing Bank: The bank that pays the negotiating or confirming bank on
+                                        behalf of the issuing bank.</li>
                                 </ul>
                             </div>
                         </div>
@@ -319,8 +339,12 @@
                             <div class="accordion-body">
                                 Whether an LC can be cancelled depends on its type:
                                 <ul>
-                                    <li>Revocable LC: Yes, it can be cancelled or amended by the issuing bank without the beneficiary’s consent. However, this type is rarely used in international trade.</li>
-                                    <li>Irrevocable LC: No, it cannot be cancelled without the consent of all parties involved, including the issuing bank, beneficiary, and confirming bank (if applicable).</li>
+                                    <li>Revocable LC: Yes, it can be cancelled or amended by the issuing bank without
+                                        the beneficiary’s consent. However, this type is rarely used in international
+                                        trade.</li>
+                                    <li>Irrevocable LC: No, it cannot be cancelled without the consent of all parties
+                                        involved, including the issuing bank, beneficiary, and confirming bank (if
+                                        applicable).</li>
                                 </ul>
                             </div>
                         </div>
