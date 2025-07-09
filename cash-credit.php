@@ -19,8 +19,8 @@
                             </li>
                         </ol>
                     </nav>
-                    <h5 class='h5-size col-sm-12'>Stay Ahead of Cash Flow Challenges – Get <span>Flexible Overdraft
-                            Solutions Today!</span>
+                    <h5 class='h5-size col-sm-12'>Stay Ahead of Cash Flow Challenges – Get 
+                        <span>Flexible Overdraft Solutions Today!</span>
                     </h5>
                     <p>Your backup plan for business expenses — get an overdraft limit and manage cash flow with ease.
                     </p>
