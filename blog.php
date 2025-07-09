@@ -120,8 +120,8 @@
                         <div class="learn-text">
                             <h5>What Would You Rather Pay: Home Loan EMI or Rent? Don't Lose Your Mind and Money On It
                             </h5>
-                            <a href="#">Readmore <img src="assets/blog/icons/right-arrow.svg" width="17"
-                                    alt="arrow"></a>
+                            <a href="#">Readmore 
+                                <img src="assets/blog/icons/right-arrow.svg" width="17" alt="arrow"></a>
                         </div>
                     </div>
                 </div>
@@ -148,14 +148,11 @@
                         <div class="modal-content">
                             <div class="modal-body p-0">
                                 <div class="video-wrapper">
-                                    <!-- Close Button -->
-                                    <button type="button" class="btn-close btn-close" data-bs-dismiss="modal"
+                                    <button type="button" class="btn-close bttn-close" data-bs-dismiss="modal"
                                         aria-label="Close" width="10"></button>
-                                    <!-- Video -->
                                     <video class="modal-video" id="localVideo" controls>
                                         <source src="assets/blog/video/aleena-video-about-business-loan.mp4"
                                             type="video/mp4">
-                                        Your browser does not support the video tag.
                                     </video>
                                 </div>
                             </div>
@@ -163,25 +160,22 @@
                     </div>
                 </div>
                 <!-- Modal -->
-                <div class="modal fade" id="videoModal" tabindex="-1" aria-hidden="true">
+                <!-- <div class="modal fade" id="videoModal" tabindex="-1" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered">
                         <div class="modal-content">
                             <div class="modal-body">
                                 <div class="video-wrapper">
-                                    <!-- Close Button -->
                                     <button type="button" class="btn-close" data-bs-dismiss="modal"
                                         aria-label="Close"></button>
-                                    <!-- Video -->
                                     <video class="modal-video" id="localVideo" controls>
                                         <source src="assets/blog/video/aleena-video-about-business-loan.mp4"
                                             type="video/mp4">
-                                        Your browser does not support the video tag.
                                     </video>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!--  -->
                 <img src="assets/blog/blog-ads.jpg" alt="ads" class="w-img blog-ads d-none d-sm-none d-md-block">
             </div>
