@@ -3632,7 +3632,8 @@ margin-top: -15%;
 .pattern{
   background-image: url('../assets/blog/pattern.png');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; 
+  background-attachment: fixed;
   background-position: center;
 }
 .learn-inner p {
@@ -3640,9 +3641,9 @@ font-family: var(--theme-font);
 font-size: 14px;
 color:var(--black);
 }
-.learn-inner ul{
+/* .learn-inner ul{
   padding-left: 0px;
-}
+} */
 .learn-inner ol{
   font-family: var(--theme-font)!important;
   font-size: 14px;
@@ -3654,13 +3655,29 @@ color:var(--black);
   color:var(--black);
   padding-top: 2%;
 }
+.learn-inner h5{
+  font-family: var(--theme-font)!important;
+  font-weight: 600;
+  color:var(--black);
+  padding: 1.5% 0;
+}
+.learn-inner hr{
+  margin-top: 2rem;
+  color: #cfcfcf;
+  /* color: #EDEDED; */
+}
 .learn-inner .learn-text h4 {
 font-family: var(--theme-font);
 font-size: 1.6rem;
 font-weight: 500;
-color: #000;
+color: var(--black);
 padding: 1% 0 2.5% 2%;
 }
+
+
+
+
+
 .innerpage-banner{
   background-color: #ffedf0;
   padding: 9% 0 11% 0;
