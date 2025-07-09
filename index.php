@@ -31,7 +31,7 @@
             <div class="carousel-item">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-md-7 col-sm-12 col-12 carousel-content">
+                        <div class="col-md-7 col-sm-12 col-12 carousel-content ps-sm-4">
                             <h5>Fuel your business <span>growth with MSME loans</span></h5>
                             <p>We offer financial resources for small, and medium enterprises to expand, manage
                                 operations, and secure
@@ -53,7 +53,7 @@
             <div class="carousel-item">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-md-7 col-sm-12 col-12 carousel-content">
+                        <div class="col-md-7 col-sm-12 col-12 carousel-content ps-sm-4">
                             <h5>Instant Bridge Loans for Your <span>Urgent Financial Needs – Get Funds Fast!</span></h5>
                             <p>A bridge loan offers short term funding for high turnover company to meet immediate needs
                                 while securing
@@ -75,7 +75,7 @@
             <div class="carousel-item">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-md-7 col-sm-12 col-12 carousel-content">
+                        <div class="col-md-7 col-sm-12 col-12 carousel-content ps-sm-4">
                             <h5>Protect Your Financial Future <span>Monitor Your CREDIT Score Regularly</span></h5>
                             <p>Regularly tracking it helps you maintain a healthy score, ensuring financial
                                 opportunities and saving on
@@ -97,7 +97,7 @@
             <div class="carousel-item">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-md-7 col-sm-12 col-12 carousel-content">
+                        <div class="col-md-7 col-sm-12 col-12 carousel-content ps-sm-4">
                             <h5>Make Loan Planning Easy <span>Use Our EMI Calculator</span></h5>
                             <p>Easily calculate your monthly loan payments, compare options, and make informed financial
                                 decisions with
