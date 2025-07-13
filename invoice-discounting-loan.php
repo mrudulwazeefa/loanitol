@@ -24,7 +24,7 @@
                     <p>Enhance Your Cash Flow Quickly with Invoice Financing!</p>
                 </div>
                 <div class="col-lg-4 col-md-4">
-                    <img src="assets/services/msme-loan/working-capital-overdraft/banner.png" class="w-80" alt="Image">
+                    <img src="assets/services/msme-loan/invoice-discounting-loan/banner.png" class="w-80" alt="Image">
                 </div>
             </div>
         </div>
@@ -40,8 +40,8 @@
                 <div class="scroll-container">
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link active" href="#overview">Overview</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#product-details">Features</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#benefits">Benefits</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link" href="#product-details">Features</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#benefits">Benefits</a></li> -->
                         <li class="nav-item"><a class="nav-link" href="#eligibility">Eligibility</a></li>
                         <li class="nav-item"><a class="nav-link" href="#document">Documents</a></li>
                         <li class="nav-item"><a class="nav-link" href="#faqs">FAQs</a></li>
@@ -60,18 +60,26 @@
         <div class="empower-section">
             <div class="container">
                 <h4 class="h4-size2">Overview</h4>
-                <p>A Working Capital Overdraft (OD) is a short-term credit facility offered by banks and financial
-                    institutions to Micro, Small, and Medium-Sized Enterprises (MSMEs), allowing them to withdraw more
-                    than their account balance up to a sanctioned limit. This facility is specifically designed to
-                    support businesses in managing their day-to-day operational expenses, covering unforeseen costs,
-                    seasonal requirements, and delays in receivables. Unlike term loans with fixed repayments, an OD
-                    facility provides flexible access to funds on an as-needed basis, ensuring continuous business
-                    operations without cash flow disruptions. It acts as an immediate liquidity solution, empowering
-                    MSMEs to maintain financial stability and respond quickly to short-term financial challenges.</p>
+                <p>Invoice discounting is a financial arrangement in which a company obtains a short-term loan or advance from a financial institution using its outstanding invoices, or accounts receivable, as collateral. Under this agreement, the company gets a portion of the invoice value up front, usually between 70 and 90 percent, and the remaining sum (less fees) is paid after the consumer settles the invoice. This enables companies to obtain working capital right away while they wait for their clients to pay.</p>
+                <h6 class="h6_size">Purpose:</h6>
+                <ul>
+                    <li><b>Improve Cash Flow:</b> Helps businesses maintain a steady cash flow by providing 
+quick access to funds against unpaid invoices. </li>
+                    <li><b>Business Growth:</b> Provides funds for day-to-day operations, allowing businesses to 
+invest in growth opportunities without waiting for customer payments.</li>
+                    <li><b>Bridge Payment Gaps:</b> Useful for companies with long payment cycles, enabling 
+them to manage expenses like payroll, inventory, and bills without delay.</li>
+                    <li>The repayment period is short-term, ranging from 30 to 180 days, depending on the invoice terms.</li>
+                    <li>Interest rates range from 8% to 18% per annum, depending on the lender and the borrower's creditworthiness.</li>
+                    <li>Some lenders charge a processing fee (0.5% – 3%) on the total invoice amount.</li>
+                    <li>Faster processing than traditional loans, with funds disbursed within 24-72 hours of invoice verification.</li>
+                    <li>Helps businesses maintain liquidity without waiting for customers to clear invoices.</li>
+                    <li>Ideal for SMEs, manufacturers, and service providers with delayed receivables</li>
+                </ul>
             </div>
         </div>
     </section>
-    <section id="product-details" class="section">
+    <!-- <section id="product-details" class="section">
         <div class="details-section">
             <div class="container">
                 <div class="col-lg-12">
@@ -179,9 +187,9 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--  -->
-    <section id="benefits" class="section">
+    <!-- <section id="benefits" class="section">
         <div class="details-section">
             <div class="container">
                 <div class="col-lg-12">
@@ -237,35 +245,28 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Eligibility -->
     <section id="eligibility" class="eligibility section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-md-12">
                     <h4 class="h4-size2">Eligibility Criteria</h4>
-                    <p>To avail of a working capital Overdraft, businesses must meet the following criteria:
-                    </p>
                     <ul>
-                        <li>Typically registered Business that has been in operation for at least one to two years.</li>
-                        <li>New ventures also eligible for financing based on merits.</li>
-                        <li><b>Type of Business:</b> Manufacturers, traders, service providers, or construction
-                            companies. </li>
-                        <li>Must have a track record of successful business operations or future business potential.
-                        </li>
-                        <li>A business current account is required.</li>
-                        <li>A healthy credit score, typically 730 and higher, should be maintained.</li>
-                        <li>The minimum yearly turnover required by the bank's regulations.</li>
-                        <li>Accurate financial records and GST compliance are essential.</li>
-                        <li>There is a maximum loan amount of 25% of last 12 months GST turnover.</li>
-                        <li><b>Type of Constitution :</b> PVT LTD, Public Limited , partnership, LLC, proprietorship.
-                        </li>
-                        <li>Collateral security and without collateral security is possible based on merits.</li>
-                        <li>The promoters, firm, or company are required to contribute as per policy.</li>
+                        <li>The applicant should be a registered business entity (Proprietorship, Partnership, Private Limited Company, LLP, etc).</li>
+                        <li>The business should have a good credit history with a satisfactory CIBIL score.</li>
+                        <li>A strong balance sheet and consistent business performance are preferred.</li>
+                        <li>A profitable business operation is usually required.</li>
+                        <li>Invoices should be raised against reputable companies or government entities.</li>
+                        <li>Unpaid invoices should be recent (usually within 30-90 days).</li>
+                        <li>Bills should be undisputed and not already pledged.</li>
+                        <li>The transaction should be business-to-business (B2B).</li>
+                        <li>Invoice discounting is typically not available for B2C transactions.</li>
+                        <li>The lender may check the creditworthiness of the invoiced company (buyer) rather than just the borrower.</li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-12 d-sm-none d-md-none d-lg-block mb-4">
-                    <img src="assets/services/msme-loan/working-capital-overdraft/eligibility.jpg" alt="" class="w-100">
+                    <img src="assets/services/msme-loan/invoice-discounting-loan/eligibility.jpg" alt="" class="w-100">
                 </div>
             </div>
         </div>
@@ -279,29 +280,27 @@
                     <h4 class="col-12 h4-size2 mb-3">Documents Required</h4>
                     <div class="col-md-6">
                         <ul>
-                            <li>ID & Address Proof of applicants</li>
-                            <li>PAN Card </li>
-                            <li>Income Tax Returns (ITR) and financial statements for the last 3 years</li>
-                            <li>Current bank account statements for the last 12 months </li>
-                            <li>Proof of residence and business address</li>
-                            <li>Sanction letter and repayment schedule of existing loans (if applicable)</li>
-                            <li>GST registration certificate and GST returns for the latest 2 years</li>
-                            <li>Udyam registration certificate</li>
-                            <li>Rent agreement for factory and residence (if the property is rented)</li>
+                            <li>Business Registration Certificate (Partnership Deed / Company Incorporation Certificate)</li>
+                            <li>GST Registration Certificate</li>
+                            <li>PAN Card of the Business / Proprietor / Directors</li>
+                            <li>Trade License / Shop & Establishment Certificate</li>
+                            <li>Udyam Registration (if applicable for MSME)</li>
+                            <li>PAN & Aadhaar Card of Proprietor / Partners / Directors</li>
+                            <li>Passport / Voter ID / Driving License (for identity proof)</li>
+                            <li>Utility Bills / Rental Agreement (for address proof)</li>
+                            <li>Bank Statements for the last 6 to 12 months</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
                         <ul>
-                            <li>Statement of stocks and debtors</li>
-                            <li>Work orders (if available) </li>
-                            <li>Project report (if required)</li>
-                            <li>Provisional financial statements (if applicable) </li>
-                            <li>Company PAN card (for private limited companies and partnership firms) </li>
-                            <li>Certificate of Incorporation (for private limited companies) </li>
-                            <li>Memorandum of Association (MOA) (for private limited companies) </li>
-                            <li>Articles of Association (AOA) (for private limited companies)</li>
-                            <li>List of directors and shareholding pattern (for private limited companies)</li>
-                            <li>Partnership deed (for partnership firms)</li>
+                            <li>Income Tax Returns (ITR) for the last 2-3 years</li>
+                            <li>Audited Financial Statements (Balance Sheet, Profit & Loss Statement) for the last 2-3 years</li>
+                            <li>GST Returns for the last 6 to 12 months</li>
+                            <li>Copies of Invoices / Bills against which discounting is required</li>
+                            <li>Work Orders / Purchase Orders (if applicable)</li>
+                            <li>Agreement with Buyers (if any)</li>
+                            <li>Debtor’s List with Payment History</li>
+                            <li>Credit Rating Report (if available)</li>
                         </ul>
                     </div>
                 </div>
@@ -320,7 +319,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item1">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                What is a Working Capital Overdraft (OD)?
+                                What is Invoice Discounting?.
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -328,11 +327,7 @@
                         </h2>
                         <div id="loanitol_item1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                A Working Capital Overdraft (OD) is a short-term credit facility offered by banks and
-                                financial institutions. It allows businesses to withdraw more funds than they have in
-                                their account, up to a pre-approved limit. This facility helps manage daily operational
-                                expenses, bridge short-term cash flow gaps, and ensure smooth business operations
-                                without facing liquidity constraints.
+                                Invoice Discounting is a short-term financing option where businesses use their unpaid invoices as collateral to obtain immediate funds from financial institutions or lenders. It helps improve cash flow by providing access to working capital without waiting for customers to pay their invoices.
                             </div>
                         </div>
                     </div>
@@ -342,7 +337,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item2">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                How is interest charged on an OD facility?
+                                What percentage of the invoice value is funded?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -350,9 +345,7 @@
                         </h2>
                         <div id="loanitol_item2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Interest on an Overdraft (OD) facility is charged daily on the amount actually used, not
-                                on the total sanctioned limit. The interest is typically billed at the end of the month.
-                                You only pay interest on the funds you withdraw, not on the entire overdraft limit.
+                                Lenders typically fund 70% to 90% of the invoice value, depending on factors such as the buyer’s creditworthiness, the business's financial health, and the lender's policies.
                             </div>
                         </div>
                     </div>
@@ -362,7 +355,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                Can a new business apply for a working capital OD?
+                               How is the invoice discounting limit decided?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -370,10 +363,14 @@
                         </h2>
                         <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Yes, a new business can apply for a working capital overdraft (OD). To improve your
-                                chances of approval, focus on building a strong financial profile, prepare the necessary
-                                documentation, and explore funding options such as MSME loan schemes or bank-specific
-                                programs.
+                                The invoice discounting limit is determined based on:
+                                <ul>
+                                    <li>The creditworthiness of the buyer (debtor)</li>
+                                    <li>Past transaction history with the buyer</li>
+                                    <li>The business's financial stability</li>
+                                    <li>Invoice value and payment cycle</li>
+                                    <li>The lender's risk assessment</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -383,7 +380,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                Is a working capital OD a fixed loan?
+                                Can startups avail of invoice discounting?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -391,96 +388,7 @@
                         </h2>
                         <div id="loanitol_item4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                No, a working capital OD is not a fixed loan. It is a type of short-term financing used
-                                to cover daily operational expenses. In contrast, fixed capital loans are intended for
-                                long-term investments.
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Accordion Item 5 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header p-1">
-                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item5">
-                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                What happens if I exceed my OD limit?
-                                <span class="ms-auto icon">
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                </span>
-                            </button>
-                        </h2>
-                        <div id="loanitol_item5" class="p-0 accordion-collapse collapse"
-                            data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                If you exceed your Overdraft (OD) limit, you may face penalty fees, higher interest
-                                rates on the excess amount, and a potential negative impact on your credit score.
-                                Overdrawing beyond the approved limit is known as an "Unarranged Overdraft", which can
-                                signal poor financial management to lenders.
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Accordion Item 6 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header p-1">
-                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item6">
-                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                Is there a renewal process for working capital OD?
-                                <span class="ms-auto icon">
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                </span>
-                            </button>
-                        </h2>
-                        <div id="loanitol_item6" class="p-0 accordion-collapse collapse"
-                            data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                Yes, working capital Overdraft (OD) facilities usually require renewal after a 12-month
-                                period. Banks typically notify customers before the expiry date, giving them the option
-                                to extend the facility. The renewal is subject to the bank’s discretion and a review of
-                                the business’s financial performance.
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Accordion Item 7 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header p-1">
-                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item7">
-                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                What is the repayment structure for OD?.
-                                <span class="ms-auto icon">
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                </span>
-                            </button>
-                        </h2>
-                        <div id="loanitol_item7" class="p-0 accordion-collapse collapse"
-                            data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                Overdrafts (OD) do not have a fixed repayment schedule or EMI structure. You can repay
-                                the borrowed amount whenever you have available funds. Interest is charged only on the
-                                amount you actually withdraw and use from the OD facility.
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Accordion Item 8 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header p-1">
-                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item8">
-                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                Can OD be converted into a term loan?
-                                <span class="ms-auto icon">
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                </span>
-                            </button>
-                        </h2>
-                        <div id="loanitol_item8" class="p-0 accordion-collapse collapse"
-                            data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                Yes, in some cases, an Overdraft (OD) can be converted into a term loan, depending on
-                                the bank’s policies. This conversion allows borrowers to restructure their debt,
-                                potentially benefit from lower interest rates, and follow a more structured repayment
-                                plan.
+                               Yes, startups can avail of invoice discounting if they have valid invoices from reputable clients and a strong business model. However, lenders typically assess the creditworthiness of the customers (buyers) rather than the startup itself. Some fintech platforms and NBFCs offer invoice discounting solutions specifically for startups and SMEs.
                             </div>
                         </div>
                     </div>
