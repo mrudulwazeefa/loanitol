@@ -1,7 +1,7 @@
  <nav class="navbar bg-white sticky-top p-3">
     <div class="container">
-      <a href="">
-        <img src="assets/logo.svg" alt="loanitol-logo" style="width: 160px;">
+      <a href="index.php">
+        <img src="assets/logo.svg" alt="loanitol-logo" class="logo">
       </a>
       <div class="d-flex align-items-center">
         <span class="navbar-text pe-3">

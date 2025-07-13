@@ -60,6 +60,9 @@ option {
   font-family: var(--theme-font);
   font-size: var(--default-font-size);
 }
+.logo{
+  width:160px;
+}
 
 .navbar-toggler {
   border: none !important;
