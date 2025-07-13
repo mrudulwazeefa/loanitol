@@ -46,6 +46,9 @@
 .learn-inner .btn {
     padding: 2% 4%!important;
 }
+.bg-contact-area .btn{
+    padding: 2.5% 6%!important;
+}
 }
 
 @media only screen and (width:720px){
