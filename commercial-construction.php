@@ -190,8 +190,8 @@
                             </div>
                         </div>
                         <div class="col-md-8 col-sm-6">
-                            <div class="features-style-box features-style-box-height p-0 commerical-image-box">
-                                <img src="assets/services/msme-loan/commerical-construction/feature-image.jpg" alt="">
+                            <div class="features-style-box commerical-style-box-height p-0 commerical-image-box">
+                                <img src="assets/services/msme-loan/commercial-construction/feature-image.jpg" alt="">
                             </div>
                         </div>
                     </div>
