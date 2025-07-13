@@ -2057,7 +2057,7 @@ h4 span {
 .features-style-box-height {
   min-height: 120px;
 }
-.commerical-style-box-height {
+.agriculture-style-box-height {
   min-height: 120px;
 }
 .commercial-style-box-height {
@@ -2915,6 +2915,7 @@ li::marker{
   padding: 8px 16px;
   white-space: nowrap;
   border-radius: 4px;
+  font-size: 15px;
   font-family: 'Inter';
   font-weight: 500;
 }
@@ -2924,7 +2925,6 @@ li::marker{
     background: #FFF;
     padding: 8px 16px!important;
     font-family: "Inter", sans-serif;
-    font-size: 14px;
     font-weight: 500;
     border-radius: var(--theme-border-radius);
     transition: all 0.3s linear;
@@ -2935,17 +2935,28 @@ li::marker{
   width: 100%;
   overflow: hidden;
 }
-.commerical-image-box{
-  height: 91%;
-  width: 100%;
-  overflow: hidden;
-}
 .features-image-box img{
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
+.commerical-image-box{
+  height: 91%;
+  width: 100%;
+  overflow: hidden;
+}
 .commerical-image-box img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  /* object-position: top; */
+}
+.agriculture-image-box{
+  height: 91%;
+  width: 100%;
+  overflow: hidden;
+}
+.agriculture-image-box img{
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -3959,6 +3970,9 @@ text-align: left;
   .commerical-image-box{
     height: 20vh;
   }
+  .agriculture-image-box{
+    height: 20vh;
+  }
   .benefits-image-box{
     height: 20vh;
   }
@@ -4247,8 +4261,11 @@ text-align: left;
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media screen and (min-width: 600px) {
-    .commerical-style-box-height {
+  .commerical-style-box-height {
     min-height: 258px;
+  }
+  .agriculture-style-box-height {
+    min-height: 193px;
   }
   .learn-inner .btn{
     padding: 1.5% 4%;
@@ -4563,6 +4580,9 @@ text-align: left;
   .commerical-image-box{
     height: 19.5vh;
   }
+  .agriculture-image-box{
+    height: 11.5vh;
+  }
   .benefits-image-box{
     height: 17vh;
   }
@@ -4781,6 +4801,9 @@ text-align: left;
   .commerical-style-box-height {
     min-height: 274px;
   }
+  .agriculture-style-box-height {
+    min-height: 210px;
+  }
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
@@ -4937,6 +4960,9 @@ text-align: left;
   .commerical-style-box-height {
     min-height: 145px;
   }
+  .agriculture-style-box-height {
+    min-height: 145px;
+  }
 }
 /* */
 @media only screen and (min-width: 1024px) {
@@ -4976,9 +5002,9 @@ padding-left: 9%;
   .commerical-image-box{
   height: 13.5rem;
   }
-
-
-
+  .agriculture-image-box{
+  height: 9.5rem;
+  }
   .benefits-image-box{
   height: 8.5rem;
   }
@@ -5140,10 +5166,9 @@ max-width: 100%;
   .commerical-image-box{
     height: 12.6rem;
   }
-
-
-
-
+  .agriculture-image-box{
+    height: 7.6rem;
+  }
   .benefits-image-box{
     height: 8rem;
   }
