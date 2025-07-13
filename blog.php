@@ -120,7 +120,7 @@
                         <div class="learn-text">
                             <h5>What Would You Rather Pay: Home Loan EMI or Rent? Don't Lose Your Mind and Money On It
                             </h5>
-                            <a href="#">Readmore 
+                            <a href="#">Readmore
                                 <img src="assets/blog/icons/right-arrow.svg" width="17" alt="arrow"></a>
                         </div>
                     </div>
@@ -159,23 +159,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- Modal -->
-                <!-- <div class="modal fade" id="videoModal" tabindex="-1" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered">
-                        <div class="modal-content">
-                            <div class="modal-body">
-                                <div class="video-wrapper">
-                                    <button type="button" class="btn-close" data-bs-dismiss="modal"
-                                        aria-label="Close"></button>
-                                    <video class="modal-video" id="localVideo" controls>
-                                        <source src="assets/blog/video/aleena-video-about-business-loan.mp4"
-                                            type="video/mp4">
-                                    </video>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
                 <!--  -->
                 <img src="assets/blog/blog-ads.jpg" alt="ads" class="w-img blog-ads d-none d-sm-none d-md-block">
             </div>
