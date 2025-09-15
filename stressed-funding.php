@@ -54,37 +54,37 @@
         <div class="container">
             <h2>Features</h2>
             <div class="row py-3">
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-2 g-sm-4 mt-2 mt-sm-4 mt-md-4 mt-lg-4">
+                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
                     <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
                         Loan Type: Term Loan
                     </div>
                 </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-2 g-sm-4 mt-2 mt-sm-4 mt-md-4 mt-lg-4">
+                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
                     <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
                         Loan Amount: ₹2 <br> Crores and above
                     </div>
                 </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-2 g-sm-4 mt-2 mt-sm-4 mt-md-4 mt-lg-4">
+                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
                     <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
                         Tenure: Up to 10 years
                     </div>
                 </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-2 g-sm-4 mt-2 mt-sm-4 mt-md-4 mt-lg-4">
+                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
                     <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
                         Interest Rate: 14% <br> onwards (based on risk <br> assessment)
                     </div>
                 </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-2 g-sm-4 mt-2 mt-sm-4 mt-md-4 mt-lg-4">
+                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
                     <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
                         Property Coverage: <br> Minimum 200% of loan <br> amount as collateral
                     </div>
                 </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-2 g-sm-4 mt-2 mt-sm-4 mt-md-4 mt-lg-4">
+                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
                     <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
                         Processing Fee: As per <br> financial Institutions
                     </div>
                 </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-2 g-sm-4 mt-2 mt-sm-4 mt-md-4 mt-lg-4">
+                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
                     <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
                         Repayment: Structured <br> as per business cash <br> flow
                     </div>
@@ -96,74 +96,37 @@
     <div
         class="stressed-funding-eligibility-section bridge-loan-documents-section referral-associate eligible-professionals-section py-5">
         <div class="container">
-
-
-            <!-- <div class="row py-4">
-                <div class="col-sm-12 col-lg-4 d-flex flex-column align-items-between justify-content-between">
-                    <h2 class="d-inline-block text-white">Eligibility Criteria</h2>
-
-                    <div class="card p-4 text-white text-center">
-                        Businesses with strong cash flow potential despite current financial stress
-                    </div>
-                </div>
-                <div class="col-sm-12 col-lg-4 d-flex align-items-end text-center">
-                    <div class="card p-4 text-white">
-                        Companies facing liquidity issues but demonstrating operational viability
-                    </div>
-                </div>
-                <div class="col-sm-12 col-lg-4">
-                    <img class="img-fluid" width="50px" src="assets/stressed-funding/icons/fee-and-charges.svg" alt="">
-                    <h2 class="text-white mt-3 mb-0">Fees & Charges</h2>
-                    <p class="text-white mt-3 mb-0">Our service fees are determined by the merits of each case
-                        as
-                        well as the complexity and work needed to deliver workable solutions.</p>
-                </div>
-                <div class="col-sm-12 col-lg-4 mt-4">
-                    <div class="card p-4 equal-height text-white text-center">
-                        Sufficient collateral (minimum 200% property coverage)
-                    </div>
-                </div>
-                <div class="col-sm-12 col-lg-4 mt-4">
-                    <div class="card p-4 equal-height text-white text-center">
-                        Financial assessment based on pure cash flow projections
-                    </div>
-                </div>
-                <div class="col-sm-12 col-lg-4 mt-4">
-                    <img class="object-fit-cover img-fluid img-equal-height w-100 d-flex rounded-3"
-                        src="assets/stressed-funding/card-img-1.jpg" alt="">
-                </div>
-            </div> -->
             <div class="row d-flex">
                 <!-- Right Column (hello) -->
-                <div class="col-md-4 order-1 order-md-2">
+                <div class="col-lg-4 order-1 order-lg-2">
                     <img class="img-fluid" width="50px" src="assets/stressed-funding/icons/fee-and-charges.svg" alt="">
                     <h2 class="text-white">Fees & Charges</h2>
-                    <p class="text-white">Our service fees are determined by the merits of each case as well as the complexity and work
+                    <p class="text-white">Our service fees are determined by the merits of each case as well as the
+                        complexity and work
                         needed to deliver workable solutions.</p>
-                        <img class="object-fit-cover img-fluid img-equal-height w-100 d-flex rounded-3"
+                    <img class="object-fit-cover pt-3 img-fluid img-equal-height w-100 d-flex rounded-3"
                         src="assets/stressed-funding/card-img-1.jpg" alt="">
                 </div>
-
                 <!-- Left Column (Eligibility Criteria) -->
-                <div class="col-md-8 order-2 order-sm-1 mt-5 mt-sm-0">
-                    <h2 class="text-white mb-4">Eligibility Criteria</h2>
-                    <div class="row">
+                <div class="col-lg-8 order-2 order-lg-1 mt-5 mt-sm-0">
+                    <h2 class="text-white mb-5">Eligibility Criteria</h2>
+                    <div class="row g-3 g-md-4">
                         <div class="col-12 col-sm-6">
                             <div class="card h-100 p-4 text-white text-center">
                                 Businesses with strong cash flow potential despite current financial stress
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 mt-3 mt-sm-0">
+                        <div class="col-12 col-sm-6">
                             <div class="card h-100 p-4 text-white text-center">
                                 Companies facing liquidity issues but demonstrating operational viability
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 mt-3">
+                        <div class="col-12 col-sm-6">
                             <div class="card h-100 p-4 text-white text-center">
                                 Companies facing liquidity issues but demonstrating operational viability
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 mt-3">
+                        <div class="col-12 col-sm-6">
                             <div class="card h-100 p-4 text-white text-center">
                                 Companies facing liquidity issues but demonstrating operational viability
                             </div>
@@ -179,7 +142,7 @@
         <div class="container my-2">
             <h2 class="pb-4">Documnents Required</h2>
             <div class="row pt-2">
-                <div class="col-md-6">
+                <div class="col-md-6 mb-4">
                     <h5 class="mb-4 d-flex align-items-center" style="color: #D81F37">
                         <img class="me-2" src="assets/stressed-funding/icons/red-logo.svg" alt="">
                         Company Documents
@@ -193,7 +156,7 @@
                         <li>Board Resolution authorizing loan application</li>
                     </ul>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 mb-4">
                     <h5 class="mb-4 d-flex align-items-center" style="color: #D81F37">
                         <img class="me-2" src="assets/stressed-funding/icons/red-logo.svg" alt="">
                         Legal Documents
@@ -213,7 +176,7 @@
                 <div class="col-md-8 mt-md-5">
                     <h5 class="mb-4 d-flex align-items-center" style="color: #D81F37">
                         <img class="me-2" src="assets/stressed-funding/icons/red-logo.svg" alt="">
-                        Legal Documents
+                        Financial Documents
                     </h5>
                     <ul>
                         <li>Audited financial statements for the last 3 years (Balance Sheet, Profit & Loss, Cash Flow
@@ -228,8 +191,10 @@
                         <li> Existing legal disputes, if any (Declaration of pending cases)</li>
                     </ul>
                 </div>
-                <div class="col-md-4 mt-md-5">
-                    <img class="rounded-3" src="assets/stressed-funding/card-img-2.jpg" alt="">
+                <div class="col-md-4 mt-3 mt-md-5">
+                    <div class="card h-100" style="boder: none; border-radius:10px">
+                        <img class="rounded-3 object-fit-cover h-100 w-100" src="assets/stressed-funding/card-img-2.jpg" alt="">
+                    </div>
                 </div>
             </div>
         </div>

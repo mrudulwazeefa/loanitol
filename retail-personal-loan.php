@@ -34,7 +34,7 @@
         </div>
     </div>
 
-    <div class="tab-menu position-absolute d-none d-lg-block">
+    <!-- <div class="tab-menu position-absolute d-none d-lg-block">
         <ul>
             <li class="active">
                 <a href="">Overview</a>
@@ -61,50 +61,85 @@
                 <a href=""> Contact us</a>
             </li>
         </ul>
-    </div>
-
-    <div class="loan-against-property-overview-and-loan-section py-5">
-        <div class="overview py-5">
-            <div class="container">
-                <h2 class="mb-3 fw-semibold">Overview</h2>
-                <p>A Personal Loan is an unsecured term loan offered by banks and financial institutions to salaried
-                    employees. It allows you to borrow a specific amount and repay it with applicable interest. No
-                    collateral is required from the applicant.</p>
-            </div>
-        </div>
-    </div>
-
-    <div class="features-section features-section-retail-home-loan py-5">
-        <div class="container py-3">
-            <h2>Features</h2>
-            <div class="row py-5">
-                <div class="col-12 col-md-8 d-flex" style="line-height: 1.8">
-                    <div class="card w-100 text-white p-4">
-                        <ul class="mb-0">
-                            <li>Flexible Loan Tenure: Choose a convenient repayment period ranging from 1 to 7 years.
-                            </li>
-                            <li>Online Application: Apply for a personal loan anytime, from anywhere.</li>
-                            <li>Instant Approvals: Get your loan approved instantly.</li>
-                            <li>No Collateral Required: Enjoy a simple documentation process with no need for
-                                collateral.</li>
-                            <li>Debt Consolidation: Combine multiple debts into a single loan with a lower interest rate
-                                to save money.</li>
-                            <li>Multipurpose Usage: Use the funds for medical emergencies, marriage expenses, home
-                                renovation, or any other personal needs.</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 d-flex mt-3 mt-md-0">
-                    <div class="card-img w-100 text-white">
-                        <img src="assets/retail-personal-loan/card-img.jpg" height="250px"
-                            class="object-fit-cover w-100 h-100" style="border-radius: 10px" alt="">
-                    </div>
+    </div> -->
+    <!-- sticky nav -->
+    <div class="sticky-nav-wrapper container" id="scrolling-nav">
+        <div class="container d-flex align-items-center justify-content-between">
+            <button class="arrow-btn d-flex align-items-center" onclick="scrollNav(-200)">
+                <img src="assets/services/msme-loan/icons/left-arrow.svg" alt="left-arrow" width="25"
+                    class="right-arrow">
+            </button>
+            <div class="box--style">
+                <div class="scroll-container">
+                    <ul class="navbar-nav">
+                        <li class="nav-item"><a class="nav-link active" href="#overview">Overview</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#overview">Loans</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#product-details">Features</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#eligibility">Eligibility Criteria</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#document">Documents Required</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#document">Fees & Charges</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#faqs">FAQs</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">Contact Us</a></li>
+                    </ul>
                 </div>
             </div>
+            <button class="arrow-btn d-flex align-items-center" onclick="scrollNav(200)">
+                <img src="assets/services/msme-loan/icons/right-arrow.svg" alt="right-arrow" width="25"
+                    class="left-arrow">
+            </button>
         </div>
     </div>
+    <!--  -->
 
-    <div class="eligibility-criteria-section py-5">
+    <section id="overview" class="section">
+        <div class="loan-against-property-overview-and-loan-section py-5">
+            <div class="overview py-5">
+                <div class="container">
+                    <h2 class="mb-3 fw-semibold">Overview</h2>
+                    <p>A Personal Loan is an unsecured term loan offered by banks and financial institutions to salaried
+                        employees. It allows you to borrow a specific amount and repay it with applicable interest. No
+                        collateral is required from the applicant.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="product-details" class="section">
+        <div class="features-section features-section-retail-home-loan py-5">
+            <div class="container py-3">
+                <h2>Features</h2>
+                <div class="row py-5">
+                    <div class="col-12 col-md-8 d-flex" style="line-height: 1.8">
+                        <div class="card w-100 text-white p-4">
+                            <ul class="mb-0">
+                                <li>Flexible Loan Tenure: Choose a convenient repayment period ranging from 1 to 7
+                                    years.
+                                </li>
+                                <li>Online Application: Apply for a personal loan anytime, from anywhere.</li>
+                                <li>Instant Approvals: Get your loan approved instantly.</li>
+                                <li>No Collateral Required: Enjoy a simple documentation process with no need for
+                                    collateral.</li>
+                                <li>Debt Consolidation: Combine multiple debts into a single loan with a lower interest
+                                    rate
+                                    to save money.</li>
+                                <li>Multipurpose Usage: Use the funds for medical emergencies, marriage expenses, home
+                                    renovation, or any other personal needs.</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4 d-flex mt-3 mt-md-0">
+                        <div class="card-img w-100 text-white">
+                            <img src="assets/retail-personal-loan/card-img.jpg" height="250px"
+                                class="object-fit-cover w-100 h-100" style="border-radius: 10px" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="eligibility" class="section">
+        <div class="eligibility-criteria-section py-5">
         <div class="container py-3">
             <h2 class="mb-5 fw-semibold">Eligibility Criteria</h2>
             <div class="row py-2">
@@ -129,7 +164,7 @@
                             <li>Salaried Person: Minimum 2 to 3 years of experience in an MNC, Private Limited, or
                                 Public
                                 Limited company.</li>
-                                <li>Self-Employed Professional: Minimum 2 years of experience in the current field.</li>
+                            <li>Self-Employed Professional: Minimum 2 years of experience in the current field.</li>
                         </ul>
                     </div>
                 </div>
@@ -175,16 +210,18 @@
                         </ul>
                     </div>
                 </div>
-               
+
             </div>
         </div>
     </div>
+    </section>
 
-    <div class="fees-and-charges-section text-white py-5">
+    <section id="document" class="section">
+        <div class="fees-and-charges-section text-white py-5">
         <div class="container py-4">
             <div class="row d-flex flex-column flex-sm-row">
                 <div class="col-12 col-sm-6 d-flex align-items-center">
-                    <div class="div">
+                    <div class="personal-loan-documents-required-card">
                         <h2 class="fw-semibold">Documents Required</h2>
                         <ul>
                             <li>Passport-size Photo</li>
@@ -220,9 +257,11 @@
             </div>
         </div>
     </div>
+    </section>
 
     <!-- Frequently Asked Questions -->
-    <div class="about_loan_area_gradient">
+    <section id="faqs" class="section">
+        <div class="about_loan_area_gradient">
         <div class="container">
             <h4 class="h4-size">Frequently Asked Questions</h4>
             <div class="accordion mt-5" id="accordionExample">
@@ -398,6 +437,7 @@
             </div>
         </div>
     </div>
+    </section>
 
     <section id="contact" class="section">
         <div class="bg-contact-area">

@@ -7217,6 +7217,14 @@ input.search-field.show-placeholder::placeholder {
   }
 }
 
+
+/* Retail Personal Loan */
+.fees-and-charges-section .personal-loan-documents-required-card ul li::marker {
+  color: white !important ;
+}
+.eligibility-criteria-section 
+
+
 /* Retail Loan Against Property */
 .loan-against-property-overview-and-loan-section {
   position: relative;

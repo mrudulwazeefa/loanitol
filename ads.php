@@ -33,8 +33,8 @@
     </div>
 
     <div class="container ads-continer video-container py-2 mt-5 mb-5 position-relative">
-        <div class="row g-4 pt-4">
-            <div class="col-sm-6 col-md-4 col-xl-3 px-3 my-3 position-relative video-container">
+        <div class="row g-3 g-md-4 pt-4">
+            <div class="col-sm-6 col-md-4 col-xl-3 position-relative video-container">
                 <div class="card border-0 p-4  rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/44-Appukalil-Ninnu.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -67,7 +67,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-3 px-3 my-3 position-relative video-container">
+            <div class="col-sm-6 col-md-4 col-xl-3 position-relative video-container">
                 <div class="card border-0 p-4 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/aleena-about-business.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -100,7 +100,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-3 px-3 my-3 position-relative video-container">
+            <div class="col-sm-6 col-md-4 col-xl-3 position-relative video-container">
                 <div class="card border-0 p-4 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/90percent-loan-for-machineries.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -133,7 +133,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-3 px-3 my-3 position-relative video-container">
+            <div class="col-sm-6 col-md-4 col-xl-3 position-relative video-container">
                 <div class="card border-0 p-4 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/app-loan-edukkunnavar.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -166,7 +166,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-3 px-3 my-3 position-relative video-container">
+            <div class="col-sm-6 col-md-4 col-xl-3 position-relative video-container">
                 <div class="card border-0 p-4 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_10.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -200,7 +200,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-3 px-3 my-3 position-relative video-container">
+            <div class="col-sm-6 col-md-4 col-xl-3 position-relative video-container">
                 <div class="card border-0 p-4 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_8__reel_1.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -234,7 +234,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-3 px-3 my-3 position-relative video-container">
+            <div class="col-sm-6 col-md-4 col-xl-3 position-relative video-container">
                 <div class="card border-0 p-4 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_8__reel_2.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -268,7 +268,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-3 px-3 my-3 position-relative video-container">
+            <div class="col-sm-6 col-md-4 col-xl-3 position-relative video-container">
                 <div class="card border-0 p-4 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_8__reel_3.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -302,7 +302,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-3 px-3 my-3 position-relative video-container">
+            <div class="col-sm-6 col-md-4 col-xl-3 position-relative video-container">
                 <div class="card border-0 p-4 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_8__reel_4.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -336,7 +336,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-3 px-3 my-3 position-relative video-container">
+            <div class="col-sm-6 col-md-4 col-xl-3 position-relative video-container">
                 <div class="card border-0 p-4 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_9__reel_2.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -370,7 +370,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-3 px-3 my-3 position-relative video-container">
+            <div class="col-sm-6 col-md-4 col-xl-3 position-relative video-container">
                 <div class="card border-0 p-4 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_9__reel_3.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -404,7 +404,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4 col-xl-3 px-3 my-3 position-relative video-container">
+            <div class="col-sm-6 col-md-4 col-xl-3 position-relative video-container">
                 <div class="card border-0 p-4 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/personal_loan_kittunath.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -475,7 +475,7 @@
 
 
     <script>
-        // Pause all videos in modal when closed (Bootstrap 5)
+    // Pause all videos in modal when closed (Bootstrap 5)
     var exampleModal = document.getElementById('exampleModal');
     if (exampleModal) {
         exampleModal.addEventListener('hidden.bs.modal', function() {

@@ -63,7 +63,7 @@ input.search-field.show-placeholder::placeholder {
                 </span>
 
             </div>
-            <div class="row g-4 my-3 gx-2 gy-2 d-flex align-items-center justify-content-center" id="video-row">
+            <div class="row g-3 g-md-4 my-3 d-flex align-items-center justify-content-center" id="video-row">
                 <div class="col-12 col-md-6 col-lg-3 position-relative video-container">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -332,9 +332,9 @@ input.search-field.show-placeholder::placeholder {
                     <input class="search-field" type="text" id="search-input2" placeholder="Search Reels..." />
                 </span>
             </div>
-            <div class="row g-4 mt-1 mb-3 gx-2 gy-2 d-flex align-items-center justify-content-center">
+            <div class="row g-3 g-md-4 mt-1 mb-3 d-flex align-items-center justify-content-center">
                 <div
-                    class="col-md-3 position-relative video-container d-flex justify-content-center align-items-center">
+                    class="col-sm-6 col-md-3 position-relative video-container d-flex justify-content-center align-items-center">
                     <img class="reel-img img-fluid" src="assets/videos/44-Appukalil-Ninnu.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -348,7 +348,7 @@ input.search-field.show-placeholder::placeholder {
                     </svg>
                 </div>
                 <div
-                    class="col-md-3 position-relative video-container d-flex justify-content-center align-items-center">
+                    class="col-sm-6 col-md-3 position-relative video-container d-flex justify-content-center align-items-center">
                     <img class="reel-img img-fluid" src="assets/videos/aleena-about-business.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -362,7 +362,7 @@ input.search-field.show-placeholder::placeholder {
                     </svg>
                 </div>
                 <div
-                    class="col-md-3 position-relative video-container d-flex justify-content-center align-items-center">
+                    class="col-sm-6 col-md-3 position-relative video-container d-flex justify-content-center align-items-center">
                     <img src="assets/videos/play.svg" class="position-relative" alt="">
                     <img class="reel-img img-fluid" src="assets/videos/90percent-loan-for-machineries.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
@@ -377,7 +377,7 @@ input.search-field.show-placeholder::placeholder {
                     </svg>
                 </div>
                 <div
-                    class="col-md-3 position-relative video-container d-flex justify-content-center align-items-center">
+                    class="col-sm-6 col-md-3 position-relative video-container d-flex justify-content-center align-items-center">
                     <img src="assets/videos/play.svg" class="position-relative" alt="">
                     <img class="reel-img img-fluid" src="assets/videos/app-loan-edukkunnavar.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
@@ -391,7 +391,7 @@ input.search-field.show-placeholder::placeholder {
                         </g>
                     </svg>
                 </div>
-                <div class="col-md-3 position-relative video-container d-flex justify-content-center align-items-center d-none"
+                <div class="col-sm-6 col-md-3 position-relative video-container d-flex justify-content-center align-items-center d-none"
                     id="reels-hide-1">
                     <img class="reel-img img-fluid" src="assets/videos/44-Appukalil-Ninnu.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
@@ -405,7 +405,7 @@ input.search-field.show-placeholder::placeholder {
                         </g>
                     </svg>
                 </div>
-                <div class="col-md-3 position-relative video-container d-flex justify-content-center align-items-center d-none"
+                <div class="col-sm-6 col-md-3 position-relative video-container d-flex justify-content-center align-items-center d-none"
                     id="reels-hide-2">
                     <img class="reel-img img-fluid" src="assets/videos/aleena-about-business.jpg" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
@@ -420,7 +420,7 @@ input.search-field.show-placeholder::placeholder {
                         </g>
                     </svg>
                 </div>
-                <div class="col-md-3 position-relative video-container d-flex justify-content-center align-items-center d-none"
+                <div class="col-sm-6 col-md-3 position-relative video-container d-flex justify-content-center align-items-center d-none"
                     id="reels-hide-3">
                     <img src="assets/videos/play.svg" class="position-relative" alt="">
                     <img class="reel-img img-fluid" src="assets/videos/90percent-loan-for-machineries.jpg" alt="">
@@ -435,7 +435,7 @@ input.search-field.show-placeholder::placeholder {
                         </g>
                     </svg>
                 </div>
-                <div class="col-md-3 position-relative video-container d-flex justify-content-center align-items-center d-none"
+                <div class="col-sm-6 col-md-3 position-relative video-container d-flex justify-content-center align-items-center d-none"
                     id="reels-hide-4">
                     <img src="assets/videos/play.svg" class="position-relative" alt="">
                     <img class="reel-img img-fluid" src="assets/videos/app-loan-edukkunnavar.jpg" alt="">

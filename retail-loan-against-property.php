@@ -18,7 +18,6 @@
                         </ol>
                     </nav>
                     <h5 class="h5-size col-sm-12">
-
                         Finance Your Dreams,
                         <br> <span class="d-inline-block">Secure Your Property</span>
                     </h5>
@@ -33,7 +32,7 @@
         </div>
     </div>
 
-    <div class="tab-menu position-absolute d-none d-lg-block">
+    <!-- <div class="tab-menu position-absolute d-none d-lg-block">
         <ul>
             <li class="active">
                 <a href="">Overview</a>
@@ -60,123 +59,168 @@
                 <a href=""> Contact us</a>
             </li>
         </ul>
-    </div>
-
-    <div class="loan-against-property-overview-and-loan-section py-5">
-        <div class="overview py-5">
-            <div class="container">
-                <h2 class="mb-3 fw-semibold">Overview</h2>
-                <p>A Loan Against Property (LAP) is a secured loan provided by a financial institution with a property
-                    as collateral. The property can be a residential house, commercial property, or vacant land owned by
-                    the borrower.</p>
+    </div> -->
+    <!-- sticky nav -->
+    <div class="sticky-nav-wrapper container" id="scrolling-nav">
+        <div class="container d-flex align-items-center justify-content-between">
+            <button class="arrow-btn d-flex align-items-center" onclick="scrollNav(-200)">
+                <img src="assets/services/msme-loan/icons/left-arrow.svg" alt="left-arrow" width="25"
+                    class="right-arrow">
+            </button>
+            <div class="box--style">
+                <div class="scroll-container">
+                    <ul class="navbar-nav">
+                        <li class="nav-item"><a class="nav-link active" href="#overview">Overview</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#loans">Loans</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#product-details">Features</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#eligibility">Eligibility</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#document">Documents Required</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#fees">Fees & Charges</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#faqs">FAQs</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">Contact Us</a></li>
+                    </ul>
+                </div>
             </div>
+            <button class="arrow-btn d-flex align-items-center" onclick="scrollNav(200)">
+                <img src="assets/services/msme-loan/icons/right-arrow.svg" alt="right-arrow" width="25"
+                    class="left-arrow">
+            </button>
         </div>
-        <div class="loans py-3">
-            <div class="container">
-                <h2 class="fw-semibold">Loans</h2>
-                <div class="row py-4">
-                    <!-- Left side: 3 cards -->
-                    <div class="col-12">
-                        <div class="row">
-                            <div class="col-6 col-sm-4 col-md-3">
-                                <div class="card justify-content-center text-center h-100 p-3">
-                                    <span>
-                                        <img src="assets/retail-home-loan-against-property/icons/loan-against-loan-overdraft.svg" alt="">
-                                    </span>
-                                    <p class="mb-0 title">Loan Against <br> Property Overdraft</p>
+    </div>
+    <!--  -->
+
+    <div class="loan-against-property-overview-and-loan-section">
+        <section id="overview" class="section">
+            <div class="overview py-5 pb-0">
+                <div class="container">
+                    <h2 class="mb-3 fw-semibold">Overview</h2>
+                    <p>A Loan Against Property (LAP) is a secured loan provided by a financial institution with a
+                        property
+                        as collateral. The property can be a residential house, commercial property, or vacant land
+                        owned by
+                        the borrower.</p>
+                </div>
+            </div>
+        </section>
+        <section id="loans" class="section py-5">
+            <div class="loans py-3">
+                <div class="container">
+                    <h2 class="fw-semibold">Loans</h2>
+                    <div class="row py-4">
+                        <!-- Left side: 3 cards -->
+                        <div class="col-12">
+                            <div class="row g-3 g-md-4">
+                                <div class="col-6 col-sm-4 col-md-4 col-lg-3">
+                                    <div class="card justify-content-center text-center h-100 p-3">
+                                        <span>
+                                            <img src="assets/retail-home-loan-against-property/icons/loan-against-loan-overdraft.svg"
+                                                alt="">
+                                        </span>
+                                        <p class="mb-0 title">Loan Against <br> Property Overdraft</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-6 col-sm-4 col-md-3">
-                                <div class="card justify-content-center text-center h-100 p-3">
-                                    <span>
-                                        <img src="assets/retail-home-loan-against-property/icons/loan-against-residential-property.svg" alt="">
-                                    </span>
-                                    <p class="mb-0 title">Loan Against <br> Residential Property</p>
+                                <div class="col-6 col-sm-4 col-md-4 col-lg-3">
+                                    <div class="card justify-content-center text-center h-100 p-3">
+                                        <span>
+                                            <img src="assets/retail-home-loan-against-property/icons/loan-against-residential-property.svg"
+                                                alt="">
+                                        </span>
+                                        <p class="mb-0 title">Loan Against <br> Residential Property</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-6 col-sm-4 col-md-3 mt-4 mt-sm-0">
-                                <div class="card justify-content-center text-center h-100 p-3">
-                                    <span>
-                                        <img src="assets/retail-home-loan-against-property/icons/loan-against-commerical-property.svg" alt="">
-                                    </span>
-                                    <p class="mb-0 title">Loan Against <br> Commercial Property</p>
+                                <div class="col-6 col-sm-4 col-md-4 col-lg-3">
+                                    <div class="card justify-content-center text-center h-100 p-3">
+                                        <span>
+                                            <img src="assets/retail-home-loan-against-property/icons/loan-against-commerical-property.svg"
+                                                alt="">
+                                        </span>
+                                        <p class="mb-0 title">Loan Against <br> Commercial Property</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-6 col-sm-4 col-md-3 mt-4 mt-md-0">
-                                <div class="card justify-content-center text-center h-100 p-3">
-                                    <span>
-                                        <img src="assets/retail-home-loan-against-property/icons/loan-against-rent-receivables.svg" alt="">
-                                    </span>
-                                    <p class="mb-0 title">Loan Against Rent <br> Receivables</p>
+                                <div class="col-6 col-sm-4 col-md-4 col-lg-3">
+                                    <div class="card justify-content-center text-center h-100 p-3">
+                                        <span>
+                                            <img src="assets/retail-home-loan-against-property/icons/loan-against-rent-receivables.svg"
+                                                alt="">
+                                        </span>
+                                        <p class="mb-0 title">Loan Against Rent <br> Receivables</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-6 col-sm-4 col-md-3 mt-4">
-                                <div class="card justify-content-center text-center h-100 p-3">
-                                    <span>
-                                        <img src="assets/retail-home-loan-against-property/icons/loan-for-purchase-of-commerical-property.svg" alt="">
-                                    </span>
-                                    <p class="mb-0 title">Loan For Purchase Of <br> Commercial Property</p>
+                                <div class="col-6 col-sm-4 col-md-4 col-lg-3">
+                                    <div class="card justify-content-center text-center h-100 p-3">
+                                        <span>
+                                            <img src="assets/retail-home-loan-against-property/icons/loan-for-purchase-of-commerical-property.svg"
+                                                alt="">
+                                        </span>
+                                        <p class="mb-0 title">Loan For Purchase Of <br> Commercial Property</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-6 col-sm-4 col-md-3 mt-4">
-                                <div class="card justify-content-center text-center h-100 p-3">
-                                    <span>
-                                        <img src="assets/retail-home-loan-against-property/icons/loan-against-special-property.svg" alt="">
-                                    </span>
-                                    <p class="mb-0 title">Loan Against <br> Special Property</p>
+                                <div class="col-6 col-sm-4 col-md-4 col-lg-3">
+                                    <div class="card justify-content-center text-center h-100 p-3">
+                                        <span>
+                                            <img src="assets/retail-home-loan-against-property/icons/loan-against-special-property.svg"
+                                                alt="">
+                                        </span>
+                                        <p class="mb-0 title">Loan Against <br> Special Property</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-6 col-sm-4 col-md-3 mt-4">
-                                <div class="card justify-content-center text-center h-100 p-3">
-                                    <span>
-                                        <img src="assets/retail-home-loan-against-property/icons/commerical-construction.svg" alt="">
-                                    </span>
-                                    <p class="mb-0 title">Commercial <br> Construction</p>
+                                <div class="col-6 col-sm-4 col-md-4 col-lg-3">
+                                    <div class="card justify-content-center text-center h-100 p-3">
+                                        <span>
+                                            <img src="assets/retail-home-loan-against-property/icons/commerical-construction.svg"
+                                                alt="">
+                                        </span>
+                                        <p class="mb-0 title">Commercial <br> Construction</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-6 col-sm-4 col-md-3 mt-4">
-                                <div class="card justify-content-center text-center h-100 p-3">
-                                    <span>
-                                        <img src="assets/retail-home-loan-against-property/icons/loan-against-vacant-land.svg" alt="">
-                                    </span>
-                                    <p class="mb-0 title">Loan Against <br> Vacant Land</p>
+                                <div class="col-6 col-sm-4 col-md-4 col-lg-3">
+                                    <div class="card justify-content-center text-center h-100 p-3">
+                                        <span>
+                                            <img src="assets/retail-home-loan-against-property/icons/loan-against-vacant-land.svg"
+                                                alt="">
+                                        </span>
+                                        <p class="mb-0 title">Loan Against <br> Vacant Land</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
     </div>
 
-    <div class="features-section features-section-retail-home-loan py-5">
-        <div class="container py-3">
-            <h2>Features</h2>
-            <div class="row py-5">
-                <div class="col-12 col-md-8 d-flex">
-                    <div class="card w-100 text-white p-4">
-                        <ul class="mb-0">
-                            <li>Adaptable: <br>
-                                costs for marriage, business expansion, and other personal requirements</li>
-                            <li> Flexible repayment options include partial payments and balance transfers</li>
-                            <li>Flexible tenure: 10–25 years;</li>
-                            <li>Attractive interest rate: APR starting at 8.9%;</li>
-                            <li>No Part-Payment Fees;</li>
-                            <li>Collateral: Can pledge Commercial, residential, and special properties</li>
-                        </ul>
+    <section id="product-details" class="section">
+        <div class="features-section features-section-retail-home-loan py-5">
+            <div class="container py-3">
+                <h2>Features</h2>
+                <div class="row py-5">
+                    <div class="col-12 col-md-8 d-flex">
+                        <div class="card w-100 text-white p-4">
+                            <ul class="mb-0">
+                                <li>Adaptable: <br>
+                                    costs for marriage, business expansion, and other personal requirements</li>
+                                <li> Flexible repayment options include partial payments and balance transfers</li>
+                                <li>Flexible tenure: 10–25 years;</li>
+                                <li>Attractive interest rate: APR starting at 8.9%;</li>
+                                <li>No Part-Payment Fees;</li>
+                                <li>Collateral: Can pledge Commercial, residential, and special properties</li>
+                            </ul>
+                        </div>
                     </div>
-                </div>
-                <div class="col-12 col-md-4 d-flex mt-3 mt-md-0">
-                    <div class="card-img w-100 text-white">
-                        <img src="assets/retail-home-loan-against-property/card-img.jpg" height="250px"
-                            class="object-fit-cover w-100 h-100" style="border-radius: 10px" alt="">
+                    <div class="col-12 col-md-4 d-flex mt-3 mt-md-0">
+                        <div class="card-img w-100 text-white">
+                            <img src="assets/retail-home-loan-against-property/card-img.jpg" height="250px"
+                                class="object-fit-cover w-100 h-100" style="border-radius: 10px" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </section>
 
-    <div class="eligibility-criteria-section py-5">
+    <section id="eligibility" class="section">
+        <div class="eligibility-criteria-section py-5">
         <div class="container">
             <div class="row py-3">
                 <div class="col-12 col-sm-6 col-lg-4">
@@ -252,8 +296,10 @@
             </div>
         </div>
     </div>
+    </section>
 
-    <div class="linear-gradient2">
+    <section id="document" class="section">
+        <div class="linear-gradient2">
         <div class="documents-required-home-loan py-5">
             <div class="container py-3">
                 <h2 class="mb-3 fw-semibold">Documents Required</h2>
@@ -347,8 +393,10 @@
             </div>
         </div>
     </div>
+    </section>
 
-    <div class="fees-and-charges-section text-white py-5">
+    <section id="fees" class="section">
+        <div class="fees-and-charges-section text-white py-5">
         <div class="container py-4">
             <div class="row d-flex flex-column flex-sm-row">
                 <div class="col-12 col-sm-6 d-flex align-items-center">
@@ -387,9 +435,11 @@
             </div>
         </div>
     </div>
+    </section>
 
     <!-- Frequently Asked Questions -->
-    <div class="about_loan_area_gradient">
+    <section id="faqs" class="section">
+        <div class="about_loan_area_gradient">
         <div class="container">
             <h4 class="h4-size">Frequently Asked Questions</h4>
             <div class="accordion mt-5" id="accordionExample">
@@ -717,6 +767,7 @@
             </div>
         </div>
     </div>
+    </section>
 
     <section id="contact" class="section">
         <div class="bg-contact-area">

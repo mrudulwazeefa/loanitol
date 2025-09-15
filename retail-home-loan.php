@@ -316,7 +316,7 @@
                         <p>Home loan interest rates starting from <span style="color: #FDD835">8.5% onwards</span></p>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6">
+                <div class="col-12 col-sm-6 mt-3 mt-sm-0">
                     <div class="card p-4">
                         <div class="d-flex mb-3 ps-2">
                             <img src="assets/retail-home-loan/logo.svg" alt="">
