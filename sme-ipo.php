@@ -47,8 +47,8 @@
                 <h2 class="mb-3">Features</h2>
                 <div class="row py-4 flex-lg-row flex-column">
                     <div class="col-md-12 col-lg-8">
-                        <div class="row g-3">
-                            <div class="col-md-6">
+                        <div class="row g-3 g-md-4">
+                            <div class="col-sm-6">
                                 <div class="card justify-content-center text-center p-3">
                                     <span>
                                         <img src="assets/sme-ipo/icons/reduced-investment-and-turnover-thresholds.svg"
@@ -57,7 +57,7 @@
                                     <p class="title">Reduced Investment and <br> Turnover Thresholds</p>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-sm-6">
                                 <div class="card justify-content-center text-center p-3">
                                     <span>
                                         <img src="assets/sme-ipo/icons/listing-on-different-platforms-for-sme.svg"
@@ -66,7 +66,7 @@
                                     <p class="title">Listing on Different Platforms <br> for SMEs</p>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-sm-6">
                                 <div class="card justify-content-center text-center p-3">
                                     <span>
                                         <img src="assets/sme-ipo/icons/investor-liquidity.svg" alt="">
@@ -74,7 +74,7 @@
                                     <p class="title">Investor Liquidity</p>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-sm-6">
                                 <div class="card justify-content-center text-center p-3">
                                     <span>
                                         <img src="assets/sme-ipo/icons/access-to-capital.svg" alt="">
@@ -82,7 +82,7 @@
                                     <p class="title">Access to Capital</p>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-sm-6">
                                 <div class="card justify-content-center text-center p-3">
                                     <span>
                                         <img src="assets/sme-ipo/icons/investor-liquidity.svg" alt="">
@@ -90,7 +90,7 @@
                                     <p class="title">Controlled Trading <br> Environment</p>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-sm-6">
                                 <div class="card justify-content-center text-center p-3">
                                     <span>
                                         <img src="assets/sme-ipo/icons/investor-liquidity.svg" alt="">
@@ -101,7 +101,7 @@
                         </div>
                     </div>
                     <div class="col-md-12 col-lg-4 mt-3 mt-lg-0">
-                        <div class="row g-3">
+                        <div class="row g-3 g-md-4">
                             <div class="col-md-6 col-lg-12">
                                 <div class="card justify-content-center text-center p-3">
                                     <span>

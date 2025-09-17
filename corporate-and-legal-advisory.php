@@ -40,9 +40,9 @@
             <div class="details-section px-0">
                 <h4 class="mb-4">Corporate & Commercial Advisory Services</h4>
                 <div class="container p-0">
-                    <div class="row pt-2 g-2 g-md-4">
+                    <div class="row pt-2 g-3 g-md-4">
                         <!-- Card 1 -->
-                        <div class="col-12 col-sm-6 col-md-3">
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                             <div class="m-md-1 card justify-content-center text-center p-3 h-100">
                                 <span>
                                     <img class="icons"
@@ -54,7 +54,7 @@
                         </div>
 
                         <!-- Card 2 -->
-                        <div class="col-12 col-sm-6 col-md-3">
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                             <div class="m-md-1 card justify-content-center text-center p-3 h-100">
                                 <span>
                                     <img class="icons"
@@ -67,7 +67,7 @@
                         </div>
 
                         <!-- Card 3 -->
-                        <div class="col-12 col-sm-6 col-md-3">
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                             <div class="m-md-1 card justify-content-center text-center p-3 h-100">
                                 <span>
                                     <img class="icons"
@@ -79,7 +79,7 @@
                         </div>
 
                         <!-- Card 4 -->
-                        <div class="col-12 col-sm-6 col-md-3">
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                             <div class="m-md-1 card justify-content-center text-center p-3 h-100">
                                 <span>
                                     <img class="icons"
@@ -90,7 +90,7 @@
                             </div>
                         </div>
                         <!-- Card 5 -->
-                        <div class="col-12 col-sm-6 col-md-3">
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                             <div class="m-md-1 card justify-content-center text-center p-3 h-100">
                                 <span style="background-color: #E9FFF6">
                                     <img class="icons"
@@ -101,7 +101,7 @@
                             </div>
                         </div>
                         <!-- Card 6 -->
-                        <div class="col-12 col-sm-6 col-md-3">
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                             <div class="m-md-1 card justify-content-center text-center p-3 h-100">
                                 <span>
                                     <img class="icons"
@@ -113,7 +113,7 @@
                             </div>
                         </div>
                         <!-- Card 4 -->
-                        <div class="col-12 col-sm-6 col-md-3">
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                             <div class="m-md-1 card justify-content-center text-center p-3 h-100">
                                 <span style="background-color: #FFE1E1">
                                     <img class="icons"
@@ -124,7 +124,7 @@
                             </div>
                         </div>
                         <!-- Card 4 -->
-                        <div class="col-12 col-sm-6 col-md-3">
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                             <div class="m-md-1 card justify-content-center text-center p-3 h-100">
                                 <span style="background-color: #FFE1E1">
                                     <img class="icons"

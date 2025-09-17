@@ -31,7 +31,7 @@
     </div>
 
 
-    <div class="article-container py-5">
+    <div class="article-container life-insurance py-5">
         <div class="container">
             <div class="py-4">
                 <div class="accordion" id="accordionExample">
@@ -108,7 +108,7 @@
                     to assist you control spending rather of taking on the entire weight of a potentially disastrous
                     bill.</p>
             </div>
-            <div class="mb-5">
+            <div class="py-4">
                 <h3 class="fw-semibold">Importance of Term Life Insurance</h3>
                 <div class="row g-3 g-md-4 my-5">
                     <div class="col-6 col-lg-3 mt-0">

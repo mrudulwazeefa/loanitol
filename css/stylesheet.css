@@ -5475,6 +5475,7 @@ img {
   bottom: 0;
 }
 #search-input {
+  outline: none !important;
   padding: 8px 12px;
   font-size: 13px;
   line-height: 1.5;
@@ -5550,7 +5551,7 @@ video {
   background: rgb(255, 255, 255);
   /* padding: 6px;
   box-shadow: rgba(0, 0, 0, 0.07) 0px 2px 8px; */
-  transition: width 0.3s, height 0.3s, opacity 0.3s;
+  transition: width 0.3s, height 0.3s;
   z-index: 1 !important;
 }
 #search-input1 {
@@ -5569,6 +5570,7 @@ video {
   font-size: 13px;
   line-height: 1.5;
   font-family: var(--theme-font);
+  outline: none !important;
 }
 #search-input1::placeholder {
   font-family: var(--theme-font) !important;
@@ -5607,6 +5609,7 @@ video {
   font-size: 13px;
   line-height: 1.5;
   font-family: var(--theme-font);
+  outline: none !important;
 }
 #search-input2::placeholder {
   font-family: var(--theme-font) !important;
@@ -6384,6 +6387,25 @@ input.search-field.show-placeholder::placeholder {
   font-weight: 500;
   color: #333;
 }
+#search-blog-input {
+  border: 2px solid #ed102c !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+  display: none;
+  position: absolute;
+  right: 0;
+  width: 200px;
+  height: 35px;
+  background-color: transparent;
+  /* transform: translateY(1px); */
+  z-index: 0;
+  border-radius: none !important;
+  font-size: 13px;
+  line-height: 1.5;
+  font-family: var(--theme-font);
+  outline: none !important;
+}
 /* Blog Page End */
 
 /* Career Page */
@@ -6483,6 +6505,9 @@ input.search-field.show-placeholder::placeholder {
   width: 60px;
   border-radius: 100%;
   margin-bottom: 15px;
+}
+.life-insurance li::marker {
+  color: black !important;
 }
 @media (min-width: 1200px) {
   .insurance-card-1 span,
@@ -7123,7 +7148,6 @@ input.search-field.show-placeholder::placeholder {
   border-bottom: 1px solid #ebebeb;
 }
 
-
 /*  Retail home loan */
 .overview-and-loan-section {
   position: relative;
@@ -7159,8 +7183,17 @@ input.search-field.show-placeholder::placeholder {
 .features-section-retail-home-loan {
   color: white !important;
 }
+.eligibility-criteria-section li::marker {
+  color: black !important;
+}
+.documents-required-home-loan li::marker {
+  color: black !important;
+}
 .fees-and-charges-section {
   background-color: #d81f37 !important;
+}
+.fees-and-charges-section li::marker {
+  color: black !important ;
 }
 .tab-menu {
   margin-top: -35px;
@@ -7206,7 +7239,6 @@ input.search-field.show-placeholder::placeholder {
   font-family: var(--theme-font);
 }
 
-
 /* Retail Business Loan */
 .responsive-height {
   height: 300px !important;
@@ -7216,7 +7248,6 @@ input.search-field.show-placeholder::placeholder {
     height: 200px !important;
   }
 }
-
 
 /* Retail Personal Loan */
 .fees-and-charges-section .personal-loan-documents-required-card ul li::marker {
@@ -7326,7 +7357,22 @@ input.search-field.show-placeholder::placeholder {
   border-top-right-radius: 10px;
 }
 
+
 /* Blog3 */
+#search-blog-icon {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  transition: width 0.3s, height 0.3s;
+  z-index: 1 !important;
+}
+#search-blog-input {
+  display: none;
+  padding: 8px;
+  width: 200px;
+  font-size: 14px;
+}
+
 
 /* blog-inner */
 .learn-inner .gradient {
