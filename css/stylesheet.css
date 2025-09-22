@@ -7326,17 +7326,17 @@ input.search-field.show-placeholder::placeholder {
   background-color: #139813;
   color: white;
 }
-.calculator-section .card-green p {
+/* .calculator-section .card-green p {
   margin: auto;
-}
+} */
 .calculator-section .card-red {
   background-color: #d81f37;
   color: white;
   font-size: 18px;
 }
-.calculator-section .card-red p {
+/* .calculator-section .card-red p {
   margin: auto;
-}
+} */
 .calculator-section .card-yellow {
   background-color: #ffb806;
   color: black;

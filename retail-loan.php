@@ -57,7 +57,7 @@
         <div class="retail-loan-benefits-section py-5">
             <div class="container">
                 <h2>Benefits</h2>
-                <div class="row py-5">
+                <div class="row py-5 g-3 g-md-4">
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="card justify-content-center text-center p-3 h-100">
                             <span>
@@ -66,7 +66,7 @@
                             <p class="title">Easy Access to <br> Funds</p>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-3 mt-sm-0">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="card justify-content-center text-center p-3 h-100">
                             <span>
                                 <img src="assets/retail-loan/icons/affordable-and-flexible-repayment-term.svg" alt="">
@@ -74,7 +74,7 @@
                             <p class="title">Affordable and <br> Flexible Repayment <br> Terms</p>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-3 mt-sm-4 mt-md-0">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="card justify-content-center text-center p-3 h-100">
                             <span>
                                 <img src="assets/retail-loan/icons/loan-against-commerical-property.svg" alt="">
@@ -82,7 +82,7 @@
                             <p class="title">Competitive Interest <br> Rates</p>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-3 mt-sm-4 mt-lg-0">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="card justify-content-center text-center p-3 h-100">
                             <span>
                                 <img src="assets/retail-loan/icons/improves-credit-score.svg" alt="">
@@ -90,7 +90,7 @@
                             <p class="title">Improves Credit <br> Score</p>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-3 mt-sm-4">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="card justify-content-center text-center p-3 h-100">
                             <span>
                                 <img src="assets/retail-loan/icons/no-collateral-required.svg" alt="">
@@ -98,7 +98,7 @@
                             <p class="title">No Collateral Required <br> (For Unsecured Loans)</p>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-3 mt-sm-4">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="card justify-content-center text-center p-3 h-100">
                             <span>
                                 <img src="assets/retail-loan/icons/loan-against-special-property.svg" alt="">
@@ -106,7 +106,7 @@
                             <p class="title">Customizable <br> Loan Products</p>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-3 mt-sm-4">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="card justify-content-center text-center p-3 h-100">
                             <span>
                                 <img src="assets/retail-loan/icons/tax-benefits.svg" alt="">
@@ -114,7 +114,7 @@
                             <p class="title">Tax Benefits (For <br> Some Loan Types)</p>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-3 mt-sm-4">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="card justify-content-center text-center p-3 h-100">
                             <span>
                                 <img src="assets/retail-loan/icons/loan-against-vacant-land.svg" alt="">
@@ -122,7 +122,7 @@
                             <p class="title">Hassle-Free <br> Application Process</p>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-3 mt-sm-4">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="card justify-content-center text-center p-3 h-100">
                             <span>
                                 <img src="assets/retail-loan/icons/access-to-higher-loan-amount.svg" alt="">
@@ -130,7 +130,7 @@
                             <p class="title">Access to Higher Loan <br> Amounts (For Secured <br> Loans)</p>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-3 mt-sm-4">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="card justify-content-center text-center p-3 h-100">
                             <span>
                                 <img src="assets/retail-loan/icons/support-financials-planning-and-stability.svg"
@@ -139,7 +139,7 @@
                             <p class="title">Supports Financial <br> Planning and Stability</p>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mt-3 mt-sm-4">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="card justify-content-center text-center p-3 h-100">
                             <span>
                                 <img src="assets/retail-loan/icons/fixed-sum-and-repayment.svg" alt="">
@@ -157,8 +157,8 @@
             <h2>Types of Loans</h2>
             <div class="row py-4 h-100">
                 <div class="col-lg-8">
-                    <div class="row">
-                        <div class="col-12 col-md-6 col-lg-4 d-flex">
+                    <div class="row g-3 g-md-4">
+                        <div class="col-12 col-sm-6 col-lg-4 d-flex">
                             <div class="card w-100">
                                 <div class="d-flex align-items-center">
                                     <span class="mb-0 me-3">
@@ -168,7 +168,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-md-6 col-lg-4 d-flex mt-3 mt-md-0">
+                        <div class="col-12 col-sm-6 col-lg-4 d-flex">
                             <div class="card w-100">
                                 <div class="d-flex align-items-center">
                                     <span class="mb-0 me-3">
@@ -178,7 +178,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-md-6 col-lg-4 d-flex mt-3 mt-md-4 mt-lg-0">
+                        <div class="col-12 col-sm-6 col-lg-4 d-flex">
                             <div class="card w-100">
                                 <div class="d-flex align-items-center">
                                     <span class="mb-0 me-3">
@@ -188,7 +188,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-md-6 col-lg-4 d-flex mt-3 mt-md-4">
+                        <div class="col-12 col-sm-6 col-lg-4 d-flex">
                             <div class="card w-100">
                                 <div class="d-flex align-items-center">
                                     <span class="mb-0 me-3">
@@ -198,7 +198,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-md-6 col-lg-4 d-flex mt-3 mt-md-4">
+                        <div class="col-12 col-sm-6 col-lg-4 d-flex">
                             <div class="card w-100">
                                 <div class="d-flex align-items-center">
                                     <span class="mb-0 me-3">
@@ -208,7 +208,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-md-6 col-lg-4 d-flex mt-3 mt-md-4">
+                        <div class="col-12 col-sm-6 col-lg-4 d-flex">
                             <div class="card w-100">
                                 <div class="d-flex align-items-center">
                                     <span class="mb-0 me-3">

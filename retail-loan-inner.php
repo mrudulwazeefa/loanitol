@@ -23,7 +23,7 @@
         </div>
     </div>
 
-    <div class="tab-menu position-absolute d-none d-lg-block">
+    <!-- <div class="tab-menu position-absolute d-none d-lg-block">
         <ul>
             <li class="active">
                 <a href="">Overview</a>
@@ -50,9 +50,37 @@
                 <a href=""> Contact us</a>
             </li>
         </ul>
+    </div> -->
+    <!-- sticky nav -->
+    <div class="sticky-nav-wrapper container" id="scrolling-nav">
+        <div class="container d-flex align-items-center justify-content-between">
+            <button class="arrow-btn d-flex align-items-center" onclick="scrollNav(-200)">
+                <img src="assets/services/msme-loan/icons/left-arrow.svg" alt="left-arrow" width="25"
+                    class="right-arrow">
+            </button>
+            <div class="box--style">
+                <div class="scroll-container">
+                    <ul class="navbar-nav">
+                        <li class="nav-item"><a class="nav-link active" href="#overview">Overview</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#product-details">Product Details</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#emi-calculator">EMI Calculator</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Rate comparison tool</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#testimonials">Testimonials</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#fees">Respective loans</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#faqs">FAQs</a></li>
+                    </ul>
+                </div>
+            </div>
+            <button class="arrow-btn d-flex align-items-center" onclick="scrollNav(200)">
+                <img src="assets/services/msme-loan/icons/right-arrow.svg" alt="right-arrow" width="25"
+                    class="left-arrow">
+            </button>
+        </div>
     </div>
+    <!--  -->
 
-    <div class="overview mt-5 py-5">
+
+    <section class="section mt-5 py-5" id="overview">
         <div class="container mb-5">
             <h2 class="mb-3 fw-semibold">Empower Your Aspirations with Retail Loans</h2>
             <p>Retail loans are designed to empower you by providing the financial support you need, when you need
@@ -63,9 +91,11 @@
                 help you take the next step toward achieving your goals. Because your dreams deserve to come true,
                 starting today!</p>
         </div>
+    </section>
+    <div class="section" id="product-details">
         <div class="container mb-5">
             <div class="row py-3">
-                <div class="col-md-8">
+                <div class="col-lg-8">
                     <h2 class="mb-2 fw-semibold">Product Details</h2>
                     <p class="mb-4">Loanitol offers quick, hassle-free loans tailored to your needs.</p>
                     <div class="d-flex mb-2">
@@ -98,7 +128,7 @@
                             support and customer-centric solutions.</p>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="card h-100 rounded-5" style="border: none">
                         <img src="assets/retail-loan-inner/card-img.jpg" height="400px"
                             class="object-fit-cover rounded-5" alt="">
@@ -118,62 +148,65 @@
         </div>
     </div>
 
-    <div class="calculator-section py-5 border-0">
-        <div class="row">
-            <div class="col-lg-8 card rounded-0 border-0">
-                <div class="container w-75 py-5 px-5">
-                    <h2>EMI Calculator</h2>
-                    <p>Insurance & Investments - Your Financial Security with Loanitol</p>
-                    <div class="row py-3 mt-5">
-                        <div class="col-md-6 d-flex">
-                            <div class="card shadow-none w-100 text-center">
-                                <h4 class="fw-medium m-0 py-3 px-5">
-                                    ₹ 2500
-                                </h4>
-                            </div>
-                        </div>
-                        <div class="col-md-6 d-flex">
-                            <div class="card card-percent shadow-none text-center w-100">
-                                <h4 class="fw-medium m-0 py-3 px-5">9</h4>
-                            </div>
-                        </div>
-                        <div class="col-md-6 d-flex">
-                            <div class="card shadow-none mt-4 text-center w-100">
-                                <h4 class="fw-medium m-0 py-3 px-5">
-                                    25
-                                </h4>
-                            </div>
-                        </div>
-                        <div class="col-md-6 d-flex">
-                            <div class="card p-3 card-red shadow-none mt-4 text-center w-100">
-                                <p class="fw-semibold text-start">Calculate your EMI</p>
-                            </div>
-                        </div>
-                        <div class="col-md-6 d-flex">
-                            <div
-                                class="card d-flex justify-content-between card-yellow shadow-none mt-4 text-center w-100">
-                                <div class="d-flex align-items-center">
-                                    <p class="w-100 fw-semibold m-0 py-3">
-                                        EMI Amount
-                                    </p>
-                                    <p class="w-100 fw-semibold m-0 py-3">
-                                        ₹ 20.00
-                                    </p>
+    <div class="section" id="emi-calculator">
+        <div class="calculator-section py-5 border-0">
+            <div class="row">
+                <div class="col-lg-8 card rounded-0 border-0">
+                    <div class="container w-75 py-5 px-0 px-sm-5">
+                        <h2>EMI Calculator</h2>
+                        <p>Insurance & Investments - Your Financial Security with Loanitol</p>
+                        <div class="row py-3 g-3 g-md-4">
+                            <div class="col-md-6 d-flex">
+                                <div class="card shadow-none w-100 text-start">
+                                    <h4 class="fw-medium m-0 py-3 px-4">
+                                        ₹ 2500
+                                    </h4>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-md-6 d-flex">
-                            <div class="card card-green shadow-none mt-4 text-center w-100">
-                                <p class="fw-semibold">Apply Now</p>
+                            <div class="col-md-6 d-flex">
+                                <div class="card card-percent shadow-none text-start w-100">
+                                    <h4 class="fw-medium m-0 py-3 px-4">9</h4>
+                                </div>
+                            </div>
+                            <div class="col-md-6 d-flex">
+                                <div class="card shadow-none text-start w-100">
+                                    <h4 class="fw-medium m-0 py-3 px-4">
+                                        25
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-md-6 d-flex">
+                                <div
+                                    class="card d-flex justify-content-center py-3 px-4 card-red shadow-none text-start w-100">
+                                    <p class="fw-semibold text-start mb-0">Calculate your EMI</p>
+                                </div>
+                            </div>
+                            <div class="col-md-6 d-flex">
+                                <div
+                                    class="card d-flex justify-content-between card-yellow shadow-none text-center w-100">
+                                    <div class="d-flex align-items-center">
+                                        <p class="w-100 fw-semibold m-0 py-3">
+                                            EMI Amount
+                                        </p>
+                                        <p class="w-100 fw-semibold m-0 py-3">
+                                            ₹ 20.00
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 d-flex">
+                                <div class="card card-green py-3 px-4 shadow-none text-start w-100">
+                                    <p class="fw-semibold mb-0">Apply Now</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4 emi-section-right position-relative">
-                <img src="assets/retail-loan-inner/calculator.png"
-                    class="position-absolute w-100 h-100 object-fit-cover" alt="">
-                <span></span>
+                <div class="col-lg-4 emi-section-right position-relative">
+                    <img src="assets/retail-loan-inner/calculator.png"
+                        class="position-absolute w-100 h-100 object-fit-cover" alt="">
+                    <span></span>
+                </div>
             </div>
         </div>
     </div>
@@ -182,290 +215,344 @@
 
 
     <!-- Frequently Asked Questions -->
-    <div class="linear-gradient">
-        <div class="about_loan_area_gradient" style="background: none">
-            <div class="container">
-                <h4 class="h4-size">Respective loan FAQs</h4>
-                <div class="accordion mt-5" id="accordionExample">
-                    <!-- Accordion Item 1 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header p-1">
-                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item1">
-                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                Eligibility for Partnership with Loanitol
-                                <span class="ms-auto icon">
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                </span>
-                            </button>
-                        </h2>
-                        <div id="loanitol_item1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                While going directly to a bank may seem easiest, . but it can be time-consuming and
-                                potentially limit your choices and Available options .Loanitol offers a faster, more
-                                comprehensive way to explore your loan options.
-                                <ul class="pt-2">
-                                    <li>Access to Multiple Lenders: Benefit from a wider range of loan choices and more
-                                        competitive interest rates because of our established partnerships with a vast
-                                        network of banks and financial institutions.</li>
-                                    <li>Expert Guidance: Our experienced loan consultants offer personalized guidance,
-                                        simplifying the loan process and helping you understand your options,
-                                        eligibility,
-                                        and terms.</li>
-                                    <li>Negotiation on Your Behalf: Count on us to negotiate the best possible loan
-                                        terms
-                                        for you. We leverage our expertise and lender relationships to advocate for your
-                                        specific financial situation.</li>
-                                    <li>Time Savings: Streamline your loan application with us. We manage the paperwork,
-                                        communication, and entire process, saving you valuable time and effort.</li>
-                                    <li>Increased Approval Chances: We help you prepare a strong loan application,
-                                        increasing your chances of approval, especially if you have a complex financial
-                                        profile</li>
-                                </ul>
+    <section class="sectioon py-5" id="faqs">
+        <div class="linear-gradient">
+            <div class="about_loan_area_gradient" style="background: none">
+                <div class="container">
+                    <h4 class="h4-size">Respective loan FAQs</h4>
+                    <div class="accordion mt-5" id="accordionExample">
+                        <!-- Accordion Item 1 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header p-1">
+                                <button
+                                    class="accordion-button collapsed d-flex justify-content-between align-items-center"
+                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item1">
+                                    <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
+                                    Eligibility for Partnership with Loanitol
+                                    <span class="ms-auto icon">
+                                        <i class="fa fa-plus" aria-hidden="true"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="loanitol_item1" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    While going directly to a bank may seem easiest, . but it can be time-consuming and
+                                    potentially limit your choices and Available options .Loanitol offers a faster, more
+                                    comprehensive way to explore your loan options.
+                                    <ul class="pt-2">
+                                        <li>Access to Multiple Lenders: Benefit from a wider range of loan choices and
+                                            more
+                                            competitive interest rates because of our established partnerships with a
+                                            vast
+                                            network of banks and financial institutions.</li>
+                                        <li>Expert Guidance: Our experienced loan consultants offer personalized
+                                            guidance,
+                                            simplifying the loan process and helping you understand your options,
+                                            eligibility,
+                                            and terms.</li>
+                                        <li>Negotiation on Your Behalf: Count on us to negotiate the best possible loan
+                                            terms
+                                            for you. We leverage our expertise and lender relationships to advocate for
+                                            your
+                                            specific financial situation.</li>
+                                        <li>Time Savings: Streamline your loan application with us. We manage the
+                                            paperwork,
+                                            communication, and entire process, saving you valuable time and effort.</li>
+                                        <li>Increased Approval Chances: We help you prepare a strong loan application,
+                                            increasing your chances of approval, especially if you have a complex
+                                            financial
+                                            profile</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- Accordion Item 2 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header p-1">
-                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item2">
-                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                Steps to Partner with Loanitol as a DSA
-                                <span class="ms-auto icon">
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                </span>
-                            </button>
-                        </h2>
-                        <div id="loanitol_item2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                Loanitol stands out from other loan consultants through our:
-                                <ul class="pt-2">
-                                    <li>Unwavering Focus on Client Needs: We prioritize understanding your financial
-                                        goals
-                                        and needs to ensure our recommendations are the most suitable for your unique
-                                        situation.</li>
-                                    <li>Transparency and Integrity: We're dedicated to giving you clear and honest
-                                        advice
-                                        about your loan options. You'll understand everything completely .</li>
-                                    <li>Experienced and Knowledgeable Team: Rely on our loan consultants' deep knowledge
-                                        of
-                                        the financial market. They are continuously trained and updated on the latest
-                                        loan
-                                        products and regulations, ensuring you receive the best advice.</li>
-                                    <li>Strong Lender Relationships: Because we have strong relationships with a wide
-                                        range
-                                        of lenders, we can offer you competitive rates and flexible loan terms.</li>
-                                    <li>End-to-End Support: We ensure a smooth and supported loan experience, from your
-                                        initial consultation through to final repayment. We provide comprehensive
-                                        support
-                                        throughout the entire loan journey.</li>
-                                </ul>
+                        <!-- Accordion Item 2 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header p-1">
+                                <button
+                                    class="accordion-button collapsed d-flex justify-content-between align-items-center"
+                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item2">
+                                    <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
+                                    Steps to Partner with Loanitol as a DSA
+                                    <span class="ms-auto icon">
+                                        <i class="fa fa-plus" aria-hidden="true"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="loanitol_item2" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Loanitol stands out from other loan consultants through our:
+                                    <ul class="pt-2">
+                                        <li>Unwavering Focus on Client Needs: We prioritize understanding your financial
+                                            goals
+                                            and needs to ensure our recommendations are the most suitable for your
+                                            unique
+                                            situation.</li>
+                                        <li>Transparency and Integrity: We're dedicated to giving you clear and honest
+                                            advice
+                                            about your loan options. You'll understand everything completely .</li>
+                                        <li>Experienced and Knowledgeable Team: Rely on our loan consultants' deep
+                                            knowledge
+                                            of
+                                            the financial market. They are continuously trained and updated on the
+                                            latest
+                                            loan
+                                            products and regulations, ensuring you receive the best advice.</li>
+                                        <li>Strong Lender Relationships: Because we have strong relationships with a
+                                            wide
+                                            range
+                                            of lenders, we can offer you competitive rates and flexible loan terms.</li>
+                                        <li>End-to-End Support: We ensure a smooth and supported loan experience, from
+                                            your
+                                            initial consultation through to final repayment. We provide comprehensive
+                                            support
+                                            throughout the entire loan journey.</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- Accordion Item 3 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header p-1">
-                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
-                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                Eligibility Requirements for Becoming a DSA Agent with Loanitol
-                                <span class="ms-auto icon">
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                </span>
-                            </button>
-                        </h2>
-                        <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                By partnering with Loanitol, you can experience:
-                                <ul class="pt-2">
-                                    <li>Best Possible Loan Terms: We secure the most competitive interest rates, fees,
-                                        and
-                                        repayment options, guaranteeing you the best possible loan terms.</li>
-                                    <li>Simplified Loan Process: We make the loan process easy and stress-free with our
-                                        streamlined application and approval process.</li>
-                                    <li>Personalized Financial Advice: Our experts offer personalized financial advice
-                                        and
-                                        tailored guidance, empowering you to make informed decisions about your
-                                        financial
-                                        future.</li>
-                                    <li>Time and Effort Savings: Skip the tedious paperwork and stressful lender
-                                        communication. We handle it all, saving you valuable time and energy to focus on
-                                        your priorities.</li>
-                                    <li>Increased Financial Confidence: Unlock your financial potential. We empower you
-                                        with
-                                        the knowledge and support to make informed decisions and confidently achieve
-                                        your
-                                        financial goals.</li>
-                                    <li>A Commitment to Innovation: We're dedicated to providing a cutting-edge loan
-                                        experience. By leveraging technology, we streamline the entire process and make
-                                        it
-                                        as seamless as possible for you.</li>
-                                    <li>A Reputation for Excellence: We have a proven track record of successfully
-                                        helping
-                                        clients secure the right loans for their needs. We have a strong reputation for
-                                        excellence, consistently helping clients secure the ideal loans to achieve their
-                                        financial goals.</li>
-                                    <li>A Customer-Centric Approach: Your satisfaction is our priority. We are dedicated
-                                        to
-                                        providing exceptional customer service and building long-term relationships
-                                        based on
-                                        trust and mutual success.</li>
-                                    <li>Local Expertise: Our deep understanding of the local market allows us to provide
-                                        personalized loan solutions that meet your specific needs.</li>
-                                    <li>A Trusted Brand: Years of experience and satisfied customers have made us a
-                                        trusted
-                                        name in lending.</li>
-                                </ul>
+                        <!-- Accordion Item 3 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header p-1">
+                                <button
+                                    class="accordion-button collapsed d-flex justify-content-between align-items-center"
+                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                                    <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
+                                    Eligibility Requirements for Becoming a DSA Agent with Loanitol
+                                    <span class="ms-auto icon">
+                                        <i class="fa fa-plus" aria-hidden="true"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="loanitol_item3" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    By partnering with Loanitol, you can experience:
+                                    <ul class="pt-2">
+                                        <li>Best Possible Loan Terms: We secure the most competitive interest rates,
+                                            fees,
+                                            and
+                                            repayment options, guaranteeing you the best possible loan terms.</li>
+                                        <li>Simplified Loan Process: We make the loan process easy and stress-free with
+                                            our
+                                            streamlined application and approval process.</li>
+                                        <li>Personalized Financial Advice: Our experts offer personalized financial
+                                            advice
+                                            and
+                                            tailored guidance, empowering you to make informed decisions about your
+                                            financial
+                                            future.</li>
+                                        <li>Time and Effort Savings: Skip the tedious paperwork and stressful lender
+                                            communication. We handle it all, saving you valuable time and energy to
+                                            focus on
+                                            your priorities.</li>
+                                        <li>Increased Financial Confidence: Unlock your financial potential. We empower
+                                            you
+                                            with
+                                            the knowledge and support to make informed decisions and confidently achieve
+                                            your
+                                            financial goals.</li>
+                                        <li>A Commitment to Innovation: We're dedicated to providing a cutting-edge loan
+                                            experience. By leveraging technology, we streamline the entire process and
+                                            make
+                                            it
+                                            as seamless as possible for you.</li>
+                                        <li>A Reputation for Excellence: We have a proven track record of successfully
+                                            helping
+                                            clients secure the right loans for their needs. We have a strong reputation
+                                            for
+                                            excellence, consistently helping clients secure the ideal loans to achieve
+                                            their
+                                            financial goals.</li>
+                                        <li>A Customer-Centric Approach: Your satisfaction is our priority. We are
+                                            dedicated
+                                            to
+                                            providing exceptional customer service and building long-term relationships
+                                            based on
+                                            trust and mutual success.</li>
+                                        <li>Local Expertise: Our deep understanding of the local market allows us to
+                                            provide
+                                            personalized loan solutions that meet your specific needs.</li>
+                                        <li>A Trusted Brand: Years of experience and satisfied customers have made us a
+                                            trusted
+                                            name in lending.</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- Accordion Item 4 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header p-1">
-                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
-                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                Documents Required for DSA Registration with Loanitol
-                                <span class="ms-auto icon">
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                </span>
-                            </button>
-                        </h2>
-                        <div id="loanitol_item4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                <ul class="pt-2">
-                                    <li><span> Products :</span> Access a wide range of loan products to meet your
-                                        specific
-                                        needs, including: Retail loans /MSME Loans/Bridge Loans/ Loan restructuring and
-                                        One
-                                        Time Settlement </li>
-                                    <li>Loan Consultation We'll assess your unique financial situation and loan
-                                        requirements
-                                        to find the best solutions for you.</li>
-                                    <li><span>Loan Product Comparison:</span> Compare loan products from multiple
-                                        lenders
-                                        side-by-side. We offer comprehensive comparisons to help you find the perfect
-                                        fit
-                                        for your needs.</li>
-                                    <li><span>Loan Application Assistance:</span> Let our experts handle your loan
-                                        application. We provide guidance and support every step of the way, making the
-                                        process easy and stress-free. </li>
-                                    <li><span>Legal assistance :</span> We handle the complex paperwork. Our legal
-                                        assistance covers applying for and analyzing all required property documents,
-                                        saving
-                                        you time and ensuring accuracy</li>
-                                    <li><span>Documentation Support:</span> Our documentation support service ensures
-                                        you
-                                        gather and prepare all required documents accurately, minimizing delays.</li>
-                                    <li><span>Loan Tracking and Follow-up:</span> We keep you informed every step of the
-                                        way
-                                        with regular updates on the status of your loan application, providing peace of
-                                        mind.</li>
-                                    <li><span>Cibil Consultation :</span> Understand CIBIL score with our expert
-                                        guidance.
-                                        We'll help you identify areas for improvement and navigate the credit reporting
-                                        process (Elaborate if you have specific CIBIL services, e.g., dispute
-                                        resolution,
-                                        score improvement strategies).</li>
-                                    <li><span>Loan AMC (Annual Maintenance Contract):</span> We offer comprehensive
-                                        support
-                                        throughout your entire loan process, including initial consultation, loan
-                                        disbursement, and assistance throughout the entire repayment period.</li>
-                                </ul>
+                        <!-- Accordion Item 4 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header p-1">
+                                <button
+                                    class="accordion-button collapsed d-flex justify-content-between align-items-center"
+                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
+                                    <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
+                                    Documents Required for DSA Registration with Loanitol
+                                    <span class="ms-auto icon">
+                                        <i class="fa fa-plus" aria-hidden="true"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="loanitol_item4" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <ul class="pt-2">
+                                        <li><span> Products :</span> Access a wide range of loan products to meet your
+                                            specific
+                                            needs, including: Retail loans /MSME Loans/Bridge Loans/ Loan restructuring
+                                            and
+                                            One
+                                            Time Settlement </li>
+                                        <li>Loan Consultation We'll assess your unique financial situation and loan
+                                            requirements
+                                            to find the best solutions for you.</li>
+                                        <li><span>Loan Product Comparison:</span> Compare loan products from multiple
+                                            lenders
+                                            side-by-side. We offer comprehensive comparisons to help you find the
+                                            perfect
+                                            fit
+                                            for your needs.</li>
+                                        <li><span>Loan Application Assistance:</span> Let our experts handle your loan
+                                            application. We provide guidance and support every step of the way, making
+                                            the
+                                            process easy and stress-free. </li>
+                                        <li><span>Legal assistance :</span> We handle the complex paperwork. Our legal
+                                            assistance covers applying for and analyzing all required property
+                                            documents,
+                                            saving
+                                            you time and ensuring accuracy</li>
+                                        <li><span>Documentation Support:</span> Our documentation support service
+                                            ensures
+                                            you
+                                            gather and prepare all required documents accurately, minimizing delays.
+                                        </li>
+                                        <li><span>Loan Tracking and Follow-up:</span> We keep you informed every step of
+                                            the
+                                            way
+                                            with regular updates on the status of your loan application, providing peace
+                                            of
+                                            mind.</li>
+                                        <li><span>Cibil Consultation :</span> Understand CIBIL score with our expert
+                                            guidance.
+                                            We'll help you identify areas for improvement and navigate the credit
+                                            reporting
+                                            process (Elaborate if you have specific CIBIL services, e.g., dispute
+                                            resolution,
+                                            score improvement strategies).</li>
+                                        <li><span>Loan AMC (Annual Maintenance Contract):</span> We offer comprehensive
+                                            support
+                                            throughout your entire loan process, including initial consultation, loan
+                                            disbursement, and assistance throughout the entire repayment period.</li>
+                                    </ul>
 
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- Accordion Item 5 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header p-1">
-                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
-                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                Required Documents for DSA Registration with Loanitol
-                                <span class="ms-auto icon">
-                                    <i class="fa fa-plus" aria-hidden="true"></i>
-                                </span>
-                            </button>
-                        </h2>
-                        <div id="loanitol_item4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                <ul class="pt-2">
-                                    <li><span> Products :</span> Access a wide range of loan products to meet your
-                                        specific
-                                        needs, including: Retail loans /MSME Loans/Bridge Loans/ Loan restructuring and
-                                        One
-                                        Time Settlement </li>
-                                    <li>Loan Consultation We'll assess your unique financial situation and loan
-                                        requirements
-                                        to find the best solutions for you.</li>
-                                    <li><span>Loan Product Comparison:</span> Compare loan products from multiple
-                                        lenders
-                                        side-by-side. We offer comprehensive comparisons to help you find the perfect
-                                        fit
-                                        for your needs.</li>
-                                    <li><span>Loan Application Assistance:</span> Let our experts handle your loan
-                                        application. We provide guidance and support every step of the way, making the
-                                        process easy and stress-free. </li>
-                                    <li><span>Legal assistance :</span> We handle the complex paperwork. Our legal
-                                        assistance covers applying for and analyzing all required property documents,
-                                        saving
-                                        you time and ensuring accuracy</li>
-                                    <li><span>Documentation Support:</span> Our documentation support service ensures
-                                        you
-                                        gather and prepare all required documents accurately, minimizing delays.</li>
-                                    <li><span>Loan Tracking and Follow-up:</span> We keep you informed every step of the
-                                        way
-                                        with regular updates on the status of your loan application, providing peace of
-                                        mind.</li>
-                                    <li><span>Cibil Consultation :</span> Understand CIBIL score with our expert
-                                        guidance.
-                                        We'll help you identify areas for improvement and navigate the credit reporting
-                                        process (Elaborate if you have specific CIBIL services, e.g., dispute
-                                        resolution,
-                                        score improvement strategies).</li>
-                                    <li><span>Loan AMC (Annual Maintenance Contract):</span> We offer comprehensive
-                                        support
-                                        throughout your entire loan process, including initial consultation, loan
-                                        disbursement, and assistance throughout the entire repayment period.</li>
-                                </ul>
+                        <!-- Accordion Item 5 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header p-1">
+                                <button
+                                    class="accordion-button collapsed d-flex justify-content-between align-items-center"
+                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
+                                    <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
+                                    Required Documents for DSA Registration with Loanitol
+                                    <span class="ms-auto icon">
+                                        <i class="fa fa-plus" aria-hidden="true"></i>
+                                    </span>
+                                </button>
+                            </h2>
+                            <div id="loanitol_item4" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <ul class="pt-2">
+                                        <li><span> Products :</span> Access a wide range of loan products to meet your
+                                            specific
+                                            needs, including: Retail loans /MSME Loans/Bridge Loans/ Loan restructuring
+                                            and
+                                            One
+                                            Time Settlement </li>
+                                        <li>Loan Consultation We'll assess your unique financial situation and loan
+                                            requirements
+                                            to find the best solutions for you.</li>
+                                        <li><span>Loan Product Comparison:</span> Compare loan products from multiple
+                                            lenders
+                                            side-by-side. We offer comprehensive comparisons to help you find the
+                                            perfect
+                                            fit
+                                            for your needs.</li>
+                                        <li><span>Loan Application Assistance:</span> Let our experts handle your loan
+                                            application. We provide guidance and support every step of the way, making
+                                            the
+                                            process easy and stress-free. </li>
+                                        <li><span>Legal assistance :</span> We handle the complex paperwork. Our legal
+                                            assistance covers applying for and analyzing all required property
+                                            documents,
+                                            saving
+                                            you time and ensuring accuracy</li>
+                                        <li><span>Documentation Support:</span> Our documentation support service
+                                            ensures
+                                            you
+                                            gather and prepare all required documents accurately, minimizing delays.
+                                        </li>
+                                        <li><span>Loan Tracking and Follow-up:</span> We keep you informed every step of
+                                            the
+                                            way
+                                            with regular updates on the status of your loan application, providing peace
+                                            of
+                                            mind.</li>
+                                        <li><span>Cibil Consultation :</span> Understand CIBIL score with our expert
+                                            guidance.
+                                            We'll help you identify areas for improvement and navigate the credit
+                                            reporting
+                                            process (Elaborate if you have specific CIBIL services, e.g., dispute
+                                            resolution,
+                                            score improvement strategies).</li>
+                                        <li><span>Loan AMC (Annual Maintenance Contract):</span> We offer comprehensive
+                                            support
+                                            throughout your entire loan process, including initial consultation, loan
+                                            disbursement, and assistance throughout the entire repayment period.</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </section>
 
-    <div class="testimonial-section py-5">
-        <div class="container py-3">
-            <h2>What People Say About Us?</h2>
-            <p>Trusted by many, loved by all – see why people choose Loanitol!</p>
-            <div class="row pt-5">
-                <div class="col-md-4 position-relative">
-                    <img src="assets/retail-loan-inner/testimonial-img.jpg" style="border-radius: 40%" alt="">
-                    <img class="position-absolute red-logo-big" src="assets/retail-loan-inner/red-logo-big.png" alt="">
-                </div>
-                <div class="col-md-8 position-relative">
-                    <img src="assets/retail-loan-inner/gradient-logo.png" class="position-absolute end-0" alt="">
-                    <img src="assets/retail-loan-inner/icons/stars.svg" class="mb-3" alt="">
-                    <h2 class="mb-0">Will surely refer to Loanitol <br> services</h2>
-                    <p class="my-4">“I really appreciate your kind efforts, which helped me secure the Personal Loan
-                        disbursed from
-                        HDFC Bank through Ruloans Company. It was a wonderful experience dealing with you. Your
-                        dedication and hardworking approach are highly appreciable, which made the entire process
-                        smooth”</p>
-                    <div class="d-flex gap-2">
-                        <img src="assets/retail-loan-inner/icons/indicator1.svg" alt="">
-                        <img src="assets/retail-loan-inner/icons/indicator2.svg" alt="">
-                        <img src="assets/retail-loan-inner/icons/indicator3.svg" alt="">
+    <section class="section py-5" id="testimonials">
+        <div class="testimonial-section">
+            <div class="container py-3">
+                <h2>What People Say About Us?</h2>
+                <p>Trusted by many, loved by all – see why people choose Loanitol!</p>
+                <div class="row pt-5">
+                    <div class="col-md-4 position-relative">
+                        <img src="assets/retail-loan-inner/testimonial-img.jpg" style="border-radius: 40%" alt="">
+                        <img class="position-absolute red-logo-big" src="assets/retail-loan-inner/red-logo-big.png"
+                            alt="">
+                    </div>
+                    <div class="col-md-8 position-relative mt-4 mt-md-0">
+                        <img src="assets/retail-loan-inner/gradient-logo.png" class="position-absolute end-0" alt="">
+                        <img src="assets/retail-loan-inner/icons/stars.svg" class="mb-3" alt="">
+                        <h2 class="mb-0">Will surely refer to Loanitol <br> services</h2>
+                        <p class="my-4">“I really appreciate your kind efforts, which helped me secure the Personal Loan
+                            disbursed from
+                            HDFC Bank through Ruloans Company. It was a wonderful experience dealing with you. Your
+                            dedication and hardworking approach are highly appreciable, which made the entire process
+                            smooth”</p>
+                        <div class="d-flex gap-2">
+                            <img src="assets/retail-loan-inner/icons/indicator1.svg" alt="">
+                            <img src="assets/retail-loan-inner/icons/indicator2.svg" alt="">
+                            <img src="assets/retail-loan-inner/icons/indicator3.svg" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </section>
 
     <section id="contact" class="section">
         <div class="bg-contact-area">
