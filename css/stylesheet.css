@@ -1089,8 +1089,8 @@ h4 span {
 }
 
 .bg-contact-area {
-  background: #fdeded;
-  background-image: url(../assets/home/contact_area.png);
+  background: linear-gradient(to bottom, #fdeded, #ffffff);
+  /* background-image: url(../assets/home/contact_area.png); */
   background-attachment: scroll;
   background-position: right top;
   background-repeat: no-repeat;
@@ -1413,7 +1413,7 @@ h4 span {
 }
 .footer-bg-area {
   padding: 6% 0% 4% 0%;
-  background: #222020;
+  background: #0E3746;
 }
 .footer-bg-area h5 {
   font-family: var(--theme-font);
@@ -1439,7 +1439,7 @@ h4 span {
 }
 .copyright-bg-area {
   padding: 1.5% 0%;
-  background: #1c1919;
+  background: #092630;
 }
 .copyright-bg-area p {
   color: var(--white);
@@ -6941,6 +6941,9 @@ input.search-field.show-placeholder::placeholder {
 .msme-benefits-section {
   color: black !important;
 }
+.msme-benefits-section .choose_frame ul li::marker {
+  color: white !important;
+}
 .msme-loan-types-section {
   background-color: #0c3645;
   color: white;
@@ -7240,6 +7243,10 @@ input.search-field.show-placeholder::placeholder {
 }
 
 /* Retail Business Loan */
+#document .business-loan .card {
+  border: none !important;
+  border-radius: 10px !important;
+}
 .responsive-height {
   height: 300px !important;
 }
@@ -7253,7 +7260,17 @@ input.search-field.show-placeholder::placeholder {
 .fees-and-charges-section .personal-loan-documents-required-card ul li::marker {
   color: white !important ;
 }
-.eligibility-criteria-section 
+.types-of-loan-section .card {
+  border: none !important;
+  border-radius: 10px !important;
+  border: 1px solid #E2E2E2 !important;
+}
+.types-of-loan-section .card .title {
+  background-color: #fbf9f9;
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+  border-bottom: 1px solid #E2E2E2 !important;
+}
 
 
 /* Retail Loan Against Property */

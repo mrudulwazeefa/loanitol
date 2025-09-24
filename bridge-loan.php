@@ -45,39 +45,110 @@
             </div>
         </div>
 
-        <div class="bridge-loan-features-section pt-5 pb-2">
+        <div class="bridge-loan-features-section py-5">
             <img src="assets/bridge-loan/logos.png" class="logo-design img-fluid" alt="">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-8">
-                        <div class="card p-4">
-                            <h2 class="text-black mb-4">Features</h2>
-                            <ul class="px-4">
-                                <li>Short-Term: Bridge loans are intended to be taken out for a little period of time,
-                                    usually a
-                                    few weeks and up to 52 months at most. </li>
-                                <li>Greater Interest Rates: Bridge loans frequently have higher interest rates than
-                                    conventional
-                                    loans because of their short duration and the risk they entail. </li>
-                                <li>No Collateral Needed: Bridge loans are usually based on cash flow and business
-                                      turnover
-                                    and do not require collateral.</li>
-                                <li>Fast Fund Access: When necessary, bridge loans offer quick access to funds.</li>
-                                <li>Simple Documentation: Few complex papers and processing time are needed.</li>
-                                <li>The loan amount is determined by monthly turnover and payback capabilities.</li>
-                                <li>The borrower will have to repay the loan by paying weekly/monthly instalments</li>
-                            </ul>
+                <div class="row g-3 g-md-4">
+                    <h2 class="mb-4">Features</h2>
+                    <div class="col-3">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
+                            </div>
+                            <h2>Short-Term</h2>
+                            <p>
+                                Bridge loans are intended to be taken out for a little period of time, usually a few
+                                weeks and up to 52 months at most.
+                            </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 mt-4 mt-lg-0">
-                        <img class="img-fluid h-100 object-fit-cover rounded-3" class="z-100"
-                            src="assets/bridge-loan/card-img-1.jpg" alt="">
+                    <div class="col-3">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
+                            </div>
+                            <h2>Greater Interest Rates</h2>
+                            <p>
+                                Bridge loans frequently have higher interest rates than conventional loans because of
+                                their short duration and the risk they entail.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
+                            </div>
+                            <h2>No Collateral Needed</h2>
+                            <p>
+                                Bridge loans are usually based on cash flow and business   turnover and do not require
+                                collateral.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
+                            </div>
+                            <h2>Fast Fund Access</h2>
+                            <p>
+                                When necessary, bridge loans offer quick access to funds.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
+                            </div>
+                            <h2>Simple Documentation</h2>
+                            <p>
+                                Few complex papers and processing time are needed.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
+                            </div>
+                            <h2>Smart Loan Sizing</h2>
+                            <p>
+                                The loan amount is determined by monthly turnover and payback capabilities.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
+                            </div>
+                            <h2>Smart Payback Options</h2>
+                            <p>
+                                The borrower will have to repay the loan by paying weekly/monthly instalments
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="bridge-loan-eligibility-section pt-3 pb-5">
+        <!-- <div class="bridge-loan-eligibility-section pt-3 pb-5">
             <div class="container">
                 <div class="card p-4">
                     <h2 class="text-black mb-4">Eligibility</h2>
@@ -107,7 +178,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 
 

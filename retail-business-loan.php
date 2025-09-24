@@ -243,71 +243,82 @@
     </section>
 
     <section id="document" class="section">
-        <div class="linear-gradient2">
+        <div class="linear-gradient2 business-loan">
             <div class="documents-required-home-loan py-5">
                 <div class="container py-3">
                     <h2 class="mb-3 fw-semibold">Documents Required</h2>
                     <div class="row py-3">
-                        <div class="col-md-8">
-                            <div class="d-flex pb-4">
-                                <img src="assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg" alt="">
-                                <h5 class="mb-0 ms-3">Self Employed Non-professionals</h5>
-                            </div>
-                            <ul>
-                                <li>ID and Address Proof of the Applicants</li>
-                                <li>PAN of the Applicants</li>
-                                <li>ITR and Financial Statements for the Last 3 Years</li>
-                                <li>Current Bank Account Statement of the Firm for the Last 12 Months</li>
-                                <li>Residence Address Proof</li>
-                                <li>Business Address Proof</li>
-                                <li>Sanction Letter and Repayment Schedule for Existing Loans</li>
-                                <li>GST Registration Certificate and GST Returns for the Latest 2 Years</li>
-                                <li>Udhayam Registration Certificate</li>
-                                <li>Rent Agreement Copy for Factory and Residence (if the property is rented)</li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4">
-                            <ul>
-                                <li>Proof of Business Continuity for 3 Years</li>
-                                <li>For Pvt Ltd Companies:
-                                    <ul>
-                                        <li>Company PAN Card</li>
-                                        <li>Certificate of Incorporation</li>
-                                        <li>MOA (Memorandum of Association)</li>
-                                        <li>AOA (Articles of Association)</li>
-                                        <li>List of Directors</li>
-                                        <li>Shareholding Pattern</li>
+                        <div class="card p-4 d-flex">
+                            <div class="row p-2">
+                                <div class="d-flex pb-4">
+                                    <img src="assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg"
+                                        alt="">
+                                    <h5 class="mb-0 ms-3">Self Employed Non-professionals</h5>
+                                </div>
+                                <div class="col-md-8">
+                                    <ul class="mb-0 px-4">
+                                        <li>ID and Address Proof of the Applicants</li>
+                                        <li>PAN of the Applicants</li>
+                                        <li>ITR and Financial Statements for the Last 3 Years</li>
+                                        <li>Current Bank Account Statement of the Firm for the Last 12 Months</li>
+                                        <li>Residence Address Proof</li>
+                                        <li>Business Address Proof</li>
+                                        <li>Sanction Letter and Repayment Schedule for Existing Loans</li>
+                                        <li>GST Registration Certificate and GST Returns for the Latest 2 Years</li>
+                                        <li>Udhayam Registration Certificate</li>
+                                        <li>Rent Agreement Copy for Factory and Residence (if the property is rented)
+                                        </li>
                                     </ul>
-                                </li>
-                                <li>For Partnership Companies:
-                                    <ul>
-                                        <li>Partnership Deed</li>
-                                        <li>Company PAN Card</li>
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="mb-0">
+                                        <li>Proof of Business Continuity for 3 Years</li>
+                                        <li>For Pvt Ltd Companies:
+                                            <ul>
+                                                <li>Company PAN Card</li>
+                                                <li>Certificate of Incorporation</li>
+                                                <li>MOA (Memorandum of Association)</li>
+                                                <li>AOA (Articles of Association)</li>
+                                                <li>List of Directors</li>
+                                                <li>Shareholding Pattern</li>
+                                            </ul>
+                                        </li>
+                                        <li>For Partnership Companies:
+                                            <ul>
+                                                <li>Partnership Deed</li>
+                                                <li>Company PAN Card</li>
+                                            </ul>
+                                        </li>
                                     </ul>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-md-8 mt-4">
-                            <div class="d-flex">
-                                <img src="assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg" alt="">
-                                <h5 class="mb-0 ms-3">Self Employed Professional
-                                </h5>
+                                </div>
                             </div>
-                            <ul>
-                                <li>ID and Address Proof</li>
-                                <li>PAN</li>
-                                <li>Bank Account Statement for the Last 12 Months</li>
-                            </ul>
                         </div>
-                        <div class="col-md-4 mt-4">
-                            <ul>
-                                <li>Sanction Letter and Repayment Schedule for Existing Loans</li>
-                                <li>Udhayam Registration Certificate</li>
-                                <li>
-                                    Proof of Qualification</li>
-                                <li>
-                                    Registration Certificate</li>
-                            </ul>
+                        <div class="card p-4 mt-4 d-flex">
+                            <div class="row p-2">
+                                <div class="d-flex">
+                                    <img src="assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg"
+                                        alt="">
+                                    <h5 class="mb-0 ms-3">Self Employed Professional
+                                    </h5>
+                                </div>
+                                <div class="col-md-8 mt-4">
+                                    <ul class="mb-0 px-4">
+                                        <li>ID and Address Proof</li>
+                                        <li>PAN</li>
+                                        <li>Bank Account Statement for the Last 12 Months</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4 mt-0 mt-md-4">
+                                    <ul class="mb-0 px-4">
+                                        <li>Sanction Letter and Repayment Schedule for Existing Loans</li>
+                                        <li>Udhayam Registration Certificate</li>
+                                        <li>
+                                            Proof of Qualification</li>
+                                        <li>
+                                            Registration Certificate</li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

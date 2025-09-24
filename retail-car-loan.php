@@ -109,7 +109,7 @@
                     <div class="row py-4">
                         <!-- Left side: 3 cards -->
                         <div class="col-12">
-                            <div class="row">
+                            <div class="row g-3 g-md-4">
                                 <div class="col-6 col-sm-4 col-md-3">
                                     <div class="card justify-content-center text-center h-100 p-3">
                                         <span>
@@ -128,7 +128,7 @@
                                         <p class="mb-0 title">Used Car Loan</p>
                                     </div>
                                 </div>
-                                <div class="col-6 col-sm-4 col-md-3 mt-4 mt-sm-0">
+                                <div class="col-6 col-sm-4 col-md-3 ">
                                     <div class="card justify-content-center text-center h-100 p-3">
                                         <span>
                                             <img src="assets/retail-home-loan-against-property/icons/loan-against-commerical-property.svg"
@@ -137,7 +137,7 @@
                                         <p class="mb-0 title">Auto Refinance</p>
                                     </div>
                                 </div>
-                                <div class="col-6 col-sm-4 col-md-3 mt-4 mt-md-0">
+                                <div class="col-6 col-sm-4 col-md-3 ">
                                     <div class="card justify-content-center text-center h-100 p-3">
                                         <span>
                                             <img src="assets/retail-home-loan-against-property/icons/loan-against-rent-receivables.svg"

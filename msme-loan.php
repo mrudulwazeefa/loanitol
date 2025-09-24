@@ -54,113 +54,135 @@
         <div class="msme-benefits-section py-5">
             <div class="container">
                 <h2>Benefits</h2>
-                <div class="row py-4 g-3 g-sm-4">
+                <div class="row py-4 g-3 g-md-4">
                     <div class="col-lg-4 col-sm-6 d-flex">
-                        <div class="card">
-                            <div class="title p-3 py-4">
-                                <h5 class="mb-0">Collateral-Free Funding <br> based on Case merit</h5>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
                             </div>
-                            <div class="card-body">
-                                <p>Many MSME loans, especially under government schemes like CGTMSE (Credit Guarantee
-                                    Fund
-                                    Trust for Micro and Small Enterprises), do not require any collateral, making it
-                                    easier
-                                    for small business owners to secure funds.</p>
-                            </div>
+                            <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                            <p class="mb-0">
+                                Many MSME loans, especially under government schemes like CGTMSE (Credit Guarantee Fund
+                                Trust for Micro and Small Enterprises), do not require any collateral, making it easier
+                                for small business owners to secure funds.
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 d-flex">
-                        <div class="card">
-                            <div class="title p-3 py-4">
-                                <h5 class="mb-0">Flexible Loan Tenure and <br> Repayment</h5>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
                             </div>
-                            <div class="card-body">
-                                <p>Borrowers can choose repayment periods based on their business cash flow—usually
-                                    ranging
-                                    from 1 to 7 years—with options for monthly, quarterly, or customized EMI plans.</p>
-                            </div>
+                            <h2>Flexible Loan Tenure and <br> Repayment</h2>
+                            <p class="mb-0">
+                                Borrowers can choose repayment periods based on their business cash flow—usually ranging
+                                from 1 to 7 years—with options for monthly, quarterly, or customized EMI plans.
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 d-flex">
-                        <div class="card">
-                            <div class="title p-3 py-4">
-                                <h5 class="mb-0">Access to Government <br> Incentives</h5>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
                             </div>
-                            <div class="card-body">
-                                <p>Loans under schemes like PMMY (Pradhan Mantri MUDRA Yojana) or Stand-Up India come
-                                    with
-                                    benefits such as interest subsidies, reduced processing charges, and easier
-                                    eligibility
-                                    norms depends on Case to case</p>
-                            </div>
+                            <h2>Access to Government <br> Incentives</h2>
+                            <p class="mb-0">
+                                Loans under schemes like PMMY (Pradhan Mantri MUDRA Yojana) or Stand-Up India come with
+                                benefits such as interest subsidies, reduced processing charges, and easier eligibility
+                                norms depends on Case to case
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 d-flex">
-                        <div class="card">
-                            <div class="title p-3 py-4">
-                                <h5 class="mb-0">Improved Cash Flow <br> Management</h5>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
                             </div>
-                            <div class="card-body">
-                                <p>These loans can be used to strengthen day-to-day operations by maintaining a steady
-                                    cash
-                                    flow, paying suppliers, and managing seasonal fluctuations in income.</p>
-                            </div>
+                            <h2>Improved Cash Flow <br> Management</h2>
+                            <p class="mb-0">
+                                These loans can be used to strengthen day-to-day operations by maintaining a steady cash
+                                flow, paying suppliers, and managing seasonal fluctuations in income.
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 d-flex">
-                        <div class="card">
-                            <div class="title p-3 py-4">
-                                <h5 class="mb-0">Supports Business Expansion</h5>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
                             </div>
-                            <div class="card-body">
-                                <p>MSME loans help businesses upgrade technology, expand to new markets, open new
-                                    branches,
-                                    or enhance infrastructure and staffing.</p>
-                            </div>
+                            <h2>Supports Business Expansion</h2>
+                            <p class="mb-0">
+                                MSME loans help businesses upgrade technology, expand to new markets, open new branches,
+                                or enhance infrastructure and staffing.
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 d-flex">
-                        <div class="card">
-                            <div class="title p-3 py-4">
-                                <h5 class="mb-0">Builds Business Credit Profile</h5>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
                             </div>
-                            <div class="card-body">
-                                <p>Timely repayment of MSME loans helps build a positive credit history, increasing the
-                                    chance of securing larger funds in the future.</p>
-                            </div>
+                            <h2>Builds Business Credit Profile</h2>
+                            <p class="mb-0">
+                                Timely repayment of MSME loans helps build a positive credit history, increasing the
+                                chance of securing larger funds in the future.
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 d-flex">
-                        <div class="card">
-                            <div class="title p-3 py-4">
-                                <h5 class="mb-0">Boosts Employment and Local Economies</h5>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
                             </div>
-                            <div class="card-body">
-                                <p>MSME loans help businesses grow, which in turn leads to job creation and economic
-                                    development in local communities.</p>
-                            </div>
+                            <h2>Boosts Employment and Local Economies</h2>
+                            <p class="mb-0">
+                                We prioritize understanding your financial goals and needs to ensure our recommendations
+                                are the most
+                                suitable for your unique situation.
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 d-flex">
-                        <div class="card">
-                            <div class="title p-3 py-4">
-                                <h5 class="mb-0">Lower Interest Rates (Especially Under Government Schemes)</h5>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
                             </div>
-                            <div class="card-body">
-                                <p>Many MSME loans come
-                                    with subsidized interest rates under schemes like:</p>
-                            </div>
+                            <h2>Lower Interest Rates </h2>
+                            <p class="mb-0">
+                                Many MSME loans come with subsidized interest rates under schemes like:
+                                CGTMSE and PMMY, making borrowing more affordable for small businesses.
+
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 d-flex">
-                        <div class="card">
-                            <div class="title p-3 py-4">
-                                <h5 class="mb-0">Sector-Specific Loan Products</h5>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
                             </div>
-                            <div class="card-body">
-                                <p>Timely repayment of MSME loans helps build a positive credit history, increasing the
-                                    chance of securing larger funds in the future.</p>
-                            </div>
+                            <h2>Sector-Specific Loan Products</h2>
+                            <p class="mb-0">
+                                Customized MSME loans are available for: Traders and retailers, Manufacturers, Service
+                                providers. This ensures funding is tailored to sectoral needs.
+                            </p>
                         </div>
                     </div>
                 </div>

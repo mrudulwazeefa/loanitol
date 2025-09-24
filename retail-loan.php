@@ -31,7 +31,6 @@
         </div>
     </div>
 
-
     <div class="linear-gradient">
         <div class="retail-loan-overview-section py-2 mt-5">
             <div class="container py-3">
@@ -59,92 +58,189 @@
                 <h2>Benefits</h2>
                 <div class="row py-5 g-3 g-md-4">
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <div class="card justify-content-center text-center p-3 h-100">
-                            <span>
-                                <img src="assets/retail-loan/icons/easy-access-to-fund.svg" alt="">
-                            </span>
-                            <p class="title">Easy Access to <br> Funds</p>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/retail-loan/icons/easy-access-to-fund.svg" alt="">
+                                </div>
+                            </div>
+                            <h2>Easy access to funds</h2>
+                            <p>
+                                We prioritize understanding your financial goals and needs to ensure our recommendations
+                                are the most
+                                suitable for your unique situation.
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <div class="card justify-content-center text-center p-3 h-100">
-                            <span>
-                                <img src="assets/retail-loan/icons/affordable-and-flexible-repayment-term.svg" alt="">
-                            </span>
-                            <p class="title">Affordable and <br> Flexible Repayment <br> Terms</p>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/retail-loan/icons/affordable-and-flexible-repayment-term.svg" alt="">
+                                </div>
+                            </div>
+                            <h2>Affordable and Flexible Repayment Terms</h2>
+                            <p>
+                                We prioritize understanding your financial goals and needs to ensure our recommendations
+                                are the most
+                                suitable for your unique situation.
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <div class="card justify-content-center text-center p-3 h-100">
-                            <span>
-                                <img src="assets/retail-loan/icons/loan-against-commerical-property.svg" alt="">
-                            </span>
-                            <p class="title">Competitive Interest <br> Rates</p>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/retail-loan/icons/loan-against-commerical-property.svg" alt="">
+                                </div>
+                            </div>
+                            <h2>Competitive Interest Rates</h2>
+                            <p>
+                                We prioritize understanding your financial goals and needs to ensure our recommendations
+                                are the most
+                                suitable for your unique situation.
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <div class="card justify-content-center text-center p-3 h-100">
-                            <span>
-                                <img src="assets/retail-loan/icons/improves-credit-score.svg" alt="">
-                            </span>
-                            <p class="title">Improves Credit <br> Score</p>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/retail-loan/icons/improves-credit-score.svg" alt="">
+                                </div>
+                            </div>
+                            <h2>Improves Credit Score</h2>
+                            <p>
+                                We prioritize understanding your financial goals and needs to ensure our recommendations
+                                are the most
+                                suitable for your unique situation.
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <div class="card justify-content-center text-center p-3 h-100">
-                            <span>
-                                <img src="assets/retail-loan/icons/no-collateral-required.svg" alt="">
-                            </span>
-                            <p class="title">No Collateral Required <br> (For Unsecured Loans)</p>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/retail-loan/icons/no-collateral-required.svg" alt="">
+                                </div>
+                            </div>
+                            <h2>No Collateral Required (For Unsecured Loans)</h2>
+                            <p>
+                                We prioritize understanding your financial goals and needs to ensure our recommendations
+                                are the most
+                                suitable for your unique situation.
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <div class="card justify-content-center text-center p-3 h-100">
-                            <span>
-                                <img src="assets/retail-loan/icons/loan-against-special-property.svg" alt="">
-                            </span>
-                            <p class="title">Customizable <br> Loan Products</p>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/retail-loan/icons/loan-against-special-property.svg" alt="">
+                                </div>
+                            </div>
+                            <h2>Customizable Loan Products</h2>
+                            <p>
+                                We prioritize understanding your financial goals and needs to ensure our recommendations
+                                are the most
+                                suitable for your unique situation.
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <div class="card justify-content-center text-center p-3 h-100">
-                            <span>
-                                <img src="assets/retail-loan/icons/tax-benefits.svg" alt="">
-                            </span>
-                            <p class="title">Tax Benefits (For <br> Some Loan Types)</p>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/retail-loan/icons/tax-benefits.svg" alt="">
+                                </div>
+                            </div>
+                            <h2>Tax Benefits (For Some Loan Types)</h2>
+                            <p>
+                                We prioritize understanding your financial goals and needs to ensure our recommendations
+                                are the most
+                                suitable for your unique situation.
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <div class="card justify-content-center text-center p-3 h-100">
-                            <span>
-                                <img src="assets/retail-loan/icons/loan-against-vacant-land.svg" alt="">
-                            </span>
-                            <p class="title">Hassle-Free <br> Application Process</p>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/retail-loan/icons/loan-against-vacant-land.svg" alt="">
+                                </div>
+                            </div>
+                            <h2>Hassle-Free Application Process</h2>
+                            <p>
+                                We prioritize understanding your financial goals and needs to ensure our recommendations
+                                are the most
+                                suitable for your unique situation.
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <div class="card justify-content-center text-center p-3 h-100">
-                            <span>
-                                <img src="assets/retail-loan/icons/access-to-higher-loan-amount.svg" alt="">
-                            </span>
-                            <p class="title">Access to Higher Loan <br> Amounts (For Secured <br> Loans)</p>
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/retail-loan/icons/access-to-higher-loan-amount.svg" alt="">
+                                </div>
+                            </div>
+                            <h2>Access to Higher Loan Amounts (For Secured Loans)</h2>
+                            <p>
+                                We prioritize understanding your financial goals and needs to ensure our recommendations
+                                are the most
+                                suitable for your unique situation.
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <div class="card justify-content-center text-center p-3 h-100">
-                            <span>
-                                <img src="assets/retail-loan/icons/support-financials-planning-and-stability.svg"
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/retail-loan/icons/support-financials-planning-and-stability.svg"
                                     alt="">
-                            </span>
-                            <p class="title">Supports Financial <br> Planning and Stability</p>
+                                </div>
+                            </div>
+                            <h2>Supports Financial Planning and Stability</h2>
+                            <p>
+                                We prioritize understanding your financial goals and needs to ensure our recommendations
+                                are the most
+                                suitable for your unique situation.
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <div class="card justify-content-center text-center p-3 h-100">
+                        <!-- <div class="card justify-content-center text-center p-3 h-100">
                             <span>
                                 <img src="assets/retail-loan/icons/fixed-sum-and-repayment.svg" alt="">
                             </span>
                             <p class="title">Fixed Sum <br> and Repayment</p>
+                        </div> -->
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/retail-loan/icons/fixed-sum-and-repayment.svg" alt="">
+                                </div>
+                            </div>
+                            <h2>Fixed Sum and Repayment</h2>
+                            <p>
+                                We prioritize understanding your financial goals and needs to ensure our recommendations
+                                are the most
+                                suitable for your unique situation.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/home/icons/client-needs.svg">
+                                </div>
+                            </div>
+                            <h2>Customizable Loan Products </h2>
+                            <p>
+                                Banks offer tailored products to suit different needs
+                                No new retail loan type, so add any design to fill that gap
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -223,7 +319,8 @@
                 <div class="col-lg-4 h-100">
                     <div class="row h-100">
                         <div class="col-12 mt-4 mt-lg-0 w-100 h-100">
-                            <img src="assets/retail-loan/card-img.jpg" height="250px" class="card-img object-fit-cover image-cover w-100" alt="">
+                            <img src="assets/retail-loan/card-img.jpg" height="250px"
+                                class="card-img object-fit-cover image-cover w-100" alt="">
                         </div>
                     </div>
                 </div>
