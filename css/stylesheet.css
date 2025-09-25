@@ -6774,9 +6774,9 @@ input.search-field.show-placeholder::placeholder {
   height: 230px !important;
   border-radius: 10px;
 }
-.funding-crucial-section-1 img {
+/* .funding-crucial-section-1 img {
   border-radius: 10px;
-}
+} */
 .funding-crucial-section-2 {
   background: linear-gradient(to bottom, #fff3f5, #ffffff);
   padding: 4rem 0;

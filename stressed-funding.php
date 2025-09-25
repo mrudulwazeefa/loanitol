@@ -32,64 +32,74 @@
         </div>
     </div>
 
-    <div class="bridge-loan-description referral-partner-description-section pt-5 pb-3">
-        <div class="container">
-            <div class="description py-2">
-                Financial aid given to companies or organizations facing significant financial difficulties, immediate
-                liquidity constraints, or unanticipated economic crisis is referred to as distress funding. Critical
-                events like corporate downturns, economic crises, natural disasters, or financial troubles are usually
-                when this kind of finance is used. Providing instant money is the main goal in order to help debtors
-                recover and stabilize their financial situation.
-                <br>
-                <br>
-                Distressed finance is a specialist financial solution intended for companies who are experiencing
-                operational setbacks, liquidity issues, or financial duress. It provides crucial funding to help company
-                reorganization, maintain operations, or aid in financial recovery. These funding options are designed
-                for businesses that are now struggling financially but have significant future cash flow potential.
+    <div class="linear-gradient">
+        <div class="bridge-loan-description referral-partner-description-section pt-5 pb-3">
+            <div class="container">
+                <div class="description py-2">
+                    Financial aid given to companies or organizations facing significant financial difficulties,
+                    immediate
+                    liquidity constraints, or unanticipated economic crisis is referred to as distress funding. Critical
+                    events like corporate downturns, economic crises, natural disasters, or financial troubles are
+                    usually
+                    when this kind of finance is used. Providing instant money is the main goal in order to help debtors
+                    recover and stabilize their financial situation.
+                    <br>
+                    <br>
+                    Distressed finance is a specialist financial solution intended for companies who are experiencing
+                    operational setbacks, liquidity issues, or financial duress. It provides crucial funding to help
+                    company
+                    reorganization, maintain operations, or aid in financial recovery. These funding options are
+                    designed
+                    for businesses that are now struggling financially but have significant future cash flow potential.
+                </div>
             </div>
         </div>
-    </div>
-
-    <div class="stressed-funding-features-section py-5">
-        <div class="container">
-            <h2>Features</h2>
-            <div class="row py-3">
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
-                    <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
-                        Loan Type: Term Loan
+        <img class="logo-design img-fluid" src="assets/msme-loan/logos.png" alt="">
+        <div class="stressed-funding-features-section py-5">
+            <div class="container">
+                <h2>Features</h2>
+                <div class="row py-3">
+                    <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
+                        <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
+                            Loan Type: Term Loan
+                        </div>
                     </div>
-                </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
-                    <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
-                        Loan Amount: ₹2 <br> Crores and above
+                    <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
+                        <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
+                            Loan Amount: ₹2 <br> Crores and above
+                        </div>
                     </div>
-                </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
-                    <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
-                        Tenure: Up to 10 years
+                    <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
+                        <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
+                            Tenure: Up to 10 years
+                        </div>
                     </div>
-                </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
-                    <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
-                        Interest Rate: 14% <br> onwards (based on risk <br> assessment)
+                    <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
+                        <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
+                            Interest Rate: 14% <br> onwards (based on risk <br> assessment)
+                        </div>
                     </div>
-                </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
-                    <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
-                        Property Coverage: <br> Minimum 200% of loan <br> amount as collateral
+                    <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
+                        <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
+                            Property Coverage: <br> Minimum 200% of loan <br> amount as collateral
+                        </div>
                     </div>
-                </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
-                    <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
-                        Processing Fee: As per <br> financial Institutions
+                    <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
+                        <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
+                            Processing Fee: As per <br> financial Institutions
+                        </div>
                     </div>
-                </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
-                    <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
-                        Repayment: Structured <br> as per business cash <br> flow
+                    <div class="col-6 col-sm-6 col-md-4 col-lg-3 g-3 g-sm-4 ">
+                        <div class="card p-4 h-100 d-flex align-items-center justify-content-center text-center">
+                            Repayment: Structured <br> as per business cash <br> flow
+                        </div>
                     </div>
                 </div>
             </div>
+        </div>
+
+        <div class="benefits-section">
+            
         </div>
     </div>
 
@@ -193,7 +203,8 @@
                 </div>
                 <div class="col-md-4 mt-3 mt-md-5">
                     <div class="card h-100" style="boder: none; border-radius:10px">
-                        <img class="rounded-3 object-fit-cover h-100 w-100" src="assets/stressed-funding/card-img-2.jpg" alt="">
+                        <img class="rounded-3 object-fit-cover h-100 w-100" src="assets/stressed-funding/card-img-2.jpg"
+                            alt="">
                     </div>
                 </div>
             </div>

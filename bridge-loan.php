@@ -49,12 +49,12 @@
             <img src="assets/bridge-loan/logos.png" class="logo-design img-fluid" alt="">
             <div class="container">
                 <div class="row g-3 g-md-4">
-                    <h2 class="mb-4">Features</h2>
-                    <div class="col-3">
+                    <h2 class="mb-4 fw-semibold">Features</h2>
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/bridge-loan/icon/short-term-loan.svg">
                                 </div>
                             </div>
                             <h2>Short-Term</h2>
@@ -64,11 +64,11 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-3">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/bridge-loan/icon/greater-interest-rate.svg">
                                 </div>
                             </div>
                             <h2>Greater Interest Rates</h2>
@@ -78,11 +78,11 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-3">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/bridge-loan/icon/no-collateral.svg">
                                 </div>
                             </div>
                             <h2>No Collateral Needed</h2>
@@ -92,11 +92,11 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-3">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/bridge-loan/icon/fast-fund-access.svg">
                                 </div>
                             </div>
                             <h2>Fast Fund Access</h2>
@@ -105,11 +105,11 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-3">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/bridge-loan/icon/simple-documentation.svg">
                                 </div>
                             </div>
                             <h2>Simple Documentation</h2>
@@ -118,11 +118,11 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-3">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/bridge-loan/icon/smart-loan.svg">
                                 </div>
                             </div>
                             <h2>Smart Loan Sizing</h2>
@@ -131,11 +131,11 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-3">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/bridge-loan/icon/smart-payback.svg">
                                 </div>
                             </div>
                             <h2>Smart Payback Options</h2>

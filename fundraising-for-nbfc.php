@@ -55,62 +55,77 @@
 
     <div class="funding-crucial-section-1 py-5">
         <div class="container">
-            <h3>Why Funding is Crucial</h3>
+            <h3 class="fw-semibold">Why Funding is Crucial</h3>
             <div class="row py-5 g-3 g-md-4">
-                <div class="col-sm-6 col-md-4 d-flex">
+                <div class="col-sm-6 col-md-4 col-lg-6 d-flex">
                     <div class="card img-card w-100">
                         <img height="100px" class="img-fluid w-100 h-100 object-fit-cover"
                             src="assets/fundraising-for-nbfc/card-img.jpg" style="object-position: top" alt="">
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 d-flex">
-                    <div class="card w-100">
-                        <div class="title p-4">
-                            <h5 class="mb-0">Capital Adequacy</h5>
+                <div class="col-sm-6 col-md-4 col-lg-3 d-flex">
+                    <div class="choose_frame w-100">
+                        <div class="icon-frame">
+                            <div class="second-frame">
+                                <img src="assets/fundraising-for-nbfc/icons/capital-adequancy.svg">
+                            </div>
                         </div>
-                        <div class="card-body p-4">
-                            <p>To maintain required Capital Adequacy Ratio (CAR) as per RBI norms.</p>
-                        </div>
+                        <h2>Capital Adequancy</h2>
+                        <p class="mb-0">
+                            To maintain required Capital Adequacy Ratio (CAR) as per RBI norms.
+                        </p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 d-flex">
-                    <div class="card w-100">
-                        <div class="title p-4">
-                            <h5 class="mb-0">Loan Portfolio Growth</h5>
+                <div class="col-sm-6 col-md-4 col-lg-3 d-flex">
+                    <div class="choose_frame w-100">
+                        <div class="icon-frame">
+                            <div class="second-frame">
+                                <img src="assets/fundraising-for-nbfc/icons/loan-portfolio-growth.svg">
+                            </div>
                         </div>
-                        <div class="card-body p-4">
-                            <p>To fund for lending activities to expand their business</p>
-                        </div>
+                        <h2>Loan Portfolio Growth</h2>
+                        <p class="mb-0">
+                            To fund for lending activities to expand their business
+                        </p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 d-flex">
-                    <div class="card w-100 w-100">
-                        <div class="title p-4">
-                            <h5 class="mb-0">Loan Portfolio Growth</h5>
+                <div class="col-sm-6 col-md-4 col-lg-3 d-flex">
+                    <div class="choose_frame w-100">
+                        <div class="icon-frame">
+                            <div class="second-frame">
+                                <img src="assets/fundraising-for-nbfc/icons/liquidity-management.svg">
+                            </div>
                         </div>
-                        <div class="card-body p-4">
-                            <p>To fund for lending activities to expand their business</p>
-                        </div>
+                        <h2>Liquidity Management</h2>
+                        <p class="mb-0">
+                            To ensure sufficient funds for day-to-day operations and meeting obligations.
+                        </p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 d-flex">
-                    <div class="card w-100 w-100">
-                        <div class="title p-4">
-                            <h5 class="mb-0">Loan Portfolio Growth</h5>
+                <div class="col-sm-6 col-md-4 col-lg-3 d-flex">
+                    <div class="choose_frame w-100">
+                        <div class="icon-frame">
+                            <div class="second-frame">
+                                <img src="assets/fundraising-for-nbfc/icons/expansion-and-diversification.svg">
+                            </div>
                         </div>
-                        <div class="card-body p-4">
-                            <p>To fund for lending activities to expand their business</p>
-                        </div>
+                        <h2>Expansion & Diversification</h2>
+                        <p class="mb-0">
+                            To fund for lending activites to expand their business.
+                        </p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 d-flex">
-                    <div class="card w-100 w-100">
-                        <div class="title p-4">
-                            <h5 class="mb-0">Loan Portfolio Growth</h5>
+                <div class="col-sm-6 col-md-4 col-lg-3 d-flex">
+                    <div class="choose_frame w-100">
+                        <div class="icon-frame">
+                            <div class="second-frame">
+                                <img src="assets/fundraising-for-nbfc/icons/technological-upgradation.svg">
+                            </div>
                         </div>
-                        <div class="card-body p-4">
-                            <p>To fund for lending activities to expand their business</p>
-                        </div>
+                        <h2>Technological Upgradation</h2>
+                        <p class="mb-0">
+                            To invest in technology inorder to improve efficiency and reach.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -119,12 +134,12 @@
 
     <div class="funding-crucial-section-2 py-5">
         <div class="container py-3">
-            <h3>Why Funding is Crucial</h3>
+            <h3 class="fw-semibold">Why Funding is Crucial</h3>
             <div class="row py-5 g-3 g-md-4">
                 <div class="col-sm-6 col-md-4 col-lg-3">
                     <div class="card justify-content-center text-center p-3 h-100">
                         <span>
-                            <img class="icons" src="assets/fundraising-for-nbfc/icons/term-loans.svg"
+                            <img class="icons" src="assets/fundraising-for-nbfc/icons/capital-adequancy.svg"
                                 alt="Legal Compliance">
                         </span>
                         <p class="advisory-service-title">Team Loans</p>
@@ -137,16 +152,6 @@
                                 alt="Legal Compliance">
                         </span>
                         <p class="advisory-service-title">Finance against <br> Assets</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons"
-                                src="assets/fundraising-for-nbfc/icons/on-lending-to-individuals-groups.svg"
-                                alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title">On-lending to <br> Individuals/Groups</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
