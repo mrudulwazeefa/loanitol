@@ -6821,6 +6821,9 @@ input.search-field.show-placeholder::placeholder {
     height: 35px;
   }
 }
+.regulations-section li::marker {
+  color: white !important;
+}
 .regulations-section {
   background-color: #0c3645;
   color: white !important;
@@ -6853,6 +6856,9 @@ input.search-field.show-placeholder::placeholder {
   font-family: var(--theme-font);
   position: relative;
   background-color: #d81f37;
+}
+.red-section li::marker {
+  color: white !important;
 }
 .banner-section {
   font-family: var(--theme-font);
