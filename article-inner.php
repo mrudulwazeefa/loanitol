@@ -10,7 +10,7 @@
             <div class="row d-flex align-items-center">
                 <div class="col-lg-12">
                     <!-- <h6 class=" h6-size col-sm-10 mb-0"> -->
-                    <h6 class="col-sm-10 mb-0">
+                    <h6 class="col-sm-10 mb-0 mt-5 mt-md-0">
                         <span class="breadcrumb-navigation" style="font-family: 14px; color: #221E1E">Home > Recent
                             Article</span>
                     </h6>

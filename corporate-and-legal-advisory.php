@@ -147,7 +147,7 @@
                 <div class="row custom-row mt-4 justify-content-between">
                     <div class="col-md-6 d-flex flex-fill">
                         <div class="row g-3">
-                            <div class="col-md-12 mt-4">
+                            <div class="col-md-12 mt-3 mt-md-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
@@ -173,7 +173,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-12 mt-4">
+                            <div class="col-md-12 mt-3 mt-md-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
@@ -196,7 +196,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-12 mt-4">
+                            <div class="col-md-12 mt-3 mt-md-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
@@ -229,7 +229,7 @@
                     </div>
                     <div class="col-md-6 mt-3 mt-md-0">
                         <div class="row g-3">
-                            <div class="col-md-12 mt-4">
+                            <div class="col-md-12 mt-3 mt-md-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
@@ -257,7 +257,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-12 mt-4">
+                            <div class="col-md-12 mt-3 mt-md-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
@@ -282,7 +282,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-12 mt-4">
+                            <div class="col-md-12 mt-3 mt-md-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
@@ -315,7 +315,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-6 d-flex mt-4">
+                    <div class="col-md-6 d-flex mt-3 mt-md-4">
                         <div class="card same-height">
                             <div class="card-body">
                                 <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
@@ -331,7 +331,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 d-flex mt-4">
+                    <div class="col-md-6 d-flex mt-3 mt-md-4">
                         <div class="card same-height">
                             <div class="card-body">
                                 <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"

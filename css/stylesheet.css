@@ -5410,6 +5410,10 @@ img {
 
 @import url("https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@100..800&display=swap");
 
+.hero-small--section-area span {
+  color: #5B5B5D;
+  font-family: var(--theme-font);
+}
 .h5-size span {
   color: #d81f37;
 }
@@ -5752,7 +5756,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .breadcrumb-navigation {
   font-family: 14px !important;
-  color: #666666 !important;
+  color: #5B5B5D !important;
 }
 .hero-small--section-area {
   height: 316px;
@@ -5843,6 +5847,9 @@ input.search-field.show-placeholder::placeholder {
 }
 
 /* owl carousel for article inner page */
+.hero-smaller--section-area {
+  font-family: var(--theme-font);
+}
 .article-partner-owl .owl-dots .owl-dot.active span {
   background: #d81f37 !important; /* Bootstrap primary or any color you want */
 }
@@ -6130,17 +6137,9 @@ input.search-field.show-placeholder::placeholder {
   background: linear-gradient(to bottom, #ffffff, #fff3f5);
 }
 .finance-accounting-container .finance-service-section .card {
-  border: 1px solid #e2e2e2 !important;
   font-family: var(--theme-font) !important;
   border-radius: 10px;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
-  transition: all 0.3s ease-in-out;
-  transform: translateY(0);
-}
-.finance-accounting-container .finance-service-section .card:hover {
-  box-shadow: 0px 0px 32px 7px #ffedf0 !important;
-  transform: translateY(-5px);
-  border-color: #ffc0cb !important;
 }
 .finance-accounting-container .finance-service-section .card .title {
   border-bottom: 1px solid #e2e2e2 !important;
@@ -6150,18 +6149,10 @@ input.search-field.show-placeholder::placeholder {
   font-weight: 500;
 }
 .finance-accounting-container .accounting-service-section .card {
-  border: 1px solid #e2e2e2 !important;
   font-family: var(--theme-font) !important;
   border-radius: 10px;
   height: 230px !important;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
-  transition: all 0.3s ease-in-out;
-  transform: translateY(0);
-}
-.finance-accounting-container .accounting-service-section .card:hover {
-  box-shadow: 0px 0px 32px 7px #ffedf0 !important;
-  transform: translateY(-5px);
-  border-color: #ffc0cb !important;
 }
 .finance-accounting-container .accounting-service-section .card .title {
   border-bottom: 1px solid #e2e2e2 !important;
@@ -7002,9 +6993,6 @@ input.search-field.show-placeholder::placeholder {
   border-radius: 10px !important;
   border: none;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03);
-}
-.sme-ipo-features-section .card img {
-  border-radius: 10px;
 }
 .sme-ipo-features-section .card span {
   position: relative;

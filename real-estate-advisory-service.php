@@ -50,7 +50,7 @@
                         navigating the intricacies of the real estate market, and creating plans that complement their
                         investment and financial objectives.</p>
                     <div class="container p-0">
-                        <div class="row pt-5 g-2 g-md-4">
+                        <div class="row pt-5 g-3 g-md-4">
                             <div class="col-12 col-sm-6 col-lg-4">
                                 <div class="card h-100 d-flex flex-column">
                                     <div class="title text-start p-3 py-4">
@@ -207,9 +207,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
+                            <div class="col-12 col-sm-12 col-lg-4">
                                 <div class="card h-100 d-flex flex-column">
-                                    <img class="h-100 w-100 object-fit-cover"
+                                    <img class="w-100 h-100 object-fit-cover" height="220px"
                                         src="assets/real-estate-advisory-service/home.jpg"
                                         style="object-position: top; border-radius: 10px" alt="">
                                 </div>
@@ -357,7 +357,7 @@
             <h2 class="text-white pb-4">Benefits Of Real Estate Advisory</h2>
             <div class="card-container">
                 <div class="container px-0 py-4">
-                    <div class="row g-4">
+                    <div class="row g-3 g-md-4">
                         <div class="col-md-6 d-flex">
                             <div class="card text-white bg-dark h-100 p-3 rounded-3">
                                 <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
@@ -593,19 +593,9 @@
         </div>
     </section>
 
-    <?php include("includes/calc.php"); ?>
+    <?php include("includes/calculation-bottom.php"); ?>
     <?php include("includes/footer.php"); ?>
 
-    <script>
-    // Pause modal video when closed
-    $('#exampleModal').on('hidden.bs.modal', function() {
-        var video = document.getElementById('modalVideo');
-        if (video) {
-            video.pause();
-            video.currentTime = 0;
-        }
-    });
-    </script>
 
 </body>
 

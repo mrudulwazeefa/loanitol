@@ -85,7 +85,7 @@
                             <div class="col-sm-6">
                                 <div class="card justify-content-center text-center p-3">
                                     <span>
-                                        <img src="assets/sme-ipo/icons/investor-liquidity.svg" alt="">
+                                        <img src="assets/sme-ipo/icons/controlled-trading-environment.svg" alt="">
                                     </span>
                                     <p class="title">Controlled Trading <br> Environment</p>
                                 </div>
@@ -93,26 +93,26 @@
                             <div class="col-sm-6">
                                 <div class="card justify-content-center text-center p-3">
                                     <span>
-                                        <img src="assets/sme-ipo/icons/investor-liquidity.svg" alt="">
+                                        <img src="assets/sme-ipo/icons/suppliers-and-vendors.svg" alt="">
                                     </span>
                                     <p class="title">Suppliers & Vendors</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-12 col-lg-4 mt-3 mt-lg-0">
-                        <div class="row g-3 g-md-4">
+                    <div class="col-md-12 col-lg-4">
+                        <div class="row g-3 g-md-4 pt-4 pt-lg-0">
                             <div class="col-md-6 col-lg-12">
                                 <div class="card justify-content-center text-center p-3">
                                     <span>
                                         <img src="assets/sme-ipo/icons/trading-restrictions.svg" alt="">
                                     </span>
-                                    <p class="title">Trading Restrictions</p>
+                                    <p class="title">Trading Restrictions</p>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-12">
-                                <img src="assets/sme-ipo/card-img.jpg" height="435px"
-                                    class="w-100 object-fit-cover" style="border-radius: 10px" alt="">
+                                <img src="assets/sme-ipo/card-img.jpg" height="435px" class="w-100 object-fit-cover"
+                                    style="border-radius: 10px" alt="">
                             </div>
                         </div>
                     </div>
@@ -298,63 +298,88 @@
             <p>Our comprehensive SME IPO consultation covers:</p>
             <div class="row py-4">
                 <div class="col-lg-4 col-sm-6 d-flex">
-                    <div class="card w-100">
-                        <div class="title p-3 py-4">
-                            <h5 class="mb-0">IPO Feasibility Assessment</h5>
+                    <div class="choose_frame w-100">
+                        <div class="icon-frame">
+                            <div class="second-frame">
+                                <img src="assets/home/icons/client-needs.svg">
+                            </div>
                         </div>
-                        <div class="card-body">
-                            <p>Evaluating your business’s readiness for public listing.</p>
-                        </div>
+                        <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                        <p class="mb-0">
+                            Evaluating your business’s readiness for public listing.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 d-flex mt-3 mt-md-0">
-                    <div class="card w-100">
-                        <div class="title p-3 py-4">
-                            <h5 class="mb-0">Regulatory & Compliance Advisory</h5>
+                    <div class="choose_frame w-100">
+                        <div class="icon-frame">
+                            <div class="second-frame">
+                                <img src="assets/home/icons/client-needs.svg">
+                            </div>
                         </div>
-                        <div class="card-body">
-                            <p>Ensuring adherence to SEBI, NSE, and BSE requirements.</p>
-                        </div>
+                        <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                        <p class="mb-0">Ensuring adherence to SEBI, NSE, and BSE requirements.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 d-flex mt-3 mt-md-4 mt-lg-0">
-                    <div class="card w-100">
-                        <div class="title p-3 py-4">
-                            <h5 class="mb-0">Financial Structuring & Valuation</h5>
+                    <div class="choose_frame w-100">
+                        <div class="icon-frame">
+                            <div class="second-frame">
+                                <img src="assets/home/icons/client-needs.svg">
+                            </div>
                         </div>
-                        <div class="card-body">
-                            <p>Optimizing capital structure and determining fair valuation.</p>
-                        </div>
+                        <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                        <p class="mb-0">
+                            Many MSME loans, especially under government schemes like CGTMSE (Credit Guarantee Fund
+                            Trust for Micro and Small Enterprises), do not require any collateral, making it easier
+                            for small business owners to secure funds.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 d-flex mt-3 mt-md-4">
-                    <div class="card w-100">
-                        <div class="title p-3 py-4">
-                            <h5 class="mb-0">Drafting Offer Documents</h5>
+                    <div class="choose_frame w-100">
+                        <div class="icon-frame">
+                            <div class="second-frame">
+                                <img src="assets/home/icons/client-needs.svg">
+                            </div>
                         </div>
-                        <div class="card-body">
-                            <p>Preparation of DRHP (Draft Red Herring Prospectus) and other necessary filings</p>
-                        </div>
+                        <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                        <p class="mb-0">
+                            Many MSME loans, especially under government schemes like CGTMSE (Credit Guarantee Fund
+                            Trust for Micro and Small Enterprises), do not require any collateral, making it easier
+                            for small business owners to secure funds.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 d-flex mt-3 mt-md-4">
-                    <div class="card w-100">
-                        <div class="title p-3 py-4">
-                            <h5 class="mb-0">Investor Roadshows & Marketing</h5>
+                    <div class="choose_frame w-100">
+                        <div class="icon-frame">
+                            <div class="second-frame">
+                                <img src="assets/home/icons/client-needs.svg">
+                            </div>
                         </div>
-                        <div class="card-body">
-                            <p>Enhancing visibility and attracting potential investors.</p>
-                        </div>
+                        <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                        <p class="mb-0">
+                            Many MSME loans, especially under government schemes like CGTMSE (Credit Guarantee Fund
+                            Trust for Micro and Small Enterprises), do not require any collateral, making it easier
+                            for small business owners to secure funds.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 d-flex mt-3 mt-md-4">
-                    <div class="card w-100">
-                        <div class="title p-3 py-4">
-                            <h5 class="mb-0">Listing & Post-IPO Compliance</h5>
+                    <div class="choose_frame w-100">
+                        <div class="icon-frame">
+                            <div class="second-frame">
+                                <img src="assets/home/icons/client-needs.svg">
+                            </div>
                         </div>
-                        <div class="card-body">
-                            <p>Ensuring smooth listing and adherence to post-IPO regulatory requirements.</p>
-                        </div>
+                        <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                        <p class="mb-0">
+                            Many MSME loans, especially under government schemes like CGTMSE (Credit Guarantee Fund
+                            Trust for Micro and Small Enterprises), do not require any collateral, making it easier
+                            for small business owners to secure funds.
+                        </p>
                     </div>
                 </div>
             </div>

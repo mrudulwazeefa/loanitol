@@ -19,9 +19,9 @@
 
 
     <div class="container article-container py-2 mt-5 mb-5">
-        <div class="row d-flex align-items-stretch p-0">
+        <div class="row d-flex align-items-stretch g-3 g-md-4 p-0">
             <!-- First Card -->
-            <div class="col-xl-8 col-md-7 col-lg-7 col-sm-12 my-3 px-3">
+            <div class="col-xl-8 col-md-7 col-lg-7 col-sm-12">
                 <div class="card  article-card-1 p-4 border-0 position-relative">
                     <span class="label p-2 position-absolute bg-white m-3">Popular
                         <img src="assets/articles/icons/star_1.svg" class="ms-1" width="20px" alt="">
@@ -35,25 +35,25 @@
             </div>
 
             <!-- Second Card -->
-            <div class="col-xl-4 col-md-5 col-lg-5 col-sm-12 my-3 px-3">
+            <div class="col-xl-4 col-md-5 col-lg-5 col-sm-12">
                 <div class="card h-100 article-card-2 overflow-hidden border-0 d-flex">
                     <img class="img-fluid h-100" src="assets/articles/article-2.jpg" alt="">
                 </div>
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-md-4 px-3 my-3">
+        <div class="row pt-3 pt-md-4 g-3 g-md-4">
+            <div class="col-md-4">
                 <div class="card article-card-3 p-4 border-0">
                     <img class="article-img-small-1 img-fluid rounded-sm" src="assets/articles/article-3.jpg" alt="">
                 </div>
             </div>
-            <div class="col-md-4 px-3 my-3">
+            <div class="col-md-4">
                 <div class="card article-card-4 p-4 border-0">
                     <img class="article-img-small-2 img-fluid rounded-sm" src="assets/articles/article-4.jpg" alt="">
                 </div>
             </div>
-            <div class="col-md-4 px-3 my-3">
+            <div class="col-md-4">
                 <div class="card article-card-5 p-4 border-0">
                     <img class="article-img-small-3 img-fluid rounded-sm" src="assets/articles/article-5.jpg" alt="">
                 </div>

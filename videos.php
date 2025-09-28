@@ -64,7 +64,7 @@ input.search-field.show-placeholder::placeholder {
 
             </div>
             <div class="row g-3 g-md-4 my-3 d-flex align-items-center justify-content-center" id="video-row">
-                <div class="col-12 col-md-6 col-lg-3 position-relative video-container">
+                <div class="col-12 col-sm-6 col-lg-3 position-relative video-container">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                         xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -96,7 +96,7 @@ input.search-field.show-placeholder::placeholder {
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-3 position-relative video-container">
+                <div class="col-12 col-sm-6 col-lg-3 position-relative video-container">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                         xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -127,7 +127,7 @@ input.search-field.show-placeholder::placeholder {
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-3 position-relative video-container">
+                <div class="col-12 col-sm-6 col-lg-3 position-relative video-container">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                         xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -158,7 +158,7 @@ input.search-field.show-placeholder::placeholder {
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-3 position-relative video-container">
+                <div class="col-12 col-sm-6 col-lg-3 position-relative video-container">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                         xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -190,7 +190,7 @@ input.search-field.show-placeholder::placeholder {
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-3 position-relative video-container d-none" id="video-hide-1">
+                <div class="col-12 col-sm-6 col-lg-3 position-relative video-container d-none" id="video-hide-1">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                         xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -219,7 +219,7 @@ input.search-field.show-placeholder::placeholder {
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-3 position-relative video-container d-none" id="video-hide-2">
+                <div class="col-12 col-sm-6 col-lg-3 position-relative video-container d-none" id="video-hide-2">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                         xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -250,7 +250,7 @@ input.search-field.show-placeholder::placeholder {
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-3 position-relative video-container d-none" id="video-hide-3">
+                <div class="col-12 col-sm-6 col-lg-3 position-relative video-container d-none" id="video-hide-3">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                         xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -281,7 +281,7 @@ input.search-field.show-placeholder::placeholder {
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-3 position-relative video-container d-none" id="video-hide-4">
+                <div class="col-12 col-sm-6 col-lg-3 position-relative video-container d-none" id="video-hide-4">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                         xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"

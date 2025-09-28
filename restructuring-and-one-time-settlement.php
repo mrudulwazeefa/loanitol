@@ -47,9 +47,9 @@
             <div class="legal-advisory-container advisory-service-section pb-5">
                 <h2 class="title">Who Required One-time Settlement</h2>
                 <div class="container p-0">
-                    <div class="row pt-2 g-2 g-md-4 pb-4">
+                    <div class="row pt-2 g-3 g-md-4 g-md-4 pb-4">
                         <div class="col-lg-9">
-                            <div class="row">
+                            <div class="row g-3 g-md-4">
                                 <!-- Card 1 -->
                                 <div class="col-sm-6 col-md-4">
                                     <div class="card justify-content-center text-center p-3 h-100">
@@ -65,7 +65,7 @@
                                 </div>
                                 <!-- Card 2 -->
                                 <div class="col-sm-6 col-md-4">
-                                    <div class="mt-sm-0 mt-2 card justify-content-center text-center p-3 h-100">
+                                    <div class="card justify-content-center text-center p-3 h-100">
                                         <span>
                                             <img class="icons"
                                                 src="assets/restructuring-and-one-time-settlement/icons/one-time-settlement-option.svg"
@@ -77,7 +77,7 @@
                                 </div>
                                 <!-- Card 3 -->
                                 <div class="col-sm-6 col-md-4">
-                                    <div class="mt-md-0 mt-2 card justify-content-center text-center p-3 h-100">
+                                    <div class="card justify-content-center text-center p-3 h-100">
                                         <span>
                                             <img class="icons"
                                                 src="assets/restructuring-and-one-time-settlement/icons/prime-candidates-for-loan-settlement.svg"
@@ -89,7 +89,7 @@
                                 </div>
                                 <!-- Card 4 -->
                                 <div class="col-sm-6 col-md-4">
-                                    <div class="mt-md-4 mt-2 card justify-content-center text-center p-3 h-100">
+                                    <div class="card justify-content-center text-center p-3 h-100">
                                         <span>
                                             <img class="icons"
                                                 src="assets/restructuring-and-one-time-settlement/icons/npa-classification-requirement.svg"
@@ -101,7 +101,7 @@
                                 </div>
                                 <!-- Card 5 -->
                                 <div class="col-sm-6 col-md-4">
-                                    <div class="mt-md-4 mt-2 card justify-content-center text-center p-3 h-100">
+                                    <div class="card justify-content-center text-center p-3 h-100">
                                         <span style="background-color: #E9FFF6">
                                             <img class="icons"
                                                 src="assets/restructuring-and-one-time-settlement/icons/individuals-with-overwhelming-debt.svg"
@@ -113,7 +113,7 @@
                                 </div>
                                 <!-- Card 6 -->
                                 <div class="col-sm-6 col-md-4">
-                                    <div class="mt-md-4 mt-2 card justify-content-center text-center p-3 h-100">
+                                    <div class="card justify-content-center text-center p-3 h-100">
                                         <span>
                                             <img class="icons"
                                                 src="assets/restructuring-and-one-time-settlement/icons/individuals-facing-job-loss-or-reduced-income.svg"
@@ -128,7 +128,7 @@
                                 </div>
                                 <!-- Card 7 -->
                                 <div class="col-sm-6 col-md-4">
-                                    <div class="mt-md-4 mt-2 card justify-content-center text-center p-3 h-100">
+                                    <div class="card justify-content-center text-center p-3 h-100">
                                         <span style="background-color: #FFE1E1">
                                             <img class="icons"
                                                 src="assets/restructuring-and-one-time-settlement/icons/businesses-in-financial-distress.svg"
@@ -140,7 +140,7 @@
                                 </div>
                                 <!-- Card 8 -->
                                 <div class="col-sm-6 col-md-4">
-                                    <div class="mt-md-4 mt-2 card justify-content-center text-center p-3 h-100">
+                                    <div class="card justify-content-center text-center p-3 h-100">
                                         <span style="background-color: #FFE1E1">
                                             <img class="icons"
                                                 src="assets/restructuring-and-one-time-settlement/icons/seeking-a-fresh-financial-start.svg"
@@ -152,7 +152,7 @@
                                 </div>
                                 <!-- Card 9 -->
                                 <div class="col-sm-6 col-md-4">
-                                    <div class="mt-md-4 mt-2 card justify-content-center text-center p-3 h-100">
+                                    <div class="card justify-content-center text-center p-3 h-100">
                                         <span style="background-color: #FFE1E1">
                                             <img class="icons"
                                                 src="assets/restructuring-and-one-time-settlement/icons/borrowers-in-default-or-nearing-default.svg"
@@ -192,32 +192,32 @@
                         <span style="background-color: #FFFAE3"><img
                                 src="assets/restructuring-and-one-time-settlement/icons/loan-settlement-for-financial-distress-1.png"
                                 alt=""></span>
-                        <p class="m-0 text-center">OTS for <br>
-                            Financially Distressed <br> Borrowers</p>
+                        <h6 class="m-0 text-center">OTS for <br>
+                            Financially Distressed <br> Borrowers</h6>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3 col-lg-3">
                     <div class="card p-4 d-flex align-items-center justify-content-center h-100">
-                        <span style="background-color: #FFFAE3"><img
+                        <span class="d-flex align-items-center justify-content-center" style="background-color: #FFFAE3"><img
                                 src="assets/restructuring-and-one-time-settlement/icons/submission-of-settlement-proposal-1.png"
                                 alt=""></span>
-                        <p class="m-0 text-center">Submission of <br> Settlement Proposal</p>
+                        <h6 class="m-0 text-center">Submission of <br> Settlement Proposal</h6>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3 col-lg-3">
                     <div class="card p-4 d-flex align-items-center justify-content-center h-100">
-                        <span style="background-color: #FFFAE3"><img
+                        <span class="d-flex align-items-center justify-content-center" style="background-color: #FFFAE3"><img
                                 src="assets/restructuring-and-one-time-settlement/icons/banks-assessment-and-follow-up-1.png"
                                 alt=""></span>
-                        <p class="m-0 text-center">Bank's Assessment <br> and Follow-Up</p>
+                        <h6 class="m-0 text-center">Bank's Assessment <br> and Follow-Up</h6>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3 col-lg-3">
                     <div class="card p-4 d-flex align-items-center justify-content-center h-100">
-                        <span style="background-color: #FFFAE3"><img
+                        <span class="d-flex align-items-center justify-content-center" style="background-color: #FFFAE3"><img
                                 src="assets/restructuring-and-one-time-settlement/icons/machinery-loan 1.png"
                                 alt=""></span>
-                        <p class="m-0 text-center">Reduced Settlement <br> Amount</p>
+                        <h6 class="m-0 text-center">Reduced Settlement <br> Amount</h6>
                     </div>
                 </div>
             </div>
@@ -227,7 +227,7 @@
     <div class="features-section">
         <div class="container">
             <h2 class="text-white mb-5">Features</h2>
-            <div class="row">
+            <div class="row g-3 g-md-4">
                 <div class="col-sm-6">
                     <div class="card">
                         <div class="card-body">
@@ -241,7 +241,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card mt-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body">
                             <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                     src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -252,7 +252,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card mt-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body">
                             <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                     src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -265,7 +265,7 @@
                     </div>
                 </div>
                 <div class="col-sm-6">
-                    <div class="card mt-4 mt-sm-0">
+                    <div class="card">
                         <div class="card-body">
                             <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                     src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -279,7 +279,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card mt-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body">
                             <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                     src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -290,7 +290,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card mt-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body">
                             <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                     src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -324,10 +324,10 @@
                 <div class="details-section py-0 px-0">
                     <h2 class="mb-5 mt-3">Who Required Restructuring </h2>
                     <div class="container p-0">
-                        <div class="row pt-2 g-2 g-md-3 ">
+                        <div class="row pt-2 g-3 g-md-4">
                             <!-- Card 1 -->
                             <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
+                                <div class="card justify-content-center text-center p-3 h-100">
                                     <span>
                                         <img class="icons"
                                             src="assets/restructuring-and-one-time-settlement/icons/economic-downturns.svg"
@@ -339,7 +339,7 @@
 
                             <!-- Card 2 -->
                             <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
+                                <div class="card justify-content-center text-center p-3 h-100">
                                     <span>
                                         <img class="icons"
                                             src="assets/restructuring-and-one-time-settlement/icons/job-loss.svg"
@@ -351,7 +351,7 @@
 
                             <!-- Card 3 -->
                             <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
+                                <div class="card justify-content-center text-center p-3 h-100">
                                     <span>
                                         <img class="icons"
                                             src="assets/restructuring-and-one-time-settlement/icons/reduced-income.svg"
@@ -363,7 +363,7 @@
 
                             <!-- Card 4 -->
                             <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
+                                <div class="card justify-content-center text-center p-3 h-100">
                                     <span>
                                         <img class="icons"
                                             src="assets/restructuring-and-one-time-settlement/icons/financial-hardship.svg"
@@ -374,7 +374,7 @@
                             </div>
                             <!-- Card 5 -->
                             <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
+                                <div class="card justify-content-center text-center p-3 h-100">
                                     <span style="background-color: #E9FFF6">
                                         <img class="icons"
                                             src="assets/restructuring-and-one-time-settlement/icons/over-indebtedness.svg"
@@ -385,7 +385,7 @@
                             </div>
                             <!-- Card 6 -->
                             <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
+                                <div class="card justify-content-center text-center p-3 h-100">
                                     <span>
                                         <img class="icons"
                                             src="assets/restructuring-and-one-time-settlement/icons/adjustable-rate-mortgages.svg"
@@ -396,7 +396,7 @@
                             </div>
                             <!-- Card 4 -->
                             <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
+                                <div class="card justify-content-center text-center p-3 h-100">
                                     <span style="background-color: #FFE1E1">
                                         <img class="icons"
                                             src="assets/restructuring-and-one-time-settlement/icons/currency-fluctuations.svg"
@@ -407,7 +407,7 @@
                             </div>
                             <!-- Card 4 -->
                             <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
+                                <div class="card justify-content-center text-center p-3 h-100">
                                     <span style="background-color: #FFE1E1">
                                         <img class="icons"
                                             src="assets/restructuring-and-one-time-settlement/icons/changing-business-conditions.svg"
@@ -428,26 +428,26 @@
     <div class="ots-section-2 ots-section">
         <div class="container">
             <h2 class="text-white mb-5">How Does OTS Work ?</h2>
-            <div class="row justify-content-center g-4">
+            <div class="row justify-content-center g-3 g-md-4">
                 <!-- Left Column -->
                 <div class="col-12 col-md-6">
-                    <div class="card mb-4">
+                    <div class="card">
                         <div class="card-body p-0">
-                            <h6 class="mb-4">Eligibility Assessment</h6>
+                            <h5 class="mb-4">Eligibility Assessment</h5>
                             <p class="text-black">The lender evaluates the borrower’s financial situation and determines
                                 their eligibility for loan restructuring based on internal policies.</p>
                         </div>
                     </div>
-                    <div class="card mb-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body p-0">
-                            <h6 class="mb-4">Formal Application Submission:</h6>
+                            <h5 class="mb-4">Formal Application Submission:</h5>
                             <p class="text-black">The borrower submits a formal restructuring application, typically
                                 accompanied by relevant financial documents.</p>
                         </div>
                     </div>
-                    <div class="card mb-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body p-0">
-                            <h6 class="mb-4">Review of Restructuring Options</h6>
+                            <h5 class="mb-4">Review of Restructuring Options</h5>
                             <p class="text-black">The lender presents various restructuring options, allowing the
                                 borrower to choose the one that best fits their financial needs.</p>
                         </div>
@@ -456,9 +456,9 @@
 
                 <!-- Right Column -->
                 <div class="col-12 col-md-6 d-flex flex-column justify-content-center right-column">
-                    <div class="card mb-4">
+                    <div class="card">
                         <div class="card-body p-0">
-                            <h6 class="mb-4">Approval & Agreement</h6>
+                            <h5 class="mb-4">Approval & Agreement</h5>
                             <p class="text-black">
                                 Upon approval, the lender provides the revised loan terms, and the borrower agrees to
                                 the new repayment structure. Loan restructuring involves renegotiating the terms of a
@@ -474,9 +474,9 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="card mb-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body p-0">
-                            <h6 class="mb-4">Credit Score Impact Disclosure</h6>
+                            <h5 class="mb-4">Credit Score Impact Disclosure</h5>
                             <p class="text-black">The lender informs the borrower about any potential impact on their
                                 credit score due to the restructuring.</p>
                         </div>
@@ -490,7 +490,7 @@
     <div class="features-section">
         <div class="container">
             <h2 class="text-white mb-5">Features</h2>
-            <div class="row">
+            <div class="row g-3 g-md-4">
                 <div class="col-sm-6">
                     <div class="card">
                         <div class="card-body">
@@ -504,7 +504,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card mt-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body">
                             <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                     src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -514,7 +514,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card mt-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body">
                             <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                     src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -529,9 +529,9 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="card mt-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body">
-                            <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
+                            <h5 class="mb-4 align-items-center text-white"><img class="me-2"
                                     src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
                                 Avoidance of Default and Foreclosure/Repossession</h5>
                             <p class="text-white m-0 p-0">
@@ -551,7 +551,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card mt-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body">
                             <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                     src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -561,7 +561,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card mt-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body">
                             <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                     src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -571,7 +571,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card mt-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body">
                             <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                     src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -581,7 +581,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="card mt-4">
+                    <div class="card mt-3 mt-md-4">
                         <div class="card-body">
                             <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                     src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">

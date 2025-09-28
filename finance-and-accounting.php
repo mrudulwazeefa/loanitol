@@ -45,271 +45,352 @@
             <div class="finance-service-section py-5">
                 <div class="container">
                     <h4 class="mb-4">Finance Services</h4>
-                    <div class="row pt-4 g-2 g-md-4">
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Financial Analysis & Reporting</h5>
+                    <div class="row pt-4 g-3 g-md-4">
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/financial-analysis.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Financial Analysis & Reporting</h2>
+                                <p class="mb-0">
                                     Evaluating financial data to identify trends, measure performance, and support
-                                    informed
-                                    decision-making.
-                                </div>
+                                    informed decision-making.
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Financial Planning & Analysis (FP&A)</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/financial-planning.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Financial Planning & Analysis (FP&A)</h2>
+                                <p class="mb-0">
                                     Developing budgets, forecasts, and financial strategies to align with business
                                     goals.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">CFO Services</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/cfo-services.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>CFO Services</h2>
+                                <p class="mb-0">
                                     Offering financial leadership, strategic insights, and expertise to optimize
-                                    business
-                                    finances
-                                </div>
+                                    business finances
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Cash Flow Management</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/cash-flow.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Cash Flow Management</h2>
+                                <p class="mb-0">
                                     Overseeing cash inflows and outflows to maintain liquidity and financial stability.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Investment Management</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/investment-management.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Investment Management</h2>
+                                <p class="mb-0">
                                     Handling investments in stocks, bonds, and other financial assets to maximize
                                     returns.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Debt Management</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/debt-management.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Debt Management</h2>
+                                <p class="mb-0">
                                     Managing loans, bonds, and other liabilities to optimize financial health.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Treasury Management</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/treasury-management.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Treasury Management</h2>
+                                <p class="mb-0">
                                     Ensuring efficient use of cash and liquid assets for operational and strategic
                                     needs.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Risk Management</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/risk-management.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Risk Management</h2>
+                                <p class="mb-0">
                                     Identifying, analyzing, and mitigating financial risks to protect business
                                     interests.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Finance Transformation</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/finance-transformation.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Finance Transformation</h2>
+                                <p class="mb-0">
                                     Enhancing financial processes and systems for greater efficiency and effectiveness.
-                                </div>
+                                </p>
                             </div>
                         </div>
-
+                        <div class="col-12 col-lg-9">
+                            <div class="card h-100 border-0" style="border-radius: 10px;">
+                                <img src="assets/finance-and-accounting/business-workers.png"
+                                    alt="Business workers in finance and accounting"
+                                    class="img-fluid h-100 object-fit-cover w-100" style=" border-radius: 10px;">
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="accounting-service-section py-5">
                 <div class="container">
                     <h4 class="mb-5">Accounting Services</h4>
-                    <div class="row pt-2 g-2 g-md-4">
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Book keeping</h5>
+                    <div class="row pt-2 pb-5 g-3 g-md-4">
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/book-keeping.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Book keeping</h2>
+                                <p class="mb-0">
                                     Recording financial transactions, reconciling accounts, and maintaining precise
                                     financial records.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Financial Statement Preparation</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/financial-statement.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Financial Statement Preparation</h2>
+                                <p class="mb-0">
                                     Generating reports such as balance sheets, income statements, and cash flow
-                                    statements
-                                    to assess financial health.
-                                </div>
+                                    statements to assess financial health.
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Compliance Management</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/compliance-management.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Compliance Management</h2>
+                                <p class="mb-0">
                                     Ensuring financial records and reporting aligned with applicable laws, regulations,
-                                    and
-                                    accounting standards.
-                                </div>
+                                    and accounting standards.
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Tax Preparation</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/tax-preparation.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Tax Preparation</h2>
+                                <p class="mb-0">
                                     Preparing and filing tax returns while ensuring compliance with tax regulations.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Auditing</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/auditing.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Auditing</h2>
+                                <p class="mb-0">
                                     Reviewing financial records and statements to verify accuracy and regulatory
                                     compliance
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Payroll Processing</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/payroll-processing.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Payroll Processing</h2>
+                                <p class="mb-0">
                                     Managing employee wages, deductions, and payroll taxes efficiently.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Accounts Payable & Receivable</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/accounts-payable.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Accounts Payable & Receivable</h2>
+                                <p class="mb-0">
                                     Overseeing invoices, payments, and outstanding balances with suppliers and
                                     customers.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Inventory Management</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/inventory-management.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Inventory Management</h2>
+                                <p class="mb-0">
                                     Monitoring stock levels, costs, and movements to optimize inventory control.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Bank Reconciliation</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/bank-reconsilation.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Bank Reconciliation</h2>
+                                <p class="mb-0">
                                     Comparing bank statements with internal records to maintain accurate cash balances.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">GST Analysis & Reporting</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/gst-analysis.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>GST Analysis & Reporting</h2>
+                                <p class="mb-0">
                                     Evaluating the impact of Goods and Services Tax (GST) on financial transactions and
                                     reporting accordingly
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Cost Accounting</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/cost-accounting.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Cost Accounting</h2>
+                                <p class="mb-0">
                                     Analyzing costs to enhance profitability and operational efficiency
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Management Reporting</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/management-reporting.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Management Reporting</h2>
+                                <p class="mb-0">
                                     Delivering financial insights and reports to support executive decision-making.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Strategic Planning</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/strategic-planning.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Strategic Planning</h2>
+                                <p class="mb-0">
                                     Assisting in the formulation and execution of financial strategies to drive business
                                     growth.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Internal Controls & Process Improvement</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/internal-controls.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Internal Controls & Process Improvement</h2>
+                                <p class="mb-0">
                                     Prevent errors, detect fraud, and ensure data accuracy. Streamline workflows for
                                     efficiency and timely reporting.
-                                </div>
+                                </p>
                             </div>
                         </div>
-                        <div class="col-12 col-sm-6 col-lg-4">
-                            <div class="card h-100 d-flex flex-column">
-                                <div class="title text-start p-3 py-4">
-                                    <h5 class="m-0">Budgeting & Forecasting</h5>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/finance-and-accounting/icons/budgeting-and-forecasting.svg">
+                                    </div>
                                 </div>
-                                <div class="card-body d-flex align-items-start" style="line-height: 1.7">
+                                <h2>Budgeting & Forecasting</h2>
+                                <p class="mb-0">
                                     Creating financial plans and projections to guide future business performance.
-                                </div>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-3">
+                            <div class="card" style="border-radius: 10px; border: none;">
+                                <img class="h-100 w-100 object-fit-cover"
+                                    src="assets/finance-and-accounting/accounting-service.jpg"
+                                    style="border-radius: 10px" alt="">
                             </div>
                         </div>
                     </div>
@@ -322,8 +403,8 @@
                 <h2 class="text-white pb-4">Benefits</h2>
                 <div class="card-container">
                     <div class="container px-0 py-4">
-                        <div class="row g-4">
-                            <div class="col-md-6 d-flex">
+                        <div class="row g-3 g-md-4">
+                            <div class="col-sm-6 d-flex">
                                 <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
                                     <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                             src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -333,7 +414,7 @@
                                         related to hiring, training, and maintaining an in-house team</p>
                                 </div>
                             </div>
-                            <div class="col-md-6 d-flex">
+                            <div class="col-sm-6 d-flex">
                                 <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
                                     <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                             src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -343,7 +424,7 @@
                                         processes, improving accuracy and productivity</p>
                                 </div>
                             </div>
-                            <div class="col-md-6 d-flex">
+                            <div class="col-sm-6 d-flex">
                                 <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
                                     <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                             src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -353,7 +434,7 @@
                                         allowing businesses to concentrate on strategic growth</p>
                                 </div>
                             </div>
-                            <div class="col-md-6 d-flex">
+                            <div class="col-sm-6 d-flex">
                                 <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
                                     <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                             src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -363,7 +444,7 @@
                                         essential for informed decision-making.</p>
                                 </div>
                             </div>
-                            <div class="col-md-6 d-flex">
+                            <div class="col-sm-6 d-flex">
                                 <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
                                     <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                             src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -373,7 +454,7 @@
                                         forecasting and control.</p>
                                 </div>
                             </div>
-                            <div class="col-md-6 d-flex">
+                            <div class="col-sm-6 d-flex">
                                 <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
                                     <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                             src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -383,7 +464,7 @@
                                         forecasting, and long-term strategic planning.</p>
                                 </div>
                             </div>
-                            <div class="col-md-6 d-flex">
+                            <div class="col-sm-6 d-flex">
                                 <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
                                     <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                             src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -393,7 +474,7 @@
                                         financial challenges.</p>
                                 </div>
                             </div>
-                            <div class="col-md-6 d-flex">
+                            <div class="col-sm-6 d-flex">
                                 <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
                                     <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                             src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -403,7 +484,7 @@
                                         needs as they evolve.</p>
                                 </div>
                             </div>
-                            <div class="col-md-6 d-flex">
+                            <div class="col-sm-6 d-flex">
                                 <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
                                     <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                             src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -413,7 +494,7 @@
                                         improving time-to-market.</p>
                                 </div>
                             </div>
-                            <div class="col-md-6 d-flex">
+                            <div class="col-sm-6 d-flex">
                                 <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
                                     <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                             src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
@@ -423,7 +504,7 @@
                                         ease the burden on clients and allow them to focus on other priorities.</p>
                                 </div>
                             </div>
-                            <div class="col-md-6 d-flex">
+                            <div class="col-sm-6 d-flex">
                                 <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
                                     <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
                                             src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">

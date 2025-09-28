@@ -4,7 +4,7 @@
 </head>
 <body>
     <?php include("includes/nav.php"); ?>
-    <div class="hero-small--section-area">
+    <div class="hero-small--section-area d-flex align-items-center">
         <div class="container">
             <div class="row d-flex align-items-center">
                 <div class="col-lg-12">
