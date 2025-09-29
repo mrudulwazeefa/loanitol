@@ -30,103 +30,129 @@
     </div>
 
 
-    <div class="referral-partner-description-section pt-5 pb-3">
-        <div class="container">
-            <div class="description py-2">
-                Team Loanitol offers an opportunity for employed professionals and business owners to secure additional
-                revenue. This can be achieved by referring clients seeking financial assistance. We are looking for
-                individuals with strong interpersonal abilities and a commitment to success to join us as Referral
-                Associates.
+    <div class="linear-gradient">
+        <div class="referral-partner-description-section pt-5 pb-3">
+            <div class="container">
+                <div class="description py-2">
+                    Team Loanitol offers an opportunity for employed professionals and business owners to secure
+                    additional
+                    revenue. This can be achieved by referring clients seeking financial assistance. We are looking for
+                    individuals with strong interpersonal abilities and a commitment to success to join us as Referral
+                    Associates.
+                </div>
             </div>
         </div>
-    </div>
-
-    <div class="referral-associate-advantages-section py-5">
-        <div class="container">
-            <h2>Advantages</h2>
-            <div class="row pt-5 pb-3">
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="card h-100">
-                        <div class="title d-flex align-items-center text-start p-4">
-                            <h5 class="mb-0">Supplementary Income Opportunity</h5>
-                        </div>
-                        <div class="card-body p-4" styl="line-height: 1.7">
-                            Generate additional revenue by acting as a Referral Associate. You earn commissions for
-                            successful client referrals that lead to smoothly processed and disbursed loans.
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-4 mt-3 mt-sm-0">
-                    <div class="card h-100">
-                        <div class="title d-flex align-items-center text-start p-4">
-                            <h5 class="mb-0">Minimal Time & Resource Investment</h5>
-                        </div>
-                        <div class="card-body p-4" styl="line-height: 1.7">
-                            Your primary function as a Referral Associate is to identify clients needing financial
-                            assistance and connect them with Loanitol. Loanitol  then manages the process of finding
-                            suitable loan options and facilitating the sanctioning.
+<img class="logo-design img-fluid" src="assets/msme-loan/logos.png" alt="">
+        <div class="referral-associate-advantages-section py-5">
+            <div class="container">
+                <h2>Advantages</h2>
+                <div class="row g-3 g-md-4 pt-5 pb-3">
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-associate/icons/supplementary-income-opportunity.svg">
+                                </div>
+                            </div>
+                            <h2>Supplementary Income <br> Opportunity</h2>
+                            <p class="mb-0">
+                                Generate additional revenue by acting as a Referral Associate. You earn commissions for
+                                successful client referrals that lead to smoothly processed and disbursed loans.
+                            </p>
                         </div>
                     </div>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-4 mt-3 mt-sm-4 mt-lg-0">
-                    <div class="card h-100">
-                        <div class="title d-flex align-items-center text-start p-4">
-                            <h5 class="mb-0">Flexible Schedule</h5>
-                        </div>
-                        <div class="card-body p-4" styl="line-height: 1.7">
-                            Operate independently without fixed working hours.
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-4 mt-3 mt-sm-4">
-                    <div class="card h-100">
-                        <div class="title d-flex align-items-center text-start p-4">
-                            <h5 class="mb-0">Expedite Client Funding</h5>
-                            <br>
-                        </div>
-                        <div class="card-body p-4" styl="line-height: 1.7">
-                            Refer clients confidently, knowing Loanitol provides access to a wide array of loan products 
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-associate/icons/minimal-time.svg">
+                                </div>
+                            </div>
+                            <h2>Minimal Time & Resource <br> Investment</h2>
+                            <p class="mb-0">
+                                Your primary function as a Referral Associate is to identify clients needing financial
+                                assistance and connect them with Loanitol. Loanitol  then manages the process of finding
+                                suitable loan options and facilitating the sanctioning.
+                            </p>
                         </div>
                     </div>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-4 mt-3 mt-sm-4">
-                    <div class="card h-100">
-                        <div class="title h-100 d-flex align-items-center text-start p-4">
-                            <h5 class="mb-0">Access to Diverse Loan Products</h5>
-                        </div>
-                        <div class="card-body p-4" styl="line-height: 1.7">
-                            Confidently refer clients knowing Loanitol offers a comprehensive portfolio, including
-                            personal, business, and other loan types, sourced from leading financial institutions to
-                            meet varied requirements
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-4 mt-3 mt-sm-4">
-                    <div class="card h-100">
-                        <div class="title text-start p-4">
-                            <h5 class="mb-0">Robust Network of Financial Institutions</h5>
-                        </div>
-                        <div class="card-body p-4" styl="line-height: 1.7">
-                            Leverage Loanitol's extensive partnerships with over 100 banks, NBFCs, and financial
-                            institutions. This network ensures your referred clients gain access to competitive loan
-                            offers, interest rates, and repayment options.
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-associate/icons/flexible-shedule.svg">
+                                </div>
+                            </div>
+                            <h2>Flexible Schedule</h2>
+                            <p class="mb-0">
+                                Operate independently without fixed working hours.
+                            </p>
                         </div>
                     </div>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-4 mt-3 mt-sm-4">
-                    <div class="card h-100">
-                        <div class="title text-start p-4">
-                            <h5 class="mb-0">Enhanced Client Trust & Confidence</h5>
-                        </div>
-                        <div class="card-body p-4" styl="line-height: 1.7">
-                            Strengthen your relationships by guiding clients towards effective financial solutions.
-                            Providing valuable connections to a reliable partner like Loanitol enhances their trust and
-                            confidence in you.
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-associate/icons/expedite-client-funding.svg">
+                                </div>
+                            </div>
+                            <h2>Expedite Client Funding</h2>
+                            <p class="mb-0">
+                                By connecting clients with Loanitol, you facilitate access to efficient loan processing.
+                                This potentially speeds up their acquisition of necessary funds, enabling their projects
+                                or needs to move forward more quickly. This may help your Business too.
+                            </p>
                         </div>
                     </div>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-8 mt-3 mt-sm-4">
-                    <img class="h-lg-20 img-fluid" src="assets/referral-associate/card-img.jpg" alt="">
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-associate/icons/access-to-diverse-loan-products.svg">
+                                </div>
+                            </div>
+                            <h2>Access to Diverse Loan Products</h2>
+                            <p class="mb-0">
+                                Confidently refer clients knowing Loanitol offers a comprehensive portfolio, including
+                                personal, business, and other loan types, sourced from leading financial institutions to
+                                meet varied requirements
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-associate/icons/robust-network.svg">
+                                </div>
+                            </div>
+                            <h2>Robust Network of Financial <br> Institutions</h2>
+                            <p class="mb-0">
+                                Leverage Loanitol's extensive partnerships with over 100 banks, NBFCs, and financial
+                                institutions. This network ensures your referred clients gain access to competitive loan
+                                offers, interest rates, and repayment options.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-associate/icons/enhanced-client-trust.svg">
+                                </div>
+                            </div>
+                            <h2>Enhanced Client Trust & Confidence</h2>
+                            <p class="mb-0">
+                                Strengthen your relationships by guiding clients towards effective financial solutions.
+                                Providing valuable connections to a reliable partner like Loanitol enhances their trust
+                                and confidence in you.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-8">
+                        <img class="card w-100 object-fit-cover img-fluid" src="assets/referral-associate/card-img.jpg"
+                            alt="">
+                    </div>
                 </div>
             </div>
         </div>
@@ -135,22 +161,22 @@
     <div class="referral-associate eligible-professionals-section py-5">
         <div class="container">
             <h2 class="text-white pt-5">Eligible Proffesionals</h2>
-            <div class="row g-2 g-sm-4 pt-5 pb-5 text-center">
-                <div class="col-6 col-md-4 col-lg-3 mt-2 mt-sm-4 d-flex">
+            <div class="row g-3 g-md-4 pt-5 pb-5 text-center">
+                <div class="col-6 col-md-4 col-lg-3 d-flex">
                     <div class="card referral-associate-card w-100 h-100">
                         <div class="card-body d-flex align-items-center justify-content-center p-4">
                             <p class="m-0 text-white">Premium Car Executive</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-3 mt-2 mt-sm-4 d-flex">
+                <div class="col-6 col-md-4 col-lg-3 d-flex">
                     <div class="card referral-associate-card w-100 h-100">
                         <div class="card-body d-flex align-items-center justify-content-center p-4">
                             <p class="m-0 text-white">Insurance Agent</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-3 mt-2 mt-sm-4 d-flex">
+                <div class="col-6 col-md-4 col-lg-3 d-flex">
                     <div class="card referral-associate-card w-100 h-100">
                         <div class="card-body d-flex align-items-center justify-content-center p-4">
                             <p class="m-0 text-white">Real Estate <br> Executive
@@ -158,28 +184,28 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-3 mt-2 mt-sm-4 d-flex">
+                <div class="col-6 col-md-4 col-lg-3 d-flex">
                     <div class="card referral-associate-card w-100 h-100">
                         <div class="card-body d-flex align-items-center justify-content-center p-4">
                             <p class="m-0 text-white">Sales Executive <br> In Baking Field
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-3 mt-2 mt-sm-4 d-flex">
+                <div class="col-6 col-md-4 col-lg-3 d-flex">
                     <div class="card referral-associate-card w-100 h-100">
                         <div class="card-body d-flex align-items-center justify-content-center p-4">
                             <p class="m-0 text-white">Tax consultant</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-3 mt-2 mt-sm-4 d-flex">
+                <div class="col-6 col-md-4 col-lg-3 d-flex">
                     <div class="card referral-associate-card w-100 h-100">
                         <div class="card-body d-flex align-items-center justify-content-center p-4">
                             <p class="m-0 text-white">Beauty Parlor</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-3 mt-2 mt-sm-4 d-flex">
+                <div class="col-6 col-md-4 col-lg-3 d-flex">
                     <div class="card referral-associate-card w-100 h-100">
                         <div class="card-body d-flex align-items-center justify-content-center p-4">
                             <p class="m-0 text-white">Pharma Executive</p>
@@ -347,7 +373,7 @@
     <div class="documents-section py-5">
         <div class="container py-4">
             <h2>Loan DSA Partner Registration Eligibility Criteria</h2>
-            <div class="row py-5">
+            <div class="row g-3 g-md-4 py-5">
                 <div class="col-12 col-sm-6 col-lg-4">
                     <div class="card h-100">
                         <div class="title text-start p-4">
@@ -368,7 +394,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-4 mt-4 mt-lg-0">
+                <div class="col-12 col-sm-6 col-lg-4">
                     <div class="card h-100">
                         <div class="title text-start p-4">
                             <h5 class="mb-0">Must have Significant Clientele</h5>
@@ -384,7 +410,7 @@
                 <div class="advisory-service-section py-0">
                     <div class="details-section py-0 px-0">
                         <div class="container p-0">
-                            <div class="row my-4 mb-5 pt-2 g-2 g-md-4">
+                            <div class="row my-4 mb-5 pt-2 g-3 g-md-4">
                                 <!-- Card 1 -->
                                 <div class="col-12 col-sm-6 col-lg-3">
                                     <div class="m-md-1 card justify-content-center text-center p-3 h-100">

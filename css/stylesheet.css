@@ -8,7 +8,7 @@
   caret-color: transparent;
 }
 body {
-  font-family: var(--theme-font);
+  font-family: var(--theme-font) !important;
   margin: 0;
   padding: auto;
   overflow-x: hidden;
@@ -16,6 +16,10 @@ body {
 a {
   color: inherit !important;
   text-decoration: none !important;
+}
+
+li {
+  font-size: var(--default-font-size) !important;
 }
 
 /* :hover,
@@ -2898,10 +2902,7 @@ textarea {
   color: #18343f !important;
   cursor: text;
 }
-li::marker {
-  color: #f51532;
-  font-weight: 600;
-}
+
 .head {
   font-size: 1rem !important;
 }
@@ -6225,6 +6226,7 @@ input.search-field.show-placeholder::placeholder {
   font-family: var(--theme-font);
 }
 .referral-associate-advantages-section .card {
+  height: 280px !important;
   border-radius: 10px !important;
   border: 1px solid #e2e2e2 !important;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
@@ -6236,11 +6238,11 @@ input.search-field.show-placeholder::placeholder {
   background-color: #fbf9f9;
   font-weight: 100;
 }
-.referral-associate-advantages-section img {
+.referral-associate-advantages-section .card-img {
   object-fit: cover;
   object-position: center;
-  height: 280px;
-  width: 100%;
+  /* height: 280px;
+  width: 100%; */
   border-radius: 10px;
 }
 .referral-associate .referral-associate-card {
@@ -6269,6 +6271,12 @@ input.search-field.show-placeholder::placeholder {
   .referral-associate-advantages-section .card .title {
     height: 95px !important;
   }
+}
+
+/* Corporate associate */
+.loan-dsa-eligibility .card {
+  border: 1px solid #E2E2E2;
+  border-radius: 10px !important;
 }
 
 /* Bridge Loan Page */
@@ -7019,6 +7027,9 @@ input.search-field.show-placeholder::placeholder {
   border-radius: 10px !important;
   padding: 2rem !important;
 }
+/* .sme-ipo-eligibility li::marker {
+  color: black !important;
+} */
 .linear-gradient2 {
   background: linear-gradient(to bottom, #fff3f5, white);
 }

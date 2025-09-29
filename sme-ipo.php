@@ -44,7 +44,7 @@
         <img class="logo-design img-fluid" src="assets/msme-loan/logos.png" alt="">
         <div class="sme-ipo-features-section py-5">
             <div class="container">
-                <h2 class="mb-3">Features</h2>
+                <h2 class="fw-semibold mb-3">Features</h2>
                 <div class="row py-4 flex-lg-row flex-column">
                     <div class="col-md-12 col-lg-8">
                         <div class="row g-3 g-md-4">
@@ -123,7 +123,7 @@
 
     <div class="sme-benefits-section py-5">
         <div class="container p-3">
-            <h2 class="text-white mb-4">Benefits</h2>
+            <h2 class="fw-semibold text-white mb-4">Benefits</h2>
             <div class="row py-3">
                 <div class="col-sm-6 col-lg-4 d-flex">
                     <div class="card p-3">
@@ -162,19 +162,19 @@
         </div>
     </div>
 
-    <div class="linear-gradient2 py-5">
+    <div class="linear-gradient2 sme-ipo-eligibility py-5">
         <div class="container py-3">
-            <h2>Eligibility</h2>
-            <div class="row g-5">
+            <h2 class="fw-semibold">Eligibility</h2>
+            <div class="row g-3 g-md-4 mt-4">
                 <div class="col-md-6">
-                    <div class="card mt-4 mt-md-5 bg-transparent border-0 shadow-none">
-                        <h5>Minimum Paid-Up Capital and Net Worth :</h5>
+                    <div class="card border-0 p-4">
+                        <h5 class="mb-3" style="color: #D81F37">Minimum Paid-Up Capital and Net Worth :</h5>
                         <p>In order to be eligible for a SME IPO, the firm must meet minimum standards for both paid-up capital and net worth.
                             SMEs must meet lower requirements set by the stock exchange than those needed to float on the main stock exchange.
                         </p>
                     </div>
-                    <div class="card mt-4 mt-md-5 bg-transparent border-0 shadow-none">
-                        <h5>Post-Issue ownership Restrictions :</h5>
+                    <div class="card mt-3 mt-md-4 border-0 p-4">
+                        <h5 class="mb-3" style="color: #D81F37">Post-Issue ownership Restrictions :</h5>
                         <p>Post-issue ownership patterns are subject to restrictions. Usually, this means that promoters
                             must keep a sizable portion of the business. This increases an investor's confidence by
                             guaranteeing that the promoters remain dedicated to the firm and have a stake in its
@@ -182,9 +182,9 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-md-6 mt-0 mt-md-5">
-                    <div class="card mt-4 mt-md-5 bg-transparent border-0 shadow-none">
-                        <h5>Profitability Track Record or Alternative Performance Criteria :</h5>
+                <div class="col-md-6">
+                    <div class="card border-0 p-4">
+                        <h5 class="mb-3" style="color: #D81F37">Profitability Track Record or Alternative Performance Criteria :</h5>
                         <p>SMEs aiming to list through an SME IPO must show a history of profitability or meet specific
                             performance criteria established by the stock exchange. This ensures that only companies
                             with a demonstrated potential for success and sustainability are listed, offering a level of
@@ -194,7 +194,7 @@
                 </div>
             </div>
             <div class="d-flex row flex-column flex-sm-row g-5 mt-4 mt-md-5 pt-2">
-                <div class="col-12 col-md-8">
+                <div class="col-12 col-lg-8">
                     <h4>BSE SME Eligibility Requirements</h4>
                     <ul class="mt-4">
                         <li>The company must be incorporated under the Companies Act, 1956.</li>
@@ -214,15 +214,15 @@
                             SME.</li>
                     </ul>
                 </div>
-                <div class="col-12 col-md-4">
+                <div class="col-12 col-lg-4 ">
                     <img src="assets/sme-ipo/card-img2.jpg" class="object-fit-cover w-100" height="460px" alt="">
                 </div>
             </div>
-            <div class="d-flex row flex-column-reverse flex-md-row g-5 mt-4 mt-md-5 pt-2">
-                <div class="col-12 col-md-4">
+            <div class="d-flex row g-5 mt-4 mt-md-5 pt-2">
+                <div class="col-12 col-lg-4 order-1 order-lg-0">
                     <img src="assets/sme-ipo/card-img3.jpg" class="object-fit-cover w-100" height="460px" alt="">
                 </div>
-                <div class="col-12 col-md-8">
+                <div class="col-12 col-lg-8 order-0 order-lg-1">
                     <h4>BSE SME Eligibility Requirements</h4>
                     <ul class="mt-4">
                         <li>The company must be incorporated under the Companies Act, 1956.</li>
@@ -253,7 +253,7 @@
                 entire listing
                 process with a structured approach. Our expertise ensures a seamless transition to public markets with
                 maximum benefits.</p>
-            <div class="row py-5">
+            <div class="row g-3 g-md-4 py-5">
                 <div class="col-sm-6 col-lg-4 d-flex">
                     <div class="card">
                         <h6 class="text-white">Extensive Industry Experience :</h6>
@@ -261,27 +261,27 @@
                             various industries</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-4 mt-3 mt-sm-0 d-flex">
+                <div class="col-sm-6 col-lg-4 d-flex">
                     <div class="card">
                         <h6 class="text-white">Tailored Financial & Compliance Advisory :</h6>
                         <p class="text-white">We provide customized solutions, ensuring regulatory compliance and
                             financial preparedness</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-4 mt-3 mt-sm-4 mt-md-4 mt-lg-0 d-flex">
+                <div class="col-sm-6 col-lg-4 d-flex">
                     <div class="card">
                         <h6 class="text-white">Strategic Market Positioning :</h6>
                         <p class="text-white">Helping you craft an investment narrative that appeals to institutional
                             and retail investors.</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-4 d-flex mt-3 mt-sm-4">
+                <div class="col-sm-6 col-lg-4 d-flex">
                     <div class="card">
                         <h6 class="text-white">End-to-End Support :</h6>
                         <p class="text-white">From pre-IPO readiness to post-listing compliance, we handle it all.</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-4 d-flex mt-3 mt-sm-4">
+                <div class="col-sm-6 col-lg-4 d-flex">
                     <div class="card">
                         <h6 class="text-white">Strong Network :</h6>
                         <p class="text-white">Collaboration with merchant bankers, legal advisors, and regulatory
@@ -294,17 +294,17 @@
 
     <div class="sme-service-section py-5">
         <div class="container py-4">
-            <h2>Our SME IPO Services</h2>
+            <h2 class="fw-semibold">Our SME IPO Services</h2>
             <p>Our comprehensive SME IPO consultation covers:</p>
             <div class="row py-4">
                 <div class="col-lg-4 col-sm-6 d-flex">
                     <div class="choose_frame w-100">
                         <div class="icon-frame">
                             <div class="second-frame">
-                                <img src="assets/home/icons/client-needs.svg">
+                                <img src="assets/sme-ipo/icons/ipo-feasability.svg">
                             </div>
                         </div>
-                        <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                        <h2>IPO Feasability Assessment</h2>
                         <p class="mb-0">
                             Evaluating your business’s readiness for public listing.
                         </p>
@@ -314,10 +314,10 @@
                     <div class="choose_frame w-100">
                         <div class="icon-frame">
                             <div class="second-frame">
-                                <img src="assets/home/icons/client-needs.svg">
+                                <img src="assets/sme-ipo/icons/regulatory-and-compliance-advisory.svg">
                             </div>
                         </div>
-                        <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                        <h2>Regulatory & Compliance Advisory</h2>
                         <p class="mb-0">Ensuring adherence to SEBI, NSE, and BSE requirements.
                         </p>
                     </div>
@@ -326,14 +326,12 @@
                     <div class="choose_frame w-100">
                         <div class="icon-frame">
                             <div class="second-frame">
-                                <img src="assets/home/icons/client-needs.svg">
+                                <img src="assets/sme-ipo/icons/financial-structuring-and-valuation.svg">
                             </div>
                         </div>
-                        <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                        <h2>Financial Structuring & Valuation</h2>
                         <p class="mb-0">
-                            Many MSME loans, especially under government schemes like CGTMSE (Credit Guarantee Fund
-                            Trust for Micro and Small Enterprises), do not require any collateral, making it easier
-                            for small business owners to secure funds.
+                            Optimizing capital structure and determining fair valuation.
                         </p>
                     </div>
                 </div>
@@ -341,14 +339,12 @@
                     <div class="choose_frame w-100">
                         <div class="icon-frame">
                             <div class="second-frame">
-                                <img src="assets/home/icons/client-needs.svg">
+                                <img src="assets/sme-ipo/icons/drafting-offer-documents.svg">
                             </div>
                         </div>
-                        <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                        <h2>Drafting Offer Documents</h2>
                         <p class="mb-0">
-                            Many MSME loans, especially under government schemes like CGTMSE (Credit Guarantee Fund
-                            Trust for Micro and Small Enterprises), do not require any collateral, making it easier
-                            for small business owners to secure funds.
+                            Preparation of DRHP (Draft Red Herring Prospectus) and other necessary filings
                         </p>
                     </div>
                 </div>
@@ -356,14 +352,12 @@
                     <div class="choose_frame w-100">
                         <div class="icon-frame">
                             <div class="second-frame">
-                                <img src="assets/home/icons/client-needs.svg">
+                                <img src="assets/sme-ipo/icons/investor-road-shows-and-marketing.svg">
                             </div>
                         </div>
-                        <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                        <h2>Investor Roadshows & Marketing</h2>
                         <p class="mb-0">
-                            Many MSME loans, especially under government schemes like CGTMSE (Credit Guarantee Fund
-                            Trust for Micro and Small Enterprises), do not require any collateral, making it easier
-                            for small business owners to secure funds.
+                            Enhancing visibility and attracting potential investors.
                         </p>
                     </div>
                 </div>
@@ -371,14 +365,12 @@
                     <div class="choose_frame w-100">
                         <div class="icon-frame">
                             <div class="second-frame">
-                                <img src="assets/home/icons/client-needs.svg">
+                                <img src="assets/sme-ipo/icons/listing-and-post-ipo.svg">
                             </div>
                         </div>
-                        <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                        <h2>Listing & Post-IPO Compliance</h2>
                         <p class="mb-0">
-                            Many MSME loans, especially under government schemes like CGTMSE (Credit Guarantee Fund
-                            Trust for Micro and Small Enterprises), do not require any collateral, making it easier
-                            for small business owners to secure funds.
+                            Ensuring smooth listing and adherence to post-IPO regulatory requirements.
                         </p>
                     </div>
                 </div>
@@ -387,7 +379,7 @@
 
         <div class="container">
             <div class="pt-4" style="line-height: 1.8">
-                <h2 class="mb-3">Take Your Business to the Next Level</h2>
+                <h2 class="mb-3 fw-semibold">Take Your Business to the Next Level</h2>
                 <p>A successful SME IPO not only unlocks growth capital but also strengthens brand reputation, enhances
                     credibility, and fosters long-term business expansion. Partner with us for a structured, efficient,
                     and successful IPO journey.
