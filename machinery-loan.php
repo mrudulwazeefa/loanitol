@@ -386,8 +386,6 @@
                             </div>
                         </div>
                     </div>
-<<<<<<< HEAD
-=======
                     <!-- Accordion Item 4 -->
                     <div class="accordion-item">
                         <h2 class="accordion-header p-1">
@@ -408,7 +406,6 @@
                             </div>
                         </div>
                     </div>
->>>>>>> amal2
                 </div>
             </div>
         </div>

@@ -1,10 +1,7 @@
 <?php include("includes/meta.php"); ?>
 <title>About Us | Loanitol</title>
 </head>
-<<<<<<< HEAD
-=======
 
->>>>>>> amal2
 <body>
     <?php include("includes/nav.php"); ?>
     <div class="hero-small--section-area">
@@ -25,12 +22,8 @@
                 <h4 class="h4-size">Who Are We?
                 </h4>
                 <p>We are a trusted loan consulting company partnered with over 50+ banks and financial institutions,
-<<<<<<< HEAD
-                    offering a wide range of loan products tailored to meet your financial needs. Whether you're looking
-=======
                     offering a wi
                     de range of loan products tailored to meet your financial needs. Whether you're looking
->>>>>>> amal2
                     for a loan, we provide expert guidance and seamless processing to help you secure the best deals.
                     With our strong network and customer-centric approach, we ensure hassle-free loan approvals at
                     competitive interest rates</p>
@@ -125,13 +118,8 @@
                             <div class="circle-count">
                                 <img src="assets/home/icons/loan-disbursed.svg" alt="loan-disbursed icon" width="30">
                             </div>
-<<<<<<< HEAD
-                            <span class="count" data-target="25000">0</span>+
-                            <p>Number of Customer Connected</p>
-=======
                             <span class="count" data-target="2000">0</span>cr+
                             <p>Amount Of Loan Disbursed</p>
->>>>>>> amal2
                         </div>
                     </div>
                 </div>
@@ -192,13 +180,9 @@
     </section>
     <section class="board">
         <div class="container">
-<<<<<<< HEAD
-            <h4 class="h4-size text-center text-white">Core Advisory Board</h4>
-=======
             <h4 class="h4-size text-center text-white">Events and Awards</h4>
 
             <!-- <h4 class="h4-size text-center text-white">Core Advisory Board</h4>
->>>>>>> amal2
             <p class="text-center text-white">Demo text Grow together with Loanitol – Your trusted partner for success!
             </p>
             <div class="row mt-4 justify-content-center align-items-center gx-4 gy-4">
@@ -256,8 +240,6 @@
                         </div>
                     </div>
                 </div>
-<<<<<<< HEAD
-=======
             </div> -->
             <div class="container events-and-awards-section py-5">
                 <div class="row">
@@ -322,7 +304,6 @@
                     </div>
                 </div>
 
->>>>>>> amal2
             </div>
         </div>
 
@@ -910,8 +891,5 @@
     <?php include("includes/calculation-bottom.php"); ?>
     <?php include("includes/footer.php"); ?>
 </body>
-<<<<<<< HEAD
-=======
 
->>>>>>> amal2
 </html>

@@ -1,5 +1,5 @@
 <?php include("includes/meta.php"); ?>
-<title>Packing Credit | Loanitol </title>
+<title>Letter of Credit | Loanitol </title>
 </head>
 <body>
     <?php include("includes/nav.php"); ?>
@@ -15,17 +15,18 @@
                             <li class="breadcrumb-item">
                                 MSME Loan</li>
                             <li class="breadcrumb-item">
-                                <span class="active">Packing Credit</span>
+                                <span class="active">Letter of Credit</span>
                             </li>
                         </ol>
                     </nav>
-                    <h5 class="h5-size col-sm-12">Power Up Production for Export Orders <span>– Instantly!</span>
+                    <h5 class="h5-size col-sm-12">Confidence in Every Cross-Border Deal<span> – With Our LC
+                            Support</span>
                     </h5>
-                    <p>Speed Up Production and Fulfill Export Orders Quickly with Instant Funding!
+                    <p>Close International Deals Confidently with Our Letter of Credit (LC) Support.
                     </p>
                 </div>
                 <div class="col-lg-4 col-md-4">
-                    <img src="assets/services/msme-loan/packing-credit/banner.png" class="w-80" alt="Image">
+                    <img src="assets/services/msme-loan/letter-of-credit/banner.png" class="w-80" alt="Image">
                 </div>
             </div>
         </div>
@@ -61,7 +62,11 @@
         <div class="empower-section">
             <div class="container">
                 <h4 class="h4-size2">Overview</h4>
-                <p>Exporters can finance the procurement of raw materials, processing, manufacturing, and packing of items intended for export by using Packing Credit, a short-term pre-shipment loan. It guarantees that companies have the working cash needed to promptly complete export orders.</p>
+                <p>A Letter of Credit (LC) is a financial document that a bank issues to ensure that a buyer will pay a
+                    seller on schedule and in the exact amount. The bank pays the entire amount or the remaining balance
+                    if the buyer is unable to complete the payment. In order to reduce the risks involved in
+                    cross-border transactions and provide security for both buyers and sellers, LCs are frequently
+                    utilized in international trade.</p>
             </div>
         </div>
     </section>
@@ -77,7 +82,7 @@
                                     <img src="assets/services/msme-loan/icons/adaptable-credit-limit.svg" alt="logo"
                                         width="16">
                                 </div>
-                                <h6>Available in Domestic and Foreign Currencies.</h6>
+                                <h6>Reduces payment risk in trade.</h6>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -86,7 +91,7 @@
                                     <img src="assets/services/msme-loan/icons/revolving-facility.svg" alt="logo"
                                         width="16">
                                 </div>
-                                <h6>Lower Interest Rates compared to standard loans.</h6>
+                                <h6>Can be revocable or irrevocable.</h6>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -94,7 +99,8 @@
                                 <div class="icon-style d-flex justify-content-center align-items-center">
                                     <img src="assets/services/msme-loan/icons/interest-only.svg" alt="logo" width="16">
                                 </div>
-                                <h6>Directly Linked to Confirmed Export Orders.</h6>
+                                <h6>Typically involves multiple parties (buyer, seller, issuing bank, and advising
+                                    bank).</h6>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -103,34 +109,7 @@
                                     <img src="assets/services/msme-loan/icons/collateral-requirement.svg" alt="logo"
                                         width="16">
                                 </div>
-                                <h6>Convertible into Post-Shipment Loan if required.</h6>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="features-style-box box-height d-flex flex-column justify-content-center">
-                                <div class="icon-style d-flex justify-content-center align-items-center">
-                                    <img src="assets/services/msme-loan/icons/collateral-requirement.svg" alt="logo"
-                                        width="16">
-                                </div>
-                                <h6>Flexible Repayment Terms based on the export cycle.</h6>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="features-style-box box-height d-flex flex-column justify-content-center">
-                                <div class="icon-style d-flex justify-content-center align-items-center">
-                                    <img src="assets/services/msme-loan/icons/collateral-requirement.svg" alt="logo"
-                                        width="16">
-                                </div>
-                                <h6>Primarily Secured by Export Documents or Orders.</h6>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="features-style-box box-height d-flex flex-column justify-content-center">
-                                <div class="icon-style d-flex justify-content-center align-items-center">
-                                    <img src="assets/services/msme-loan/icons/collateral-requirement.svg" alt="logo"
-                                        width="16">
-                                </div>
-                                <h6>Additional Collateral Options may include inventory, property, or fixed.</h6>
+                                <h6>Ensures timely payment upon meeting condition</h6>
                             </div>
                         </div>
                     </div>
@@ -152,7 +131,8 @@
                                     <img src="assets/services/msme-loan/icons/guarantees-continuous.svg" alt="logo"
                                         width="16">
                                 </div>
-                                <h6>Supports Pre-Shipment Working Capital Needs for businesses.</h6>
+                                <h6>Risk Mitigation:</h6>
+                                <p>Guarantees payment to sellers in the event of a buyer default.</p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -162,7 +142,8 @@
                                     <img src="assets/services/msme-loan/icons/business-growth.svg" alt="logo"
                                         width="16">
                                 </div>
-                                <h6>Provides Liquidity to cover production and shipping expenses.</h6>
+                                <h6>International Trade Trust:</h6>
+                                <p>Encourages confidence amongst traders worldwide.</p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -172,7 +153,9 @@
                                     <img src="assets/services/msme-loan/icons/financial-flexibility.svg" alt="logo"
                                         width="16">
                                 </div>
-                                <h6>Boosts Cash Flow by financing raw material procurement and processing.</h6>
+                                <h6>Working Capital Support: </h6>
+                                <p>Allows companies to carry on without experiencing interruptions in their cash flow.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -181,7 +164,10 @@
                                 <div class="icon-style d-flex justify-content-center align-items-center">
                                     <img src="assets/services/msme-loan/icons/boosts-credit.svg" alt="logo" width="16">
                                 </div>
-                                <h6>Improves Exporter Competitiveness through timely order completion.</h6>
+                                <h6>Credit Enhancement: </h6>
+                                <p>Improves buyer-seller interactions by serving as a credit instrument to guarantee
+                                    payment.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -190,7 +176,31 @@
                                 <div class="icon-style d-flex justify-content-center align-items-center">
                                     <img src="assets/services/msme-loan/icons/boosts-credit.svg" alt="logo" width="16">
                                 </div>
-                                <h6>Lowers Interest Burden with concessional interest rates.</h6>
+                                <h6>Transactional Flexibility: </h6>
+                                <p>Adaptable to trade agreements.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div
+                                class="features-style-box details-section-height d-flex flex-column justify-content-center">
+                                <div class="icon-style d-flex justify-content-center align-items-center">
+                                    <img src="assets/services/msme-loan/icons/boosts-credit.svg" alt="logo" width="16">
+                                </div>
+                                <h6>Increased Negotiation Power:</h6>
+                                <p>Boosts trust with foreign vendors.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div
+                                class="features-style-box details-section-height d-flex flex-column justify-content-center">
+                                <div class="icon-style d-flex justify-content-center align-items-center">
+                                    <img src="assets/services/msme-loan/icons/boosts-credit.svg" alt="logo" width="16">
+                                </div>
+                                <h6>Secure Import and Export Procedure: </h6>
+                                <p>Guards against unanticipated dangers for both the buyer and the seller.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -205,14 +215,20 @@
                 <div class="col-lg-8 col-md-12">
                     <h4 class="h4-size2">Eligibility Criteria</h4>
                     <ul>
-                        <li>The applicant must be a registered exporter.</li>
-                        <li>Must have a confirmed export order or letter of credit from a buyer.</li>
-                        <li>Satisfactory creditworthiness and financial track record.</li>
-                        <li>The export contract should comply with RBI and FEMA guidelines.</li>
+                        <li>It must be a commercial entity, such as a company, partnership, LLP, or proprietorship.
+                        </li>
+                        <li>Needs to have a current, active bank account. </li>
+                        <li>A solid financial record and credit history.</li>
+                        <li>If applicable, a positive prior experience with the bank.</li>
+                        <li>The LC needs to be verified by a reputable bank and be irrevocable. </li>
+                        <li>The lending bank should acknowledge and accept the issuing bank.</li>
+                        <li>Additional security (stock, real estate, or other assets) can be needed by the bank. </li>
+                        <li>Depending on the risk assessment, a buffer (often 10–30%) can be necessary. </li>
+                        <li>Legitimate business dealings must support LC</li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-12 d-sm-none d-md-none d-lg-block mb-4">
-                    <img src="assets/services/msme-loan/packing-credit/eligibility.jpg" alt="" class="w-100">
+                    <img src="assets/services/msme-loan/letter-of-credit/eligibility.jpg" alt="" class="w-100">
                 </div>
             </div>
         </div>
@@ -226,20 +242,24 @@
                     <h4 class="col-12 h4-size2 mb-3">Documents Required</h4>
                     <div class="col-md-6">
                         <ul>
-                            <li>Export Order Copy or Letter of Credit</li>
-                            <li>Import-Export Code (IEC) issued by DGFT</li>
-                            <li>PAN Card & Aadhaar Card of the business owner(s)</li>
-                            <li>Address Proof (e.g., Electricity Bill, Rent Agreement, etc.)</li>
-                            <li>GST Registration Certificate and Udyam Certificate</li>
-                            <li>Business Registration Proof (e.g., Partnership Deed, Incorporation Certificate, etc.)</li>
+                            <li>ID & Address proof PAN cards of the business owner or owners </li>
+                            <li>Proof of address (such as a rent agreement or electricity bill)</li>
+                            <li>Proof of Business Registration (Partnership Deed, Incorporation Certificate, etc.)</li>
+                            <li>GST Registration Certificate, Udyam Certificate Income Tax Returns (ITR) over the
+                                previous two to three years</li>
+                            <li>Bank statements over the last six to twelve months</li>
+                            <li>Balance sheet and profit and loss statement audit (for loans over ₹10 lakh) </li>
                         </ul>
                     </div>
                     <div class="col-md-6">
                         <ul>
-                            <li>Income Tax Returns (ITR) for the last 2-3 years</li>
-                            <li>Bank Statements for the last 6-12 months</li>
-                            <li>Audited Profit & Loss Statement and Balance Sheet (for loans over ₹10 lakh)</li>
-                            <li>Loan Repayment Track Record (if applicable)</li>
+                            <li>Track record of loan repayment (if appropriate)</li>
+                            <li>Original Letter of Credit (LC): This document is issued by the bank of the buyer.</li>
+                            <li>A copy of the purchase order or proforma invoice that supports the LC. </li>
+                            <li>Draft Bill of Exchange: The exporter's signature. </li>
+                            <li>Commercial Invoice: Verifies the items' worth.</li>
+                            <li>Transportation Records: Bill of Lading, Airway Bill, or Railroad Receipt, according to
+                                the shipment.</li>
                         </ul>
                     </div>
                 </div>
@@ -258,7 +278,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item1">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                What is the repayment period for Packing Credit?
+                                Who can apply for an LC?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -266,12 +286,10 @@
                         </h2>
                         <div id="loanitol_item1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                The repayment period for Packing Credit (Pre-shipment Credit) depends on the export order and the agreed terms. According to RBI guidelines, the typical repayment period is:
-                                    <ul>
-                                        <li>Up to 180 days from the date of disbursement.</li>
-                                        <li>In special cases, it can be extended up to 360 days with the bank's approval.</li>
-                                        <li>If the shipment is delayed beyond the sanctioned period, the bank may convert the Packing Credit into a demand loan or apply a higher interest rate.</li>
-                                    </ul>
+                                Businesses involved in international trade, whether as importers (buyers) or exporters
+                                (sellers), can apply for a Letter of Credit (LC). Exporting companies can be the
+                                beneficiaries of an LC. To qualify, businesses typically need to have an established
+                                relationship with a bank and meet the bank's specific requirements.
                             </div>
                         </div>
                     </div>
@@ -281,7 +299,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item2">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                What currency options are available for Packing Credit?
+                                Who are the parties involved in an LC?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -289,7 +307,19 @@
                         </h2>
                         <div id="loanitol_item2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Packing Credit can be availed in both Indian Rupees (INR) and Foreign Currency (PCFC – Packing Credit in Foreign Currency), depending on the exporter's preference and the bank's offerings.
+                                The key parties involved in a Letter of Credit (LC) are:
+                                <ul>
+                                    <li>Applicant (Buyer): The person or company purchasing the goods.</li>
+                                    <li>Beneficiary (Seller): The person or company selling the goods.</li>
+                                    <li>Issuing Bank: The buyer's bank that issues the LC.</li>
+                                    <li>Advising Bank: The seller's bank that notifies them about the LC.</li>
+                                    <li>Confirming Bank (optional): A bank that guarantees payment if the issuing bank
+                                        fails.</li>
+                                    <li>Negotiating Bank: The bank that verifies and processes the seller's documents.
+                                    </li>
+                                    <li>Reimbursing Bank: The bank that pays the negotiating or confirming bank on
+                                        behalf of the issuing bank.</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -299,7 +329,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                What is the interest rate for Packing Credit?
+                                Can LC be cancelled after issuance?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -307,7 +337,15 @@
                         </h2>
                         <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                               The interest rate for Packing Credit in India varies across banks and depends on factors such as the borrower's creditworthiness, loan tenure, and prevailing benchmark rates.
+                                Whether an LC can be cancelled depends on its type:
+                                <ul>
+                                    <li>Revocable LC: Yes, it can be cancelled or amended by the issuing bank without
+                                        the beneficiary’s consent. However, this type is rarely used in international
+                                        trade.</li>
+                                    <li>Irrevocable LC: No, it cannot be cancelled without the consent of all parties
+                                        involved, including the issuing bank, beneficiary, and confirming bank (if
+                                        applicable).</li>
+                                </ul>
                             </div>
                         </div>
                     </div>

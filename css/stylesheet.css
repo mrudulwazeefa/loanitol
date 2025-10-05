@@ -1,10 +1,6 @@
 @import url("../css/root.css");
 @import url("../css/scrollbar.css");
 @import url("../css/specified-screen.css");
-<<<<<<< HEAD
-
-=======
->>>>>>> amal2
 * {
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -66,9 +62,6 @@ div {
 option {
   font-family: var(--theme-font);
   font-size: var(--default-font-size);
-}
-.logo {
-  width: 160px;
 }
 
 .navbar-toggler {
@@ -876,16 +869,6 @@ option {
   font-size: 24px;
 }
 
-.h6_size {
-  font-size: 16px;
-  font-family: var(--theme-font);
-  font-weight: 600;
-}
-.empower-section ul li {
-  font-family: var(--theme-font);
-  font-size: var(--default-font-size);
-}
-
 .h4-testimonial-size {
   font-size: 24px;
 }
@@ -1460,11 +1443,7 @@ h4 span {
 }
 .copyright-bg-area {
   padding: 1.5% 0%;
-<<<<<<< HEAD
-  background: #1c1919;
-=======
   background: #092630;
->>>>>>> amal2
 }
 .copyright-bg-area p {
   color: var(--white);
@@ -2035,11 +2014,7 @@ h4 span {
 }
 .h5-size span,
 .h6-size span {
-<<<<<<< HEAD
-  color: var(--theme-color) !important;
-=======
   /* color: var(--theme-color) !important; */
->>>>>>> amal2
 }
 .empower-section {
   padding: 3% 0% 2% 0%;
@@ -2107,12 +2082,6 @@ h4 span {
   transition: transform 0.3s ease, opacity 0.3s ease, margin-left 0.3s ease;
 }
 .features-style-box-height {
-  min-height: 120px;
-}
-.agriculture-style-box-height {
-  min-height: 120px;
-}
-.commercial-style-box-height {
   min-height: 120px;
 }
 .details-section-height {
@@ -2933,14 +2902,7 @@ textarea {
   color: #18343f !important;
   cursor: text;
 }
-<<<<<<< HEAD
-li::marker {
-  color: #f51532;
-  font-weight: 600;
-}
-=======
 
->>>>>>> amal2
 .head {
   font-size: 1rem !important;
 }
@@ -3000,10 +2962,6 @@ li::marker {
   padding: 8px 16px;
   white-space: nowrap;
   border-radius: 4px;
-<<<<<<< HEAD
-  font-size: 15px;
-=======
->>>>>>> amal2
   font-family: "Inter";
   font-weight: 500;
 }
@@ -3013,10 +2971,7 @@ li::marker {
   background: #fff;
   padding: 8px 16px !important;
   font-family: "Inter", sans-serif;
-<<<<<<< HEAD
-=======
   font-size: 14px;
->>>>>>> amal2
   font-weight: 500;
   border-radius: var(--theme-border-radius);
   transition: all 0.3s linear;
@@ -3032,40 +2987,11 @@ li::marker {
   height: 100%;
   object-fit: cover;
 }
-<<<<<<< HEAD
-.commerical-image-box {
-=======
-.benefits-image-box {
->>>>>>> amal2
-  height: 91%;
-  width: 100%;
-  overflow: hidden;
-}
-<<<<<<< HEAD
-.commerical-image-box img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  /* object-position: top; */
-}
-.agriculture-image-box {
-  height: 91%;
-  width: 100%;
-  overflow: hidden;
-}
-.agriculture-image-box img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  /* object-position: top; */
-}
 .benefits-image-box {
   height: 91%;
   width: 100%;
   overflow: hidden;
 }
-=======
->>>>>>> amal2
 .benefits-image-box img {
   width: 100%;
   height: 100%;
@@ -3219,11 +3145,10 @@ li::marker {
   border: none;
 }
 .modal-body {
-  /* display: flex; */
+  display: flex;
   align-items: center;
   justify-content: center;
   padding: 0;
-  background: var(--white);
 }
 .video-wrapper {
   width: 100%;
@@ -4069,15 +3994,6 @@ img {
   .features-image-box {
     height: 20vh;
   }
-<<<<<<< HEAD
-  .commerical-image-box {
-    height: 20vh;
-  }
-  .agriculture-image-box {
-    height: 20vh;
-  }
-=======
->>>>>>> amal2
   .benefits-image-box {
     height: 20vh;
   }
@@ -4366,15 +4282,6 @@ img {
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media screen and (min-width: 600px) {
-<<<<<<< HEAD
-  .commerical-style-box-height {
-    min-height: 258px;
-  }
-  .agriculture-style-box-height {
-    min-height: 193px;
-  }
-=======
->>>>>>> amal2
   .learn-inner .btn {
     padding: 1.5% 4%;
   }
@@ -4485,7 +4392,7 @@ img {
   }
   .h4-size {
     font-size: 26px;
-    /* text-align: center; */
+    text-align: center;
     margin-bottom: 3px;
   }
   .navbar-text {
@@ -4687,15 +4594,6 @@ img {
   .features-image-box {
     height: 17vh;
   }
-<<<<<<< HEAD
-  .commerical-image-box {
-    height: 19.5vh;
-  }
-  .agriculture-image-box {
-    height: 11.5vh;
-  }
-=======
->>>>>>> amal2
   .benefits-image-box {
     height: 17vh;
   }
@@ -4912,12 +4810,6 @@ img {
   .features-style-box-height {
     min-height: 210px;
   }
-  .commerical-style-box-height {
-    min-height: 274px;
-  }
-  .agriculture-style-box-height {
-    min-height: 210px;
-  }
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
@@ -5072,12 +4964,6 @@ img {
   .features-style-box-height {
     min-height: 145px;
   }
-  .commerical-style-box-height {
-    min-height: 145px;
-  }
-  .agriculture-style-box-height {
-    min-height: 145px;
-  }
 }
 /* */
 @media only screen and (min-width: 1024px) {
@@ -5114,15 +5000,6 @@ img {
   .features-image-box {
     height: 9.5rem;
   }
-<<<<<<< HEAD
-  .commerical-image-box {
-    height: 13.5rem;
-  }
-  .agriculture-image-box {
-    height: 9.5rem;
-  }
-=======
->>>>>>> amal2
   .benefits-image-box {
     height: 8.5rem;
   }
@@ -5283,15 +5160,6 @@ img {
   .features-image-box {
     height: 10.1rem;
   }
-<<<<<<< HEAD
-  .commerical-image-box {
-    height: 12.6rem;
-  }
-  .agriculture-image-box {
-    height: 7.6rem;
-  }
-=======
->>>>>>> amal2
   .benefits-image-box {
     height: 8rem;
   }
@@ -5536,8 +5404,6 @@ img {
   .timeline-box.img-right .timeline-content-txt {
     width: 90%;
   }
-<<<<<<< HEAD
-=======
 }
 
 /* styles by amal */
@@ -7533,5 +7399,4 @@ input.search-field.show-placeholder::placeholder {
 /* blog-inner */
 .learn-inner .gradient {
   background: linear-gradient(to bottom right, #ff7e5f, #ffffff);
->>>>>>> amal2
 }

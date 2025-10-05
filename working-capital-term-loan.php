@@ -1,6 +1,7 @@
 <?php include("includes/meta.php"); ?>
-<title>Commercial Construction | Loanitol </title>
+<title>Working Capital Term Loan | Loanitol </title>
 </head>
+
 <body>
     <?php include("includes/nav.php"); ?>
     <div class="hero-section-area">
@@ -15,17 +16,16 @@
                             <li class="breadcrumb-item">
                                 MSME Loan</li>
                             <li class="breadcrumb-item">
-                                <span class="active">Commercial Construction</span>
+                                <span class="active">Working Capital Term Loan</span>
                             </li>
                         </ol>
                     </nav>
-                    <h5 class="h5-size col-sm-12">Build Your Vision Faster: Flexible Commercial Construction Loans <span>With Competitive Rates!</span>
+                    <h5 class="h5-size col-sm-12">Empowering Your Business with <span>Reliable Capital</span>
                     </h5>
-                    <p>Get funded fast—commercial construction loans with competitive rates. Build smarter.
-                    </p>
+                    <p>Secure Working Capital Loans to support operations and fuel business growth.</p>
                 </div>
                 <div class="col-lg-4 col-md-4">
-                    <img src="assets/services/msme-loan/commercial-construction/banner.png" class="w-80" alt="Image">
+                    <img src="assets/services/msme-loan/working-capital-overdraft/banner.png" class="w-80" alt="Image">
                 </div>
             </div>
         </div>
@@ -41,7 +41,7 @@
                 <div class="scroll-container">
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link active" href="#overview">Overview</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#product-details">Features</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#product-details">Features & Benefits</a></li>
                         <li class="nav-item"><a class="nav-link" href="#eligibility">Eligibility</a></li>
                         <li class="nav-item"><a class="nav-link" href="#document">Documents</a></li>
                         <li class="nav-item"><a class="nav-link" href="#faqs">FAQs</a></li>
@@ -51,7 +51,7 @@
             </div>
             <button class="arrow-btn d-flex align-items-center" onclick="scrollNav(200)">
                 <img src="assets/services/msme-loan/icons/right-arrow.svg" alt="right-arrow" width="25"
-                    class="left-arrow">
+                    class="left-arrow ">
             </button>
         </div>
     </div>
@@ -60,13 +60,11 @@
         <div class="empower-section">
             <div class="container">
                 <h4 class="h4-size2">Overview</h4>
-                <p>One kind of short-term loan intended to fund the development of a business property is a commercial construction loan. Usually, banks, credit unions, and other financial organizations provide these loans to companies or developers who want to construct or remodel commercial buildings.</p>
-                <h6 class="h6_size">Purpose of a Commercial Construction Loan:</h6>
-                <ul>
-                    <li><b>Building New Commercial Properties:</b> To finance the construction of new office buildings, shopping centre , industrial facilities, or other commercial real estate projects.  </li>
-                    <li><b>Renovation and Expansion:</b> To fund the renovation or expansion of existing commercial properties. </li>
-                    <li><b>Bridge Financing:</b> To provide funding during the construction phase, with the loan often converted into a traditional mortgage once the project is complete.</li>
-                </ul>
+                <p>One kind of business loan intended to give a lump sum of money to manage and enhance a company's
+                    daily operating demands is a working capital term loan. A working capital term loan is designed to
+                    fill short-to-medium-term cash flow shortages, as opposed to a standard term loan for long-term
+                    investments. The loan is a structured and predictable financing option because it is paid back over
+                    a defined period of time in fixed installments. </p>
             </div>
         </div>
     </section>
@@ -74,7 +72,7 @@
         <div class="details-section">
             <div class="container">
                 <div class="col-lg-12">
-                    <h4 class="mb-1 mb-4 h4-size2">Features</h4>
+                    <h4 class="mb-1 mb-4 h4-size2">Features & Benefits</h4>
                     <div class="row features-style">
                         <div class="col-md-4 col-sm-6">
                             <div class="features-style-box features-style-box-height">
@@ -86,10 +84,10 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-10">
-                                        <h6>Loan Amount:</h6>
+                                        <h6>Lump Sum Funding:</h6>
                                     </div>
                                 </div>
-                                <p>The estimated cost of the construction or renovation, including labor, materials, permits, and other related costs, is typically used to determine the loan amount. </p>
+                                <p>Get a sizable sum of money up front, enabling quick access to finances.</p>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6">
@@ -102,10 +100,10 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-10">
-                                        <h6>Interest Rates:</h6>
+                                        <h6>Structured Repayment:</h6>
                                     </div>
                                 </div>
-                                <p>Due to the risk involved, interest rates for commercial construction loans are typically higher than those for conventional mortgages. There are two types of rates: variable and fixed. </p>
+                                <p>Cash flow management is predictable with fixed monthly or quarterly installments.</p>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6">
@@ -118,11 +116,11 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-10">
-                                        <h6>Loan period: </h6>
+                                        <h6>Adaptable Use: </h6>
                                     </div>
                                 </div>
-                                <p>These loans have a short period, usually between 12 months and 10 years. After construction is finished, the loan is anticipated to be paid back or refinanced into a permanent mortgage. 
-                                </p>
+                                <p>The money can be applied to a range of working capital requirements, providing
+                                    operational adaptability. </p>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6">
@@ -135,10 +133,11 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-10">
-                                        <h6>Draw Schedule: </h6>
+                                        <h6>Better Cash Flow: </h6>
                                     </div>
                                 </div>
-                                <p>Depending on how the development is going, funds are usually released in "draws," or phases. These are often disbursed following confirmation by an outside inspector that the predetermined benchmarks have been reached. </p>
+                                <p>Take care of immediate cash flow issues and keep business operations running
+                                    smoothly.</p>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6">
@@ -146,178 +145,136 @@
                                 <div class="row d-flex align-items-center">
                                     <div class="col-lg-2">
                                         <div class="icon-style d-flex justify-content-center align-items-center">
-                                            <img src="assets/services/msme-loan/icons/disbursal.svg" alt="logo"
+                                            <img src="assets/services/msme-loan/icons/renewable-facility.svg" alt="logo"
+                                                width="15">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-10">
+                                        <h6>Longer Tenure Compared to Overdrafts: </h6>
+                                    </div>
+                                </div>
+                                <p>Term loans offer greater time for repayment due to their longer tenures.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <div class="features-style-box features-style-box-height">
+                                <div class="row d-flex align-items-center">
+                                    <div class="col-lg-2">
+                                        <div class="icon-style d-flex justify-content-center align-items-center">
+                                            <img src="assets/services/msme-loan/icons/boosts-credit.svg" alt="logo"
+                                                width="15">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-10">
+                                        <h6>Boosts Creditworthiness: </h6>
+                                    </div>
+                                </div>
+                                <p>On-time payments can raise your company's credit score, which can facilitate future
+                                    loans.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <div class="features-style-box features-style-box-height">
+                                <div class="row d-flex align-items-center">
+                                    <div class="col-lg-2">
+                                        <div class="icon-style d-flex justify-content-center align-items-center">
+                                            <img src="assets/services/msme-loan/icons/business-growth.svg" alt="logo"
                                                 width="16">
                                         </div>
                                     </div>
                                     <div class="col-lg-10">
-                                        <h6>Repayment Terms During Construction Phase</h6>
+                                        <h6>Business Growth Opportunities: </h6>
                                     </div>
                                 </div>
-                                <p>Interest-only repayments may be made during the building phase, with the principle amount due at the end of the project. Upon completion or refinancing, certain loans could demand full payback. </p>
+                                <p>Capital can be used to take advantage of growth prospects like seasonal inventory
+                                    accumulation or bulk purchases. Better financial planning is made possible by
+                                    predictable interest rates, which are frequently fixed.</p>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-6">
-                            <div class="features-style-box features-style-box-height">
-                                <div class="row d-flex align-items-center">
-                                    <div class="col-lg-2">
-                                        <div class="icon-style d-flex justify-content-center align-items-center">
-                                            <img src="assets/services/msme-loan/icons/renewable-facility.svg" alt="logo"
-                                                width="15">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-10">
-                                        <h6>Construction Risk Assessment: </h6>
-                                    </div>
-                                </div>
-                                <p>In addition to evidence of the borrower's ability to repay, lenders usually demand a thorough construction plan and budget. Timelines and contractor information are essential components of a strong construction plan. </p>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6">
-                            <div class="features-style-box features-style-box-height">
-                                <div class="row d-flex align-items-center">
-                                    <div class="col-lg-2">
-                                        <div class="icon-style d-flex justify-content-center align-items-center">
-                                            <img src="assets/services/msme-loan/icons/renewable-facility.svg" alt="logo"
-                                                width="15">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-10">
-                                        <h6>Flexible Financing:</h6>
-                                    </div>
-                                </div>
-                                <p>During the construction phase, a commercial construction loan gives companies the freedom to take out loans as needed. This keeps cash flow stable without taking on more debt than is required.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-8 col-sm-6">
-                            <div class="features-style-box commerical-style-box-height p-0 commerical-image-box">
-                                <img src="assets/services/msme-loan/commercial-construction/feature-image.jpg" alt="">
-                            </div>
+                        <div class="col-md-8 col-sm-6" style="height: 225px;margin-top: 0.5%;">
+                            <img src="assets/services/msme-loan/working-capital-term-loan/working-capital-term.jpg"
+                                style="object-fit: cover; width:100%; height: 100%; border-radius: 4px;">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--  -->
-    <!-- <section id="benefits" class="section">
-        <div class="details-section">
-            <div class="container">
-                <div class="col-lg-12">
-                    <h4 class="mb-1 mb-4 h4-size2">Benefits</h4>
-                    <div class="row features-style">
-                        <div class="col-lg-3 col-md-6">
-                            <div
-                                class="features-style-box details-section-height d-flex flex-column justify-content-center">
-                                <div class="icon-style d-flex justify-content-center align-items-center">
-                                    <img src="assets/services/msme-loan/icons/guarantees-continuous.svg" alt="logo"
-                                        width="16">
-                                </div>
-                                <h6>Guarantees Continuous Business Operations:</h6>
-                                <p>Aids in cash flow management amid temporary liquidity shortages.</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div
-                                class="features-style-box details-section-height d-flex flex-column justify-content-center">
-                                <div class="icon-style d-flex justify-content-center align-items-center">
-                                    <img src="assets/services/msme-loan/icons/business-growth.svg" alt="logo"
-                                        width="16">
-                                </div>
-                                <h6>Promotes Business Growth:</h6>
-                                <p>Gives companies the freedom to seize unforeseen possibilities without worrying about
-                                    money.</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div
-                                class="features-style-box details-section-height d-flex flex-column justify-content-center">
-                                <div class="icon-style d-flex justify-content-center align-items-center">
-                                    <img src="assets/services/msme-loan/icons/financial-flexibility.svg" alt="logo"
-                                        width="16">
-                                </div>
-                                <h6>Financial Flexibility: </h6>
-                                <p>Companies are free to pay back as their cash flow permits; there is no set repayment
-                                    plan.</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div
-                                class="features-style-box details-section-height d-flex flex-column justify-content-center">
-                                <div class="icon-style d-flex justify-content-center align-items-center">
-                                    <img src="assets/services/msme-loan/icons/boosts-credit.svg" alt="logo" width="16">
-                                </div>
-                                <h6>Boosts Creditworthiness:</h6>
-                                <p>Business credit scores are raised by prompt payments.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
     <!-- Eligibility -->
     <section id="eligibility" class="eligibility section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-md-12">
                     <h4 class="h4-size2">Eligibility Criteria</h4>
+                    <p>Eligibility for a Working Capital Term Loan can vary between lenders, but common criteria
+                        include:
+                    </p>
                     <ul>
-                        <li>The borrower must be a registered business entity (e.g., proprietorship, partnership, LLP, or private/public limited company).  </li>
-                        <li>A strong credit history with a CIBIL score of 700 or above is preferred. </li>
-                        <li>The loan must be used for commercial construction purposes, such as office spaces, industrial buildings, warehouses, factories, or mixed-use developments.</li>
-                        <li>A detailed project report is required, including cost estimates, contractor details, and timelines.</li>
-                        <li>The project must have legal approvals from local authorities (e.g., municipality, panchayat, or state government). </li>
-                        <li>The borrower must demonstrate stable cash flows to support loan repayment. </li>
-                        <li>Financial statements (Profit & Loss statement, Balance Sheet, and IT returns) for the last 2-3 years may be analyzed (if applicable).</li>
-                        <li>The debt-to-equity ratio should be within acceptable limits.</li>
-                        <li>A good repayment history of previous loans enhances eligibility.  </li>
-                        <li>Banks typically finance 60% to 75% of the project cost. </li>
-                        <li>The borrower must contribute a minimum of 25-40% of the project cost from their own funds.  </li>
-                        <li>Additional collateral security may be required in some cases.</li>
-                        <li>A moratorium period (grace period before EMI payments begin) may be offered.</li>
-                        <li>Repayment is structured based on projected cash flows from the completed project. </li>
-                        <li>The loan is usually secured against the property being constructed. </li>
-                        <li>Additional collateral (e.g., land, machinery, or personal guarantees) may be required.</li>
-                        <li>A third-party guarantee can strengthen loan eligibility in certain cases.  </li>
+                        <li>
+                            <b>Type of Business:</b> Construction companies, manufacturers, traders, or service
+                            providers.
+                        </li>
+                        <li>
+                            <b>Business Vintage:</b> Generally, companies need to have been in operation for a certain
+                            amount of time, such as two to three years. (New businesses also take into account).
+                        </li>
+                        <li>
+                            <b>Annual Turnover:</b> In order to evaluate repayment capacity, lenders frequently demand a
+                            minimum annual turnover.
+                        </li>
+                        <li>
+                            <b>Credit Score/CIBIL Score:</b> Approval of a loan depends on a high credit score.
+                        </li>
+                        <li>
+                            <b>Stability of finances:</b> Proven profitability and sound financial records.
+                        </li>
+                        <li>Business Type:</b> Some lenders may favor or disqualify particular business kinds.
+                        </li>
+                        <li>
+                            <b>Industry Type:</b> Certain industries are regarded as more hazardous than others.
+                        </li>
+                        <li>
+                            <b>Debt-to-Equity Ratio:</b> Financial stability is indicated by a strong debt-to-equity
+                            ratio.
+                        </li>
+                        <li>
+                            <b>Collateral (Occasionally):</b> Depending on the loan size and business characteristics,
+                            certain lenders may demand collateral.
+                        </li>
+                        <li>
+                            <b>GST Registration:</b> It is often necessary to provide proof of GST registration.
+                        </li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-12 d-sm-none d-md-none d-lg-block mb-4">
-                    <img src="assets/services/msme-loan/commercial-construction/eligibility.jpg" alt="" class="w-100">
+                    <img src="assets/services/msme-loan/working-capital-term-loan/eligibility.jpg" alt="" class="w-100">
                 </div>
             </div>
         </div>
     </section>
-    <!--  -->
     <!-- document -->
     <section id="document" class="section">
         <div class="document">
             <div class="container">
                 <div class="row bg--">
-                    <h4 class="col-12 h4-size2 mb-3">Documents Required</h4>
-                    <div class="col-md-6">
+                    <h4 class="h4-size2 mb-3">Documents Required</h4>
+                    <div class="col-sm-6">
                         <ul>
                             <li>ID & Address proof</li>
-                            <li>PAN Card </li>
-                            <li>Address Proof (e.g., Electricity Bill, Rent Agreement)</li>
-                            <li>GST Registration Certificate and Udyam Certificate</li>
-                            <li>Business Registration Proof (e.g., Partnership Deed, Incorporation Certificate) </li>
-                            <li>Income Tax Returns (ITR) for the last 2-3 years</li>
-                            <li>Bank Statements (for the past 6-12 months) </li>
-                            <li>Audited Profit & Loss Statement and Balance Sheet (for loans above ₹10 lakh) </li>
-                            <li>Loan Repayment Track Record (if applicable)  </li>
-                         </ul>
+                            <li>PAN Card</li>
+                            <li>Business Registration Certificate (GST, Trade License, MSME Registration, etc.)</li>
+                            <li>Bank Statements (Last 6–12 Months)</li>
+                            <li>Audited Financial Statements (Last 2–3 Years)</li>
+                            <li>Income Tax Returns (Last 2–3 Years)</li>
+                        </ul>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-sm-6">
                         <ul>
-                            <li>Plan and Permit of the Building to be Constructed </li>
-                            <li>Property Documents of the Land (e.g., Sale Deed, Title Deed)</li>
-                            <li>Detailed Project Report (DPR) – Including cost estimates, project timeline, revenue projections, risk assessment, and cash flow projections </li>
-                            <li>Sanctioned Building Plan – Approved by the local authority </li>
-                            <li>Land Documents – Sale deed, property title, land use certificate, and mutation records</li>
-                            <li>No Objection Certificates (NOCs) – From local authorities and environmental clearance (if required)  </li>
-                            <li>Cost of Construction Break-up – Itemized details of labor, material, and other expenses </li>
+                            <li>Sales and Purchase Invoices</li>
+                            <li>Utility Bill or Rent Agreement (For Address Proof)</li>
+                            <li>Passport-size Photograph</li>
+                            <li>Property Papers or Asset Ownership Proof</li>
+                            <li>Hypothecation Deed (For Secured Loans)</li>
                         </ul>
                     </div>
                 </div>
@@ -336,7 +293,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item1">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                What is the loan tenure for Commercial Construction Loans?
+                                Can a working capital term loan be used for expansion?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -344,7 +301,10 @@
                         </h2>
                         <div id="loanitol_item1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                The loan tenure for commercial construction loans typically ranges from 5 to 7 years, depending on factors such as the project size, lender policies, and the borrower's profile. Some lenders may offer extended tenures for larger projects with a strong repayment plan.
+                                Working capital Term loan typically used for long-term investments, like purchasing
+                                equipment, expanding facilities, or funding business projects. If a business is planning
+                                a major expansion or purchasing significant assets, a term loan provides the structured,
+                                long-term financing required.
                             </div>
                         </div>
                     </div>
@@ -354,7 +314,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item2">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                Can commercial construction loans cover land purchase?
+                                What is the maximum tenure for a working capital term loan?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -362,7 +322,8 @@
                         </h2>
                         <div id="loanitol_item2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Yes, some commercial construction loans can cover land purchase costs, but this depends on the lender's policy. In many cases, lenders only finance the construction, requiring the borrower to fund the land purchase separately. However, if the land is part of the overall project, certain lenders may include it in the loan amount.
+                                The maximum tenure for a Working Capital Term Loan typically ranges from 5 to 10 years,
+                                depending on the lender and loan terms.
                             </div>
                         </div>
                     </div>
@@ -372,7 +333,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                What is the loan-to-value (LTV) ratio for construction loans?
+                                What is the cibil score for working capital loan?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -380,7 +341,7 @@
                         </h2>
                         <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                The Loan-to-Value (LTV) ratio for construction loans typically ranges from 50% to 75% of the total project cost or the property's estimated value after construction. The exact percentage depends on the lender, the borrower's credit profile, project feasibility, and the bank's risk assessment.
+                                The minimum cibil required for Working capital erm loan is 700
                             </div>
                         </div>
                     </div>
@@ -390,7 +351,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                Can I get a construction loan without prior experience?
+                                Advantage of working capital Term loan?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -398,7 +359,39 @@
                         </h2>
                         <div id="loanitol_item4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Yes, it is possible to get a construction loan without prior experience, although lenders may assess your financial stability, project feasibility, and repayment capacity more rigorously.
+                                <li>
+                                    <b>Lump Sum Funding:</b>
+                                    Get a sizable sum of money up front, enabling quick access to finances.
+                                </li>
+                                <li>
+                                    <b>Structured Repayment:</b>
+                                    Cash flow management is predictable with fixed monthly or quarterly installments.
+                                </li>
+                                <li>
+                                    <b>Adaptable Use:</b>
+                                    The money can be applied to a range of working capital requirements, providing
+                                    operational adaptability.
+                                </li>
+                                <li>
+                                    <b>Better Cash Flow:</b>
+                                    Take care of immediate cash flow issues and keep business operations running
+                                    smoothly.
+                                </li>
+                                <li>
+                                    <b>Business Growth Opportunities:</b>
+                                    Capital can be used to take advantage of growth prospects like seasonal inventory
+                                    accumulation or bulk purchases. Better financial planning is made possible by
+                                    predictable interest rates, which are frequently fixed.
+                                </li>
+                                <li>
+                                    <b>Longer Tenure Compared to Overdrafts:</b>
+                                    Term loans offer greater time for repayment due to their longer tenures.
+                                </li>
+                                <li>
+                                    <b>Boosts Creditworthiness:</b>
+                                    On-time payments can raise your company's credit score, which can facilitate future
+                                    loans.
+                                </li>
                             </div>
                         </div>
                     </div>
