@@ -386,6 +386,29 @@
                             </div>
                         </div>
                     </div>
+<<<<<<< HEAD
+=======
+                    <!-- Accordion Item 4 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header p-1">
+                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
+                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
+                                Is a working capital OD a fixed loan?
+                                <span class="ms-auto icon">
+                                    <i class="fa fa-plus" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </h2>
+                        <div id="loanitol_item4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                No, a working capital OD is not a fixed loan. It is a type of short-term financing used
+                                to cover daily operational expenses. In contrast, fixed capital loans are intended for
+                                long-term investments.
+                            </div>
+                        </div>
+                    </div>
+>>>>>>> amal2
                 </div>
             </div>
         </div>

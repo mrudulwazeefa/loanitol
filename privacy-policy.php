@@ -4,7 +4,11 @@
 </head>
 <body>
     <?php include("includes/nav.php"); ?>
+<<<<<<< HEAD
     <div class="hero-small--section-area">
+=======
+    <div class="hero-small--section-area d-flex align-items-center">
+>>>>>>> amal2
         <div class="container">
             <div class="row d-flex align-items-center">
                 <div class="col-lg-12">

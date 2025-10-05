@@ -1,6 +1,10 @@
 <?php include("includes/meta.php"); ?>
 <title>About Us | Loanitol</title>
 </head>
+<<<<<<< HEAD
+=======
+
+>>>>>>> amal2
 <body>
     <?php include("includes/nav.php"); ?>
     <div class="hero-small--section-area">
@@ -21,7 +25,12 @@
                 <h4 class="h4-size">Who Are We?
                 </h4>
                 <p>We are a trusted loan consulting company partnered with over 50+ banks and financial institutions,
+<<<<<<< HEAD
                     offering a wide range of loan products tailored to meet your financial needs. Whether you're looking
+=======
+                    offering a wi
+                    de range of loan products tailored to meet your financial needs. Whether you're looking
+>>>>>>> amal2
                     for a loan, we provide expert guidance and seamless processing to help you secure the best deals.
                     With our strong network and customer-centric approach, we ensure hassle-free loan approvals at
                     competitive interest rates</p>
@@ -116,8 +125,13 @@
                             <div class="circle-count">
                                 <img src="assets/home/icons/loan-disbursed.svg" alt="loan-disbursed icon" width="30">
                             </div>
+<<<<<<< HEAD
                             <span class="count" data-target="25000">0</span>+
                             <p>Number of Customer Connected</p>
+=======
+                            <span class="count" data-target="2000">0</span>cr+
+                            <p>Amount Of Loan Disbursed</p>
+>>>>>>> amal2
                         </div>
                     </div>
                 </div>
@@ -178,7 +192,13 @@
     </section>
     <section class="board">
         <div class="container">
+<<<<<<< HEAD
             <h4 class="h4-size text-center text-white">Core Advisory Board</h4>
+=======
+            <h4 class="h4-size text-center text-white">Events and Awards</h4>
+
+            <!-- <h4 class="h4-size text-center text-white">Core Advisory Board</h4>
+>>>>>>> amal2
             <p class="text-center text-white">Demo text Grow together with Loanitol – Your trusted partner for success!
             </p>
             <div class="row mt-4 justify-content-center align-items-center gx-4 gy-4">
@@ -236,6 +256,73 @@
                         </div>
                     </div>
                 </div>
+<<<<<<< HEAD
+=======
+            </div> -->
+            <div class="container events-and-awards-section py-5">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="gallery-img1">
+                            <img src="assets/events-and-awards/image-1.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 mt-4 mt-md-0">
+                        <div class="gallery-img2">
+                            <img src="assets/events-and-awards/image-2.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 mt-4 mt-md-0">
+                        <div class="gallery-img3">
+                            <img src="assets/events-and-awards/image-3.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-4">
+                    <div class="col-md-3">
+                        <div class="gallery-img4">
+                            <img src="assets/events-and-awards/image-4.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 mt-4 mt-md-0">
+                        <div class="gallery-img5">
+                            <img src="assets/events-and-awards/image-5.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 mt-4 mt-md-0">
+                        <div class="gallery-img6">
+                            <img src="assets/events-and-awards/image-6.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-3 mt-4 mt-md-0">
+                        <div class="gallery-img7">
+                            <img src="assets/events-and-awards/image-7.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-4">
+                    <div class="col-sm-6 col-md-3">
+                        <div class="gallery-img8">
+                            <img src="assets/events-and-awards/image-8.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3">
+                        <div class="gallery-img9">
+                            <img src="assets/events-and-awards/image-9.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="mt-4 mt-md-0 col-sm-6 col-md-6">
+                        <div class="gallery-img10">
+                            <img src="assets/events-and-awards/image-10.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 mt-4">
+                        <div class="gallery-img11">
+                            <img src="assets/events-and-awards/image-11.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+
+>>>>>>> amal2
             </div>
         </div>
 
@@ -823,4 +910,8 @@
     <?php include("includes/calculation-bottom.php"); ?>
     <?php include("includes/footer.php"); ?>
 </body>
+<<<<<<< HEAD
+=======
+
+>>>>>>> amal2
 </html>

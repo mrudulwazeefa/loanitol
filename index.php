@@ -1,9 +1,16 @@
 <?php include("includes/meta.php"); ?>
 <title>Welcome to Loanitol</title>
 </head>
+<<<<<<< HEAD
 <body>
     <?php include("includes/nav.php"); ?>
     <div id="carouselExampleAutoplaying" class="carousel slide position-relative">
+=======
+
+<body>
+    <?php include("includes/nav.php"); ?>
+    <div id="carouselExampleAutoplaying" class="carousel slide position-relative" data-bs-ride="carousel" data-bs-interval="5000">
+>>>>>>> amal2
         <div class="carousel-inner">
             <!-- Slide 1 -->
             <div class="carousel-item active">
@@ -22,12 +29,21 @@
                             </button>
                         </div>
                         <div class="col-md-5 col-sm-12 col-12 text-center d-sm-none d-md-block">
+<<<<<<< HEAD
                             <img src="assets/home/slider/retail-loan.png" class="img-fluid" alt="Slide 1 Image">
+=======
+                            <!-- <img src="assets/home/slider/retail-loan.png" class="img-fluid" alt="Slide 1 Image"> -->
+                            <img src="assets/home/slider/new-imgs-compressed/retail-loan.png" class="img-fluid" alt="Slide 1 Image">
+>>>>>>> amal2
                         </div>
                     </div>
                 </div>
             </div>
             <!-- Slide 2 -->
+<<<<<<< HEAD
+=======
+             <!-- <div class="carousel-item"> -->
+>>>>>>> amal2
             <div class="carousel-item">
                 <div class="container">
                     <div class="row align-items-center">
@@ -44,12 +60,21 @@
                             </button>
                         </div>
                         <div class="col-md-5 col-sm-12 col-12 text-center d-sm-none d-md-block">
+<<<<<<< HEAD
                             <img src="assets/home/slider/msme.png" class="img-fluid" alt="Slide 2 Image">
+=======
+                            <!-- <img src="assets/home/slider/msme.png" class="img-fluid" alt="Slide 2 Image"> -->
+                            <img src="assets/home/slider/new-imgs-compressed/msme.png" class="img-fluid" alt="Slide 2 Image">
+>>>>>>> amal2
                         </div>
                     </div>
                 </div>
             </div>
+<<<<<<< HEAD
             <!-- slide 3 -->
+=======
+            <!-- Slide 3 -->
+>>>>>>> amal2
             <div class="carousel-item">
                 <div class="container">
                     <div class="row align-items-center">
@@ -66,12 +91,21 @@
                             </button>
                         </div>
                         <div class="col-md-5 col-sm-12 col-12 text-center d-sm-none d-md-block">
+<<<<<<< HEAD
                             <img src="assets/home/slider/bridge-loan.png" class="img-fluid" alt="Slide 2 Image">
+=======
+                            <!-- <img src="assets/home/slider/bridge-loan.png" class="img-fluid" alt="Slide 3 Image"> -->
+                            <img src="assets/home/slider/new-imgs-compressed/bridge-loan.png" class="img-fluid" alt="Slide 3 Image">
+>>>>>>> amal2
                         </div>
                     </div>
                 </div>
             </div>
+<<<<<<< HEAD
             <!-- slide4 -->
+=======
+            <!-- Slide 4 -->
+>>>>>>> amal2
             <div class="carousel-item">
                 <div class="container">
                     <div class="row align-items-center">
@@ -88,12 +122,21 @@
                             </button>
                         </div>
                         <div class="col-md-5 col-sm-12 col-12 text-center d-sm-none d-md-block">
+<<<<<<< HEAD
                             <img src="assets/home/slider/credit-score.png" class="img-fluid" alt="Slide 2 Image">
+=======
+                            <!-- <img src="assets/home/slider/credit-score.png" class="img-fluid" alt="Slide 4 Image"> -->
+                            <img src="assets/home/slider/new-imgs-compressed/credit-score.png" class="img-fluid" alt="Slide 4 Image">
+>>>>>>> amal2
                         </div>
                     </div>
                 </div>
             </div>
+<<<<<<< HEAD
             <!-- slide 5 -->
+=======
+            <!-- Slide 5 -->
+>>>>>>> amal2
             <div class="carousel-item">
                 <div class="container">
                     <div class="row align-items-center">
@@ -110,7 +153,12 @@
                             </button>
                         </div>
                         <div class="col-md-5 col-sm-12 col-12 text-center d-sm-none d-md-block">
+<<<<<<< HEAD
                             <img src="assets/home/slider/emi-calculator.png" class="img-fluid" alt="Slide 2 Image">
+=======
+                            <!-- <img src="assets/home/slider/emi-calculator.png" class="img-fluid" alt="Slide 5 Image"> -->
+                            <img src="assets/home/slider/new-imgs-compressed/emi-calculator.png" class="img-fluid" alt="Slide 5 Image">
+>>>>>>> amal2
                         </div>
                     </div>
                 </div>
@@ -132,6 +180,10 @@
             </div>
         </div>
     </div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> amal2
     <!--new Design  -->
     <div class="container mb-5 service_section_margin">
         <div class="row">
@@ -222,6 +274,10 @@
                                     <img src="assets/home/icons/distress_funding.svg">
                                 </div>
                             </div>
+<<<<<<< HEAD
+=======
+                            <!-- <h2>Distress Funding</h2> -->
+>>>>>>> amal2
                             <h2>Stressed Funding</h2>
                             <p> A tailored financial solution for businesses facing operational setbacks, liquidity
                                 challenges, or
@@ -591,6 +647,10 @@
                                             </div>
                                         </div>
                                         <div class="col-sm-9 col-9 d-flex align-items-center">
+<<<<<<< HEAD
+=======
+                                            <!-- <h2>Distress Funding</h2> -->
+>>>>>>> amal2
                                             <h2>Stressed Funding</h2>
                                         </div>
                                     </div>
@@ -693,8 +753,15 @@
                                 <div class="circle-count">
                                     <img src="assets/home/icons/loan-disbursed.svg" alt="" width="30">
                                 </div>
+<<<<<<< HEAD
                                 <span class="count" data-target="25000">0</span>+
                                 <p>Number of Customer Connected</p>
+=======
+                                <!-- <span class="count" data-target="2000">0</span>cr+ -->
+                                <span class="count" data-target="25000">0</span>+
+                                <!-- <p>Amount Of Loan Disbursed</p> -->
+                                <p>Number of customers connected</p>
+>>>>>>> amal2
                             </div>
                         </div>
                     </div>
@@ -1548,4 +1615,8 @@
     <?php include("includes/calculation-bottom.php"); ?>
     <?php include("includes/footer.php"); ?>
 </body>
+<<<<<<< HEAD
+=======
+
+>>>>>>> amal2
 </html>

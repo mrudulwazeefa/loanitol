@@ -254,3 +254,5 @@ document.querySelector('#videoModal .modal-body').addEventListener('click', func
 
 
 });
+
+
