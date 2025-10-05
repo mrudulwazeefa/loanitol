@@ -39,7 +39,7 @@
                 <h5>Knowledge Base</h5>
                 <ul>
                     <li><a href="#!">Blogs</a></li>
-                    <li><a href="#!">Vlogs /reels /Shorts/Videos</a></li>
+                    <li><a href="#!">Vlogs | Reels | Shorts | Videos</a></li>
                     <li><a href="#!">Events</a></li>
                     <li><a href="#!">Learn & Resources</a></li>
                     <li><a href="#!">Ads</a></li>

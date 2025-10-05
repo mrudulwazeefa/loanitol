@@ -116,8 +116,8 @@
                             <div class="circle-count">
                                 <img src="assets/home/icons/loan-disbursed.svg" alt="loan-disbursed icon" width="30">
                             </div>
-                            <span class="count" data-target="2000">0</span>cr+
-                            <p>Amount Of Loan Disbursed</p>
+                            <span class="count" data-target="25000">0</span>+
+                            <p>Number of Customer Connected</p>
                         </div>
                     </div>
                 </div>

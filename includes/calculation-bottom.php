@@ -633,7 +633,7 @@
                   <li class="list-group-item">Contact Us</li>
               </a>
               <a href="#">
-                  <li class="list-group-item">Customer Loyality Program</li>
+                  <li class="list-group-item">Customer Loyalty Program</li>
               </a>
               <a href="#">
                   <li class="list-group-item">Rate Conversion Tool</li>

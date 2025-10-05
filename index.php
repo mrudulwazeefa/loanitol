@@ -222,7 +222,7 @@
                                     <img src="assets/home/icons/distress_funding.svg">
                                 </div>
                             </div>
-                            <h2>Distress Funding</h2>
+                            <h2>Stressed Funding</h2>
                             <p> A tailored financial solution for businesses facing operational setbacks, liquidity
                                 challenges, or
                                 financial obligations.</p>
@@ -591,7 +591,7 @@
                                             </div>
                                         </div>
                                         <div class="col-sm-9 col-9 d-flex align-items-center">
-                                            <h2>Distress Funding</h2>
+                                            <h2>Stressed Funding</h2>
                                         </div>
                                     </div>
                                 </div>
@@ -693,8 +693,8 @@
                                 <div class="circle-count">
                                     <img src="assets/home/icons/loan-disbursed.svg" alt="" width="30">
                                 </div>
-                                <span class="count" data-target="2000">0</span>cr+
-                                <p>Amount Of Loan Disbursed</p>
+                                <span class="count" data-target="25000">0</span>+
+                                <p>Number of Customer Connected</p>
                             </div>
                         </div>
                     </div>
