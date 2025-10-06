@@ -5,7 +5,7 @@
 <body>
     <?php include("includes/nav.php"); ?>
 
-    <div class="hero-smaller--section-area postion-relative">
+    <div class="hero-smaller--section-area postion-relative article-section">
         <div class="container">
             <div class="row d-flex align-items-center">
                 <div class="col-lg-12">

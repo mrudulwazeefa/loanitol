@@ -2054,11 +2054,16 @@ h4 span {
 }
 .features-style h6 {
   font-size: 16px;
+  font-weight: 600;
+  color: var(--theme-color);
+}
+.features-style p{
+  margin-top: 5px;
 }
 .features-style .features-style-box {
   position: var(--relative);
   /* background: var(--white); */
-  background: #fdeded;
+  background: #ffffff;
   padding: 6%;
   border-bottom: 2px solid #fd9191;
   border-radius: 6px;
@@ -2560,7 +2565,7 @@ textarea {
 .socialIcons ul li a svg {
   width: 16px;
   height: 16px;
-  fill: #222020;
+  fill: #0e3746;
 }
 /* slider */
 .carousel-inner {
@@ -2697,7 +2702,7 @@ textarea {
 .features-style-box ul {
   display: block;
   padding-left: 1rem;
-  padding-top: 1%;
+  padding-top: 5px;
   margin-bottom: 0.5rem;
 }
 .corevalues ul li,
@@ -5412,7 +5417,7 @@ img {
 @import url("https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@100..800&display=swap");
 
 .hero-small--section-area span {
-  color: #5B5B5D;
+  /* color: #5B5B5D; */
   font-family: var(--theme-font);
 }
 .h5-size span {
@@ -5759,7 +5764,7 @@ input.search-field.show-placeholder::placeholder {
   font-family: 14px !important;
   color: #5B5B5D !important;
 }
-.hero-small--section-area {
+.article-section {
   height: 316px;
   z-index: 0 !important;
 }
