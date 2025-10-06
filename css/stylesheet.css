@@ -5777,11 +5777,12 @@ input.search-field.show-placeholder::placeholder {
   padding: 5% 0%;
 }
 .breadcrumb-navigation {
-  font-family: 14px !important;
-  color: #5B5B5D !important;
+  font-family: var(--theme-font);
+  font-size: 13px;
+  color: #696969;
 }
 .article-section {
-  height: 316px;
+  /* height: 316px; */
   z-index: 0 !important;
 }
 .article-container-inner {

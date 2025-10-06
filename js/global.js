@@ -523,31 +523,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // video play modal
 
-document.querySelector('#exampleModal .modal-body').addEventListener('click', function (e) {
-    const video = document.getElementById('modalVideo');
-    if (!video.contains(e.target)) {
-      const modalInstance = bootstrap.Modal.getInstance(document.getElementById('videoModal'));
-      modalInstance.hide();
-    }
-  });
-    const video = document.getElementById('modalVideo');
-    const modal = document.getElementById('exampleModal');
 
-    modal.addEventListener('shown.bs.modal', function () {
-      video.currentTime = 0;
-      video.play();
-    });
-
-    modal.addEventListener('hidden.bs.modal', function () {
-      video.pause();
-      video.currentTime = 0;
-    });
-
-
-
-});
-
-
-// 
 
 
