@@ -1,3 +1,28 @@
+@media (max-width:390px) {
+.modal-body .item_p .nav-link span {
+display: none;
+}
+.loanitol_center_area .btn {
+margin-bottom: 5%;
+}
+.h4-size-area {
+font-size: 30px !important;
+}
+.form-pd h3,
+.h6-size {
+font-size: 6vw !important;
+}
+.carousel-indicators {
+bottom: 64px !important;
+}
+.breadcrumb {
+display: none;
+}
+}
+
+
+
+
 @media screen and (width: 540px) {
 .carousel-indicators {
     margin-bottom: clamp(95px, 5vw, 45px) !important;
@@ -46,6 +71,7 @@
 .learn-inner .btn {
     padding: 2% 4%!important;
 }
+
 }
 
 @media only screen and (width:720px){
@@ -76,6 +102,10 @@
     .management_area_gradient .quote-img {
     top: 6%!important;
 }
+
+
+
+
 }
 @media only screen and (width:912px){
     .features-image-box{
