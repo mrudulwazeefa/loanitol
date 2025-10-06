@@ -4193,7 +4193,7 @@ img {
   }
   .hero-small--section-area {
     background-color: #f5dadf;
-    padding: 13% 0%;
+    padding: 18% 0%;
   }
   .form-pd {
     padding: 10% 0% 18% 0%;
@@ -4777,7 +4777,7 @@ img {
     font-size: 2.6vw;
   }
   .hero-small--section-area {
-    padding: 6% 0%;
+    padding: 7% 0%;
   }
   .owl-carousel .grid-container {
     grid-template-columns: repeat(3, 1fr);
@@ -5109,7 +5109,7 @@ img {
     font-size: 2.3vw;
   }
   .hero-small--section-area {
-    padding: 5% 0%;
+    padding:8% 0%;
   }
   .loanitol-service .service-item .item {
     padding: 9%;
@@ -5238,7 +5238,7 @@ img {
     font-size: 1.6vw;
   }
   .hero-small--section-area {
-    padding: 5% 0%;
+    padding: 8% 0%;
   }
   .loanitol-service .service-item .item {
     padding: 9%;
@@ -7420,4 +7420,18 @@ input.search-field.show-placeholder::placeholder {
 /* blog-inner */
 .learn-inner .gradient {
   background: linear-gradient(to bottom right, #ff7e5f, #ffffff);
+}
+/* mrudul adspage */
+.ads-continer .modal-body{
+  background: transparent;
+}
+.responsive-video {
+  width: 100%;
+  height: auto;
+  max-height: 90vh; /* keep it inside screen height */
+  display: block;
+  border-radius: 10px; /* optional rounded corners */
+}
+.ads-continer .modal-content{
+  width:auto;
 }
