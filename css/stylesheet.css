@@ -4534,6 +4534,9 @@ img {
     color: white !important;
     padding: 1.5% 3%;
   }
+  .learn-inner .learn-text h4 {
+    font-size: 1.4rem;
+  }
 }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
