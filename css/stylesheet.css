@@ -5528,6 +5528,20 @@ video {
   font-family: var(--theme-font);
   font-size: var(--default-font-size);
 }
+.read-more-btn img{
+  width: 28px;
+  transition: var(--transition);
+}
+
+
+.read-more-btn:hover img{
+  width: 24px;
+  margin-left: 4px;
+  transform: rotate(45deg);
+  transition: var(--transition);
+}
+
+
 .read-more-btn {
   display: flex;
   align-items: center;
@@ -5701,13 +5715,13 @@ input.search-field.show-placeholder::placeholder {
 }
 @media (max-width: 991.98px) {
   .card-title {
-    font-size: 18px !important;
+    font-size: 21px !important;
   }
 }
 .card-title {
   font-family: "Anek Malayalam", sans-serif;
   line-height: 1.5;
-  font-size: 22px;
+  font-size: 24px;
 }
 .article-card-1 {
   height: 100% !important;
@@ -5716,7 +5730,7 @@ input.search-field.show-placeholder::placeholder {
 .article-main-img {
   border-radius: var(--theme-border-radius) !important;
   object-fit: cover;
-  height: 300px;
+  height: 251px;
 }
 .article-img-small-1,
 .article-img-small-2,
