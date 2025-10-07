@@ -136,7 +136,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-6 col-sm-6 text-white">
-          <p>©2025 Loanitol — All Rights Reserved</p>
+          <p>&copy; <?php echo date("Y"); ?> Loanitol — All Rights Reserved</p>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 f-right text-white">
           <p>Toll-free Number — <a href="tel:+919090388883">+91 9090388883</a></p>
