@@ -5824,9 +5824,9 @@ input.search-field.show-placeholder::placeholder {
   font-weight: 600;
 }
 @media (min-width: 768px) {
-  .article-inner-title {
-    /* font-size: calc(18px + 1vw); */
-  }
+  /* .article-inner-title {
+     font-size: calc(18px + 1vw); 
+  } */
 }
 .article-inner-card {
   position: relative;
