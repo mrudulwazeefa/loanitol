@@ -89,20 +89,7 @@
     </div>
 
 
-    <?php include("includes/calculation-bottom.php"); ?>
     <?php include("includes/footer.php"); ?>
-    
-    <script>
-    //modal video pause when closed
-    $('#exampleModal').on('hidden.bs.modal', function() {
-        var video = document.getElementById('modalVideo');
-        if (video) {
-            video.pause();
-            video.currentTime = 0; // resets
-        }
-    });
-    </script>
-
 </body>
 
 </html>

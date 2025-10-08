@@ -6563,7 +6563,7 @@ input.search-field.show-placeholder::placeholder {
   font-family: var(--theme-font);
 }
 .life-at-loanitol p {
-  max-width: 740px;
+  /* max-width: 740px; */
   margin: auto;
   color: #221e1e;
 }
@@ -7588,4 +7588,72 @@ input.search-field.show-placeholder::placeholder {
 .search-box i {
   font-size: 18px;
   pointer-events: none;
+}
+/*  */
+
+
+.gallery {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 6px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 6px;
+}
+
+.grid img {
+  margin-top: 10px;
+  vertical-align: middle;
+  width: 100%;
+  border-radius: var(--theme-border-radius)!important;
+}
+
+.img_h1{
+  height:175px;
+  /* height:114px; */
+}
+.img_h2{
+  height:249px;
+  /* height:163px; */
+}
+
+@media screen and (max-width: 1024px) {
+  .img_h1{
+  height:146px;
+}
+.img_h2{
+  height:208px;
+}
+}
+
+
+@media screen and (max-width: 800px) {
+  .grid {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+  .img_h1{
+  height:165px;
+}
+}
+@media screen and (max-width: 600px) {
+  .grid {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+.img_h1,
+.img_h2{
+  height:auto;
+}
+
+
 }

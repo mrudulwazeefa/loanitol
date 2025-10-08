@@ -69,49 +69,49 @@
                         <div class="article-inner-item p-3 rounded-3 shadow item_h">
                             <div class="item bg-white item_padding">
                                 <img class="article-inner-carousel-img rounded-3"
-                                    src="assets/articles/articles-inner-img1.jpg" class="w-80">
+                                    src="assets/articles/articles-inner-img1.webp" class="w-80">
                             </div>
                         </div>
                         <div class="article-inner-item p-3 rounded-3 shadow item_h">
                             <div class="item bg-white item_padding">
                                 <img class="article-inner-carousel-img rounded-3"
-                                    src="assets/articles/articles-inner-img2.jpg" class="w-80">
+                                    src="assets/articles/articles-inner-img2.webp" class="w-80">
                             </div>
                         </div>
                         <div class="article-inner-item p-3 rounded-3 shadow item_h">
                             <div class="item bg-white item_padding">
                                 <img class="article-inner-carousel-img rounded-3"
-                                    src="assets/articles/articles-inner-img3.jpg" class="w-80">
+                                    src="assets/articles/articles-inner-img3.webp" class="w-80">
                             </div>
                         </div>
                         <div class="article-inner-item p-3 rounded-3 shadow item_h">
                             <div class="item bg-white item_padding">
                                 <img class="article-inner-carousel-img"
-                                    src="assets/articles/articles-inner-img1.jpg" class="w-80">
+                                    src="assets/articles/articles-inner-img1.webp" class="w-80">
                             </div>
                         </div>
                         <div class="article-inner-item p-3 rounded-3 shadow item_h">
                             <div class="item bg-white item_padding">
                                 <img class="article-inner-carousel-img"
-                                    src="assets/articles/articles-inner-img2.jpg" class="w-80">
+                                    src="assets/articles/articles-inner-img2.webp" class="w-80">
                             </div>
                         </div>
                         <div class="article-inner-item p-3 rounded-3 shadow item_h">
                             <div class="item bg-white item_padding">
                                 <img class="article-inner-carousel-img"
-                                    src="assets/articles/articles-inner-img3.jpg" class="w-80">
+                                    src="assets/articles/articles-inner-img3.webp" class="w-80">
                             </div>
                         </div>
                         <div class="article-inner-item p-3 rounded-3 shadow item_h">
                             <div class="item bg-white item_padding">
                                 <img class="article-inner-carousel-img"
-                                    src="assets/articles/articles-inner-img1.jpg" class="w-80">
+                                    src="assets/articles/articles-inner-img1.webp" class="w-80">
                             </div>
                         </div>
                         <div class="article-inner-item p-3 rounded-3 shadow item_h">
                             <div class="item bg-white item_padding">
                                 <img class="article-inner-carousel-img"
-                                    src="assets/articles/articles-inner-img2.jpg" class="w-80">
+                                    src="assets/articles/articles-inner-img2.webp" class="w-80">
                             </div>
                         </div>
                     </div>

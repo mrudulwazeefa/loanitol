@@ -326,7 +326,7 @@
                         <div class="d-grid gap-2 d-flex justify-content-end button-top">
                             <a href="#" class="btn gap-3">
                                 <div class="circle_white d-flex justify-content-center align-items-center">
-                                    <img src="assets/blog/icons/right-arrow.svg" width="17" alt="arrow">
+                                    <img src="assets/blog/icons/red-arrow.svg" width="17" alt="arrow">
                                 </div>
                                 <span>Go Back</span>
                             </a>
