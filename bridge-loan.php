@@ -1,5 +1,5 @@
 <?php include("includes/meta.php"); ?>
-<title>Corporate Associate Page | Loanitol</title>
+<title>Bridge Loan Service | Loanitol</title>
 </head>
 
 <body>
@@ -17,15 +17,14 @@
                         </ol>
                     </nav>
                     <h5 class="h5-size col-sm-12">
-
-                        Fast Funding with Flexible <br> <span class="d-inline-block">Bridge Loans</span>
+                        Fast Funding with Flexible  <span>Bridge Loans</span>
                     </h5>
-                    <p style="color: #221E1E">Short-term financing for your urgent needs. Quick approval, hassle-free
+                    <p>Short-term financing for your urgent needs. Quick approval, hassle-free
                         process.
                     </p>
                 </div>
                 <div class="col-lg-4 col-md-4">
-                    <img src="assets/bridge-loan/banner.png" class="img-fluid" alt="Referral Partner Banner">
+                    <img src="assets/bridge-loan/banner.webp" class="img-fluid" alt="Referral Partner Banner">
                 </div>
             </div>
         </div>
@@ -35,21 +34,18 @@
         <div class="bridge-loan-description referral-partner-description-section pt-5 pb-3">
             <div class="container">
                 <div class="description py-2">
-                    A bridge loan is a type of short-term finance that is intended to meet short-term business needs,
-                    such
-                    as purchasing companies that are awaiting long-term investment. 
-                    <br>
-                    <br>
-                    <b>Goal:</b> Meeting short-term cash flow requirements until long-term funding is obtained.
+                   <p> A bridge loan is a type of short-term finance that is intended to meet short-term business needs,
+                    such as purchasing companies that are awaiting long-term investment.</p>
+                    <p><b>Goal:</b> Meeting short-term cash flow requirements until long-term funding is obtained.</p>
                 </div>
             </div>
         </div>
 
-        <div class="bridge-loan-features-section py-5">
+        <div class="bridge-loan-features-section pt-1 pb-5">
             <img src="assets/bridge-loan/logos.png" class="logo-design img-fluid" alt="">
             <div class="container">
                 <div class="row g-3 g-md-4">
-                    <h2 class="mb-4 fw-semibold">Features</h2>
+                    <h4 class="mb-1 h4-size2">Features</h4>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
@@ -147,112 +143,74 @@
                 </div>
             </div>
         </div>
-
-        <!-- <div class="bridge-loan-eligibility-section pt-3 pb-5">
-            <div class="container">
-                <div class="card p-4">
-                    <h2 class="text-black mb-4">Eligibility</h2>
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <ul class="px-4">
-                                <li>The borrower's creditworthiness and financial stability are taken into account by
-                                    lenders.
-                                </li>
-                                <li>When assessing eligibility, a steady income and a good ability to repay are crucial
-                                    considerations.</li>
-                                <li>Three-year minimum business vintage</li>
-                                <li>Both OD and CC accounts are required</li>
-                                <li>50% of monthly turnover should be the minimum loan amount to qualify.</li>
-                            </ul>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="px-4">
-                                <li>There have been no recent bank account check bounces.</li>
-                                <li>Regular GST filing and GST registration are required</li>
-                                <li>Repayment irregularities from partners, directors, or proprietors may be deviated
-                                    from
-                                    on
-                                    the basis of merit</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
     </div>
-
-
     <div class="bridge-loan-documents-section referral-associate eligible-professionals-section py-5">
         <div class="container">
-            <h2 class="text-white pt-4">Benefits</h2>
-            <div class="row mt-2 g-2 g-sm-4 pt-5 pb-5 d-flex align-items-stretch">
-                <div class="col-12 col-md-8 m-0 text-white d-flex">
+            <h4 class="mb-1 h4-size2 text-white">Benefits</h4>
+            <div class="row mt-2 g-2 g-sm-4 pt-4 pb-4 d-flex align-items-stretch">
+                <div class="col-12 col-lg-8 col-md-6 m-0 d-flex">
                     <div class="card p-4">
-                        <ul class="mb-0">
-                            <li class="text-white">Quick Access to Funds</li>
-                            <li class="text-white">deal for urgent cash flow needs or short-term business opportunities.
+                        <ul class="mb-0 text-white">
+                            <li>Quick Access to Funds</li>
+                            <li>deal for urgent cash flow needs or short-term business opportunities.
                             </li>
-                            <li class="text-white">Fast approval and disbursal process.</li>
-                            <li class="text-white">No Collateral Requirement</li>
-                            <li class="text-white">
+                            <li>Fast approval and disbursal process.</li>
+                            <li>No Collateral Requirement</li>
+                            <li>
                                 Loans are approved based on business turnover and repayment capacity, not collateral.
                             </li>
-                            <li class="text-white">Simple & Hassle-Free Process</li>
-                            <li class="text-white">Minimal paperwork and simple documentation make it easy to obtain.
+                            <li>Simple & Hassle-Free Process</li>
+                            <li>Minimal paperwork and simple documentation make it easy to obtain.
                             </li>
-                            <li class="text-white">Flexible Tenure</li>
-                            <li class="text-white">Short-term funding ranging from a few weeks to a maximum of 52
+                            <li>Flexible Tenure</li>
+                            <li>Short-term funding ranging from a few weeks to a maximum of 52
                                 months, based on business needs.</li>
-                            <li class="text-white">Repayment Flexibility</li>
+                            <li>Repayment Flexibility</li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-12 col-md-4 mt-4 mt-md-0 d-flex">
+                <div class="col-12 col-lg-4 col-md-6 mt-4 mt-md-0 d-flex">
                     <div class="card p-4">
-                        <ul class="mb-0">
-                            <li class="text-white">Option to repay through convenient weekly or monthly instalments.
+                        <ul class="mb-0 text-white">
+                            <li>Option to repay through convenient weekly or monthly instalments.
                             </li>
-                            <li class="text-white">ITR & Financials of last 2 years</li>
-                            <li class="text-white">Supports Business Growth</li>
-                            <li class="text-white">Helps bridge gaps while awaiting long-term funding or investment,
+                            <li>ITR & Financials of last 2 years</li>
+                            <li>Supports Business Growth</li>
+                            <li>Helps bridge gaps while awaiting long-term funding or investment,
                                 enabling smooth operations and expansion.</li>
-                            <li class="text-white">
+                            <li>
                                 Turnover-Based Loan Amount
                             </li>
-                            <li class="text-white">Loan eligibility is linked to your business’s monthly turnover,
+                            <li>Loan eligibility is linked to your business's monthly turnover,
                                 making it accessible for high-performing companies.</li>
                         </ul>
                     </div>
                 </div>
             </div>
-            <h2 class="text-white pt-4">Documents Required</h2>
-            <div class="row mt-2 g-2 g-sm-4 pt-5 pb-5 d-flex align-items-stretch">
-                <div class="col-12 col-md-8 m-0 text-white">
-                    <div class="card p-4">
-                        <ol class="mb-0">
-                            <li class="text-white">Company Pan card</li>
-                            <li class="text-white">ITR & Financials of last 2 years</li>
-                            <li class="text-white">Every current account, credit card, and OD statement for the
-                                company's previous 12 months</li>
-                            <li class="text-white">GSTR 3B – Last 12 Months</li>
-                            <li class="text-white">
-                                List of Directors, MOA, AOA, Certificate of Incorporation, Company PAN Card, and
-                                Shareholding Pattern for Pvt Ltd Companies
-                            </li>
-                            <li class="text-white">Deed of Partnership, Company Plan Partnership Company Card</li>
-                        </ol>
+            <h4 class="mb-1 h4-size2 text-white pt-4">Documents Required</h4>
+                <div class="row mt-2 g-2 g-sm-4 pt-4 pb-4 d-flex align-items-stretch">
+                    <div class="col-12 col-md-8 m-0 d-flex">
+                        <div class="card p-4 flex-fill">
+                            <ol class="mb-0 text-white">
+                                <li>Company Pan card</li>
+                                <li>ITR & Financials of last 2 years</li>
+                                <li>Every current account, credit card, and OD statement for the company's previous 12 months</li>
+                                <li>GSTR 3B - Last 12 Months</li>
+                                <li>List of Directors, MOA, AOA, Certificate of Incorporation, Company PAN Card, and Shareholding Pattern for Pvt Ltd Companies</li>
+                                <li>Deed of Partnership, Company Plan Partnership Company Card</li>
+                            </ol>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4 mt-4 mt-md-0 d-flex">
+                        <img class="img-fluid rounded-3 flex-fill" style="object-fit: cover;" src="assets/bridge-loan/card-img-2.webp" alt="">
                     </div>
                 </div>
-                <div class="col-12 col-md-4 mt-4 mt-md-0 d-flex">
-                    <img class="img-fluid h-100 rounded-3" src="assets/bridge-loan/card-img-2.jpg" alt="">
-                </div>
-            </div>
         </div>
     </div>
 
     <div class="about_loan_area_gradient">
         <div class="container">
-            <h4 class="h4-size">Frequently Asked Questions</h4>
+            <h4 class="h4-size2">Frequently Asked Questions</h4>
             <div class="accordion mt-5" id="accordionExample">
                 <!-- Accordion Item 1 -->
                 <div class="accordion-item">
@@ -331,7 +289,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             What is the features of Bridge loan?
                             <span class="ms-auto icon">
@@ -339,7 +297,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
                             restructuring, and
@@ -353,7 +311,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item5">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Minimum loan amount of Bridge loan?
                             <span class="ms-auto icon">
@@ -361,7 +319,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
                             restructuring, and
@@ -375,7 +333,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item6">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Documents required for Bridge loan?
                             <span class="ms-auto icon">
@@ -383,7 +341,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
                             restructuring, and
@@ -397,7 +355,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item7">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Is GST registration mandatory for Bridge loan?
                             <span class="ms-auto icon">
@@ -405,7 +363,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
                             restructuring, and
@@ -419,7 +377,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item8">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Repayment Structure of Bridge loan?
                             <span class="ms-auto icon">
@@ -427,7 +385,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
                             restructuring, and
@@ -441,7 +399,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item9">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Maximum tenure of Bridge loan?
                             <span class="ms-auto icon">
@@ -449,7 +407,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
                             restructuring, and
@@ -469,7 +427,7 @@
                 <div class="row d-flex align-items-center">
                     <div class="col-md-9">
                         <h4 class="h4-size">Feel free to get in touch with us</h4>
-                        <p>Trusted by many, loved by all – see why people choose Loanitol!</p>
+                        <p>Trusted by many, loved by all - see why people choose Loanitol!</p>
                     </div>
                     <div class="col-md-3">
                         <a href="#" class="btn d-flex align-items-center gap-3">
@@ -486,17 +444,6 @@
 
     <?php include("includes/calculation-bottom.php"); ?>
     <?php include("includes/footer.php"); ?>
-
-    <script>
-    //modal video pause when closed
-    $('#exampleModal').on('hidden.bs.modal', function() {
-        var video = document.getElementById('modalVideo');
-        if (video) {
-            video.pause();
-            video.currentTime = 0; // resets
-        }
-    });
-    </script>
 
 </body>
 
