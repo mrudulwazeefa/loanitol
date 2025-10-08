@@ -349,5 +349,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   initSearchAnimation('search-icon1', 'search-input1', 'Search Videos...');
   initSearchAnimation('search-icon2', 'search-input2', 'Search Reels...');
+  initSearchAnimation('search-icon3', 'search-input2', 'Search Blog...');
 
 });

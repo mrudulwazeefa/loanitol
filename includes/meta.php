@@ -10,6 +10,7 @@
   <link rel="icon" href="assets/favicons/favicon.ico">
   <!-- stylesheet -->
   <link rel="stylesheet" href="css/stylesheet.css">
+   <link rel="stylesheet" href="css/animated-placeholder.css">
   <link rel="stylesheet" href="css/owl.carousel.min.css">
   <link rel="stylesheet" href="css/owl.theme.default.min.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
