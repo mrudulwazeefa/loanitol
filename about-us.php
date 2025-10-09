@@ -181,172 +181,44 @@
     <section class="board">
         <div class="container">
             <h4 class="h4-size text-center text-white">Events and Awards</h4>
-
-            <!-- <h4 class="h4-size text-center text-white">Core Advisory Board</h4>
-            <p class="text-center text-white">Demo text Grow together with Loanitol – Your trusted partner for success!
-            </p>
-            <div class="row mt-4 justify-content-center align-items-center gx-4 gy-4">
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <div class="board-box shine">
-                        <img src="assets/about/img_1.png" alt="">
-                        <div class="col-xl-10 mx-auto board-member-detail">
-                            <h5>Bibin</h5>
-                            <p>Management Consultant</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <div class="board-box">
-                        <img src="assets/about/img_1.png" alt="">
-                        <div class="col-xl-10 mx-auto board-member-detail">
-                            <h5>Shyam Iyer </h5>
-                            <p>HR Consultant</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <div class="board-box">
-                        <img src="assets/about/img_1.png" alt="">
-                        <div class="col-xl-10 mx-auto board-member-detail">
-                            <h5>Adv.K Y Sudheendran</h5>
-                            <p>Legal Consultant</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <div class="board-box">
-                        <img src="assets/about/img_1.png" alt="">
-                        <div class="col-xl-10 mx-auto board-member-detail">
-                            <h5>Stanfin </h5>
-                            <p>Finance Consultant</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <div class="board-box">
-                        <img src="assets/about/img_1.png" alt="">
-                        <div class="col-xl-10 mx-auto board-member-detail">
-                            <h5>Rajeev Aikkara </h5>
-                            <p>Technical Consultant</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <div class="board-box">
-                        <img src="assets/about/img_1.png" alt="">
-                        <div class="col-xl-10 mx-auto board-member-detail">
-                            <h5>Varkkichan Petta</h5>
-                            <p>Labour & Law</p>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-            <!-- <div class="container events-and-awards-section py-5">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="gallery-img1">
+                <div class="container events-and-awards-section py-5 my-5">
+                    <div class="row g-2 g-md-1">
+                        <div class="col-md-6 p-2">
                             <img src="assets/events-and-awards/image-1.jpg" alt="">
                         </div>
-                    </div>
-                    <div class="col-sm-6 col-md-3 mt-4 mt-md-0">
-                        <div class="gallery-img2">
-                            <img src="assets/events-and-awards/image-2.jpg" alt="">
+                        <div class="col-sm-6 col-md-3 p-2">
+                            <img src="assets/events-and-awards/image-2.jpg" alt="" >
                         </div>
-                    </div>
-                    <div class="col-sm-6 col-md-3 mt-4 mt-md-0">
-                        <div class="gallery-img3">
+                        <div class="col-sm-6 col-md-3 p-2">
                             <img src="assets/events-and-awards/image-3.jpg" alt="">
                         </div>
-                    </div>
-                </div>
-                <div class="row pt-4">
-                    <div class="col-md-3">
-                        <div class="gallery-img4">
+                        <div class="col-md-3 p-2">
                             <img src="assets/events-and-awards/image-4.jpg" alt="">
                         </div>
-                    </div>
-                    <div class="col-sm-6 col-md-3 mt-4 mt-md-0">
-                        <div class="gallery-img5">
+                        <div class="col-sm-6 col-md-3 p-2">
                             <img src="assets/events-and-awards/image-5.jpg" alt="">
                         </div>
-                    </div>
-                    <div class="col-sm-6 col-md-3 mt-4 mt-md-0">
-                        <div class="gallery-img6">
+                        <div class="col-sm-6 col-md-3 p-2">
                             <img src="assets/events-and-awards/image-6.jpg" alt="">
                         </div>
-                    </div>
-                    <div class="col-md-3 mt-4 mt-md-0">
-                        <div class="gallery-img7">
+                        <div class="col-md-3 p-2">
                             <img src="assets/events-and-awards/image-7.jpg" alt="">
                         </div>
-                    </div>
-                </div>
-                <div class="row pt-4">
-                    <div class="col-sm-6 col-md-3">
-                        <div class="gallery-img8">
+                        <div class="col-sm-6 col-md-3 p-2">
                             <img src="assets/events-and-awards/image-8.jpg" alt="">
                         </div>
-                    </div>
-                    <div class="col-sm-6 col-md-3">
-                        <div class="gallery-img9">
+                        <div class="col-sm-6 col-md-3 p-2">
                             <img src="assets/events-and-awards/image-9.jpg" alt="">
                         </div>
-                    </div>
-                    <div class="mt-4 mt-md-0 col-sm-6 col-md-6">
-                        <div class="gallery-img10">
+                        <div class="col-sm-6 col-md-6 p-2">
                             <img src="assets/events-and-awards/image-10.jpg" alt="">
                         </div>
-                    </div>
-                    <div class="col-sm-6 col-md-6 mt-4">
-                        <div class="gallery-img11">
+                        <div class="col-sm-6 col-md-6 p-2">
                             <img src="assets/events-and-awards/image-11.jpg" alt="">
                         </div>
                     </div>
                 </div>
-
-            </div> -->
-
-
- <div class="container events-and-awards-section py-5 my-5">
-        <div class="row g-2 g-md-1">
-            <div class="col-md-6 p-2">
-                <img src="assets/events-and-awards/image-1.jpg" alt="">
             </div>
-            <div class="col-sm-6 col-md-3 p-2">
-                <img src="assets/events-and-awards/image-2.jpg" alt="" >
-            </div>
-            <div class="col-sm-6 col-md-3 p-2">
-                <img src="assets/events-and-awards/image-3.jpg" alt="">
-            </div>
-            <div class="col-md-3 p-2">
-                <img src="assets/events-and-awards/image-4.jpg" alt="">
-            </div>
-            <div class="col-sm-6 col-md-3 p-2">
-                <img src="assets/events-and-awards/image-5.jpg" alt="">
-            </div>
-            <div class="col-sm-6 col-md-3 p-2">
-                <img src="assets/events-and-awards/image-6.jpg" alt="">
-            </div>
-            <div class="col-md-3 p-2">
-                <img src="assets/events-and-awards/image-7.jpg" alt="">
-            </div>
-            <div class="col-sm-6 col-md-3 p-2">
-                <img src="assets/events-and-awards/image-8.jpg" alt="">
-            </div>
-            <div class="col-sm-6 col-md-3 p-2">
-                <img src="assets/events-and-awards/image-9.jpg" alt="">
-            </div>
-            <div class="col-sm-6 col-md-6 p-2">
-                <img src="assets/events-and-awards/image-10.jpg" alt="">
-            </div>
-            <div class="col-sm-6 col-md-6 p-2">
-                <img src="assets/events-and-awards/image-11.jpg" alt="">
-            </div>
-        </div>
-    </div>
-
-
-        </div>
 
     </section>
     <!-- timeline  -->

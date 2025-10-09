@@ -6728,6 +6728,11 @@ input.search-field.show-placeholder::placeholder {
   width: 100%;
   object-position: top left;
 }
+.events-and-awards-section .row > div:nth-of-type(3) img,
+.events-and-awards-section .row > div:nth-of-type(6) img,
+.events-and-awards-section .row > div:nth-of-type(8) img{
+  object-position: center!important;
+}
 .events-and-awards-section .row > div:nth-of-type(1) img,
 .events-and-awards-section .row > div:nth-of-type(2) img,
 .events-and-awards-section .row > div:nth-of-type(3) img,
