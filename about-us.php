@@ -241,7 +241,7 @@
                     </div>
                 </div>
             </div> -->
-            <div class="container events-and-awards-section py-5">
+            <!-- <div class="container events-and-awards-section py-5">
                 <div class="row">
                     <div class="col-md-6">
                         <div class="gallery-img1">
@@ -304,7 +304,48 @@
                     </div>
                 </div>
 
+            </div> -->
+
+
+ <div class="container events-and-awards-section py-5 my-5">
+        <div class="row g-2 g-md-1">
+            <div class="col-md-6 p-2">
+                <img src="assets/events-and-awards/image-1.jpg" alt="">
             </div>
+            <div class="col-sm-6 col-md-3 p-2">
+                <img src="assets/events-and-awards/image-2.jpg" alt="" >
+            </div>
+            <div class="col-sm-6 col-md-3 p-2">
+                <img src="assets/events-and-awards/image-3.jpg" alt="">
+            </div>
+            <div class="col-md-3 p-2">
+                <img src="assets/events-and-awards/image-4.jpg" alt="">
+            </div>
+            <div class="col-sm-6 col-md-3 p-2">
+                <img src="assets/events-and-awards/image-5.jpg" alt="">
+            </div>
+            <div class="col-sm-6 col-md-3 p-2">
+                <img src="assets/events-and-awards/image-6.jpg" alt="">
+            </div>
+            <div class="col-md-3 p-2">
+                <img src="assets/events-and-awards/image-7.jpg" alt="">
+            </div>
+            <div class="col-sm-6 col-md-3 p-2">
+                <img src="assets/events-and-awards/image-8.jpg" alt="">
+            </div>
+            <div class="col-sm-6 col-md-3 p-2">
+                <img src="assets/events-and-awards/image-9.jpg" alt="">
+            </div>
+            <div class="col-sm-6 col-md-6 p-2">
+                <img src="assets/events-and-awards/image-10.jpg" alt="">
+            </div>
+            <div class="col-sm-6 col-md-6 p-2">
+                <img src="assets/events-and-awards/image-11.jpg" alt="">
+            </div>
+        </div>
+    </div>
+
+
         </div>
 
     </section>

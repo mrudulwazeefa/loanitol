@@ -6720,75 +6720,32 @@ input.search-field.show-placeholder::placeholder {
   border-radius: var(--theme-border-radius);
 }
 
-/* Careers Gallery Page */
 
-/* Events and awards */
-.events-and-awards-section .gallery-img1 img {
-  height: 331px;
-  width: 100%;
+/* Common image styling */
+.events-and-awards-section img {
+  border-radius: var(--theme-border-radius);
   object-fit: cover;
-  border-radius: 10px;
-}
-.events-and-awards-section .gallery-img2 img {
-  height: 331px;
   width: 100%;
-  object-fit: cover;
-  border-radius: 10px;
+  object-position: top left;
 }
-.events-and-awards-section .gallery-img3 img {
-  height: 331px;
-  width: 100%;
-  object-fit: cover;
-  border-radius: 10px;
+.events-and-awards-section .row > div:nth-of-type(1) img,
+.events-and-awards-section .row > div:nth-of-type(2) img,
+.events-and-awards-section .row > div:nth-of-type(3) img,
+.events-and-awards-section .row > div:nth-of-type(8) img,
+.events-and-awards-section .row > div:nth-of-type(9) img,
+.events-and-awards-section .row > div:nth-of-type(10) img {
+ height: 331px;
 }
-.events-and-awards-section .gallery-img4 img {
+
+.events-and-awards-section .row > div:nth-of-type(4) img,
+.events-and-awards-section .row > div:nth-of-type(5) img,
+.events-and-awards-section .row > div:nth-of-type(6) img,
+.events-and-awards-section .row > div:nth-of-type(7) img,
+.events-and-awards-section .row > div:nth-of-type(11) img {
   height: 274px;
-  width: 100%;
-  object-fit: cover;
-  border-radius: 10px;
 }
-.events-and-awards-section .gallery-img5 img {
-  height: 274px;
-  width: 100%;
-  object-fit: cover;
-  border-radius: 10px;
-}
-.events-and-awards-section .gallery-img6 img {
-  height: 274px;
-  width: 100%;
-  object-fit: cover;
-  border-radius: 10px;
-}
-.events-and-awards-section .gallery-img7 img {
-  height: 274px;
-  width: 100%;
-  object-fit: cover;
-  border-radius: 10px;
-}
-.events-and-awards-section .gallery-img8 img {
-  height: 331px;
-  width: 100%;
-  object-fit: cover;
-  border-radius: 10px;
-}
-.events-and-awards-section .gallery-img9 img {
-  height: 331px;
-  width: 100%;
-  object-fit: cover;
-  border-radius: 10px;
-}
-.events-and-awards-section .gallery-img10 img {
-  height: 331px;
-  width: 100%;
-  object-fit: cover;
-  border-radius: 10px;
-}
-.events-and-awards-section .gallery-img11 img {
-  height: 274px;
-  width: 100%;
-  object-fit: cover;
-  border-radius: 10px;
-}
+
+
 
 /* Mutual Fund Section */
 .mutual-fund-main-section {

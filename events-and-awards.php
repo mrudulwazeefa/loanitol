@@ -17,68 +17,41 @@
     </div>
 
     <div class="container events-and-awards-section py-5 my-5">
-        <div class="row g-3 g-md-4">
-            <div class="col-md-6">
-                <div class="gallery-img1">
-                    <img src="assets/events-and-awards/image-1.jpg" alt="">
-                </div>
+        <div class="row g-2 g-md-1">
+            <div class="col-md-6 p-2">
+                <img src="assets/events-and-awards/image-1.jpg" alt="">
             </div>
-            <div class="col-sm-6 col-md-3">
-                <div class="gallery-img2">
-                    <img src="assets/events-and-awards/image-2.jpg" alt="">
-                </div>
+            <div class="col-sm-6 col-md-3 p-2">
+                <img src="assets/events-and-awards/image-2.jpg" alt="" >
             </div>
-            <div class="col-sm-6 col-md-3">
-                <div class="gallery-img3">
-                    <img src="assets/events-and-awards/image-3.jpg" alt="">
-                </div>
+            <div class="col-sm-6 col-md-3 p-2">
+                <img src="assets/events-and-awards/image-3.jpg" alt="">
             </div>
-        </div>
-        <div class="row g-3 g-md-4 pt-3 pt-md-4">
-            <div class="col-md-3">
-                <div class="gallery-img4">
-                    <img src="assets/events-and-awards/image-4.jpg" alt="">
-                </div>
+            <div class="col-md-3 p-2">
+                <img src="assets/events-and-awards/image-4.jpg" alt="">
             </div>
-            <div class="col-sm-6 col-md-3">
-                <div class="gallery-img5">
-                    <img src="assets/events-and-awards/image-5.jpg" alt="">
-                </div>
+            <div class="col-sm-6 col-md-3 p-2">
+                <img src="assets/events-and-awards/image-5.jpg" alt="">
             </div>
-            <div class="col-sm-6 col-md-3">
-                <div class="gallery-img6">
-                    <img src="assets/events-and-awards/image-6.jpg" alt="">
-                </div>
+            <div class="col-sm-6 col-md-3 p-2">
+                <img src="assets/events-and-awards/image-6.jpg" alt="">
             </div>
-            <div class="col-md-3">
-                <div class="gallery-img7">
-                    <img src="assets/events-and-awards/image-7.jpg" alt="">
-                </div>
+            <div class="col-md-3 p-2">
+                <img src="assets/events-and-awards/image-7.jpg" alt="">
+            </div>
+            <div class="col-sm-6 col-md-3 p-2">
+                <img src="assets/events-and-awards/image-8.jpg" alt="">
+            </div>
+            <div class="col-sm-6 col-md-3 p-2">
+                <img src="assets/events-and-awards/image-9.jpg" alt="">
+            </div>
+            <div class="col-sm-6 col-md-6 p-2">
+                <img src="assets/events-and-awards/image-10.jpg" alt="">
+            </div>
+            <div class="col-sm-6 col-md-6 p-2">
+                <img src="assets/events-and-awards/image-11.jpg" alt="">
             </div>
         </div>
-        <div class="row g-3 g-md-4 pt-3 pt-md-4">
-            <div class="col-sm-6 col-md-3">
-                <div class="gallery-img8">
-                    <img src="assets/events-and-awards/image-8.jpg" alt="">
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <div class="gallery-img9">
-                    <img src="assets/events-and-awards/image-9.jpg" alt="">
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-6">
-                <div class="gallery-img10">
-                    <img src="assets/events-and-awards/image-10.jpg" alt="">
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-6">
-                <div class="gallery-img11">
-                    <img src="assets/events-and-awards/image-11.jpg" alt="">
-                </div>
-            </div>
-        </div>
-
     </div>
 
     <?php include("includes/calculation-bottom.php"); ?>
