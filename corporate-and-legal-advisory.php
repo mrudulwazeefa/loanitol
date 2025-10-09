@@ -32,107 +32,102 @@
 
     <div class="container legal-advisory-container">
         <div class="advisory-service-section">
-            <p class="description mb-4" style="color: #221E1E">
+            <p class="description mb-4">
                 Corporate legal and advisory services encompass a broad range of legal and business guidance,
                 including company formation, compliance, mergers, acquisitions, restructuring, contract negotiation, and
                 dispute resolution—all aimed at protecting and maximizing corporate interests.
             </p>
             <div class="details-section px-0">
-                <h4 class="mb-4">Corporate & Commercial Advisory Services</h4>
-                <div class="container p-0">
-                    <div class="row pt-2 g-3 g-md-4">
-                        <!-- Card 1 -->
-                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                <span>
-                                    <img class="icons"
-                                        src="assets/corporate-and-legal-advisory/icons/legal-compliance.svg"
+                <h4 class="mb-3 h4-size2">Corporate & Commercial Advisory Services</h4>
+                <div class="row g-3 align-items-stretch pd-choose">
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/corporate-and-legal-advisory/icons/legal-compliance.svg"
                                         alt="Legal Compliance">
-                                </span>
-                                <p class="advisory-service-title">Legal <br> Compliance</p>
+                                </div>
                             </div>
+                            <h2 class="col-md-9">Legal Compliance</h2>
                         </div>
-
-                        <!-- Card 2 -->
-                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                <span>
-                                    <img class="icons"
-                                        src="assets/corporate-and-legal-advisory/icons/risk-assessment.svg"
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/corporate-and-legal-advisory/icons/risk-assessment.svg"
                                         alt="Risk Assessment">
-                                </span>
-                                <p class="advisory-service-title">Risk Assessment <br>
-                                    & Mitigation</p>
+                                </div>
                             </div>
+                            <h2 class="col-md-9">Risk Assessment and Mitigation</h2>
                         </div>
-
-                        <!-- Card 3 -->
-                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                <span>
-                                    <img class="icons"
-                                        src="assets/corporate-and-legal-advisory/icons/contract-drafting-and-negotiation.svg"
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/corporate-and-legal-advisory/icons/contract-drafting-and-negotiation.svg"
                                         alt="Contract Drafting">
-                                </span>
-                                <p class="advisory-service-title">Contract Drafting <br> & Negotiation</p>
+                                </div>
                             </div>
+                            <h2 class="col-md-9">Contract Drafting & Negotiation</h2>
                         </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/corporate-and-legal-advisory/icons/dispute-resolution.svg"
+                                        alt="Dispute Resolution">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Dispute Resolution</h2>
+                        </div>
+                    </div>
 
-                        <!-- Card 4 -->
-                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                <span>
-                                    <img class="icons"
-                                        src="assets/corporate-and-legal-advisory/icons/dispute-resolution.svg"
-                                        alt="Dispute Resolution">
-                                </span>
-                                <p class="advisory-service-title">Dispute <br> Resolution</p>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/corporate-and-legal-advisory/icons/business-formation.svg"
+                                        alt="Business Formation">
+                                </div>
                             </div>
+                            <h2 class="col-md-9">Business Formation</h2>
                         </div>
-                        <!-- Card 5 -->
-                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                <span style="background-color: #E9FFF6">
-                                    <img class="icons"
-                                        src="assets/corporate-and-legal-advisory/icons/business-formation.svg"
-                                        alt="Dispute Resolution">
-                                </span>
-                                <p class="advisory-service-title">Business <br> Formation </p>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/corporate-and-legal-advisory/icons/market-entry-advice.svg"
+                                        alt="Market Entry Advice & Structuring">
+                                </div>
                             </div>
+                            <h2 class="col-md-9">Market Entry Advice & Structuring</h2>
                         </div>
-                        <!-- Card 6 -->
-                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                <span>
-                                    <img class="icons"
-                                        src="assets/corporate-and-legal-advisory/icons/market-entry-advice.svg"
-                                        alt="Dispute Resolution">
-                                </span>
-                                <p class="advisory-service-title">Market Entry Advice <br>
-                                    & Structuring</p>
+                    </div>
+                    <!--  -->
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12 hide-cols d-md-block">
+                        <div class="common-box">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/corporate-and-legal-advisory/icons/corporate-restructuring.svg"
+                                        alt="Corporate Restructuring">
+                                </div>
                             </div>
+                            <h2 class="col-md-9">Corporate Restructuring</h2>
                         </div>
-                        <!-- Card 4 -->
-                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                <span style="background-color: #FFE1E1">
-                                    <img class="icons"
-                                        src="assets/corporate-and-legal-advisory/icons/corporate-restructuring.svg"
-                                        alt="Dispute Resolution">
-                                </span>
-                                <p class="advisory-service-title">Corporate <br> Restructuring</p>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12 hide-cols d-md-block">
+                        <div class="common-box">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/corporate-and-legal-advisory/icons/mergers-acquisitions-and-joint-ventures.svg" alt="Mergers, Acquisitions & Joint Ventures">
+                                </div>
                             </div>
-                        </div>
-                        <!-- Card 4 -->
-                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                <span style="background-color: #FFE1E1">
-                                    <img class="icons"
-                                        src="assets/corporate-and-legal-advisory/icons/mergers-acquisitions-and-joint-ventures.svg"
-                                        alt="Dispute Resolution">
-                                </span>
-                                <p class="advisory-service-title">Mergers, Acquisitions <br> & Joint Ventures</p>
-                            </div>
+                            <h2 class="col-md-9">Mergers, Acquisitions & Joint Ventures</h2>
                         </div>
                     </div>
                 </div>
@@ -142,208 +137,103 @@
 
     <div class="benefits-section">
         <div class="container">
-            <h2 class="text-white pb-3">Benefits</h2>
-            <div class="card-container">
-                <div class="row custom-row mt-4 justify-content-between">
-                    <div class="col-md-6 d-flex flex-fill">
-                        <div class="row g-3">
-                            <div class="col-md-12 mt-3 mt-md-4">
-                                <div class="card">
-                                    <div class="card-body">
-                                        <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                                src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                            Comprehensive
-                                            Legal
-                                            Protection</h5>
-                                        <p class="text-white m-0 p-0">
-                                            One of the main benefits of corporate legal services is the comprehensive
-                                            protection
-                                            they
-                                            offer
-                                            companies. A business law attorney can advise organizations on the legal
-                                            aspects of
-                                            their
-                                            operations,
-                                            helping them avoid legal problems that could cost them time and money. This
-                                            includes
-                                            drafting
-                                            contracts,
-                                            reviewing agreements and managing disputes
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-12 mt-3 mt-md-4">
-                                <div class="card">
-                                    <div class="card-body">
-                                        <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                                src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                            Regulatory
-                                            Compliance
-                                        </h5>
-                                        <p class="text-white m-0 p-0">
-                                            Tax and commercial regulations are complex and constantly changing.
-                                            Corporate legal
-                                            services
-                                            help companies stay up-to-date and compliant with current legislation. This
-                                            includes
-                                            advice
-                                            on
-                                            taxation matters, which is fundamental for the effective financial planning
-                                            of any
-                                            company.  
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-12 mt-3 mt-md-4">
-                                <div class="card">
-                                    <div class="card-body">
-                                        <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                                src="assets/corporate-and-legal-advisory/icons/white-logo.svg"
-                                                alt="">Risk
-                                            Minimization
-                                        </h5>
-                                        <p class="text-white m-0 p-0">
-                                            Corporate legal services are also key to risk minimization. A corporate
-                                            lawyer can
-                                            identify
-                                            and
-                                            assess the risks associated with various business transactions and
-                                            decisions. This
-                                            proactive
-                                            assessment allows companies to make informed decisions that minimize the
-                                            chances of
-                                            facing
-                                            litigation or penalties. In addition, corporate lawyers can help develop
-                                            internal
-                                            policies
-                                            and
-                                            procedures that strengthen regulatory compliance and business ethics
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-md-6 mt-3 mt-md-0">
-                        <div class="row g-3">
-                            <div class="col-md-12 mt-3 mt-md-4">
-                                <div class="card">
-                                    <div class="card-body">
-                                        <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                                src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                            Resource
-                                            Optimization
-                                        </h5>
-                                        <p class="text-white m-0 p-0">
-                                            Efficient legal services allow companies to optimize their resources. A
-                                            business law
-                                            attorney
-                                            can offer solutions that are not only fast, but also effective. This
-                                            translates into
-                                            less
-                                            time
-                                            wasted on legal problems and more time dedicated to the operation of the
-                                            business. By
-                                            having
-                                            a
-                                            corporate lawyer service, companies can concentrate on their growth and
-                                            development,
-                                            while
-                                            experts handle the legal and accounting aspects.  
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-12 mt-3 mt-md-4">
-                                <div class="card">
-                                    <div class="card-body">
-                                        <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                                src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                            Accounting
-                                            and
-                                            Tax
-                                            Advisory Services</h5>
-                                        <p class="text-white m-0 p-0">
-                                            Accounting and business advisory services are fundamental to ensure the
-                                            financial health
-                                            of
-                                            a
-                                            company. The correct management of tax returns and payments is crucial to
-                                            avoid legal
-                                            problems.
-                                            In addition, good accounting advice can help companies identify
-                                            opportunities for cost
-                                            savings
-                                            and optimization
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-12 mt-3 mt-md-4">
-                                <div class="card">
-                                    <div class="card-body">
-                                        <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                                src="assets/corporate-and-legal-advisory/icons/white-logo.svg"
-                                                alt="">Risk
-                                            Minimization
-                                        </h5>
-                                        <p class="text-white m-0 p-0">
-                                            Corporate legal services are also key to risk minimization. A corporate
-                                            lawyer can
-                                            identify
-                                            and
-                                            assess the risks associated with various business transactions and
-                                            decisions. This
-                                            proactive
-                                            assessment allows companies to make informed decisions that minimize the
-                                            chances of
-                                            facing
-                                            litigation or penalties. In addition, corporate lawyers can help develop
-                                            internal
-                                            policies
-                                            and
-                                            procedures that strengthen regulatory compliance and business ethics
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 d-flex mt-3 mt-md-4">
-                        <div class="card same-height">
-                            <div class="card-body">
-                                <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                        src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">Mergers
-                                    and
-                                    Acquisitions Support</h5>
-                                <p class="text-white m-0 p-0">
-                                    This support is crucial to minimize the risk of subsequent litigation and
-                                    ensure that
-                                    the
-                                    integration of the companies is carried out smoothly
+            <h4 class="text-white pb-2 h4-size2">Benefits</h4>
+            <div class="row heading pb-4">
+                <div class="col-md-6">
+                    <div class="mt-3 mt-md-4">
+                        <div class="card">
+                            <div class="card-body text-white">
+                                <h5 class="mb-4 d-flex align-items-baseline">
+                                    <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="Comprehensive Legal Protection">
+                                    Comprehensive Legal Protection</h5>
+                                <p class="m-0 p-0">
+                                    One of the main benefits of corporate legal services is the comprehensive protection they offer companies. A business law attorney can advise organizations on the legal aspects of their operations, helping them avoid legal problems that could cost them time and money. This includes drafting contracts, reviewing agreements, and managing disputes.
                                 </p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 d-flex mt-3 mt-md-4">
-                        <div class="card same-height">
-                            <div class="card-body">
-                                <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                        src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">Building
-                                    Strong
-                                    Relationships</h5>
-                                <p class="text-white m-0 p-0">
-                                    Finally, having an efficient legal advisory service helps to build strong
-                                    relationships
-                                    with
-                                    the
-                                    company’s stakeholders. This includes customers, suppliers and regulators
+                    <div class="mt-3 mt-md-4">
+                        <div class="card">
+                            <div class="card-body text-white">
+                                <h5 class="mb-4 d-flex align-items-baseline">
+                                    <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="Regulatory Compliance">
+                                    Regulatory Compliance</h5>
+                                <p class="m-0 p-0">
+                                    Tax and commercial regulations are complex and constantly changing. Corporate legal services help companies stay up-to-date and compliant with current legislation. This includes advice on taxation matters, which is fundamental for the effective financial planning of any company.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-3 mt-md-4">
+                        <div class="card">
+                            <div class="card-body text-white">
+                                <h5 class="mb-4 d-flex align-items-baseline">
+                                    <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="Risk Minimization">
+                                    Risk Minimization</h5>
+                                <p class="m-0 p-0">
+                                    Corporate legal services are also key to risk minimization. A corporate lawyer can identify and assess the risks associated with various business transactions and decisions. This proactive assessment allows companies to make informed decisions that minimize the chances of facing litigation or penalties. In addition, corporate lawyers can help develop internal policies and procedures that strengthen regulatory compliance and business ethics
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-3 mt-md-4">
+                        <div class="card">
+                            <div class="card-body text-white">
+                                <h5 class="mb-4 d-flex align-items-baseline">
+                                    <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="Mergers and Acquisitions Support">
+                                    Mergers and Acquisitions Support</h5>
+                                <p class="m-0 p-0">
+                                    This support is crucial to minimize the risk of subsequent litigation and ensure that the integration of the companies is carried out smoothly
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mt-3 mt-md-4">
+                        <div class="card">
+                            <div class="card-body text-white">
+                                <h5 class="mb-4 d-flex align-items-baseline">
+                                    <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="Resource Optimization">
+                                    Resource Optimization</h5>
+                                <p class="m-0 p-0">
+                                    Efficient legal services allow companies to optimize their resources. A business law attorney can offer solutions that are not only fast, but also effective. This translates into less time wasted on legal problems and more time dedicated to the operation of the business. By having a corporate lawyer service, companies can concentrate on their growth and development, while experts handle the legal and accounting aspects.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-3 mt-md-4">
+                        <div class="card">
+                            <div class="card-body text-white">
+                                <h5 class="mb-4 d-flex align-items-baseline">
+                                    <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="Accounting and Tax Advisory Services">
+                                    Accounting and Tax Advisory Services</h5>
+                                <p class="m-0 p-0">
+                                    Accounting and business advisory services are fundamental to ensure the financial health of a company. The correct management of tax returns and payments is crucial to avoid legal problems. In addition, good accounting advice can help companies identify opportunities for cost savings and optimization.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-3 mt-md-4">
+                        <div class="card">
+                            <div class="card-body text-white">
+                                <h5 class="mb-4 d-flex align-items-baseline">
+                                    <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="Access to Experience and Knowledge">
+                                    Access to Experience and Knowledge</h5>
+                                <p class="m-0 p-0">
+                                    Having corporate lawyers with experience in the field of corporate law allows organizations to benefit from specialized knowledge. This is essential, especially for companies that are growing or looking to expand into new markets.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-3 mt-md-4">
+                        <div class="card">
+                            <div class="card-body text-white">
+                                <h5 class="mb-4 d-flex align-items-baseline">
+                                    <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="Building Strong Relationships">
+                                    Building Strong Relationships</h5>
+                                <p class="m-0 p-0">
+                                    Finally, having an efficient legal advisory service helps to build strong relationships with the company's stakeholders. This includes customers, suppliers and regulators
                                 </p>
                             </div>
                         </div>
@@ -456,18 +346,6 @@
 
     <?php include("includes/calculation-bottom.php"); ?>
     <?php include("includes/footer.php"); ?>
-
-    <script>
-    // Pause modal video when closed
-    $('#exampleModal').on('hidden.bs.modal', function() {
-        var video = document.getElementById('modalVideo');
-        if (video) {
-            video.pause();
-            video.currentTime = 0;
-        }
-    });
-    </script>
-
 </body>
 
 </html>

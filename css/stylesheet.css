@@ -917,7 +917,7 @@ h4 span {
   padding-top: 2%;
 }
 
-.choose_frame {
+.choose_frame{
   background: var(--white);
   padding: 20px;
   text-align: center;
@@ -931,8 +931,25 @@ h4 span {
   height: var(--full);
   min-height: 140px;
 }
+.common-box {
+  background: var(--white);
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+  border-radius: var(--theme-border-radius);
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.1));
+  transition: transform 0.3s ease;
+  display: var(--flex);
+  flex-direction: column;
+  justify-content: center;
+  height: var(--full);
+  min-height: 190px;
+}
 
-.choose_frame .icon-frame {
+
+.choose_frame .icon-frame,
+.common-box .icon-frame
+ {
   width: 60px;
   height: 60px;
   border-radius: 50px;
@@ -942,7 +959,9 @@ h4 span {
   background: #fff7e8;
 }
 
-.choose_frame .icon-frame .second-frame img {
+.choose_frame .icon-frame .second-frame img,
+.common-box .icon-frame .second-frame img
+ {
   width: 23px;
   display: block;
 }
@@ -972,7 +991,8 @@ h4 span {
   display: block;
 }
 
-.choose_frame h2 {
+.choose_frame h2,
+.common-box h2 {
   font-size: 16px;
   color: var(--black);
   text-align: center;
@@ -982,11 +1002,13 @@ h4 span {
   font-family: var(--theme-font);
 }
 
-.choose_frame h2 span {
+.choose_frame h2 span,
+.common-box h2 span  {
   display: block;
 }
 
-.choose_frame p {
+.choose_frame p,
+.common-box p{
   display: none;
   color: var(--white) !important;
   transition: all linear 0.3s;
@@ -3874,6 +3896,9 @@ img {
 }
 /* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 600px) {
+  .heading h5{
+  font-size: 18px;
+}
   .blog-wrapper h4{
     font-size: var(--default-font-size);
   }
@@ -4290,8 +4315,12 @@ img {
     padding: 4% 10%;
   }
 }
+
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media screen and (min-width: 600px) {
+  .heading h5{
+  font-size: 18px;
+}
   .blog-wrapper h4{
     font-size: var(--default-font-size)!important;
   }
@@ -4832,6 +4861,7 @@ img {
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+  
   .learn-inner .btn {
     padding: 1% 2%;
   }
@@ -4986,6 +5016,7 @@ img {
 }
 /* */
 @media only screen and (min-width: 1024px) {
+
   .quote-left {
     left: 4%;
   }
@@ -6034,7 +6065,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .benefits-section {
   background-color: #0c3645;
-  padding: 6rem 0;
+  padding: 4rem 0;
   font-family: var(--theme-font);
 }
 .benefits-section .card {
@@ -6047,6 +6078,11 @@ input.search-field.show-placeholder::placeholder {
   border-radius: 10px;
   padding: 2rem;
 }
+
+
+
+
+
 @media (max-width: 575px) {
   .benefits-section .card-body {
     padding: 1.5rem;
@@ -6066,7 +6102,6 @@ input.search-field.show-placeholder::placeholder {
   border: 1px solid #e2e2e2 !important;
   font-family: var(--theme-font) !important;
   border-radius: 10px;
-  /* height: 230px !important; */
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
 }
 .real-estate-container .details-section .card .title {
