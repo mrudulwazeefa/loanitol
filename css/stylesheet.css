@@ -931,6 +931,11 @@ h4 span {
   height: var(--full);
   min-height: 140px;
 }
+.choose_frame_last_img{
+  max-height: 140px;
+  border-radius: var(--theme-border-radius);
+  object-position: top left;
+}
 .common-box {
   background: var(--white);
   padding: 20px;
@@ -4458,8 +4463,11 @@ img {
   .bg-contact-area {
     padding: 6% 0%;
   }
-  .choose_frame {
+  .choose_frame{
     min-height: 170px;
+  }
+  .choose_frame_last_img{
+    max-height: 170px;
   }
   .bg-contact-area button {
     padding: 1.5% 4%;
@@ -4732,8 +4740,11 @@ img {
   .hide-cols {
     display: none;
   }
-  .choose_frame {
+  .choose_frame{
     min-height: 164px;
+  }
+    .choose_frame_last_img{
+    max-height: 164px;
   }
   .testimonial_area .testimonial_img_section .main_img {
     width: 90%;
@@ -4912,8 +4923,11 @@ img {
   .why-section-area .image-section {
     display: block;
   }
-  .choose_frame {
+  .choose_frame{
     min-height: 198px;
+  }
+    .choose_frame_last_img{
+    max-height: 198px;
   }
   .testimonial_area .testimonial_img_section .sm-logo {
     width: 100px;
@@ -7688,7 +7702,13 @@ input.search-field.show-placeholder::placeholder {
 .img_h1,
 .img_h2{
   height:auto;
+  }
+}
+.documents-section .card h5{
+  font-size: 17px;
 }
 
-
+.documents-section .card h3{
+  font-size: 15px;
 }
+
