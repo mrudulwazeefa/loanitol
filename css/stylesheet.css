@@ -86,7 +86,9 @@ option {
 .navbar-text span a:hover {
   color: #d3142e;
 }
-
+.theme-radius{
+  border-radius: var(--theme-border-radius);
+}
 .animate-img {
   height: auto;
   animation: pulse 2s infinite ease-in-out;
@@ -931,6 +933,11 @@ h4 span {
   height: var(--full);
   min-height: 140px;
 }
+.img_accounting_h{
+  min-height: 198px;
+}
+
+
 .choose_frame_last_img{
   max-height: 140px;
   border-radius: var(--theme-border-radius);
@@ -3901,6 +3908,15 @@ img {
 }
 /* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 600px) {
+
+.img_h{
+  min-height: 140px;
+}
+  .img_accounting_h{
+    min-height: 140px;
+    max-height: 140px;
+  }
+
   .heading h5{
   font-size: 18px;
 }
@@ -4323,6 +4339,19 @@ img {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media screen and (min-width: 600px) {
+/* .img_h{
+  min-height: 140px;
+} */
+  .img_accounting_h{
+    min-height: 164px;
+  }
+
+  .finance-accounting-container .accounting-service-section .card{
+    height: auto!important;
+  }
+
+
+
   .heading h5{
   font-size: 18px;
 }
@@ -4463,7 +4492,8 @@ img {
   .bg-contact-area {
     padding: 6% 0%;
   }
-  .choose_frame{
+  .choose_frame,
+  .img_accounting_h{
     min-height: 170px;
   }
   .choose_frame_last_img{
@@ -4740,7 +4770,8 @@ img {
   .hide-cols {
     display: none;
   }
-  .choose_frame{
+  .choose_frame,
+  .img_accounting_h{
     min-height: 164px;
   }
     .choose_frame_last_img{
@@ -4923,7 +4954,8 @@ img {
   .why-section-area .image-section {
     display: block;
   }
-  .choose_frame{
+  .choose_frame,
+  .img_accounting_h{
     min-height: 198px;
   }
     .choose_frame_last_img{
@@ -6292,7 +6324,7 @@ input.search-field.show-placeholder::placeholder {
 .finance-accounting-container .accounting-service-section .card {
   font-family: var(--theme-font) !important;
   border-radius: 10px;
-  height: 230px !important;
+  /* height: 230px !important; */
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
 }
 .finance-accounting-container .accounting-service-section .card .title {
@@ -6305,6 +6337,10 @@ input.search-field.show-placeholder::placeholder {
 .additional-benefits-section {
   background-color: #d81f37;
 }
+.additional-benefits-section h5{
+  font-size: 18px;
+}
+
 .additional-benefits-section p {
   font-size: 16px !important;
 }

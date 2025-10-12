@@ -38,7 +38,7 @@
             <div class="container">
                 Book keeping, financial statement production, tax compliance, auditing, payroll processing, and
                 financial analysis are just a few of the many tasks that fall under the umbrella of finance and
-                accounting services, which are all focused on managing and disclosing financial data. 
+                accounting services, which are all focused on managing and disclosing financial data.
             </div>
         </div>
         <div class="finance-accounting-service-container">
@@ -169,11 +169,11 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-12 col-lg-9">
-                            <div class="card h-100 border-0" style="border-radius: 10px;">
+                        <div class="col-12 col-sm-6 col-lg-9">
+                            <div class="card h-100 border-0">
                                 <img src="assets/finance-and-accounting/business-workers.png"
                                     alt="Business workers in finance and accounting"
-                                    class="img-fluid h-100 object-fit-cover w-100" style=" border-radius: 10px;">
+                                    class="img-fluid h-100 object-fit-cover w-100 theme-radius img_h d-md-none d-lg-block">
                             </div>
                         </div>
                     </div>
@@ -386,155 +386,217 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-12 col-lg-3">
-                            <div class="card" style="border-radius: 10px; border: none;">
-                                <img class="h-100 w-100 object-fit-cover"
-                                    src="assets/finance-and-accounting/accounting-service.jpg"
-                                    style="border-radius: 10px" alt="">
+                        <div class="col-12 col-sm-6 col-lg-3">
+                            <div class="card h-100 border-0">
+                                <img src="assets/finance-and-accounting/accounting-service.jpg"
+                                    alt="accounting-service"
+                                    class="object-fit-cover w-100 theme-radius img_accounting_h d-md-none d-lg-block">
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
-        <div class="benefits-finance-and-accounting benefits-real-estate-section">
-            <div class="container">
-                <h2 class="text-white pb-4">Benefits</h2>
-                <div class="card-container">
-                    <div class="container px-0 py-4">
-                        <div class="row g-3 g-md-4">
-                            <div class="col-sm-6 d-flex">
-                                <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
-                                    <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                            src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                        Cost Saving
-                                    </h5>
-                                    <p class="card-text">Outsourcing finance and accounting functions reduces expenses
-                                        related to hiring, training, and maintaining an in-house team</p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 d-flex">
-                                <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
-                                    <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                            src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                        Operational Efficiency
-                                    </h5>
-                                    <p class="card-text">Dedicated experts and advanced tools streamline financial
-                                        processes, improving accuracy and productivity</p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 d-flex">
-                                <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
-                                    <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                            src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                        Focus on Core Business
-                                    </h5>
-                                    <p class="card-text">Free up resources by outsourcing non-core financial tasks,
-                                        allowing businesses to concentrate on strategic growth</p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 d-flex">
-                                <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
-                                    <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                            src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                        Accurate & Timely Reporting
-                                    </h5>
-                                    <p class="card-text">Gain access to precise and up-to-date financial reports
-                                        essential for informed decision-making.</p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 d-flex">
-                                <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
-                                    <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                            src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                        Improved Cash Flow Management
-                                    </h5>
-                                    <p class="card-text">Enhanced financial insights lead to better cash flow
-                                        forecasting and control.</p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 d-flex">
-                                <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
-                                    <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                            src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                        Stronger Budgeting & Planning
-                                    </h5>
-                                    <p class="card-text">Reliable financial data supports effective budgeting,
-                                        forecasting, and long-term strategic planning.</p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 d-flex">
-                                <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
-                                    <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                            src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                        Expert Financial Guidance
-                                    </h5>
-                                    <p class="card-text">Leverage specialized financial expertise to navigate complex
-                                        financial challenges.</p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 d-flex">
-                                <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
-                                    <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                            src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                        Scalability & Flexibility
-                                    </h5>
-                                    <p class="card-text">Easily scale outsourced financial services to meet business
-                                        needs as they evolve.</p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 d-flex">
-                                <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
-                                    <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                            src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                        Faster Implementation
-                                    </h5>
-                                    <p class="card-text">Quickly deploy financial solutions with outsourced expertise,
-                                        improving time-to-market.</p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 d-flex">
-                                <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
-                                    <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                            src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                        Transaction Support
-                                    </h5>
-                                    <p class="card-text">Managing the complexities of real estate transactions, advisors
-                                        ease the burden on clients and allow them to focus on other priorities.</p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 d-flex">
-                                <div class="card w-100 text-white bg-dark h-100 p-3 rounded-3">
-                                    <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                            src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
-                                        Faster Implementation
-                                    </h5>
-                                    <p class="card-text">Quickly deploy financial solutions with outsourced expertise,
-                                        improving time-to-market.</p>
-                                </div>
-                            </div>
+<!--  -->
+ <div class="benefits-section">
+    <div class="container">
+        <h4 class="text-white pb-2 h4-size2">Benefits</h4>
+        <div class="row heading pb-4">
+            <div class="col-md-6">
+                <div class="mt-3 mt-md-4">
+                    <div class="card">
+                        <div class="card-body text-white">
+                            <h5 class="mb-4 d-flex align-items-baseline">
+                                <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                                    Cost Saving
+                            </h5>
+                            <p class="m-0 p-0">
+                                Outsourcing finance and accounting functions reduces expenses related to hiring, training, and maintaining an in-house team
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 2 -->
+            <div class="col-md-6">
+                <div class="mt-3 mt-md-4">
+                    <div class="card">
+                        <div class="card-body text-white">
+                            <h5 class="mb-4 d-flex align-items-baseline">
+                                <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                                    Operational Efficiency
+                            </h5>
+                            <p class="m-0 p-0">
+                                Dedicated experts and advanced tools streamline financial processes, improving accuracy and productivity
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 3 -->
+            <div class="col-md-6">
+                <div class="mt-3 mt-md-4">
+                    <div class="card">
+                        <div class="card-body text-white">
+                            <h5 class="mb-4 d-flex align-items-baseline">
+                                <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                                    Focus on Core Business
+                            </h5>
+                            <p class="m-0 p-0">
+                                Free up resources by outsourcing non-core financial tasks, allowing businesses to concentrate on strategic growth
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 4 -->
+            <div class="col-md-6">
+                <div class="mt-3 mt-md-4">
+                    <div class="card">
+                        <div class="card-body text-white">
+                            <h5 class="mb-4 d-flex align-items-baseline">
+                                <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                                    Accurate & Timely Reporting
+                            </h5>
+                            <p class="m-0 p-0">
+                                Gain access to precise and up-to-date financial reports essential for informed decision-making.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 5 -->
+            <div class="col-md-6">
+                <div class="mt-3 mt-md-4">
+                    <div class="card">
+                        <div class="card-body text-white">
+                            <h5 class="mb-4 d-flex align-items-baseline">
+                                <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                                    Improved Cash Flow Management
+                            </h5>
+                            <p class="m-0 p-0">
+                                Enhanced financial insights lead to better cash flow forecasting and control.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 6 -->
+            <div class="col-md-6">
+                <div class="mt-3 mt-md-4">
+                    <div class="card">
+                        <div class="card-body text-white">
+                            <h5 class="mb-4 d-flex align-items-baseline">
+                                <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                                    Stronger Budgeting & Planning
+                            </h5>
+                            <p class="m-0 p-0">
+                                Reliable financial data supports effective budgeting, forecasting, and long-term strategic planning.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 7 -->
+            <div class="col-md-6">
+                <div class="mt-3 mt-md-4">
+                    <div class="card">
+                        <div class="card-body text-white">
+                            <h5 class="mb-4 d-flex align-items-baseline">
+                                <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                                    Expert Financial Guidance
+                            </h5>
+                            <p class="m-0 p-0">
+                                Leverage specialized financial expertise to navigate complex financial challenges.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 8 -->
+            <div class="col-md-6">
+                <div class="mt-3 mt-md-4">
+                    <div class="card">
+                        <div class="card-body text-white">
+                            <h5 class="mb-4 d-flex align-items-baseline">
+                                <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                                    Scalability & Flexibility
+                            </h5>
+                            <p class="m-0 p-0">
+                                Easily scale outsourced financial services to meet business needs as they evolve.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 9 -->
+             <div class="col-md-6">
+                <div class="mt-3 mt-md-4">
+                    <div class="card">
+                        <div class="card-body text-white">
+                            <h5 class="mb-4 d-flex align-items-baseline">
+                                <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                                    Faster Implementation
+                            </h5>
+                            <p class="m-0 p-0">
+                                Quickly deploy financial solutions with outsourced expertise, improving time-to-market.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 10 -->
+             <div class="col-md-6">
+                <div class="mt-3 mt-md-4">
+                    <div class="card">
+                        <div class="card-body text-white">
+                            <h5 class="mb-4 d-flex align-items-baseline">
+                                <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                                    Faster Implementation
+                            </h5>
+                            <p class="m-0 p-0">
+                            Quickly deploy financial solutions with outsourced expertise, improving time-to-market.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 11 -->
+             <div class="col-md-6">
+                <div class="mt-3 mt-md-4">
+                    <div class="card">
+                        <div class="card-body text-white">
+                            <h5 class="mb-4 d-flex align-items-baseline">
+                                <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                                    Transaction Support
+                            </h5>
+                            <p class="m-0 p-0">
+                            Managing the complexities of real estate transactions, advisors ease the burden on clients and allow them to focus on other priorities.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</div>
 
+<!--  -->
         <div class="additional-benefits-section py-5">
             <div class="container">
-                <h2 class="text-white pb-4">Additional Benefits</h2>
+                <h4 class="h4-size text-white pb-4">Additional Benefits</h4>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                        <h5 class="mb-4 d-flex align-items-center text-white">
+                            <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
                             Risk Reduction
                         </h5>
                         <p class="text-white card-text">Strong internal controls and security measures help mitigate
                             fraud and financial errors.</p>
                     </div>
                     <div class="col-12 col-sm-6 p-3">
-                        <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
-                                src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
+                        <h5 class="mb-4 d-flex align-items-center text-white">
+                            <img class="me-2" src="assets/corporate-and-legal-advisory/icons/white-logo.svg" alt="">
                             Access to Advanced Technology
                         </h5>
                         <p class="text-white card-text">Utilize the latest financial software and tools to boost
