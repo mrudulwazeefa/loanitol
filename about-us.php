@@ -35,7 +35,7 @@
                                     <div class="icon-style d-flex justify-content-center align-items-center">
                                         <img src="assets/about/icons/mission.svg" alt="mission icon" width="20">
                                     </div>
-                                    <h6>Mission</h6>
+                                    <h6 class="about-style">Mission</h6>
                                     <p>Guiding individuals and corporates towards financial prosperity by providing
                                         expert loan advice, seamless processing, effective loan management and ongoing
                                         support.</p>
@@ -46,7 +46,7 @@
                                     <div class="icon-style d-flex justify-content-center align-items-center">
                                         <img src="assets/about/icons/vision.svg" alt="vision icon" width="20">
                                     </div>
-                                    <h6>Vision</h6>
+                                    <h6 class="about-style">Vision</h6>
                                     <p>To be the most trusted and preferred partner in financial success, delivering
                                         superior value and unparalleled service to our clients worldwide.</p>
                                 </div>
@@ -62,7 +62,7 @@
                             <div class="icon-style d-flex justify-content-center align-items-center">
                                 <img src="assets/about/icons/core-value.svg" alt="core-value icon" width="20">
                             </div>
-                            <h6>Core Values</h6>
+                            <h6 class="about-style">Core Values</h6>
                             <ul>
                                 <li>Confidentiality<span>:-</span> We prioritize keeping financial information secure
                                 </li>

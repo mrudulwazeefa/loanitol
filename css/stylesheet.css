@@ -2075,11 +2075,13 @@ border: 1px solid #D81F37 !important;
 .features-style h6 {
   font-size: 16px;
   font-weight: 600;
-  color: var(--theme-color);
+  
 }
-.features-style p{
-  margin-top: 5px;
+.about-style{
+padding-bottom: 5px;
+color: var(--theme-color);
 }
+
 .features-style .features-style-box {
   position: var(--relative);
   /* background: var(--white); */
@@ -2096,7 +2098,7 @@ border: 1px solid #D81F37 !important;
 }
 .features-style .features-style-box:hover {
   transition: all linear 0.3s;
-  border-bottom: 2px solid #fd9191;
+  border-bottom: 2px solid #ffbaba;
 }
 .features-style-box .icon-style {
   background: #fff6f3;
