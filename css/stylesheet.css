@@ -205,7 +205,7 @@ font-family: var(--theme-font);
 position: relative;
 overflow: hidden;
 background: #ffffff;
-border: 1px solid #D81F37;
+border: 1px solid var(--theme-color);
 color: rgb(0, 0, 0) !important;
 padding: 1% 2%;
 font-size: 13px;
@@ -235,13 +235,13 @@ opacity: 1;
 }
 .service_section_margin .btn:hover {
 background: #b41329;
-border: 1px solid #D81F37 !important;
+border: 1px solid var(--theme-color) !important;
 color: #FFF !important;
 }
 .service_section_margin .btn:active {
 background: #b41329 !important;
 color: #FFF !important;
-border: 1px solid #D81F37 !important;
+border: 1px solid var(--theme-color) !important;
 }
 
 /**/
@@ -720,7 +720,7 @@ border: 1px solid #D81F37 !important;
 }
 
 .loanitol-service .service-item .item h2 {
-  font-size: 16px;
+  font-size: var(--font-16);
   color: #272525;
   margin: 0;
   padding: 10px 0px;
@@ -773,7 +773,7 @@ border: 1px solid #D81F37 !important;
 }
 
 .insurance-carousel .service-item .item h2 {
-  font-size: 16px;
+  font-size: var(--font-16);
   color: var(--black);
   text-align: center;
   margin: 0;
@@ -811,7 +811,7 @@ border: 1px solid #D81F37 !important;
 }
 
 .insurance_loan_area p {
-  font-size: 16px;
+  font-size: var(--font-16);
   color: var(--white) !important;
 }
 
@@ -867,7 +867,7 @@ border: 1px solid #D81F37 !important;
 }
 
 .h4-testimonial-size span {
-  font-size: 16px;
+  font-size: var(--font-16);
   font-weight: 400;
   padding-top: 1%;
 }
@@ -882,7 +882,7 @@ border: 1px solid #D81F37 !important;
 }
 
 .fund_loan_area p {
-  font-size: 16px;
+  font-size: var(--font-16);
   color: var(--black);
 }
 
@@ -896,7 +896,7 @@ border: 1px solid #D81F37 !important;
 
 h4 span {
   display: block;
-  font-size: 16px;
+  font-size: var(--font-16);
   font-weight: 400;
 }
 
@@ -1005,7 +1005,7 @@ h4 span {
 
 .choose_frame h2,
 .common-box h2 {
-  font-size: 16px;
+  font-size: var(--font-16);
   color: var(--black);
   text-align: center;
   margin: 0;
@@ -1088,7 +1088,7 @@ h4 span {
 
 .testimonial_area .stars img {
   display: inline !important;
-  width: 18px !important;
+  width: var(--font-18) !important;
 }
 
 .testimonial_area .people_say {
@@ -1370,12 +1370,12 @@ h4 span {
 .accordion-button img {
   transition: transform 0.3s ease;
   transition: all 0.3s linear;
-  width: 16px;
+  width: var(--font-16);
 }
 .accordion-button:not(.collapsed) img {
   transform: rotate(45deg);
   transition: all 0.3s linear;
-  width: 16px;
+  width: var(--font-16);
 }
 .accordion-button {
   font-family: var(--theme-font);
@@ -1549,9 +1549,9 @@ h4 span {
   display: var(--flex);
   justify-content: space-between;
   align-items: center;
-  font-size: 16px;
+  font-size: var(--font-16);
   border-bottom: 1px solid #ddd;
-  padding: 16px 10px;
+  padding: var(--font-16) 10px;
   font-family: var(--theme-font);
   color: var(--white) !important;
   position: sticky;
@@ -1565,7 +1565,7 @@ h4 span {
 .popup .popup-header .close-btn {
   background: none;
   border: none;
-  font-size: 18px;
+  font-size: var(--font-18);
   cursor: pointer;
   background: #7b101e;
   width: 35px;
@@ -1700,8 +1700,8 @@ h4 span {
 }
 .item_p input[type="range"]::-webkit-slider-thumb {
   -webkit-appearance: none;
-  width: 16px;
-  height: 16px;
+  width: var(--font-16);
+  height: var(--font-16);
   background: #d71920;
   border-radius: 50%;
   cursor: pointer;
@@ -1781,9 +1781,9 @@ h4 span {
   display: var(--flex);
   justify-content: space-between;
   align-items: center;
-  font-size: 16px;
+  font-size: var(--font-16);
   border-bottom: 1px solid #ddd;
-  padding: 16px 10px;
+  padding: var(--font-16) 10px;
   font-family: var(--theme-font);
   color: var(--white);
   position: sticky;
@@ -1797,7 +1797,7 @@ h4 span {
 #popup-blue .popup-header .close-btn {
   background: none;
   border: none;
-  font-size: 18px;
+  font-size: var(--font-18);
   cursor: pointer;
   background: #8b0c1d;
   width: 35px;
@@ -1826,13 +1826,13 @@ h4 span {
 }
 .modal-title {
   font-family: var(--theme-font);
-  font-size: 18px;
+  font-size: var(--font-18);
 }
 #quicklinks .modal-header {
   display: var(--flex);
   justify-content: space-between;
   align-items: center;
-  font-size: 16px;
+  font-size: var(--font-16);
   border-bottom: 1px solid #ddd;
   padding: 12px 10px;
   font-family: var(--theme-font);
@@ -1848,7 +1848,7 @@ h4 span {
 #quicklinks .modal-header .close-btn {
   background: none;
   border: none;
-  font-size: 18px;
+  font-size: var(--font-18);
   cursor: pointer;
   background: #8b0c1d;
   width: 35px;
@@ -1863,7 +1863,7 @@ h4 span {
   display: var(--flex);
   justify-content: space-between;
   align-items: center;
-  font-size: 16px;
+  font-size: var(--font-16);
   border-bottom: 1px solid #ddd;
   padding: 12px 10px;
   font-family: var(--theme-font);
@@ -1879,7 +1879,7 @@ h4 span {
 #emicalculator .modal-header .close-btn {
   background: none;
   border: none;
-  font-size: 18px;
+  font-size: var(--font-18);
   cursor: pointer;
   background: #7b101e;
   width: 35px;
@@ -1901,7 +1901,7 @@ font-family: var(--theme-font);
 position: relative;
 overflow: hidden;
 background: #ffffff;
-border: 1px solid #D81F37;
+border: 1px solid var(--theme-color);
 color: rgb(0, 0, 0) !important;
 padding: 1.5% 4%;
 font-size: 13px;
@@ -1931,13 +1931,13 @@ opacity: 1;
 }
 .why-section-area .btn:hover {
 background: #b41329;
-border: 1px solid #D81F37 !important;
+border: 1px solid var(--theme-color) !important;
 color: #FFF !important;
 }
 .why-section-area .btn:active {
 background: #b41329 !important;
 color: #FFF !important;
-border: 1px solid #D81F37 !important;
+border: 1px solid var(--theme-color) !important;
 }
 .people_say {
   padding: 4% 0% 0% 0%;
@@ -2073,7 +2073,7 @@ border: 1px solid #D81F37 !important;
   margin-bottom: 1px;
 }
 .features-style h6 {
-  font-size: 16px;
+  font-size: var(--font-16);
   font-weight: 600;
   
 }
@@ -2280,7 +2280,7 @@ color: var(--theme-color);
   background-color: #ffa500;
   color: black;
   font-family: "Inter", sans-serif;
-  padding: 18px 14px;
+  padding: var(--font-18) 14px;
   white-space: nowrap;
   font-weight: 600;
   font-size: var(--default-font-size);
@@ -2466,10 +2466,10 @@ textarea {
 }
 .address h6 {
   font-family: var(--theme-font);
-  font-size: 16px;
+  font-size: var(--font-16);
 }
 .bordered-img {
-  width: 18px;
+  width: var(--font-18);
   margin-right: 2%;
 }
 .address ul li {
@@ -2596,8 +2596,8 @@ textarea {
   fill: var(--white);
 }
 .socialIcons ul li a svg {
-  width: 16px;
-  height: 16px;
+  width: var(--font-16);
+  height: var(--font-16);
   fill: #0e3746;
 }
 /* slider */
@@ -2729,7 +2729,7 @@ textarea {
 .corevalues h5 {
   font-family: "Inter", sans-serif;
   margin-bottom: 1px;
-  font-size: 16px;
+  font-size: var(--font-16);
 }
 .corevalues ul,
 .features-style-box ul {
@@ -2772,7 +2772,7 @@ textarea {
 .management_area_gradient h5 span {
   line-height: 24px;
   display: block;
-  font-size: 16px;
+  font-size: var(--font-16);
   font-weight: 400;
 }
 .management_area_gradient .image {
@@ -2822,7 +2822,7 @@ textarea {
   cursor: pointer;
 }
 .board .board-box h5 {
-  font-size: 16px;
+  font-size: var(--font-16);
   font-weight: 600;
   margin-bottom: 0;
 }
@@ -2906,7 +2906,7 @@ textarea {
 .privacy h5 {
   font-family: var(--theme-font);
   padding-top: 1%;
-  font-size: 18px;
+  font-size: var(--font-18);
 }
 .card-page {
   display: none;
@@ -2997,7 +2997,7 @@ textarea {
 }
 .sticky-nav-wrapper .nav-link {
   color: white !important;
-  padding: 8px 16px;
+  padding: 8px var(--font-16);
   white-space: nowrap;
   border-radius: 4px;
   font-family: "Inter";
@@ -3007,7 +3007,7 @@ textarea {
 .sticky-nav-wrapper .nav-link.active {
   color: #000 !important;
   background: #fff;
-  padding: 8px 16px !important;
+  padding: 8px var(--font-16) !important;
   font-family: "Inter", sans-serif;
   font-size: 14px;
   font-weight: 500;
@@ -3066,8 +3066,8 @@ textarea {
   margin-top: 6rem !important;
 }
 .advisory_section_area svg {
-  width: 18px;
-  height: 18px;
+  width: var(--font-18);
+  height: var(--font-18);
 }
 .advisory_section_area svg g path,
 .advisory_section_area clipPath react {
@@ -3399,7 +3399,7 @@ img {
   margin-top: -8%;
 }
 .timeline-content-txt h5 {
-  font-size: 18px;
+  font-size: var(--font-18);
   font-family: var(--theme-font);
 }
 .timeline-box.img-right .timeline-content,
@@ -3408,10 +3408,10 @@ img {
   align-items: flex-start;
 }
 .timeline-box.img-right .timeline-content img {
-  margin-left: 18px;
+  margin-left: var(--font-18);
 }
 .timeline-box.img-left .timeline-content img {
-  margin-right: 18px;
+  margin-right: var(--font-18);
 }
 .timeline-box.img-left .timeline-content {
   flex-direction: row-reverse;
@@ -3641,7 +3641,7 @@ img {
   background-color: #fff0d8;
 }
 .service-carousel1 .service-item .item h2 {
-  font-size: 16px;
+  font-size: var(--font-16);
   color: #272525;
   text-align: center;
   margin: 0;
@@ -3681,7 +3681,7 @@ img {
 
 .learn-card:hover {
   cursor: pointer;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px var(--font-16) rgba(0, 0, 0, 0.1);
 }
 
 .learn-card:hover a {
@@ -3706,8 +3706,8 @@ img {
 }
 
 .learn-icon svg {
-  width: 18px;
-  height: 18px;
+  width: var(--font-18);
+  height: var(--font-18);
   fill: #fff;
 }
 
@@ -3910,6 +3910,16 @@ img {
 }
 /* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 600px) {
+.pattern_z_1 {
+  top: 20%!important;
+  transform: translateY(-20%) !important;
+  width: 48%;
+  min-width: 100%!important;
+}
+
+
+
+
 
 .img_h{
   min-height: 140px;
@@ -3920,7 +3930,7 @@ img {
   }
 
   .heading h5{
-  font-size: 18px;
+  font-size: var(--font-18);
 }
   .blog-wrapper h4{
     font-size: var(--default-font-size);
@@ -4341,6 +4351,9 @@ img {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media screen and (min-width: 600px) {
+  .common_head_style h5{
+    font-size: var(--font-16)!important;
+  }
 /* .img_h{
   min-height: 140px;
 } */
@@ -4355,7 +4368,7 @@ img {
 
 
   .heading h5{
-  font-size: 18px;
+  font-size: var(--font-18);
 }
   .blog-wrapper h4{
     font-size: var(--default-font-size)!important;
@@ -4393,8 +4406,8 @@ img {
     background-color: var(--white);
   }
   .advisory_section_area svg {
-    width: 18px;
-    height: 18px;
+    width: var(--font-18);
+    height: var(--font-18);
   }
   .advisory_section_area svg g path,
   .advisory_section_area clipPath react {
@@ -4470,7 +4483,7 @@ img {
   }
   .h4-size {
     font-size: 26px;
-    text-align: center;
+    /* text-align: center; */
     margin-bottom: 3px;
   }
   .navbar-text {
@@ -4505,7 +4518,7 @@ img {
     padding: 1.5% 4%;
   }
   .footer-bg-area h5 {
-    font-size: 16px;
+    font-size: var(--font-16);
   }
   .footer-bg-area ul li a {
     font-size: 13px;
@@ -4604,8 +4617,8 @@ img {
     font-family: var(--theme-font);
     position: relative;
     overflow: hidden;
-    background: #d81f37;
-    border: 1px solid #d81f37;
+    background: var(--theme-color);
+    border: 1px solid var(--theme-color);
     color: white !important;
     padding: 1.5% 3%;
   }
@@ -4615,8 +4628,11 @@ img {
 }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+    .common_head_style h5{
+    font-size: var(--font-16)!important;
+  }
   .blog-wrapper h4{
-    font-size: 16px!important;
+    font-size: var(--font-16)!important;
   }
   .learn-inner .btn {
     padding: 1.5% 3%;
@@ -4896,7 +4912,7 @@ img {
   h4 span {
     line-height: 24px;
     display: block;
-    font-size: 16px;
+    font-size: var(--font-16);
     font-weight: 400;
   }
   .features-style-box-height {
@@ -4905,6 +4921,9 @@ img {
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+      .common_head_style h5{
+    font-size: var(--font-18)!important;
+  }
   
   .learn-inner .btn {
     padding: 1% 2%;
@@ -4948,7 +4967,7 @@ img {
     margin-left: calc(-16vh - 100px) !important;
   }
   .loanitol-service .service-item h2 {
-    font-size: 16px;
+    font-size: var(--font-16);
   }
   .carouselOption h5 {
     font-size: 2.8vw;
@@ -5148,7 +5167,7 @@ img {
   }
   .insurance-carousel .service-item .item h2,
   .loanitol-service .service-item .item h2 {
-    font-size: 16px;
+    font-size: var(--font-16);
   }
   .insurance_loan_area h2 {
     font-size: 15px !important;
@@ -5272,7 +5291,7 @@ img {
     margin-bottom: clamp(78px, 1vw, 45px) !important;
   }
   .loanitol-service .service-item h2 {
-    font-size: 18px;
+    font-size: var(--font-18);
   }
   .testimonial_area .testimonial_img_section .sm-logo {
     width: 94px;
@@ -5514,7 +5533,7 @@ img {
   font-family: var(--theme-font);
 }
 .h5-size span {
-  color: #d81f37;
+  color: var(--theme-color);
 }
 .card-img {
   border-radius: 10px !important;
@@ -5565,7 +5584,7 @@ img {
   border-radius: 6px;
 }
 .show-bttn.red {
-  color: #d81f37 !important;
+  color: var(--theme-color) !important;
   font-weight: bold;
 }
 .modal-header .btn-close {
@@ -5614,7 +5633,7 @@ video {
   font-size: 24px !important;
 }
 .read-more-btn {
-  color: #d81f37 !important;
+  color: var(--theme-color) !important;
   font-weight: 600 !important;
   font-family: var(--theme-font);
   font-size: var(--default-font-size);
@@ -5639,7 +5658,7 @@ video {
 }
 #showmore-btn:hover, 
 #showmore-reels-btn:hover {
-  color: #d81f37 !important;
+  color: var(--theme-color) !important;
   transition: all linear 0.2s;
   font-weight: 600 !important;
   font-family: var(--theme-font);
@@ -5737,11 +5756,11 @@ input.search-field.show-placeholder::placeholder {
   height: 30px;
   width: 30px;
   color: white !important;
-  background-color: #d81f37;
+  background-color: var(--theme-color);
   border-radius: 100%;
 }
 .card-title {
-  color: #d81f37;
+  color: var(--theme-color);
 }
 .ads-container {
   display: none !important;
@@ -5778,7 +5797,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .article-card-1 {
   height: 100% !important;
-  font-size: clamp(18px, 2vw, 24px) !important;
+  font-size: clamp(var(--font-18), 2vw, 24px) !important;
 }
 .article-main-img {
   border-radius: var(--theme-border-radius) !important;
@@ -5836,7 +5855,7 @@ input.search-field.show-placeholder::placeholder {
   font-weight: 300;
 }
 .article-section {
-  /* height: 316px; */
+  /* height: 3var(--font-16); */
   z-index: 0 !important;
 }
 .article-container-inner {
@@ -5875,7 +5894,7 @@ input.search-field.show-placeholder::placeholder {
 }
 @media (min-width: 768px) {
   /* .article-inner-title {
-     font-size: calc(18px + 1vw); 
+     font-size: calc(var(--font-18) + 1vw); 
   } */
 }
 .article-inner-card {
@@ -5886,13 +5905,13 @@ input.search-field.show-placeholder::placeholder {
   background-color: white;
 }
 /* .article-inner-btn {
-  background-color: #d81f37;
+  background-color: var(--theme-color);
   border: none;
   border-radius: var(--theme-border-radius);
   color: white;
   padding: 10px 20px;
   font-family: var(--theme-font);
-  font-size: 18px;
+  font-size: var(--font-18);
 }
 .article-inner-btn:hover {
   color: whitesmoke !important;
@@ -6015,7 +6034,7 @@ input.search-field.show-placeholder::placeholder {
   font-family: var(--theme-font);
 }
 .article-partner-owl .owl-dots .owl-dot.active span {
-  background: #d81f37 !important; /* Bootstrap primary or any color you want */
+  background: var(--theme-color) !important; /* Bootstrap primary or any color you want */
 }
 .article-inner-item {
   background-color: white;
@@ -6100,7 +6119,7 @@ input.search-field.show-placeholder::placeholder {
 .advisory-service-title {
   font-weight: 600;
   margin: 0;
-  font-size: 16px;
+  font-size: var(--font-16);
 }
 
 .legal-advisory-faq-section {
@@ -6170,7 +6189,7 @@ input.search-field.show-placeholder::placeholder {
   height: 100%;
 }
 .strategy-section {
-  background-color: #d81f37;
+  background-color: var(--theme-color);
   padding-top: 5.5rem !important;
   padding-bottom: 5.5rem !important;
 }
@@ -6237,7 +6256,7 @@ input.search-field.show-placeholder::placeholder {
 }
 
 .ots-section {
-  background-color: #d81f37 !important;
+  background-color: var(--theme-color) !important;
   padding-top: 5rem;
   padding-bottom: 5rem;
   font-family: var(--theme-font);
@@ -6337,14 +6356,14 @@ input.search-field.show-placeholder::placeholder {
   font-weight: 500;
 }
 .additional-benefits-section {
-  background-color: #d81f37;
+  background-color: var(--theme-color);
 }
 .additional-benefits-section h5{
-  font-size: 18px;
+  font-size: var(--font-18);
 }
 
 .additional-benefits-section p {
-  font-size: 16px !important;
+  font-size: var(--font-16) !important;
 }
 .additional-benefits-section .row {
   padding: 2rem;
@@ -6368,7 +6387,7 @@ input.search-field.show-placeholder::placeholder {
   font-weight: 600 !important;
 }
 .eligible-professionals-section .card p {
-  font-size: 16px;
+  font-size: var(--font-16);
   font-weight: 500 !important;
 }
 .eligible-professionals-section .card {
@@ -6533,8 +6552,8 @@ input.search-field.show-placeholder::placeholder {
   align-items: center;
 }
 .blog-icon svg {
-  width: 18px;
-  height: 18px;
+  width: var(--font-18);
+  height: var(--font-18);
   fill: #fff;
 }
 .blog-card {
@@ -6634,12 +6653,12 @@ input.search-field.show-placeholder::placeholder {
   border-radius: var(--theme-border-radius);
 }
 .why-work-with-us {
-  background-color: #d81f37;
+  background-color: var(--theme-color);
   color: white !important;
   font-family: var(--theme-font);
 }
 .why-work-with-us .card {
-  background-image: linear-gradient(to right, #f6445e, #d81f37);
+  background-image: linear-gradient(to right, #f6445e, var(--theme-color));
   color: white !important;
   border: none !important;
 }
@@ -6707,12 +6726,12 @@ input.search-field.show-placeholder::placeholder {
   width: 100%;
   border-radius: var(--theme-border-radius);
 }
-@media (min-width: 1200px) {
+/* @media (min-width: 1200px) {
   .funding-crucial-section-2 img {
     width: 35px;
     height: 35px;
   }
-}
+} */
 .features-life-insurance .card {
   border: 1px solid #e2e2e2 !important;
   font-family: var(--theme-font) !important;
@@ -6729,7 +6748,7 @@ input.search-field.show-placeholder::placeholder {
 .insurance-coverage .card .title {
   font-weight: 600 !important;
   margin: 0 !important;
-  font-size: 16px !important;
+  font-size: var(--font-16) !important;
 }
 .insurance-card-1 span,
 .insurance-card-2 span {
@@ -6865,7 +6884,7 @@ input.search-field.show-placeholder::placeholder {
 .mutual-fund-red-section {
   font-family: var(--theme-font);
   position: relative;
-  background-color: #d81f37;
+  background-color: var(--theme-color);
 }
 .mutual-fund-red-section .multiple-logo {
   transform: scaleY(-1);
@@ -6896,32 +6915,49 @@ input.search-field.show-placeholder::placeholder {
 .main-section {
   line-height: 1.8 !important;
 }
-.funding-crucial-section-1 .card {
+/* .funding-crucial-section-1 .card {
   border: 1px solid #e2e2e2 !important;
   font-family: var(--theme-font) !important;
   border-radius: 10px;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
-}
-.funding-crucial-section-1 .card .title {
+/* } */
+/* .funding-crucial-section-1 .card .title {
   border-bottom: 1px solid #e2e2e2 !important;
   border-top-left-radius: 10px !important;
   border-top-right-radius: 10px !important;
   background-color: #fbf9f9;
   font-weight: 500;
-}
+} */
+/* 
 .funding-crucial-section-1 .img-card {
   height: 230px !important;
   border-radius: 10px;
-}
+} */
 /* .funding-crucial-section-1 img {
   border-radius: 10px;
 } */
+
+.funding-crucial-section_img {
+  height: 198px;
+   width: 100%;
+   max-width:100%;
+  overflow: hidden;
+  border-radius: var(--theme-border-radius);
+}
+
+.funding-crucial-section-1 {
+  background: linear-gradient(to bottom, #fff3f5, #fff3f5);
+  padding: 4rem 0;
+  font-family: var(--theme-font);
+}
+
+
 .funding-crucial-section-2 {
   background: linear-gradient(to bottom, #fff3f5, #ffffff);
   padding: 4rem 0;
   font-family: var(--theme-font);
 }
-.funding-crucial-section-2 .card {
+/* .funding-crucial-section-2 .card {
   height: 170px !important;
   border-radius: 10px !important;
   border: none;
@@ -6949,7 +6985,6 @@ input.search-field.show-placeholder::placeholder {
   }
 }
 .funding-crucial-section-2 span .icons {
-  /* position: absolute; */
   margin: auto;
   width: 23px;
   height: 23px;
@@ -6959,7 +6994,7 @@ input.search-field.show-placeholder::placeholder {
     width: 35px;
     height: 35px;
   }
-}
+} */
 .regulations-section li::marker {
   color: white !important;
 }
@@ -6991,15 +7026,22 @@ input.search-field.show-placeholder::placeholder {
   background-color: #fbf9f9;
   font-weight: 500;
 }
+.common_head_style h5{
+  font-size: var(--font-18);
+}
+.common_head_style2 h5{
+  font-size: 17px;
+}
+
 .red-section {
   font-family: var(--theme-font);
   position: relative;
-  background-color: #d81f37;
+  background-color: var(--theme-color);
 }
 .red-section li::marker {
   color: white !important;
 }
-.banner-section {
+/* .banner-section {
   font-family: var(--theme-font);
   width: 100% !important;
 }
@@ -7013,14 +7055,14 @@ input.search-field.show-placeholder::placeholder {
   .banner-section h2 {
     color: white !important;
   }
-}
+} */
 .benefits2-section {
   background: linear-gradient(to bottom, #fff3f5, #ffffff);
 }
 .benefits2-section .card {
   border: none !important;
 }
-.seeking-funding-section .card {
+/* .seeking-funding-section .card {
   height: 170px !important;
   border-radius: 10px !important;
   border: none !important;
@@ -7048,7 +7090,6 @@ input.search-field.show-placeholder::placeholder {
   }
 }
 .seeking-funding-section span .icons {
-  /* position: absolute; */
   margin: auto;
   width: 23px;
   height: 23px;
@@ -7058,20 +7099,33 @@ input.search-field.show-placeholder::placeholder {
     width: 35px;
     height: 35px;
   }
-}
+} */
 
 /* MSME Loan */
 .linear-gradient {
   position: relative;
   background: linear-gradient(to bottom, white, #fff3f5);
 }
-.linear-gradient .logo-design {
+ /* .logo-design {
   position: absolute;
   width: 700px;
   height: auto;
   right: 0;
   top: 120px;
+} */
+
+.pattern_z_1 {
+   position: absolute;
+  right: 0;
+  top: 30%;
+  transform: translateY(-30%);
+  width: 48%;
+  min-width: 48%;
+  z-index: 0;
+  pointer-events: none;
 }
+
+
 .msme-overview-section p {
   font-family: var(--theme-font);
   line-height: 1.8;
@@ -7155,7 +7209,7 @@ input.search-field.show-placeholder::placeholder {
 .sme-ipo-features-section .card .title {
   font-weight: 600 !important;
   margin: 0 !important;
-  font-size: 16px !important;
+  font-size: var(--font-16) !important;
 }
 .sme-benefits-section {
   background-color: #0c3645;
@@ -7177,7 +7231,7 @@ input.search-field.show-placeholder::placeholder {
   border-radius: 10px;
 }
 .consultation-section {
-  background-color: #d81f37;
+  background-color: var(--theme-color);
 }
 .consultation-section .card {
   background-color: #bd162b !important;
@@ -7224,7 +7278,7 @@ input.search-field.show-placeholder::placeholder {
 .retail-loan-benefits-section .card .title {
   font-weight: 600;
   margin: 0;
-  font-size: 16px;
+  font-size: var(--font-16);
 }
 @media (min-width: 1200px) {
   .retail-loan-benefits-section .card {
@@ -7246,7 +7300,7 @@ input.search-field.show-placeholder::placeholder {
   transition: background-color 0.3s ease, box-shadow 0.3s ease !important;
 }
 .retail-loan-types .card p {
-  font-size: 16px;
+  font-size: var(--font-16);
 }
 .retail-loan-types .card:hover {
   background-color: #ffffff !important;
@@ -7287,7 +7341,7 @@ input.search-field.show-placeholder::placeholder {
   line-height: 1.8;
 }
 .refer-and-earn-section {
-  background-color: #d81f37;
+  background-color: var(--theme-color);
 }
 .card-section .card {
   border: none;
@@ -7313,7 +7367,7 @@ input.search-field.show-placeholder::placeholder {
 .overview-and-loan-section .card .title {
   font-weight: 600;
   margin: 0;
-  font-size: 16px;
+  font-size: var(--font-16);
 }
 .overview-and-loan-section .card span {
   position: relative;
@@ -7338,7 +7392,7 @@ input.search-field.show-placeholder::placeholder {
   color: black !important;
 }
 .fees-and-charges-section {
-  background-color: #d81f37 !important;
+  background-color: var(--theme-color) !important;
 }
 .fees-and-charges-section li::marker {
   color: black !important ;
@@ -7374,10 +7428,10 @@ input.search-field.show-placeholder::placeholder {
   border: none;
 }
 .eligibility-criteria-section h5 {
-  color: #d81f37 !important;
+  color: var(--theme-color) !important;
 }
 .documents-required-home-loan h5 {
-  color: #d81f37 !important;
+  color: var(--theme-color) !important;
 }
 .eligibility-criteria-section,
 .documents-required-home-loan,
@@ -7435,7 +7489,7 @@ input.search-field.show-placeholder::placeholder {
 .loan-against-property-overview-and-loan-section .card .title {
   font-weight: 600;
   margin: 0;
-  font-size: 16px;
+  font-size: var(--font-16);
 }
 .loan-against-property-overview-and-loan-section .card span {
   position: relative;
@@ -7492,9 +7546,9 @@ input.search-field.show-placeholder::placeholder {
   margin: auto;
 } */
 .calculator-section .card-red {
-  background-color: #d81f37;
+  background-color: var(--theme-color);
   color: white;
-  font-size: 18px;
+  font-size: var(--font-18);
 }
 /* .calculator-section .card-red p {
   margin: auto;
@@ -7502,19 +7556,19 @@ input.search-field.show-placeholder::placeholder {
 .calculator-section .card-yellow {
   background-color: #ffb806;
   color: black;
-  font-size: 18px;
+  font-size: var(--font-18);
 }
 .calculator-section .card-percent p {
   margin: auto;
-  font-size: 18px;
+  font-size: var(--font-18);
 }
 .calculator-section .card-yellow {
   background-color: #ffb806;
   color: black;
-  font-size: 18px;
+  font-size: var(--font-18);
 }
 .card .d-flex p:nth-of-type(2) {
-  font-size: 18px;
+  font-size: var(--font-18);
   background-color: #ffffff;
   border-top-right-radius: 10px;
 }
@@ -7592,7 +7646,7 @@ input.search-field.show-placeholder::placeholder {
   border-radius: var(--theme-border-radius);
 }
 .blog-wrapper h4{
-    font-size: 16px;
+    font-size: var(--font-16);
   }
   .blog-wrapper .author ul{
      list-style: none;
@@ -7611,7 +7665,7 @@ input.search-field.show-placeholder::placeholder {
     font-size: 14px;
   }
   .blog-wrapper a .icon{
-    width: 18px;
+    width: var(--font-18);
     transition: var(--transition);
   }
   .blog-wrapper:hover .icon{
@@ -7635,7 +7689,7 @@ input.search-field.show-placeholder::placeholder {
   outline: none !important;
 }
 .search-box i {
-  font-size: 18px;
+  font-size: var(--font-18);
   pointer-events: none;
 }
 /*  */
