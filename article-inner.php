@@ -20,7 +20,7 @@
     </div>
 
 
-    <div class="article-container-inner py-2">
+    <div class="py-2 pattern">
         <div class="container">
             <div class=" article-inner-card rounded-3">
                 <div class="row pb-lg-5 pb-3">
