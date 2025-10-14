@@ -1,5 +1,5 @@
 <?php include("includes/meta.php"); ?>
-<title>Life Insurance Page | Loanitol</title>
+<title>Life Insurance Service | Loanitol</title>
 </head>
 
 <body>
@@ -19,7 +19,7 @@
                     <h5 class="h5-size col-sm-12">
                         Protect What Matters Most <br> With <span class="d-inline-block">Life Insurance Plans</span>
                     </h5>
-                    <p style="color: #221E1E">Get reliable life insurance to secure your family’s future and peace of
+                    <p">Get reliable life insurance to secure your family’s future and peace of
                         mind.
                     </p>
                 </div>
@@ -30,10 +30,11 @@
         </div>
     </div>
 
-    <div class="article-container life-insurance py-5">
+    <div class="article-container life-insurance py-5 py-md-4">
         <div class="container">
+            <!-- 1 -->
             <div class="py-4">
-                <div class="accordion" id="accordionExample">
+                <div class="accordion" id="intropage-according">
                     <!-- Accordion Item 1 -->
                     <div class="accordion-item">
                         <h2 class="accordion-header p-1">
@@ -46,9 +47,9 @@
                                 </span>
                             </button>
                         </h2>
-                        <div id="loanitol_item1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div id="loanitol_item1" class="accordion-collapse collapse" data-bs-parent="#intropage-according">
                             <div class="accordion-body">
-
+                                In essence, insurance is a safety net that reduces the financial risks associated with unforeseen disasters, providing businesses and individuals with peace of mind.
                             </div>
                         </div>
                     </div>
@@ -64,9 +65,9 @@
                                 </span>
                             </button>
                         </h2>
-                        <div id="loanitol_item2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div id="loanitol_item2" class="accordion-collapse collapse" data-bs-parent="#intropage-according">
                             <div class="accordion-body">
-
+                                Insurance plans give people and organizations peace of mind and financial security, allowing them to successfully manage possible financial risks and recover from unanticipated events.
                             </div>
                         </div>
                     </div>
@@ -82,61 +83,68 @@
                                 </span>
                             </button>
                         </h2>
-                        <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#intropage-according">
                             <div class="accordion-body">
-
+                                You provide an insurance company the risk of suffering a big financial loss by paying them a regular premium. In exchange, the business promises to pay for certain expenses in the event that you suffer a covered event, including an illness, an accident, or property damage. Insurance serves as a buffer to assist you control spending rather of taking on the entire weight of a potentially disastrous bill.
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
+            <!-- 2 -->
             <div class="py-4">
-                <h2 class="fw-semibold">Life Insurance</h2>
+                <h4 class="h4-size2 pb-3 pb-sm-3 pb-md-0">Life Insurance</h4>
                 <p>You provide an insurance company the risk of suffering a big financial loss by paying them a regular
                     premium. In exchange, the business promises to pay for certain expenses in the event that you suffer
                     a covered event, including an illness, an accident, or property damage. Insurance serves as a buffer
                     to assist you control spending rather of taking on the entire weight of a potentially disastrous
                     bill.</p>
             </div>
+            <!-- 3 -->
             <div class="py-4">
-                <h3 class="fw-semibold">Term Life Insurance</h3>
+                <h4 class="h4-size2 pb-3 pb-sm-3 pb-md-0">Term Life Insurance</h4>
                 <p>You provide an insurance company the risk of suffering a big financial loss by paying them a regular
                     premium. In exchange, the business promises to pay for certain expenses in the event that you suffer
                     a covered event, including an illness, an accident, or property damage. Insurance serves as a buffer
                     to assist you control spending rather of taking on the entire weight of a potentially disastrous
                     bill.</p>
             </div>
+            <!-- 4 -->
             <div class="py-4">
-                <h3 class="fw-semibold">Importance of Term Life Insurance</h3>
-                <div class="row g-3 g-md-4 my-5">
-                    <div class="col-6 col-lg-3 mt-0">
-                        <div class="card insurance-card-1">
-                            <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                                <span>
-                                    <img src="assets/life-insurance/icon/debt-coverage.svg" alt="">
-                                </span>
-                                <h5 class="text-center title">Financial Security</h5>
+                <h4 class="h4-size2 pb-3 pb-sm-3 pb-md-0">Importance of Term Life Insurance</h4>
+                <div class="row g-3 align-items-stretch pd-choose">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/corporate-and-legal-advisory/icons/legal-compliance.svg"
+                                        alt="Legal Compliance">
+                                </div>
                             </div>
+                            <h2 class="col-md-9">Legal Compliance</h2>
                         </div>
                     </div>
-                    <div class="col-6 col-lg-3 mt-0">
-                        <div class="card insurance-card-2">
-                            <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                                <span>
-                                    <img src="assets/life-insurance/icon/financial-security.svg" alt="">
-                                </span>
-                                <h5 class="text-center title">Debt Coverage</h5>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/corporate-and-legal-advisory/icons/risk-assessment.svg"
+                                        alt="Risk Assessment">
+                                </div>
                             </div>
+                            <h2 class="col-md-9">Risk Assessment and Mitigation</h2>
                         </div>
                     </div>
-                    <div class="col-12 mt-lg-0 col-lg-6 insurance-card">
+                    <div class="col-12 col-lg-6 insurance-card">
                         <img src="assets/life-insurance/card-img.jpg" alt="img">
-                    </div>
+                    </div> 
                 </div>
             </div>
-            <div class="pt-3">
-                <h3 class="fw-semibold">How Term Life Insurance Works</h3>
+
+            <!-- 5 -->
+
+            <div class="py-4">
+                <h4 class="h4-size2">How Term Life Insurance Works</h4>
                 <ul class="py-3">
                     <li>The policyholder assigns beneficiaries to the policy.</li>
                     <li>In the event of the policyholder's death while the policy is active, the insurance company
@@ -146,53 +154,54 @@
                 </ul>
             </div>
             <div class="pt-3 insurance-coverage">
-                <h3 class="fw-semibold">What Term Life Insurance Covers:</h3>
-                <div class="row my-5 g-3 g-md-4">
-                    <div class="col-6 col-lg-3">
-                        <div class="card insurance-card-1">
-                            <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                                <span>
+                <h4 class="h4-size2 pb-3 pb-sm-3 pb-md-0">What Term Life Insurance Covers:</h4>
+                <div class="row g-3 mb-5 align-items-stretch pd-choose">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
                                     <img src="assets/life-insurance/icon/death-coverage.svg" alt="">
-                                </span>
-                                <h5 class="text-center title">Death Coverage</h5>
+                                </div>
                             </div>
+                            <h2 class="col-md-9">Death Coverage</h2>
                         </div>
                     </div>
-                    <div class="col-6 col-lg-3">
-                        <div class="card insurance-card-2">
-                            <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                                <span>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
                                     <img src="assets/life-insurance/icon/risk-assessment.svg" alt="">
-                                </span>
-                                <h5 class="text-center title">Critical Illness <br> Coverage</h5>
+                                </div>
                             </div>
+                            <h2 class="col-md-9">Critical Illness Coverage</h2>
                         </div>
                     </div>
-                    <div class="col-6 col-lg-3">
-                        <div class="card insurance-card-2">
-                            <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                                <span>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
                                     <img src="assets/life-insurance/icon/terminal-Illness-benefit.svg" alt="">
-                                </span>
-                                <h5 class="text-center title">Terminal Illness Benefit</h5>
+                                </div>
                             </div>
+                            <h2 class="col-md-9">Terminal Illness Benefit</h2>
                         </div>
                     </div>
-                    <div class="col-6 col-lg-3">
-                        <div class="card insurance-card-2">
-                            <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                                <span>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
                                     <img src="assets/life-insurance/icon/accidental-death-and-disability.svg" alt="">
-                                </span>
-                                <h5 class="text-center title">Accidental Death and <br> Disability</h5>
+                                </div>
                             </div>
+                            <h2 class="col-md-9">Accidental Death and Disability</h2>
                         </div>
                     </div>
+                   
                 </div>
             </div>
             <div class="pt-3 features-life-insurance">
-                <h3 class="mt-3 fw-semibold">Key Features of Term Life Insurance:</h3>
-                <div class="row my-5 g-3 g-lg-4">
+                <h4 class="h4-size2 pb-3 pb-sm-3 pb-md-0">Key Features of Term Life Insurance:</h4>
+                <div class="row mb-5 g-3 g-lg-4 pd-choose common-card-heading-style">
                     <div class="col-sm-6 col-lg-4 d-flex">
                         <div class="card">
                             <div class="title p-3 py-4">
@@ -284,10 +293,11 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="container">
             <div class="pt-3 eligibility-insurance">
-                <div class="contaier">
-                    <h3 class="fw-semibold">Eligibility for Term Life Insurance:</h3>
-                    <div class="row py-5 my5 g-3 g-lg-4">
+                <h4 class="h4-size2 pb-3 pb-sm-3 pb-md-0">Eligibility for Term Life Insurance:</h4>
+                    <div class="row mb-5 g-3 g-lg-4 pd-choose common-card-heading-style" py-5 my3 my-sm-5>
                         <div class="col-sm-6 col-lg-4 d-flex">
                             <div class="card">
                                 <div class="title p-3 py-4">
@@ -358,7 +368,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
             </div>
         </div>
     </div>
@@ -373,7 +382,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item1">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             What is Insurance ?
                             <span class="ms-auto icon">
@@ -381,7 +390,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             While going directly to a bank may seem easiest, . but it can be time-consuming and
                             potentially limit your choices and Available options .Loanitol offers a faster, more
@@ -411,7 +420,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item2">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item5">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             What is the importance of Insurance ?
                             <span class="ms-auto icon">
@@ -419,7 +428,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol stands out from other loan consultants through our:
                             <ul class="pt-2">
@@ -450,7 +459,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item6">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             How insurance work ?
                             <span class="ms-auto icon">
@@ -458,7 +467,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             By partnering with Loanitol, you can experience:
                             <ul class="pt-2">
@@ -507,7 +516,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item7">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             How to Choose the Right Health Insurance Plan:
                             <span class="ms-auto icon">
@@ -515,7 +524,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <ul class="pt-2">
                                 <li><span> Products :</span> Access a wide range of loan products to meet your
@@ -564,7 +573,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item5">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item8">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Features of Health Insurance?
                             <span class="ms-auto icon">
@@ -572,7 +581,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item5" class="p-0 accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item8" class="p-0 accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol currently offers its services in:
                             <ul class="pt-2">
@@ -590,7 +599,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item5">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item9">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             What is term life insurance ?
                             <span class="ms-auto icon">
@@ -598,7 +607,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item5" class="p-0 accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item9" class="p-0 accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol currently offers its services in:
                             <ul class="pt-2">
@@ -616,7 +625,7 @@
         </div>
     </div>
 
-    <section id="contact" class="section">
+    <section class="section">
         <div class="bg-contact-area">
             <div class="container">
                 <div class="row d-flex align-items-center">

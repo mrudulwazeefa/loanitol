@@ -3937,6 +3937,9 @@ img {
 }
 /* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 600px) {
+  .insurance-card img {
+    height: 155px!important;
+  }
 .pattern_z_1 {
   top: 20%!important;
   transform: translateY(-20%) !important;
@@ -3944,7 +3947,9 @@ img {
   min-width: 100%!important;
 }
 
-
+  .pd-choose {
+    padding-top: 6%;
+  }
 
 
 
@@ -4378,6 +4383,9 @@ img {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media screen and (min-width: 600px) {
+   .insurance-card img {
+    height: 222px!important;
+  }
 
   .common_head_style h5,
   .learn-and-position .card h4{
@@ -4950,6 +4958,9 @@ img {
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+    .insurance-card img {
+    height: 222px!important;
+  }
       .common_head_style h5{
     font-size: var(--font-18)!important;
   }
@@ -6751,7 +6762,7 @@ input.search-field.show-placeholder::placeholder {
 .insurance-card img {
   object-fit: cover;
   object-position: center;
-  height: 261px;
+  height: 190px;
   width: 100%;
   border-radius: var(--theme-border-radius);
 }
@@ -6797,13 +6808,6 @@ input.search-field.show-placeholder::placeholder {
   border-top-right-radius: 10px !important;
   background-color: #fbf9f9;
   font-weight: 500;
-}
-.insurance-card img {
-  object-fit: cover;
-  object-position: center;
-  height: 261px;
-  width: 100%;
-  border-radius: var(--theme-border-radius);
 }
 
 
@@ -7787,7 +7791,8 @@ input.search-field.show-placeholder::placeholder {
   height:auto;
   }
 }
-.documents-section .card h5{
+.documents-section .card h5,
+.common-card-heading-style h5{
   font-size: 17px;
 }
 
