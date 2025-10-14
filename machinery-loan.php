@@ -160,7 +160,7 @@
                         </div>
                         <div class="col-md-4 col-sm-6">
                             <div class="features-style-box features-style-box-height p-0 features-image-box">
-                                <img src="assets/services/msme-loan/machinery-loan/benefits.jpg" alt="">
+                                <img src="assets/services/msme-loan/machinery-loan/features.jpg" alt="">
                             </div>
                         </div>
                     </div>
