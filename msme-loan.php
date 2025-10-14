@@ -32,37 +32,34 @@
 
 
     <div class="linear-gradient">
+
         <div class="msme-overview-section pt-5">
             <div class="container">
                 <p>An MSME loan is a financial assistance product tailored specifically for Micro, Small, and Medium
                     Enterprises (MSMEs) to help them meet various business requirements. These needs may include
-                    purchasing
-                    equipment or machinery, expanding operations, boosting working capital, managing inventory, or
-                    covering
-                    operational expenses. MSME loans are offered by banks, NBFCs, and financial institutions, and are
-                    also
-                    supported through several government schemes to encourage small business growth and economic
+                    purchasing equipment or machinery, expanding operations, boosting working capital, managing inventory, or
+                    covering operational expenses. MSME loans are offered by banks, NBFCs, and financial institutions, and are
+                    alsosupported through several government schemes to encourage small business growth and economic
                     development.</p>
                 <p>These loans play a vital role in empowering small businesses, offering them the financial support
-                    needed
-                    to remain competitive, create employment, and contribute to the country’s GDP.</p>
+                    needed to remain competitive, create employment, and contribute to the country's GDP.</p>
             </div>
         </div>
 
-        <img class="logo-design img-fluid" src="assets/msme-loan/logos.png" alt="">
+                <img class="pattern_z_1 img-fluid" src="assets/msme-loan/logos.png" alt="">
 
         <div class="msme-benefits-section py-5">
             <div class="container">
-                <h2>Benefits</h2>
+                <h4 class="h4-size2">Benefits</h4>
                 <div class="row py-4 g-3 g-md-4">
                     <div class="col-lg-4 col-sm-6 d-flex">
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/msme-loan/icon/collateral-free-funding-based-on-case-merit.svg">
                                 </div>
                             </div>
-                            <h2>Collateral-Free Funding <br> based on Case merit</h2>
+                            <h2 class="col-lg-9">Collateral-Free Funding based on Case merit</h2>
                             <p class="mb-0">
                                 Many MSME loans, especially under government schemes like CGTMSE (Credit Guarantee Fund
                                 Trust for Micro and Small Enterprises), do not require any collateral, making it easier
@@ -74,10 +71,10 @@
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/msme-loan/icon/flexible-loan-tenure-and-repayment.svg">
                                 </div>
                             </div>
-                            <h2>Flexible Loan Tenure and <br> Repayment</h2>
+                            <h2 class="col-lg-9">Flexible Loan Tenure and Repayment</h2>
                             <p class="mb-0">
                                 Borrowers can choose repayment periods based on their business cash flow—usually ranging
                                 from 1 to 7 years—with options for monthly, quarterly, or customized EMI plans.
@@ -88,10 +85,10 @@
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/msme-loan/icon/access-to-government-incentives.svg">
                                 </div>
                             </div>
-                            <h2>Access to Government <br> Incentives</h2>
+                            <h2 class="col-lg-9">Access to Government Incentives</h2>
                             <p class="mb-0">
                                 Loans under schemes like PMMY (Pradhan Mantri MUDRA Yojana) or Stand-Up India come with
                                 benefits such as interest subsidies, reduced processing charges, and easier eligibility
@@ -103,10 +100,10 @@
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/msme-loan/icon/improved-cash-fow-management.svg">
                                 </div>
                             </div>
-                            <h2>Improved Cash Flow <br> Management</h2>
+                            <h2 class="col-lg-9">Improved Cash Flow Management</h2>
                             <p class="mb-0">
                                 These loans can be used to strengthen day-to-day operations by maintaining a steady cash
                                 flow, paying suppliers, and managing seasonal fluctuations in income.
@@ -117,10 +114,10 @@
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/msme-loan/icon/supports-business-expansion.svg">
                                 </div>
                             </div>
-                            <h2>Supports Business Expansion</h2>
+                            <h2 class="col-lg-9">Supports Business Expansion</h2>
                             <p class="mb-0">
                                 MSME loans help businesses upgrade technology, expand to new markets, open new branches,
                                 or enhance infrastructure and staffing.
@@ -131,10 +128,10 @@
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/msme-loan/icon/builds-business-credit-profile.svg">
                                 </div>
                             </div>
-                            <h2>Builds Business Credit Profile</h2>
+                            <h2 class="col-lg-9">Builds Business Credit Profile</h2>
                             <p class="mb-0">
                                 Timely repayment of MSME loans helps build a positive credit history, increasing the
                                 chance of securing larger funds in the future.
@@ -145,10 +142,10 @@
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/msme-loan/icon/boosts-employmrnt-and-local-economies.svg">
                                 </div>
                             </div>
-                            <h2>Boosts Employment and Local Economies</h2>
+                            <h2 class="col-lg-9">Boosts Employment and Local Economies</h2>
                             <p class="mb-0">
                                 We prioritize understanding your financial goals and needs to ensure our recommendations
                                 are the most
@@ -160,10 +157,10 @@
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/msme-loan/icon/low-interest-rates.svg">
                                 </div>
                             </div>
-                            <h2>Lower Interest Rates </h2>
+                            <h2 class="col-lg-9">Lower Interest Rates </h2>
                             <p class="mb-0">
                                 Many MSME loans come with subsidized interest rates under schemes like:
                                 CGTMSE and PMMY, making borrowing more affordable for small businesses.
@@ -175,10 +172,10 @@
                         <div class="choose_frame w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/home/icons/client-needs.svg">
+                                    <img src="assets/msme-loan/icon/sector-specific-loan-products.svg">
                                 </div>
                             </div>
-                            <h2>Sector-Specific Loan Products</h2>
+                            <h2 class="col-lg-9">Sector-Specific Loan Products</h2>
                             <p class="mb-0">
                                 Customized MSME loans are available for: Traders and retailers, Manufacturers, Service
                                 providers. This ensures funding is tailored to sectoral needs.
@@ -192,113 +189,134 @@
 
     <div class="msme-loan-types-section py-5">
         <div class="container py-3">
-            <h2 class="mb-5 text-white">Types of MSME Loans</h2>
-            <div class="row py-3 g-3 g-sm-4">
-                <div class="col-sm-6 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons" src="assets/msme-loan/icon/easy-access-to-fund.svg"
-                                alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title">Working Capital <br>
-                            OD</p>
+            <h4 class="h4-size2 text-white">Types of MSME Loans</h4>
+                <div class="row g-3 mb-3 align-items-stretch pd-choose">
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/easy-access-to-fund.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Working Capital
+                            OD</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/working-capital-cc.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Cash Credit CC</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/working-capital-term.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Working Capital Term Loan</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/machinery-loan.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Machinery Loan</h2>
+                        </div>
+                    </div>
+
+                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/letter-of-credit.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Letter of Credit</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/packing-credit.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Packing Credit</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/banking-guarantee.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Bank Guarantee</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/commercial-construction-loan.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Commercial Construction</h2>
+                        </div>
+                    </div>
+
+                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/cre-loan.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">CRE (Commercial Real Estate Loan)</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/invoice-discounting.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Invoice Discounting Loan</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/agri-loan.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Aggricultural Overdraft & Infrastructure Loan</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/agri-loan.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">CGTMSC Loan</h2>
+                        </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons" src="assets/msme-loan/icon/working-capital-cc.svg"
-                                alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title">Cash Credit CC</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons" src="assets/msme-loan/icon/working-capital-term.svg"
-                                alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title"> Working Capital <br> Term Loan</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons" src="assets/msme-loan/icon/machinery-loan.svg" alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title">Machinery Loan</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons" src="assets/msme-loan/icon/letter-of-credit.svg" alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title">Letter of Credit</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons" src="assets/msme-loan/icon/packing-credit.svg" alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title">Packing Credit</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons" src="assets/msme-loan/icon/banking-guarantee.svg" alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title">Bank Guarantee</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons" src="assets/msme-loan/icon/commercial-construction-loan.svg"
-                                alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title">Commercial <br> Construction</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons" src="assets/msme-loan/icon/cre-loan.svg" alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title"> CRE (Commercial Real <br> Estate Loan)</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons" src="assets/msme-loan/icon/invoice-discounting.svg"
-                                alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title"> Invoice Discounting <br> Loan</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons" src="assets/msme-loan/icon/agri-loan.svg" alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title">Aggricultural <br> Overdraft & <br> Infrastructure Loan</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-3">
-                    <div class="card justify-content-center text-center p-3 h-100">
-                        <span>
-                            <img class="icons" src="assets/msme-loan/icon/agri-loan.svg" alt="Legal Compliance">
-                        </span>
-                        <p class="advisory-service-title">CGTMSC Loan</p>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
+</div>
 
     <!-- Frequently Asked Questions -->
     <div class="about_loan_area_gradient">
@@ -497,7 +515,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item5">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item6">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Is there any renewal process for working capital OD?
                             <span class="ms-auto icon">
@@ -505,7 +523,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item5" class="p-0 accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item6" class="p-0 accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol currently offers its services in:
                             <ul class="pt-2">
@@ -523,7 +541,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item5">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item7">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             What is the repayment strucure for OD?.
                             <span class="ms-auto icon">
@@ -531,7 +549,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item5" class="p-0 accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item7" class="p-0 accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol currently offers its services in:
                             <ul class="pt-2">
@@ -549,7 +567,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item5">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item8">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Can OD be converted into a term loan?
                             <span class="ms-auto icon">
@@ -557,7 +575,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item5" class="p-0 accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item8" class="p-0 accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol currently offers its services in:
                             <ul class="pt-2">

@@ -4813,6 +4813,9 @@ img {
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+  .insurance-card img {
+    height: 222px!important;
+  }
   .learn-inner .btn {
     padding: 1% 2%;
   }
