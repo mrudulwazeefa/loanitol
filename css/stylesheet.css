@@ -1428,6 +1428,9 @@ h4 span {
   border-bottom-left-radius: 8px !important;
   border-bottom-right-radius: 8px !important;
 }
+.accordion-item:last-of-type .accordion-header {
+  border-bottom: none !important;
+}
 .accordion-header {
   border-bottom: 1px solid #fceaed;
 }
@@ -3923,7 +3926,18 @@ img {
   font-size: 18px;
 }
 
+/* .card-body{
+  background:var(--white);
+} */
 
+
+.strategy-section h1{
+  font-size: 38px;
+}
+
+.referral_image img{
+  width: 380px;
+}
 
 
 
@@ -3937,10 +3951,16 @@ img {
 }
 /* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 600px) {
+  .referral_image img{
+  width: 96%;
+}
+   .strategy-section h1 {
+    font-size: 28px;
+}
   .insurance-card img {
     height: 155px!important;
   }
-.pattern_z_1 {
+.pattern_z_1, .pattern_z_2 {
   top: 20%!important;
   transform: translateY(-20%) !important;
   width: 48%;
@@ -4383,6 +4403,21 @@ img {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media screen and (min-width: 600px) {
+  .referral_image img{
+  width: 96%;
+}
+   .strategy-section h1 {
+    font-size: 26px;
+}
+.strategy-section .image{
+  display: none;
+}
+.strategy-section {
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+}
+
+
    .insurance-card img {
     height: 222px!important;
   }
@@ -4665,6 +4700,12 @@ img {
 }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+  .strategy-section .image{
+    display: block;
+  }
+   .strategy-section h1 {
+    font-size: 26px;
+}
     .common_head_style h5{
     font-size: var(--font-16)!important;
   }
@@ -4958,6 +4999,9 @@ img {
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+   .strategy-section h1 {
+    font-size: 30px;
+}
     .insurance-card img {
     height: 222px!important;
   }
@@ -5123,6 +5167,9 @@ img {
 }
 /* */
 @media only screen and (min-width: 1024px) {
+  .strategy-section h1 {
+    font-size: 30px;
+}
 
   .quote-left {
     left: 4%;
@@ -5275,6 +5322,10 @@ img {
 }
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
+
+  .strategy-section h1 {
+    font-size: 33px;
+}
   .quote-left {
     left: -3%;
   }
@@ -6235,7 +6286,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .benefits-real-estate-section {
   background-color: #0c3645;
-  padding: 6rem 0;
+  padding: 5rem 0;
   font-family: var(--theme-font);
 }
 .benefits-real-estate-section .card {
@@ -6447,9 +6498,9 @@ input.search-field.show-placeholder::placeholder {
 .documents-section li::marker {
   color: black;
 }
-.documents-section h2 {
+/* .documents-section h2 {
   font-weight: 600 !important;
-}
+} */
 .documents-container .card {
   height: 100% !important;
 }
@@ -6463,10 +6514,12 @@ input.search-field.show-placeholder::placeholder {
   font-family: var(--theme-font);
 }
 .referral-associate-advantages-section .card {
-  height: 280px !important;
+  height: 198px !important;
   border-radius: 10px !important;
   border: 1px solid #e2e2e2 !important;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
+  object-fit: cover;
+  object-position: center; 
 }
 .referral-associate-advantages-section .card .title {
   border-bottom: 1px solid #e2e2e2 !important;
@@ -7158,6 +7211,19 @@ input.search-field.show-placeholder::placeholder {
   pointer-events: none;
 }
 
+.pattern_z_2 {
+   position: absolute;
+  right: 0;
+  top: 12%;
+  transform: translateY(-12%);
+  width: 48%;
+  min-width: 48%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+
+
 
 .msme-overview-section p {
   font-family: var(--theme-font);
@@ -7800,3 +7866,6 @@ input.search-field.show-placeholder::placeholder {
   font-size: 15px;
 }
 
+.strategy-section .image img{
+  width:50px;
+}

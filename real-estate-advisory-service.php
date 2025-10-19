@@ -18,7 +18,6 @@
                         </ol>
                     </nav>
                     <h5 class="h5-size col-sm-12">
-
                         Expert <span class="d-inline-block">Real Estate</span> Advisory
                     </h5>
                     <p>Get trusted guidance to make smart property investments and decisions.</p>
@@ -34,186 +33,239 @@
     <div class="linear-gradient">
         <div class="container real-estate-container">
             <div class="advisory-service-section">
-                <p class="description mb-4" style="color: #221E1E">
+                <img class="pattern_z_2 img-fluid" src="assets/msme-loan/logos.png" alt="">
+                <p class="description mb-4">
                     Beyond straightforward real estate transactions, real estate advisory services entail offering
-                    clients
-                    (individuals, companies, or investors) professional advice and consultation in order to assist them
-                    in
-                    making well-informed decisions about real estate investments, acquisitions, or disposals.
+                    clients (individuals, companies, or investors) professional advice and consultation in order to
+                    assist them
+                    in making well-informed decisions about real estate investments, acquisitions, or disposals.
                 </p>
-                        <img class="logo-design img-fluid" src="assets/msme-loan/logos.png" alt="">
-
                 <div class="details-section px-0">
                     <h4 class="mb-4">Purpose:</h4>
-                    <p style="line-height: 1.7">The goal of real estate advisory services is to assist customers in
-                        understanding market trends,
-                        navigating the intricacies of the real estate market, and creating plans that complement their
-                        investment and financial objectives.</p>
-                    <div class="container p-0">
-                        <div class="row pt-5 g-3 g-md-4">
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Valuation Services</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Determining the fair market value of properties for investment, financing,
-                                        litigation, and other purposes.
+                    <p>The goal of real estate advisory services is to assist customers in
+                        understanding market trends, navigating the intricacies of the real estate market, and creating
+                        plans that complement their investment and financial objectives.</p>
+                    <div class="row g-3 align-items-stretch pd-choose">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/valuation-services.svg">
                                     </div>
                                 </div>
+                                <h2>Valuation Services</h2>
+                                <p>
+                                    Determining the fair market value of properties for investment, financing,
+                                    litigation, and other purposes.
+                                </p>
                             </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Development Advisory</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Assisting in the planning and execution of new real estate projects. </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Feasibility Analysis</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Evaluating the viability and profitability of potential real estate
-                                        developments.
+                        </div>
+                        <!-- 2 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/development-advisory.svg">
                                     </div>
                                 </div>
+                                <h2>Development Advisory</h2>
+                                <p>
+                                    Assisting in the planning and execution of new real estate projects.
+                                </p>
                             </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Due Diligence</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Conducting in-depth research and analysis to assess a property's condition,
-                                        legal
-                                        status, and value. </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Financial Modelling</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Developing financial models to analyse potential returns and risks of real
-                                        estate
-                                        investments. </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Tax Advisory</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Providing expert guidance on tax implications related to real estate
-                                        transactions
-                                        and investments.
+                        </div>
+                        <!-- 3 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/feasability-studies.svg">
                                     </div>
                                 </div>
+                                <h2>Feasibility Analysis</h2>
+                                <p>
+                                    Evaluating the viability and profitability of potential real estate developments.
+                                </p>
                             </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Acquisition & Disposition Services</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Strategically managing the buying and selling of properties to optimize
-                                        investment
-                                        outcomes.
+                        </div>
+                        <!-- 4 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/due-diligence.svg">
                                     </div>
                                 </div>
+                                <h2>Due Diligence</h2>
+                                <p>
+                                    Conducting in-depth research and analysis to assess a property's condition, legal
+                                    status, and value.
+                                </p>
                             </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Feasibility Studies</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Conducting comprehensive assessments to determine the practicality of real
-                                        estate
-                                        projects or investments.
+                        </div>
+                        <!-- 5 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/financial-modeling.svg"
+                                            class="theme-radius">
                                     </div>
                                 </div>
+                                <h2>Financial Modelling</h2>
+                                <p>
+                                    Developing financial models to analyse potential returns and risks of real estate
+                                    investments.
+                                </p>
                             </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Dispute & Litigation Advisory</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Offering expertise in resolving real estate-related disputes and legal
-                                        conflicts.
+                        </div>
+                        <!-- 6 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/tax-advisory.svg"
+                                            class="theme-radius">
                                     </div>
                                 </div>
+                                <h2>Tax Advisory</h2>
+                                <p>
+                                    Providing expert guidance on tax implications related to real estate
+                                    transactions and investments.
+                                </p>
                             </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Financing & Debt Advisory</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Assisting clients in securing funding for real estate projects and managing debt
-                                        obligations effectively.
+                        </div>
+                        <!-- 7 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/acquisition-and-disposition-services.svg"
+                                            class="theme-radius">
                                     </div>
                                 </div>
+                                <h2>Acquisition & Disposition Services</h2>
+                                <p>
+                                    Strategically managing the buying and selling of properties to optimize investment
+                                    outcomes.
+                                </p>
                             </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Capital Advisory Services</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Providing strategic financing and structuring solutions for real estate
-                                        investments
-                                        and developments.
+                        </div>
+                        <!-- 8 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/feasability-studies.svg"
+                                            class="theme-radius">
                                     </div>
                                 </div>
+                                <h2>Feasibility Studies</h2>
+                                <p>
+                                    Conducting comprehensive assessments to determine the practicality of real estate
+                                    projects or investments.
+                                </p>
                             </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">RERA Compliance Audits</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Ensuring adherence to Real Estate Regulatory Authority (RERA) regulations and
-                                        guidelines.
+                        </div>
+                        <!-- 9 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/dispute-and-litigation-advisory-services.svg"
+                                            class="theme-radius">
                                     </div>
                                 </div>
+                                <h2>Dispute & Litigation Advisory</h2>
+                                <p>
+                                    Offering expertise in resolving real estate-related disputes and legal conflicts.
+                                </p>
                             </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Investment Due Diligence</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Conducting rigorous evaluations of potential real estate investments to mitigate
-                                        risks and ensure informed decision-making.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-sm-6 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="m-0">Hospitality Real Estate Advisory</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-center" style="line-height: 1.7">
-                                        Specializing in real estate advisory for hotels, resorts, and other hospitality
-                                        properties, bridging the gap between real estate and the hospitality sector.
+                        </div>
+                        <!-- 10 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/financing-and-debt-advisory.svg"
+                                            class="theme-radius">
                                     </div>
                                 </div>
+                                <h2>Financing & Debt Advisory</h2>
+                                <p>
+                                    Assisting clients in securing funding for real estate projects and managing debt
+                                    obligations effectively.
+                                </p>
                             </div>
-                            <div class="col-12 col-sm-12 col-lg-4">
-                                <div class="card h-100 d-flex flex-column">
-                                    <img class="w-100 h-100 object-fit-cover" height="220px"
-                                        src="assets/real-estate-advisory-service/home.jpg"
-                                        style="object-position: top; border-radius: 10px" alt="">
+                        </div>
+                        <!-- 11 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/capital-advisory-services.svg"
+                                            class="theme-radius">
+                                    </div>
                                 </div>
+                                <h2>Capital Advisory Services</h2>
+                                <p>
+                                    Providing strategic financing and structuring solutions for real estate investments
+                                    and developments.
+                                </p>
                             </div>
+                        </div>
+                        <!-- 12 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/rera-compliance-audits.svg"
+                                            class="theme-radius">
+                                    </div>
+                                </div>
+                                <h2>RERA Compliance Audits</h2>
+                                <p>
+                                    Ensuring adherence to Real Estate Regulatory Authority (RERA) regulations and
+                                    guidelines.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- 13 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/investment-due-deligence.svg"
+                                            class="theme-radius">
+                                    </div>
+                                </div>
+                                <h2>Investment Due Diligence</h2>
+                                <p>
+                                    Conducting rigorous evaluations of potential real estate investments to mitigate
+                                    risks and ensure informed decision-making.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- 14 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/hospitality-real-estate-advisory.svg"
+                                            class="theme-radius">
+                                    </div>
+                                </div>
+                                <h2>Hospitality Real Estate Advisory</h2>
+                                <p>
+                                    Specializing in real estate advisory for hotels, resorts, and other hospitality
+                                    properties, bridging the gap between real estate and the hospitality sector.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- below image -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <img src="assets/real-estate-advisory-service/home.jpg" alt="Fundraising"
+                                class="object-fit-cover funding-crucial-section_img">
                         </div>
                     </div>
                 </div>
@@ -225,11 +277,11 @@
     <div class="strategy-section">
         <div class="container">
             <div class="row d-flex flex-md-row flex-column">
-                <div class="col col-lg-4 d-flex flex-column align-items-start justify-content-end">
-                    <h1 class="text-white m-0">Real Estate Sales <br> and Marketing <br> Strategy</h1>
-                    <span class="mt-4"> <img
+                <div class="col col-md-4 d-flex flex-column ">
+                    <h1 class="text-white m-0">Real Estate Sales and Marketing Strategy</h1>
+                    <span class="mt-4 image"> <img
                             src="assets/real-estate-advisory-service/icons/loanitol_icon_navigation_white_background.svg"
-                            width="50px" alt="">
+                            alt="">
                     </span>
                 </div>
                 <div class="col d-flex align-items-center justify-content-end">
@@ -239,7 +291,7 @@
                             <h2 class='accordion-header p-1'>
                                 <button
                                     class='accordion-button collapsed d-flex justify-content-between align-items-center'
-                                    type='button' data-bs-toggle='collapse' data-bs-target='#loanitol_item1'>
+                                    type='button' data-bs-toggle='collapse' data-bs-target='#strategy-section1'>
                                     <img src='assets/home/icons/sm-logo.svg' alt='list-icon' class='me-3'>
                                     Online Presence & Digital Marketing
                                     <span class='ms-auto icon'>
@@ -247,7 +299,7 @@
                                     </span>
                                 </button>
                             </h2>
-                            <div id='loanitol_item1' class='accordion-collapse collapse'
+                            <div id='strategy-section1' class='accordion-collapse collapse'
                                 data-bs-parent='#accordionExample'>
                                 <div class='accordion-body'>
                                     A Cash Credit ( CC ) is a short-term, flexible financing option for working capital
@@ -271,7 +323,7 @@
                             <h2 class='accordion-header p-1'>
                                 <button
                                     class='accordion-button collapsed d-flex justify-content-between align-items-center'
-                                    type='button' data-bs-toggle='collapse' data-bs-target='#loanitol_item2'>
+                                    type='button' data-bs-toggle='collapse' data-bs-target='#strategy-section2'>
                                     <img src='assets/home/icons/sm-logo.svg' alt='list-icon' class='me-3'>
                                     Building a Local Network & Community Engagement
                                     <span class='ms-auto icon'>
@@ -279,7 +331,7 @@
                                     </span>
                                 </button>
                             </h2>
-                            <div id='loanitol_item2' class='accordion-collapse collapse'
+                            <div id='strategy-section2' class='accordion-collapse collapse'
                                 data-bs-parent='#accordionExample'>
                                 <div class='accordion-body'>
                                     A short-term loan known as Cash Credit is provided to financial institutions,
@@ -302,7 +354,7 @@
                             <h2 class='accordion-header p-1'>
                                 <button
                                     class='accordion-button collapsed d-flex justify-content-between align-items-center'
-                                    type='button' data-bs-toggle='collapse' data-bs-target='#loanitol_item3'>
+                                    type='button' data-bs-toggle='collapse' data-bs-target='#strategy-section3'>
                                     <img src='assets/home/icons/sm-logo.svg' alt='list-icon' class='me-3'>
                                     Content Marketing & Value Creation
                                     <span class='ms-auto icon'>
@@ -310,7 +362,7 @@
                                     </span>
                                 </button>
                             </h2>
-                            <div id='loanitol_item3' class='accordion-collapse collapse'
+                            <div id='strategy-section3' class='accordion-collapse collapse'
                                 data-bs-parent='#accordionExample'>
                                 <div class='accordion-body'>
                                     Yes, a Cash Credit ( CC ) limit can be increased, but it depends on the bank's
@@ -326,7 +378,7 @@
                             <h2 class='accordion-header p-1'>
                                 <button
                                     class='accordion-button collapsed d-flex justify-content-between align-items-center'
-                                    type='button' data-bs-toggle='collapse' data-bs-target='#loanitol_item4'>
+                                    type='button' data-bs-toggle='collapse' data-bs-target='#strategy-section4'>
                                     <img src='assets/home/icons/sm-logo.svg' alt='list-icon' class='me-3'>
                                     Sales Techniques
                                     <span class='ms-auto icon'>
@@ -334,7 +386,7 @@
                                     </span>
                                 </button>
                             </h2>
-                            <div id='loanitol_item4' class='accordion-collapse collapse'
+                            <div id='strategy-section4' class='accordion-collapse collapse'
                                 data-bs-parent='#accordionExample'>
                                 <div class='accordion-body'>
                                     If your Cash Credit ( CC ) account becomes inactive, it may be classified as
@@ -354,10 +406,165 @@
 
     <div class="benefits-real-estate-section">
         <div class="container">
-            <h2 class="text-white pb-4">Benefits Of Real Estate Advisory</h2>
+            <h4 class="h4-size text-white">Benefits Of Real Estate Advisory</h4>
             <div class="card-container">
-                <div class="container px-0 py-4">
-                    <div class="row g-3 g-md-4">
+                <div class="container px-0 py-3">
+                    <div class="row g-3 align-items-stretch pd-choose">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img
+                                            src="assets/real-estate-advisory-service/icons/in-depth-market-expertise.svg">
+                                    </div>
+                                </div>
+                                <h2>In-Depth Market Expertise</h2>
+                                <p>
+                                    Real estate advisors provide valuable insights into local market trends, property
+                                    values, and neighbourhood dynamics, empowering clients to make informed decisions.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- 2 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img
+                                            src="assets/real-estate-advisory-service/icons/personalised-guidance-and-support.svg">
+                                    </div>
+                                </div>
+                                <h2>Personalized Guidance & Support</h2>
+                                <p>
+                                    They tailor their services to meet individual client needs, offering expert advice
+                                    throughout the buying, selling, or investment process.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- 3 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img
+                                            src="assets/real-estate-advisory-service/icons/efficiency-and-cost-savings.svg">
+                                    </div>
+                                </div>
+                                <h2>Efficiency & Cost Savings</h2>
+                                <p>
+                                    By streamlining real estate transactions, advisors help clients save both time and
+                                    money.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- 4 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/skilled-negotiation.svg">
+                                    </div>
+                                </div>
+                                <h2>Skilled Negotiation</h2>
+                                <p>
+                                    They advocate for clients' best interests, securing favourable terms in
+                                    negotiations.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- 5 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/extensive-professional-sevice.svg"
+                                            class="theme-radius">
+                                    </div>
+                                </div>
+                                <h2>Extensive Professional Network</h2>
+                                <p>
+                                    Advisors connect clients with industry experts, including lawyers, architects, and
+                                    interior designers, for specialized services.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- 6 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/tax-advisory.svg"
+                                            class="theme-radius">
+                                    </div>
+                                </div>
+                                <h2>Stress Reduction</h2>
+                                <p>
+                                    Managing the complexities of real estate transactions, advisors ease the burden on
+                                    clients and allow them to focus on other priorities.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- 7 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/market-condition-insights.svg"
+                                            class="theme-radius">
+                                    </div>
+                                </div>
+                                <h2>Market Condition Insights</h2>
+                                <p>
+                                    They provide up-to-date analysis on property prices, demand trends, and market
+                                    fluctuations to support strategic decision-making.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- 8 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/risk-management.svg"
+                                            class="theme-radius">
+                                    </div>
+                                </div>
+                                <h2>Risk Management</h2>
+                                <p>
+                                    Advisors identify potential risks in real estate investments and offer strategies to
+                                    mitigate them.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- 9 -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/financial-advisory.svg"
+                                            class="theme-radius">
+                                    </div>
+                                </div>
+                                <h2>Financial Advisory</h2>
+                                <p>
+                                    They assist clients with financing options and investment strategies, ensuring sound
+                                    financial decisions.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- below image 
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <img src="assets/real-estate-advisory-service/home.jpg" alt="Fundraising"
+                                class="object-fit-cover funding-crucial-section_img">
+                        </div>
+                        -->
+                    </div>
+
+
+
+
+
+                    <!-- <div class="row g-3 g-md-4">
                         <div class="col-md-6 d-flex">
                             <div class="card text-white bg-dark h-100 p-3 rounded-3">
                                 <h5 class="mb-4 d-flex align-items-center text-white"><img class="me-2"
@@ -460,8 +667,8 @@
                                     ease the burden on clients and allow them to focus on other priorities.</p>
                             </div>
                         </div>
-                        <!-- Repeat for other cards -->
-                    </div>
+                    </div> -->
+
                 </div>
             </div>
         </div>
@@ -470,12 +677,12 @@
     <div class="about_loan_area_gradient">
         <div class="container">
             <h4 class="h4-size">Frequently Asked Questions</h4>
-            <div class="accordion mt-5" id="accordionExample">
+            <div class="accordion mt-5" id="accordionfaq">
                 <!-- Accordion Item 1 -->
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item1">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             What is real estate advisory?
                             <span class="ms-auto icon">
@@ -483,7 +690,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#accordionfaq">
                         <div class="accordion-body">
                             Loanitol is a high ticket loan consulting firm partnered with over 50 banks and NBFCs.
                             Loanitol leverage
@@ -505,7 +712,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item2">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             What is the purpose of real estate advisory?
                             <span class="ms-auto icon">
@@ -513,7 +720,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#accordionfaq">
                         <div class="accordion-body">
                             By partnering with Loanitol, you get the best loan terms, a simple process, expert advice,
                             time savings,
@@ -527,7 +734,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             What are real estate consulting services?
                             <span class="ms-auto icon">
@@ -535,7 +742,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#accordionfaq">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
                             restructuring, and
@@ -550,7 +757,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Advantage of Real estate advisory?
                             <span class="ms-auto icon">
@@ -558,7 +765,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#accordionfaq">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
                             restructuring, and
