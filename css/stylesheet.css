@@ -7549,6 +7549,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .eligibility-criteria-section h5 {
   color: var(--theme-color) !important;
+  font-size: var(--font-18);
 }
 .documents-required-home-loan h5 {
   font-size: var(--font-18);
