@@ -6464,12 +6464,12 @@ input.search-field.show-placeholder::placeholder {
 }
 
 /* Referral Partner Section */
-.referral-partner-advantages-section h2 {
+/* .referral-partner-advantages-section h2 {
   font-weight: 600 !important;
-}
-.referral-partner-description-section .description {
+} */
+/* .referral-partner-description-section .description {
   color: #221e1e !important;
-}
+} */
 .eligible-professionals-section {
   background-color: #0c3645 !important;
   font-family: var(--theme-font);
@@ -7030,6 +7030,14 @@ input.search-field.show-placeholder::placeholder {
   overflow: hidden;
   border-radius: var(--theme-border-radius);
 }
+.referral-partner-img{
+   height: 192px;
+   width: 100%;
+   max-width:100%;
+  overflow: hidden;
+  border-radius: var(--theme-border-radius);
+}
+
 
 .funding-crucial-section-1 {
   background: linear-gradient(to bottom, #fff3f5, #fff3f5);

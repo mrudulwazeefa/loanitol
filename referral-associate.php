@@ -39,7 +39,7 @@
                 </p>
             </div>
         </div>
-<img class="pattern_z_2 img-fluid" src="assets/msme-loan/logos.png" alt="">
+        <img class="pattern_z_2 img-fluid" src="assets/msme-loan/logos.png" alt="">
         <div class="referral-associate-advantages-section py-4 pb-5">
             <div class="container">
                 <h4 class="h4-size">Advantages</h4>
@@ -213,7 +213,7 @@
         </div>
     </div>
 
-    
+
     <div class="documents-section py-5">
         <div class="container py-4">
             <h4 class="h4-size">Loan DSA Partner Registration Eligibility Criteria</h4>
@@ -297,7 +297,7 @@
             </div>
 
             <div class="row pt-5">
-                <div class="col-12 col-sm-7">
+                <div class="col-12 col-sm-8">
                     <h4 class="h4-size">Why Should You Become A Loanitol’s Referral Partner ?</h4>
                     <ul class="mt-4 px-4">
                         <li>Opportunity to earn fascinating commission on disbursements</li>
@@ -307,15 +307,15 @@
                         <li>Constant support and assistance from a dedicated relationship manager</li>
                     </ul>
                 </div>
-                <div class="col-12 col-sm-5 d-flex justify-content-center justify-content-sm-end mt-3 mt-sm-0 referral_image">
-                    <img class="img-fluid rounded-3 object-fit-cover" src="assets/referral-partner/card-img-2.jpg" alt="">
+                <div
+                    class="col-12 col-sm-4 d-flex justify-content-center justify-content-sm-end mt-3 mt-sm-0 referral_image">
+                    <img class="img-fluid rounded-3 object-fit-cover" src="assets/referral-partner/card-img-2.jpg"
+                        alt="">
                 </div>
             </div>
         </div>
     </div>
-
-
-<div class="registration-program-section pt-0 py-5">
+    <div class="registration-program-section pt-0 py-5">
         <div class="container py-3">
             <h4 class="h4-size pb-4">DSA Partner Registration Program</h4>
             <p>The DSA (Direct Selling Agent) Partner Registration Program is designed for individuals or businesses
@@ -337,12 +337,18 @@
                     <div id="accordionDSA1" class="accordion-collapse collapse" data-bs-parent="#accordionDSApartner">
                         <div class="accordion-body">
                             Loanitol is a high ticket loan consulting firm partnered with over 50 banks and NBFCs.
-                            Loanitol leverage this extensive network to help customers identify the most suitable loan options based on
-                            their individual requirements and eligibility criteria. By providing expert guidance and a comprehensive
-                            understanding of the various loan products available, Loanitol empower clients to make informed decisions and
-                            secure financing that aligns perfectly with their needs. Our deep expertise and product knowledge
-                            across our partner banks enable us to efficiently filter and present the best available loan options,
-                            saving our clients valuable time and effort in their search for the right financing solution.
+                            Loanitol leverage this extensive network to help customers identify the most suitable loan
+                            options based on
+                            their individual requirements and eligibility criteria. By providing expert guidance and a
+                            comprehensive
+                            understanding of the various loan products available, Loanitol empower clients to make
+                            informed decisions and
+                            secure financing that aligns perfectly with their needs. Our deep expertise and product
+                            knowledge
+                            across our partner banks enable us to efficiently filter and present the best available loan
+                            options,
+                            saving our clients valuable time and effort in their search for the right financing
+                            solution.
                         </div>
                     </div>
                 </div>
@@ -361,7 +367,8 @@
                     <div id="accordionDSA2" class="accordion-collapse collapse" data-bs-parent="#accordionDSApartner">
                         <div class="accordion-body">
                             By partnering with Loanitol, you get the best loan terms, a simple process, expert advice,
-                            time savings, and trusted local supportall backed by innovation, excellence, after service till the loan
+                            time savings, and trusted local supportall backed by innovation, excellence, after service
+                            till the loan
                             finishes and a customer first approach.
                         </div>
                     </div>
@@ -381,8 +388,10 @@
                     <div id="accordionDSA3" class="accordion-collapse collapse" data-bs-parent="#accordionDSApartner">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
-                            restructuring, and OTS. Enjoy expert consultation, product comparison, application help, legal and
-                            documentation support, loan tracking, CIBIL guidance, and end-to-end assistance with our Loan AMC.
+                            restructuring, and OTS. Enjoy expert consultation, product comparison, application help,
+                            legal and
+                            documentation support, loan tracking, CIBIL guidance, and end-to-end assistance with our
+                            Loan AMC.
                         </div>
                     </div>
                 </div>
@@ -402,8 +411,10 @@
                     <div id="accordionDSA4" class="accordion-collapse collapse" data-bs-parent="#accordionDSApartner">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
-                            restructuring, and OTS. Enjoy expert consultation, product comparison, application help, legal and
-                            documentation support, loan tracking, CIBIL guidance, and end-to-end assistance with our Loan AMC.
+                            restructuring, and OTS. Enjoy expert consultation, product comparison, application help,
+                            legal and
+                            documentation support, loan tracking, CIBIL guidance, and end-to-end assistance with our
+                            Loan AMC.
                         </div>
                     </div>
                 </div>
@@ -423,8 +434,10 @@
                     <div id="accordionDSA5" class="accordion-collapse collapse" data-bs-parent="#accordionDSApartner">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
-                            restructuring, and OTS. Enjoy expert consultation, product comparison, application help, legal and
-                            documentation support, loan tracking, CIBIL guidance, and end-to-end assistance with our Loan AMC.
+                            restructuring, and OTS. Enjoy expert consultation, product comparison, application help,
+                            legal and
+                            documentation support, loan tracking, CIBIL guidance, and end-to-end assistance with our
+                            Loan AMC.
                         </div>
                     </div>
                 </div>
@@ -444,18 +457,16 @@
                     <div id="accordionDSA6" class="accordion-collapse collapse" data-bs-parent="#accordionDSApartner">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
-                            restructuring, and OTS. Enjoy expert consultation, product comparison, application help, legal and
-                            documentation support, loan tracking, CIBIL guidance, and end-to-end assistance with our Loan AMC.
+                            restructuring, and OTS. Enjoy expert consultation, product comparison, application help,
+                            legal and
+                            documentation support, loan tracking, CIBIL guidance, and end-to-end assistance with our
+                            Loan AMC.
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
-
-
-
     <div class="about_loan_area_gradient">
         <div class="container">
             <h4 class="h4-size">Frequently Asked Questions</h4>

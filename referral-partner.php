@@ -20,7 +20,7 @@
 
                         Become a <span class="d-inline-block">Referral Partner</span>
                     </h5>
-                    <p style="color: #221E1E">Grow your income by referring clients and building lasting partnerships.</p>
+                    <p>Grow your income by referring clients and building lasting partnerships.</p>
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <img src="assets/referral-partner/banner.png" class="img-fluid" alt="Referral Partner Banner">
@@ -31,124 +31,101 @@
 
     <div class="referral-partner-description-section py-5">
         <div class="container py-3 pb-0">
-            <div class="description">
+            <p>
                 These partners leverage their established professional relationships and touchpoints with a base
                 of preferred customers. Because they often understand their clients' broader business or personal
                 situations (financial health, upcoming projects, life events), they are uniquely positioned to identify
                 when these clients have specific financial needs. Their value lies in proactively referring these
                 qualified clients, thus creating an ongoing pipeline of business opportunities.
-            </div>
-            <br>
-            <div class="description">
-                These partners leverage their established professional relationships and touchpoints with a base
-                of preferred customers. Because they often understand their clients' broader business or personal
-                situations (financial health, upcoming projects, life events), they are uniquely positioned to identify
-                when these clients have specific financial needs. Their value lies in proactively referring these
-                qualified clients, thus creating an ongoing pipeline of business opportunities.
-            </div>
+            </p>
+            <p>
+                This referral program seeks to collaborate with trusted professionals who have strong client relationships. By tapping into their network and expertise, these partners can effectively identify clients needing financial services and facilitate introductions, leading to consistent, high-quality business referrals.
+            </p>
         </div>
     </div>
 
-    <div class="referral-partner-advantages-section py-5">
+    <div class="referral-partner-advantages-section pb-5">
         <div class="container legal-advisory-container pb-3">
             <div class="advisory-service-section py-0">
                 <div class="details-section py-0 px-0">
-                    <h2 class="mb-5">Advantages</h2>
-                    <div class="container p-0">
-                        <div class="row pt-2 g-2 g-md-4">
-                            <!-- Card 1 -->
-                            <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                    <span>
-                                        <img class="icons" src="assets/referral-partner/icons/dedicated-support.svg"
-                                            alt="Legal Compliance">
-                                    </span>
-                                    <p class="advisory-service-title">Dedicated Support</p>
-                                </div>
-                            </div>
+                    <h4 class="h4-size mb-3">Advantages</h4>
 
-                            <!-- Card 2 -->
-                            <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                    <span>
-                                        <img class="icons"
-                                            src="assets/referral-partner/icons/an-extra-income-source.svg"
-                                            alt="Risk Assessment">
-                                    </span>
-                                    <p class="advisory-service-title">An Extra Income <br> Source</p>
+                <div class="row g-3 mb-3 align-items-stretch pd-choose">
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-partner/icons/dedicated-support.svg" alt="">
                                 </div>
                             </div>
-
-                            <!-- Card 3 -->
-                            <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                    <span>
-                                        <img class="icons"
-                                            src="assets/referral-partner/icons/minimum-time-and-resource-investment.svg"
-                                            alt="Contract Drafting">
-                                    </span>
-                                    <p class="advisory-service-title">Minimum time and <br> Resource Investment</p>
-                                </div>
-                            </div>
-
-                            <!-- Card 4 -->
-                            <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                    <span>
-                                        <img class="icons"
-                                            src="assets/referral-partner/icons/expedite-client-funding.svg"
-                                            alt="Dispute Resolution">
-                                    </span>
-                                    <p class="advisory-service-title">Expedite Client <br> Funding</p>
-                                </div>
-                            </div>
-                            <!-- Card 5 -->
-                            <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                    <span style="background-color: #E9FFF6">
-                                        <img class="icons"
-                                            src="assets/referral-partner/icons/access-to-diverse-loan-products.svg"
-                                            alt="Dispute Resolution">
-                                    </span>
-                                    <p class="advisory-service-title">Access to Diverse <br> Loan Products</p>
-                                </div>
-                            </div>
-                            <!-- Card 6 -->
-                            <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                    <span>
-                                        <img class="icons"
-                                            src="assets/referral-partner/icons/robust-network-of-financial-institutions.svg"
-                                            alt="Dispute Resolution">
-                                    </span>
-                                    <p class="advisory-service-title">Robust Network of <br> Financial Institutions</p>
-                                </div>
-                            </div>
-                            <!-- Card 7 -->
-                            <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                    <span style="background-color: #FFE1E1">
-                                        <img class="icons"
-                                            src="assets/referral-partner/icons/enhanced-client-trust-and-confidence.svg"
-                                            alt="Dispute Resolution">
-                                    </span>
-                                    <p class="advisory-service-title">Enhanced Client Trust <br> & Confidence</p>
-                                </div>
-                            </div>
-                            <!-- Card 8 -->
-                            <div class="col-12 col-sm-6 col-md-3">
-                                <div class="m-md-1 card h-100 text-center position-relative overflow-hidden">
-                                    <img src="assets/referral-partner/card-img.jpg"
-                                        class="img-fluid w-100 h-100 object-fit-cover position-absolute top-0 start-0"
-                                        alt="Card Image">
-                                    <div class="position-relative z-1 p-3">
-                                        <!-- Optional card content goes here -->
-                                    </div>
-                                </div>
-                            </div>
-
+                            <h2 class="col-md-9">Dedicated Support</h2>
                         </div>
                     </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-partner/icons/an-extra-income-source.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">CExtra Income Source</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-partner/icons/minimum-time-and-resource-investment.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Minimum time and Resource Investment</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-partner/icons/expedite-client-funding.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Expedite Client Funding</h2>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-partner/icons/access-to-diverse-loan-products.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Access to Diverse Loan Products</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-partner/icons/robust-network-of-financial-institutions.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Robust Network of Financial Institutions</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-partner/icons/enhanced-client-trust-and-confidence.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Enhanced Client Trust & Confidence</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <img src="assets/referral-partner/card-img.jpg" alt="Fundraising" class="object-fit-cover referral-partner-img">
+                    </div>
+                </div>
                 </div>
             </div>
         </div>
@@ -156,7 +133,7 @@
 
     <div class="eligible-professionals-section py-5">
         <div class="container">
-            <h2 class="text-white pb-4 pt-5">Eligible Proffesionals</h2>
+            <h4 class="h4-size text-white pt-3">Eligible Proffesionals</h4>
             <p class="text-white">Professionals who typically meet these criteria and are well-suited to become referral
                 partners include</p>
 
@@ -223,18 +200,18 @@
         </div>
     </div>
 
-    <div class="registration-program-section py-5">
+     <div class="registration-program-section py-5">
         <div class="container py-3">
-            <h2 class="pb-4">DSA Partner Registration Program</h2>
+            <h4 class="h4-size pb-4">DSA Partner Registration Program</h4>
             <p>The DSA (Direct Selling Agent) Partner Registration Program is designed for individuals or businesses
                 looking to start a career in loan distribution by partnering with Loanitol. This partnership allows you
                 to earn commissions by referring potential loan customers to Loanitol.</p>
-            <div class="accordion mt-5" id="accordionExample">
+            <div class="accordion mt-5" id="accordionDSApartner">
                 <!-- Accordion Item 1 -->
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item1">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#accordionDSA1">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Apply Online
                             <span class="ms-auto icon">
@@ -242,21 +219,21 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="accordionDSA1" class="accordion-collapse collapse" data-bs-parent="#accordionDSApartner">
                         <div class="accordion-body">
                             Loanitol is a high ticket loan consulting firm partnered with over 50 banks and NBFCs.
-                            Loanitol leverage
-                            this extensive network to help customers identify the most suitable loan options based on
-                            their individual
-                            requirements and eligibility criteria. By providing expert guidance and a comprehensive
-                            understanding of
-                            the various loan products available, Loanitol empower clients to make informed decisions and
-                            secure
-                            financing that aligns perfectly with their needs. Our deep expertise and product knowledge
-                            across our
-                            partner banks enable us to efficiently filter and present the best available loan options,
-                            saving our
-                            clients valuable time and effort in their search for the right financing solution.
+                            Loanitol leverage this extensive network to help customers identify the most suitable loan
+                            options based on
+                            their individual requirements and eligibility criteria. By providing expert guidance and a
+                            comprehensive
+                            understanding of the various loan products available, Loanitol empower clients to make
+                            informed decisions and
+                            secure financing that aligns perfectly with their needs. Our deep expertise and product
+                            knowledge
+                            across our partner banks enable us to efficiently filter and present the best available loan
+                            options,
+                            saving our clients valuable time and effort in their search for the right financing
+                            solution.
                         </div>
                     </div>
                 </div>
@@ -264,7 +241,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item2">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#accordionDSA2">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Expect A Call From The Support Team
                             <span class="ms-auto icon">
@@ -272,13 +249,12 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="accordionDSA2" class="accordion-collapse collapse" data-bs-parent="#accordionDSApartner">
                         <div class="accordion-body">
                             By partnering with Loanitol, you get the best loan terms, a simple process, expert advice,
-                            time savings,
-                            and trusted local supportall backed by innovation, excellence, after service till the loan
-                            finishes and a
-                            customer first approach.
+                            time savings, and trusted local supportall backed by innovation, excellence, after service
+                            till the loan
+                            finishes and a customer first approach.
                         </div>
                     </div>
                 </div>
@@ -286,7 +262,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#accordionDSA3">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Meet The Loanitol Manager
                             <span class="ms-auto icon">
@@ -294,13 +270,13 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="accordionDSA3" class="accordion-collapse collapse" data-bs-parent="#accordionDSApartner">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
-                            restructuring, and
-                            OTS. Enjoy expert consultation, product comparison, application help, legal and
-                            documentation support,
-                            loan tracking, CIBIL guidance, and end-to-end assistance with our Loan AMC.
+                            restructuring, and OTS. Enjoy expert consultation, product comparison, application help,
+                            legal and
+                            documentation support, loan tracking, CIBIL guidance, and end-to-end assistance with our
+                            Loan AMC.
                         </div>
                     </div>
                 </div>
@@ -309,7 +285,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#accordionDSA4">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Sign The DSA Agreement
                             <span class="ms-auto icon">
@@ -317,13 +293,13 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="accordionDSA4" class="accordion-collapse collapse" data-bs-parent="#accordionDSApartner">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
-                            restructuring, and
-                            OTS. Enjoy expert consultation, product comparison, application help, legal and
-                            documentation support,
-                            loan tracking, CIBIL guidance, and end-to-end assistance with our Loan AMC.
+                            restructuring, and OTS. Enjoy expert consultation, product comparison, application help,
+                            legal and
+                            documentation support, loan tracking, CIBIL guidance, and end-to-end assistance with our
+                            Loan AMC.
                         </div>
                     </div>
                 </div>
@@ -332,7 +308,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#accordionDSA5">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Document Upload
                             <span class="ms-auto icon">
@@ -340,13 +316,13 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="accordionDSA5" class="accordion-collapse collapse" data-bs-parent="#accordionDSApartner">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
-                            restructuring, and
-                            OTS. Enjoy expert consultation, product comparison, application help, legal and
-                            documentation support,
-                            loan tracking, CIBIL guidance, and end-to-end assistance with our Loan AMC.
+                            restructuring, and OTS. Enjoy expert consultation, product comparison, application help,
+                            legal and
+                            documentation support, loan tracking, CIBIL guidance, and end-to-end assistance with our
+                            Loan AMC.
                         </div>
                     </div>
                 </div>
@@ -355,7 +331,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#accordionDSA6">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             Ready to Get Started?
                             <span class="ms-auto icon">
@@ -363,13 +339,13 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="accordionDSA6" class="accordion-collapse collapse" data-bs-parent="#accordionDSApartner">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
-                            restructuring, and
-                            OTS. Enjoy expert consultation, product comparison, application help, legal and
-                            documentation support,
-                            loan tracking, CIBIL guidance, and end-to-end assistance with our Loan AMC.
+                            restructuring, and OTS. Enjoy expert consultation, product comparison, application help,
+                            legal and
+                            documentation support, loan tracking, CIBIL guidance, and end-to-end assistance with our
+                            Loan AMC.
                         </div>
                     </div>
                 </div>
@@ -379,70 +355,54 @@
 
     <div class="documents-section py-5">
         <div class="container py-3">
-            <h2>Documents Required</h2>
-            <div class="documents-container legal-advisory-container">
-                <div class="advisory-service-section py-0">
-                    <div class="details-section py-0 px-0">
-                        <div class="container p-0">
-                            <div class="row my-4 mb-5 pt-2 g-2 g-md-4">
-                                <!-- Card 1 -->
-                                <div class="col-12 col-sm-6 col-lg-3">
-                                    <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                        <span>
-                                            <img class="icons" src="assets/referral-partner/icons/develop-a-robust-business-plan.svg"
-                                                alt="Legal Compliance">
-                                        </span>
-                                        <p class="advisory-service-title">Proof of Identity like <br> PAN card, Aadhar
-                                            Card</p>
-                                    </div>
-                                </div>
-
-                                <!-- Card 2 -->
-                                <div class="col-12 col-sm-6 col-lg-3">
-                                    <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                        <span>
-                                            <img class="icons"
-                                                src="assets/referral-partner/icons/proof-of-address.svg"
-                                                alt="Risk Assessment">
-                                        </span>
-                                        <p class="advisory-service-title">Proof of address</p>
-                                    </div>
-                                </div>
-
-                                <!-- Card 3 -->
-                                <div class="col-12 col-sm-6 col-lg-3">
-                                    <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                        <span>
-                                            <img class="icons"
-                                                src="assets/referral-partner/icons/bank-transaction.svg"
-                                                alt="Contract Drafting">
-                                        </span>
-                                        <p class="advisory-service-title">Your Most Recent 3 <br> Months' Bank <br>
-                                            Transaction Details</p>
-                                    </div>
-                                </div>
-
-                                <!-- Card 4 -->
-                                <div class="col-12 col-sm-6 col-lg-3">
-                                    <div class="m-md-1 card justify-content-center text-center p-3 h-100">
-                                        <span>
-                                            <img class="icons"
-                                                src="assets/referral-partner/icons/build-relationships-with-fls.svg"
-                                                alt="Dispute Resolution">
-                                        </span>
-                                        <p class="advisory-service-title">Empanelment Form <br> Along With Necessary
-                                            <br> Agreements
-                                        </p>
-                                    </div>
+            <div class="py-3">
+                <h4 class="h4-size">Documents Required</h4>
+                <div class="row g-3 mb-3 align-items-stretch pd-choose">
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/msme-loan/icon/working-capital-cc.svg" alt="">
                                 </div>
                             </div>
+                            <h2 class="col-md-9">Proof of Identity like PAN card, Aadhar Card</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-partner/icons/proof-of-address.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Proof of address</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-partner/icons/bank-transaction.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Your Most Recent 3 Months' Bank Transaction Details</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                        <div class="common-box w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/referral-partner/icons/build-relationships-with-fls.svg" alt="">
+                                </div>
+                            </div>
+                            <h2 class="col-md-9">Empanelment Form Along With Necessary Agreements</h2>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row pt-5">
-                <div class="col-12 col-sm-7">
-                    <h2>Why Should You Become A Loanitol’s Referral Partner ?</h2>
+             <div class="row pt-5">
+                <div class="col-12 col-sm-8">
+                    <h4 class="h4-size">Why Should You Become A Loanitol’s Referral Partner ?</h4>
                     <ul class="mt-4 px-4">
                         <li>Opportunity to earn fascinating commission on disbursements</li>
                         <li>Provide your customers with best loan offer</li>
@@ -451,8 +411,8 @@
                         <li>Constant support and assistance from a dedicated relationship manager</li>
                     </ul>
                 </div>
-                <div class="col-12 col-sm-5 d-flex justify-content-center justify-content-sm-end">
-                    <img class="img-fluid rounded-3 object-fit-cover" width="350px" height="auto" src="assets/referral-partner/card-img-2.jpg" alt="">
+                <div class="col-12 col-sm-4 d-flex justify-content-center justify-content-sm-end mt-3 mt-sm-0 referral_image">
+                    <img class="img-fluid rounded-3 object-fit-cover" src="assets/referral-partner/card-img-2.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -540,7 +500,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             How does this benefit? 
                             <span class="ms-auto icon">
@@ -548,7 +508,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
                             restructuring, and
@@ -562,7 +522,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item5">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             How will I earn from this program?
                             <span class="ms-auto icon">
@@ -570,7 +530,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
                             restructuring, and
@@ -584,7 +544,7 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header p-1">
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
+                            type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item6">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                             What kind of support will I get from Loanitol?
                             <span class="ms-auto icon">
@@ -592,7 +552,7 @@
                             </span>
                         </button>
                     </h2>
-                    <div id="loanitol_item3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="loanitol_item6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             Loanitol offer a full range of loan services, including retail, MSME, bridge loans,
                             restructuring, and
