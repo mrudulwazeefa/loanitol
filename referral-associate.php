@@ -30,17 +30,17 @@
     <div class="linear-gradient">
         <div class="referral-partner-description-section pt-5 pb-3">
             <div class="container">
-                <div class="description py-2">
+                <p>
                     Team Loanitol offers an opportunity for employed professionals and business owners to secure
                     additional
                     revenue. This can be achieved by referring clients seeking financial assistance. We are looking for
                     individuals with strong interpersonal abilities and a commitment to success to join us as Referral
                     Associates.
-                </div>
+                </p>
             </div>
         </div>
 <img class="pattern_z_2 img-fluid" src="assets/msme-loan/logos.png" alt="">
-        <div class="referral-associate-advantages-section py-5">
+        <div class="referral-associate-advantages-section py-4 pb-5">
             <div class="container">
                 <h4 class="h4-size">Advantages</h4>
                 <div class="row g-3 g-md-4 pt-5 pb-3">
