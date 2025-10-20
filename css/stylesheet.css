@@ -3939,7 +3939,15 @@ img {
   width: 380px;
 }
 
-
+.specl h2{
+  font-weight: 600 !important;
+}
+.specl h4{
+  font-weight: 500 !important;
+}
+.specl p span{
+  color: #FDD835
+}
 
 
 /*  Responsive */

@@ -1,5 +1,5 @@
 <?php include("includes/meta.php"); ?>
-<title>Retail Car Loan Page | Loanitol</title>
+<title>Home Loan | Loanitol</title>
 </head>
 
 <body>
@@ -14,17 +14,17 @@
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item">Home</li>
                             <li class="breadcrumb-item" aria-current="page">Retail Loan</li>
-                            <li class="breadcrumb-item active" aria-current="page">Car Loan</li>
+                            <li class="breadcrumb-item active" aria-current="page">Home Loan</li>
                         </ol>
                     </nav>
                     <h5 class="h5-size col-sm-10">
-                        Accelerate Your Journey with Flexible <span class="d-inline-block">Car Financing</span>
+                        Your dream home is within reach. Discover our wide range of <span>Home Loan Options</span>
                     </h5>
-                    <p>Own your dream car with simple and convenient financing.
+                    <p>Step into your dream home with ease and affordability
                     </p>
                 </div>
                 <div class="col-lg-4 col-md-4">
-                    <img src="assets/car-loan/banner.png" class="img-fluid" alt="Referral Partner Banner">
+                    <img src="assets/home-loan/banner.png" class="img-fluid" alt="Referral Partner Banner">
                 </div>
             </div>
         </div>
@@ -42,7 +42,7 @@
                         <li class="nav-item"><a class="nav-link active" href="#overview">Overview</a></li>
                         <li class="nav-item"><a class="nav-link" href="#loans">Loans</a></li>
                         <li class="nav-item"><a class="nav-link" href="#product-details">Features</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#eligibility">Eligibility</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#eligibility">Eligibility Criteria</a></li>
                         <li class="nav-item"><a class="nav-link" href="#document">Documents Required</a></li>
                         <li class="nav-item"><a class="nav-link" href="#fees">Fees & Charges</a></li>
                         <li class="nav-item"><a class="nav-link" href="#faqs">FAQs</a></li>
@@ -57,15 +57,14 @@
         </div>
     </div>
     <!--  -->
-
-
     <section id="overview" class="section">
         <div class="empower-section">
             <div class="container">
                 <h4 class="h4-size2">Overview</h4>
-                <p>A car loan is a secured loan made by banks and financial organizations to assist individuals purchase
-                    a new or used automobile. The loan amount is reimbursed in monthly installments (EMIs) over a
-                    predetermined tenure, and the car itself acts as collateral until the loan is fully paid off.</p>
+                <p>The amount that a person loans from a financial institution to build a home, repair or expand an
+                    existing one, or purchase a new or resale property is known as a home loan. The loan is taken out at
+                    a certain interest rate and paid back in smaller installments called EMIs (Equated Monthly
+                    Instalments) over a predetermined period of time.</p>
             </div>
         </div>
     </section>
@@ -75,47 +74,74 @@
             <div class="container">
                 <h4 class="h4-size2">Loans</h4>
                 <div class="row g-3 mb-3 align-items-stretch pd-choose">
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
-                        <div class="common-box w-100">
-                            <div class="icon-frame">
-                                <div class="second-frame">
-                                    <img src="assets/car-loan/icons/new-car-loan.svg" alt="">
+                    <div class="col-12 col-lg-9">
+                        <div class="row g-3 g-md-4">
+                            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/home-loan/icons/home-purchase-loans.svg" alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-md-9">Home/Flat Purchase Loans</h2>
                                 </div>
                             </div>
-                            <h2 class="col-md-9">New Car Loan</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
-                        <div class="common-box w-100">
-                            <div class="icon-frame">
-                                <div class="second-frame">
-                                    <img src="assets/car-loan/icons/used-car-load.svg" alt="">
+                            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/home-loan/icons/home-construction-loan.svg" alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-md-9">Home Construction Loan</h2>
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Used Car Loan</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
-                        <div class="common-box w-100">
-                            <div class="icon-frame">
-                                <div class="second-frame">
-                                    <img src="assets/car-loan/icons/auto-refinance.svg" alt="">
+                            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/home-loan/icons/home-extension-loan.svg" alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-md-9">Home Extension Loan</h2>
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Auto Refinance</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
-                        <div class="common-box w-100">
-                            <div class="icon-frame">
-                                <div class="second-frame">
-                                    <img src="assets/car-loan/icons/car-loan-balance-transfer.svg" alt="">
+                            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/home-loan/icons/home-improvement-loan.svg" alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-md-9">Home Improvement Loan</h2>
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Car Loan Balance Transfer</h2>
+                            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/home-loan/icons/home-transfer-loan.svg" alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-md-9">Balance Transfer of Home Loans</h2>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/home-loan/icons/seller-bt.svg" alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-md-9">Seller BT</h2>
+                                </div>
+                            </div>
                         </div>
                     </div>
-
+                    <div class="col-lg-3 mt-3 mt-md-0 pt-3 d-none d-lg-block">
+                        <img class="rounded-3 object-fit-cover w-100 h-100"
+                            src="assets/home-loan/medium-shot-couple-holding-small-house.jpg" alt="">
+                    </div>
                 </div>
             </div>
         </div>
@@ -125,101 +151,74 @@
         <div class="container">
             <h4 class="h4-size2 text-white">Features</h4>
             <div class="row pt-4">
-                <div class="col-12 col-md-8 d-flex">
+                <div class="col-md-6 d-flex">
                     <div class="card w-100 text-white p-4">
-                        <div class="d-flex flex-column flex-sm-row justify-content-between">
-                            <ul class="mb-0">
-                                <li>Instant Access to Funds</li>
-                                <li>Flexible Loan Tenure Options</li>
-                                <li>Fixed Interest Rates</li>
-                                <li>Tailored Loan Amounts</li>
-                                <li>Convenient Monthly Repayment Plans</li>
-                            </ul>
-                            <ul class="mb-0">
-                                <li>Instant Access to Funds</li>
-                                <li>Flexible Loan Tenure Options</li>
-                                <li>Fixed Interest Rates</li>
-                                <li>Tailored Loan Amounts</li>
-                                <li>Convenient Monthly Repayment Plans</li>
-                            </ul>
-                        </div>
+                        <ul class="my-3">
+                            <li>Home loan options to meet every client's needs</li>
+                            <li>Competitive Interest Rates</li>
+                            <li>Minimal Processing Fee</li>
+                            <li>No Prepayment Penalty (for variable rate of interest)</li>
+                            <li>No Part-Payment Fees;</li>
+                            <li>Daily Reducing Balance Interest charges</li>
+                        </ul>
                     </div>
                 </div>
-                <div class="col-12 col-md-4 d-flex mt-3 mt-md-0">
-                    <img src="assets/car-loan/card-img.jpg" alt="Fundraising"
-                        class="object-fit-cover funding-crucial-section_img">
+                <div class="col-md-6 d-flex mt-3 mt-md-0">
+                    <div class="card w-100 text-white p-4">
+                        <ul class="my-3">
+                            <li>Repayment terms of up to 30 years, or 35 years in some circumstances</li>
+                            <li>Overdraft options for home loans</li>
+                            <li>Women Borrowers' Interest Concession</li>
+                            <li>Maximum Funding for Property Valuation</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-        </div>
         </div>
     </section>
 
     <section id="eligibility" class="section eligibility eligibility-criteria-section">
         <div class="container">
             <div class="row py-3">
-                <div class="col-12 col-sm-6 col-lg-4">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-5">
                     <h4 class="h4-size2 mb-5">Eligibility Criteria</h4>
                     <div class="card p-4">
                         <h5 class="mb-3">Age:</h5>
                         <ul class="text-black">
-                            <li>Salaried Individual: 21 to 58 years</li>
-                            <li>NRI Salaried Individual: 23 to 60 years</li>
-                            <li>Self-Employed Individual: 25 to 65 years</li>
-                            <li>Self-Employed Professional: 25 to 65 years</li>
+                            <li>NRI salaried person: 23 to 60 years</li>
+                            <li>Self-employed person: 25 to 65 years</li>
+                            <li>Self-employed professional: 25 to 65 years</li>
+                            <li>Salaried person: 21 to 58 years</li>
                         </ul>
                     </div>
-                    <div class="card p-4 mt-3 mt-sm-4">
+                    <div class="card p-4 mt-3 mt-md-4">
                         <h5 class="mb-3">Credit Score:</h5>
                         <ul class="text-black">
-                            <li>A credit score of 750 is considered a good
-                                score for approval.</li>
+                            <li>NRI salaried person: 23 to 60 years</li>
+                            <li>Self-employed person: 25 to 65 years</li>
+                            <li>Self-employed professional: 25 to 65 years</li>
+                            <li>Salaried person: 21 to 58 years</li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-8 mt-3 mt-sm-0">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-7 mt-3 mt-sm-0">
                     <div class="card p-4">
                         <h5 class="mb-3">Income:</h5>
                         <ul class="text-black">
-                            <li>Salaried Individual: Should earn a minimum of ₹25,000 per month, with standard
-                                deductions, credited to their account.</li>
-                            <li>Self-Employed Individual: Should have filed their latest Income Tax Return (ITR).
-                            </li>
-                            <li>NRI Salaried Individual: Should have a minimum salary of ₹1 lakh credited to their
-                                account.</li>
-                            <li>Self-Employed Professional: Should have a minimum net annual income
-                                of ₹3,00,000.</li>
-                            <li>Rental Income: Should have a valid rent agreement, with the rent amount credited
-                                to their account.</li>
+                            <li>Salaried Person: Minimum monthly salary of ₹25,000, credited through a bank
+                                account with standard deductions.</li>
+                            <li>NRI Salaried Person: Minimum monthly salary equivalent to ₹1,00,000, credited
+                                through a bank account.</li>
+                            <li>Self-Employed Professional: Minimum annual net income of ₹3,00,000.</li>
                         </ul>
                     </div>
-                    <div class="card p-4 mt-4 d-none d-lg-block">
+                    <div class="card p-4 mt-3 mt-md-4">
                         <h5 class="mb-3">Experience:</h5>
                         <ul class="text-black">
-                            <li>Salaried Individual: Must have 2 to 3 years of experience in an MNC, Private Limited
-                                or Public Limited Company.</li>
-                            <li>
-                                Self-Employed Individual: Must have at least 3 years of experience in their current
-                                field.</li>
-                            <li>Self-Employed Professional: Must have a minimum of 2 years of experience in their
-                                current field.</li>
-                            <li>Rental Income: Requires at least 2 years of experience in property rental or a lease
-                                agreement of at least 5 years.</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-12 col-lg-12 mt-0 mt-sm-0">
-                    <div class="card p-4 mt-4 d-block d-lg-none">
-                        <h5 class="mb-3">Experience:</h5>
-                        <ul class="text-black">
-                            <li>Salaried Individual: Must have 2 to 3 years of experience in an MNC, Private Limited
-                                or Public Limited Company.</li>
-                            <li>
-                                Self-Employed Individual: Must have at least 3 years of experience in their current
-                                field.</li>
-                            <li>Self-Employed Professional: Must have a minimum of 2 years of experience in their
-                                current field.</li>
-                            <li>Rental Income: Requires at least 2 years of experience in property rental or a lease
-                                agreement of at least 5 years.</li>
+                            <li>Salaried Person: Minimum 2 to 3 years of experience in an MNC, Private Limited, or
+                                Public Limited company.</li>
+                            <li>Self-Employed Person: Minimum 3 years of experience in the current field.</li>
+                            <li>Self-Employed Professional: Minimum 2 years of experience in the current field.</li>
                         </ul>
                     </div>
                 </div>
@@ -227,69 +226,82 @@
         </div>
     </section>
 
-    <section id="document" class="section">
+    <section class="section" id="document">
         <div class="linear-gradient2">
             <div class="documents-required-home-loan py-5">
                 <div class="container py-3">
                     <h4 class="mb-4 h4-size2">Documents Required</h4>
                     <div class="row py-3">
                         <div class="col-md-4">
-                            <div class="d-flex mb-2">
-                                <img src="assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg" alt="">
-                                <h5 class="mb-0 ms-3">Income Document
-                                    Salaried</h5>
-                            </div>
+                            <h5>Income Document
+                                Salaried</h5>
                             <ul>
-                                <li>ID and Address Proof</li>
+                                <li>Address Proof</li>
+                                <li>ID Proof</li>
                                 <li>PAN</li>
                                 <li>Form 16</li>
                                 <li>Employee ID Card</li>
-                                <li>Salary Slips for the Last 6 Months</li>
-                                <li>Bank Account Statement for the Last 6 Months</li>
+                                <li>Salary Slips for the last 6 months</li>
+                                <li>Bank Account Statement for the last 6 months</li>
                                 <li>Proof of Employment Duration</li>
                             </ul>
                         </div>
                         <div class="col-md-4 mt-4 mt-md-0">
-                            <div class="d-flex mb-2">
-                                <img src="assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg" alt="">
-                                <h5 class="mb-0 ms-3">Self-Employed Individuals</h5>
-                            </div>
+                            <h5>Self-Employed Individuals</h5>
                             <ul class="mb-0">
-                                <li>ID and Address Proof</li>
+                                <li>Address Proof</li>
+                                <li>ID Proof</li>
                                 <li>PAN</li>
                                 <li>Company PAN Card</li>
                                 <li>Trade License</li>
-                                <li>Establishment Registration Certificate for Shops, Factories, or Other Establishments
-                                </li>
-                                <li>GST Registration Certificate</li>
+                                <li>Registration Certificate for Shops, Factories
+                                    or Other Establishments</li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                             <ul>
-                                <li>Proof of Business Constitution</li>
+                                <li>GST Registration Certificate</li>
+                                <li>Business Constitution Proof</li>
                                 <li>Business Address Proof</li>
-                                <li>ITR and Financial Statements for the Last 3 Years</li>
-                                <li>Bank Account Statements for All Business Accounts covering the Last 12 Months</li>
+                                <li>ITR & Financial Statements for the last 3 years</li>
+                                <li>Bank Account Statements for all business accounts for the last 12 months</li>
                                 <li>GST Returns</li>
                             </ul>
                         </div>
                         <div class="col-md-4 mt-4">
-                            <div class="d-flex mb-2">
-                                <img src="assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg" alt="">
-                                <h5 class="mb-0 ms-3">Self Employed Professional
-                                </h5>
-                            </div>
-                            <ul class="mb-0">
-                                <li>ID and Address Proof</li>
+                            <h5>Self Employed Professional
+                            </h5>
+                            <ul>
+                                <li>Address Proof</li>
+                                <li>ID Proof</li>
                                 <li>PAN</li>
-                                <li>Bank Account Statement for the Last 12 Months</li>
+                                <li>Form 16</li>
+                                <li>Employee ID Card</li>
+                                <li>Salary Slips for the last 6 months</li>
+                                <li>Bank Account Statement for the last 6 months</li>
+                                <li>Proof of Employment Duration</li>
                             </ul>
                         </div>
-                        <div class="col-md-8 mt-0 mt-md-4">
+                        <div class="col-md-4 mt-4">
+                            <h5>Property Documents Required</h5>
+                            <ul class="mb-0 mb-md-3">
+                                <li>Address Proof</li>
+                                <li>ID Proof</li>
+                                <li>PAN</li>
+                                <li>Company PAN Card</li>
+                                <li>Trade License</li>
+                                <li>Registration Certificate for Shops, Factories
+                                    or Other Establishments</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4 mt-0 mt-md-4">
                             <ul>
-                                <li>Proof of Qualification</li>
-                                <li>Registration Certificate</li>
-                                <li>Professional Practice License for Doctors, Chartered Accountants, etc.</li>
+                                <li>GST Registration Certificate</li>
+                                <li>Business Constitution Proof</li>
+                                <li>Business Address Proof</li>
+                                <li>ITR & Financial Statements for the last 3 years</li>
+                                <li>Bank Account Statements for all business accounts for the last 12 months</li>
+                                <li>GST Returns</li>
                             </ul>
                         </div>
                     </div>
@@ -298,41 +310,46 @@
         </div>
     </section>
 
-    <section id="fees" class="section">
+    <section class="section" id="fees">
         <div class="fees-and-charges-section text-white position-relative">
             <div class="container py-4">
                 <div class="row d-flex flex-column flex-sm-row py-5">
-                    <div class="col-12 col-sm-5 d-flex align-items-center">
-                        <div class="div">
+                    <div class="col-12 col-sm-5 specl">
                             <img src="assets/home-loan/icons/fee-and-charges.svg" alt="">
-                            <h2 class="fw-semibold">Fees & Charges</h2>
-                        </div>
+                            <h2>Fees & Charges</h2>
+                            <h4>Interest Rate: </h4>
+                            <p>Home loan interest rates starting from <span>8.5% onwards</span>
+                            </p>
                     </div>
                     <div class="col-12 col-sm-7 mt-4 mt-sm-0">
-                        <div class="card p-3">
-                            <h5>Other Fees</h5>
+                        <div class="card p-4">
+                            <div class="d-flex mb-3 ps-2">
+                                <img src="assets/home-loan/logo.svg" alt="">
+                                <h5 class="mb-0 ps-2 fw-semibold">Other Fees</h5>
+                            </div>
                             <div class="d-flex flex-column flex-lg-row justify-content-between">
-                                    <ul class="mb-0">
-                                        <li>Processing Fee</li>
-                                        <li>Login Fee</li>
-                                        <li>Stamp Duty</li>
-                                        <li>Documentation Charges</li>
-                                    </ul>
-                                    <ul>
-                                        <li>Penal Charges</li>
-                                        <li>EMI / Cheque Bounce Charges</li>
-                                        <li>Foreclosure Charges</li>
-                                    </ul>
+                                <ul class="mb-0">
+                                    <li>Processing Fee</li>
+                                    <li>Login Fee</li>
+                                    <li>MODT Charge</li>
+                                    <li>Documentation Charges</li>
+                                    <li>Penal Charges</li>
+                                </ul>
+                                <ul class="mb-0">
+                                    <li>EMI / Cheque Bounce Charges</li>
+                                    <li>Legal Fee (if applicable)</li>
+                                    <li>Technical Fee (if applicable)</li>
+                                    <li>Other Notarization Charges</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
     </section>
 
     <!-- Frequently Asked Questions -->
-    <section id="faqs" class="section">
+    <section class="section" id="faqs">
         <div class="about_loan_area_gradient">
             <div class="container">
                 <h4 class="h4-size2">Frequently Asked Questions</h4>
@@ -343,7 +360,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item1">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                What is Car loan?
+                                What is Home loan?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -381,7 +398,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item2">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                Can I get 100% funding to buy a car?
+                                How much amount can avail by home loan?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -420,7 +437,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item3">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                What is the minimum credit score I need to get a Car Loan?
+                                Can be club the income of family members in Home loan?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -477,7 +494,7 @@
                             <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
                                 <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                                How much down payment do I need to make to buy a car?
+                                Can I purchase a Home jointly with Friends ?
                                 <span class="ms-auto icon">
                                     <i class="fa fa-plus" aria-hidden="true"></i>
                                 </span>
@@ -523,6 +540,87 @@
                                         support
                                         throughout your entire loan process, including initial consultation, loan
                                         disbursement, and assistance throughout the entire repayment period.</li>
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Accordion Item 5 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header p-1">
+                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item5">
+                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
+                                Can we take Home in companies name ?
+                                <span class="ms-auto icon">
+                                    <i class="fa fa-plus" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </h2>
+                        <div id="loanitol_item5" class="p-0 accordion-collapse collapse"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Loanitol currently offers its services in:
+                                <ul class="pt-2">
+                                    <li>Physical presence. in Kochi - Palarivattom.</li>
+                                    <li>We also offer our services throughout Kerala.</li>
+                                    <li>We are constantly expanding our reach to serve more clients. Stay tuned for
+                                        updates
+                                        on our website!</li>
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Accordion Item 6 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header p-1">
+                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item6">
+                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
+                                What is the tenure of Home loan?
+                                <span class="ms-auto icon">
+                                    <i class="fa fa-plus" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </h2>
+                        <div id="loanitol_item6" class="p-0 accordion-collapse collapse"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Loanitol currently offers its services in:
+                                <ul class="pt-2">
+                                    <li>Physical presence. in Kochi - Palarivattom.</li>
+                                    <li>We also offer our services throughout Kerala.</li>
+                                    <li>We are constantly expanding our reach to serve more clients. Stay tuned for
+                                        updates
+                                        on our website!</li>
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Accordion Item 7 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header p-1">
+                            <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item7">
+                                <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
+                                Is there any tax benefit on a home loan?
+                                <span class="ms-auto icon">
+                                    <i class="fa fa-plus" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </h2>
+                        <div id="loanitol_item7" class="p-0 accordion-collapse collapse"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Loanitol currently offers its services in:
+                                <ul class="pt-2">
+                                    <li>Physical presence. in Kochi - Palarivattom.</li>
+                                    <li>We also offer our services throughout Kerala.</li>
+                                    <li>We are constantly expanding our reach to serve more clients. Stay tuned for
+                                        updates
+                                        on our website!</li>
                                 </ul>
 
                             </div>
