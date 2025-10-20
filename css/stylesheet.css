@@ -6304,7 +6304,7 @@ input.search-field.show-placeholder::placeholder {
 .settlement-section h1 {
   font-weight: 600 !important;
 }
-.settlement-section h1 span {
+.settlement-section h4 span {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -6316,15 +6316,16 @@ input.search-field.show-placeholder::placeholder {
   font-weight: 400;
   font-size: 24px;
   line-height: 3;
+  font-size: var(--font-16);
 }
 .one-time-settlement-section {
   background: linear-gradient(to bottom, #fff3f5, #ffffff) !important;
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
-.one-time-settlement-section h2 {
+/* .one-time-settlement-section h2 {
   font-weight: 600 !important;
-}
+} */
 .one-time-settlement-section .title {
   margin-bottom: 3rem;
 }
@@ -6352,9 +6353,9 @@ input.search-field.show-placeholder::placeholder {
   padding-bottom: 5rem;
   font-family: var(--theme-font);
 }
-.ots-section h2 {
+/* .ots-section h2 {
   font-weight: 600 !important;
-}
+} */
 .ots-section .card span {
   position: relative;
   height: 60px;
@@ -6388,9 +6389,9 @@ input.search-field.show-placeholder::placeholder {
   font-family: var(--theme-font);
   background: linear-gradient(to bottom, #fff3f5, #ffffff);
 }
-.who-required-restructuring-section h2 {
+/* .who-required-restructuring-section h2 {
   font-weight: 600 !important;
-}
+} */
 .ots-section-2 {
   font-family: var(--theme-font);
 }
@@ -6405,6 +6406,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .ots-section-2 .card {
   padding: 2rem;
+  border: none;
 }
 .ots-section li::marker {
   color: black !important;

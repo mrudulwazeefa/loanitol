@@ -39,7 +39,10 @@
                 qualified clients, thus creating an ongoing pipeline of business opportunities.
             </p>
             <p>
-                This referral program seeks to collaborate with trusted professionals who have strong client relationships. By tapping into their network and expertise, these partners can effectively identify clients needing financial services and facilitate introductions, leading to consistent, high-quality business referrals.
+                This referral program seeks to collaborate with trusted professionals who have strong client
+                relationships. By tapping into their network and expertise, these partners can effectively identify
+                clients needing financial services and facilitate introductions, leading to consistent, high-quality
+                business referrals.
             </p>
         </div>
     </div>
@@ -49,83 +52,87 @@
             <div class="advisory-service-section py-0">
                 <div class="details-section py-0 px-0">
                     <h4 class="h4-size mb-3">Advantages</h4>
+                    <div class="row g-3 mb-3 align-items-stretch pd-choose">
+                        <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="common-box w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/referral-partner/icons/dedicated-support.svg" alt="">
+                                    </div>
+                                </div>
+                                <h2 class="col-md-9">Dedicated Support</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="common-box w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/referral-partner/icons/an-extra-income-source.svg" alt="">
+                                    </div>
+                                </div>
+                                <h2 class="col-md-9">CExtra Income Source</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="common-box w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/referral-partner/icons/minimum-time-and-resource-investment.svg"
+                                            alt="">
+                                    </div>
+                                </div>
+                                <h2 class="col-md-9">Minimum time and Resource Investment</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="common-box w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/referral-partner/icons/expedite-client-funding.svg" alt="">
+                                    </div>
+                                </div>
+                                <h2 class="col-md-9">Expedite Client Funding</h2>
+                            </div>
+                        </div>
 
-                <div class="row g-3 mb-3 align-items-stretch pd-choose">
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
-                        <div class="common-box w-100">
-                            <div class="icon-frame">
-                                <div class="second-frame">
-                                    <img src="assets/referral-partner/icons/dedicated-support.svg" alt="">
+                        <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="common-box w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/referral-partner/icons/access-to-diverse-loan-products.svg"
+                                            alt="">
+                                    </div>
                                 </div>
+                                <h2 class="col-md-9">Access to Diverse Loan Products</h2>
                             </div>
-                            <h2 class="col-md-9">Dedicated Support</h2>
+                        </div>
+                        <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="common-box w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/referral-partner/icons/robust-network-of-financial-institutions.svg"
+                                            alt="">
+                                    </div>
+                                </div>
+                                <h2 class="col-md-9">Robust Network of Financial Institutions</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="common-box w-100">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/referral-partner/icons/enhanced-client-trust-and-confidence.svg"
+                                            alt="">
+                                    </div>
+                                </div>
+                                <h2 class="col-md-9">Enhanced Client Trust & Confidence</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <img src="assets/referral-partner/card-img.jpg" alt="Fundraising"
+                                class="object-fit-cover referral-partner-img">
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
-                        <div class="common-box w-100">
-                            <div class="icon-frame">
-                                <div class="second-frame">
-                                    <img src="assets/referral-partner/icons/an-extra-income-source.svg" alt="">
-                                </div>
-                            </div>
-                            <h2 class="col-md-9">CExtra Income Source</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
-                        <div class="common-box w-100">
-                            <div class="icon-frame">
-                                <div class="second-frame">
-                                    <img src="assets/referral-partner/icons/minimum-time-and-resource-investment.svg" alt="">
-                                </div>
-                            </div>
-                            <h2 class="col-md-9">Minimum time and Resource Investment</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
-                        <div class="common-box w-100">
-                            <div class="icon-frame">
-                                <div class="second-frame">
-                                    <img src="assets/referral-partner/icons/expedite-client-funding.svg" alt="">
-                                </div>
-                            </div>
-                            <h2 class="col-md-9">Expedite Client Funding</h2>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
-                        <div class="common-box w-100">
-                            <div class="icon-frame">
-                                <div class="second-frame">
-                                    <img src="assets/referral-partner/icons/access-to-diverse-loan-products.svg" alt="">
-                                </div>
-                            </div>
-                            <h2 class="col-md-9">Access to Diverse Loan Products</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
-                        <div class="common-box w-100">
-                            <div class="icon-frame">
-                                <div class="second-frame">
-                                    <img src="assets/referral-partner/icons/robust-network-of-financial-institutions.svg" alt="">
-                                </div>
-                            </div>
-                            <h2 class="col-md-9">Robust Network of Financial Institutions</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
-                        <div class="common-box w-100">
-                            <div class="icon-frame">
-                                <div class="second-frame">
-                                    <img src="assets/referral-partner/icons/enhanced-client-trust-and-confidence.svg" alt="">
-                                </div>
-                            </div>
-                            <h2 class="col-md-9">Enhanced Client Trust & Confidence</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
-                        <img src="assets/referral-partner/card-img.jpg" alt="Fundraising" class="object-fit-cover referral-partner-img">
-                    </div>
-                </div>
                 </div>
             </div>
         </div>
@@ -200,7 +207,7 @@
         </div>
     </div>
 
-     <div class="registration-program-section py-5">
+    <div class="registration-program-section py-5">
         <div class="container py-3">
             <h4 class="h4-size pb-4">DSA Partner Registration Program</h4>
             <p>The DSA (Direct Selling Agent) Partner Registration Program is designed for individuals or businesses
@@ -400,7 +407,7 @@
                     </div>
                 </div>
             </div>
-             <div class="row pt-5">
+            <div class="row pt-5">
                 <div class="col-12 col-sm-8">
                     <h4 class="h4-size">Why Should You Become A Loanitol’s Referral Partner ?</h4>
                     <ul class="mt-4 px-4">
@@ -411,8 +418,10 @@
                         <li>Constant support and assistance from a dedicated relationship manager</li>
                     </ul>
                 </div>
-                <div class="col-12 col-sm-4 d-flex justify-content-center justify-content-sm-end mt-3 mt-sm-0 referral_image">
-                    <img class="img-fluid rounded-3 object-fit-cover" src="assets/referral-partner/card-img-2.jpg" alt="">
+                <div
+                    class="col-12 col-sm-4 d-flex justify-content-center justify-content-sm-end mt-3 mt-sm-0 referral_image">
+                    <img class="img-fluid rounded-3 object-fit-cover" src="assets/referral-partner/card-img-2.jpg"
+                        alt="">
                 </div>
             </div>
         </div>
@@ -502,7 +511,7 @@
                         <button class="accordion-button collapsed d-flex justify-content-between align-items-center"
                             type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
                             <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
-                            How does this benefit? 
+                            How does this benefit?
                             <span class="ms-auto icon">
                                 <i class="fa fa-plus" aria-hidden="true"></i>
                             </span>
@@ -565,7 +574,7 @@
             </div>
         </div>
     </div>
-    
+
     <section id="contact" class="section">
         <div class="bg-contact-area">
             <div class="container">
