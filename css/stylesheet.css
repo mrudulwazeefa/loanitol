@@ -3950,7 +3950,9 @@ img {
 }
 
 
-
+.benefits-image img{
+  border-radius: var(--theme-border-radius);
+}
 
 
 

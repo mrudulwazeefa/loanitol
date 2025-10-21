@@ -552,6 +552,26 @@
                                 </p>
                             </div>
                         </div>
+                        <!-- 10 -->
+                         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
+                            <div class="choose_frame">
+                                <div class="icon-frame">
+                                    <div class="second-frame">
+                                        <img src="assets/real-estate-advisory-service/icons/transaction-support.svg"
+                                            class="theme-radius">
+                                    </div>
+                                </div>
+                                <h2>Transaction Support</h2>
+                                <p>
+                                    They handle end-to-end deal management — from site selection and negotiation to documentation and closing — streamlining complex processes.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- 11 -->
+                         <div class="col-lg-8 col-md-8 col-sm-6 col-xs-6 col-12 d-flex benefits-image d-none d-md-flex">
+                            <img src="assets/real-estate-advisory-service/benefits-image.jpg" alt="" class="object-fit-cover w-100 flex-fill">
+                        </div>
+                        <!-- above image -->
                     </div>
                 </div>
             </div>
