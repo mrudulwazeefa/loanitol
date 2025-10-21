@@ -234,11 +234,8 @@
                     <h4 class="mb-4 h4-size2">Documents Required</h4>
                     <div class="row py-3">
                         <div class="col-md-4">
-                            <div class="d-flex mb-2">
-                                <img src="assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg" alt="">
-                                <h5 class="mb-0 ms-3">Income Document
+                                <h5 class="mb-2 ms-2">Income Document
                                     Salaried</h5>
-                            </div>
                             <ul>
                                 <li>ID and Address Proof</li>
                                 <li>PAN</li>
@@ -250,10 +247,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4 mt-4 mt-md-0">
-                            <div class="d-flex mb-2">
-                                <img src="assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg" alt="">
-                                <h5 class="mb-0 ms-3">Self-Employed Individuals</h5>
-                            </div>
+                                <h5 class="mb-2 ms-2">Self-Employed Individuals</h5>
                             <ul class="mb-0">
                                 <li>ID and Address Proof</li>
                                 <li>PAN</li>
@@ -274,11 +268,8 @@
                             </ul>
                         </div>
                         <div class="col-md-4 mt-4">
-                            <div class="d-flex mb-2">
-                                <img src="assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg" alt="">
-                                <h5 class="mb-0 ms-3">Self Employed Professional
+                                <h5 class="mb-2 ms-2">Self Employed Professional
                                 </h5>
-                            </div>
                             <ul class="mb-0">
                                 <li>ID and Address Proof</li>
                                 <li>PAN</li>

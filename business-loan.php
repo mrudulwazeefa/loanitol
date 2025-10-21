@@ -198,12 +198,8 @@
                     <div class="row py-3">
                         <div class="card p-4 d-flex">
                             <div class="row p-2">
-                                <div class="d-flex pb-4">
-                                    <img src="assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg"
-                                        alt="">
-                                    <h5 class="mb-0 ms-3">Self Employed Non-professionals</h5>
-                                </div>
-                                <div class="col-md-7">
+                                    <h5 class="mb-2 ms-2">Self Employed Non-professionals</h5>
+                                <div class="col-md-7 mt-3">
                                     <ul class="mb-0 px-4">
                                         <li>ID and Address Proof of the Applicants</li>
                                         <li>PAN of the Applicants</li>
@@ -218,7 +214,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="col-md-5">
+                                <div class="col-md-5 mt-1">
                                     <ul class="mb-0">
                                         <li>Proof of Business Continuity for 3 Years</li>
                                         <li>For Pvt Ltd Companies:
@@ -243,20 +239,16 @@
                         </div>
                         <div class="card p-4 mt-4 d-flex">
                             <div class="row p-2">
-                                <div class="d-flex">
-                                    <img src="assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg"
-                                        alt="">
-                                    <h5 class="mb-0 ms-3">Self Employed Professional
+                                    <h5 class="mb-2 ms-2">Self Employed Professional
                                     </h5>
-                                </div>
-                                <div class="col-md-7 mt-4">
+                                <div class="col-md-7 mt-3">
                                     <ul class="mb-0 px-4">
                                         <li>ID and Address Proof</li>
                                         <li>PAN</li>
                                         <li>Bank Account Statement for the Last 12 Months</li>
                                     </ul>
                                 </div>
-                                <div class="col-md-5 mt-0 mt-md-4">
+                                <div class="col-md-5 mt-0 mt-md-1">
                                     <ul class="mb-0 px-4">
                                         <li>Sanction Letter and Repayment Schedule for Existing Loans</li>
                                         <li>Udhayam Registration Certificate</li>
@@ -279,31 +271,26 @@
                 <div class="row d-flex flex-column flex-sm-row py-5">
                     <div class="col-12 col-sm-5 d-flex align-items-center">
                         <div class="div">
-                            <img src="assets/retail-home-loan/icons/fee-and-charges.svg" alt="">
+                            <img src="assets/home-loan/icons/fee-and-charges.svg" alt="">
                             <h2 class="fw-semibold">Fees & Charges</h2>
                         </div>
                     </div>
                     <div class="col-12 col-sm-7 mt-4 mt-sm-0">
                         <div class="card p-4">
-                            <div class="d-flex mb-2">
-                                <img src="assets/business-loan/logo.svg" alt="">
-                                <h5 class="fw-semibold mb-0 ms-2">Other Fees</h5>
+                            <div class="d-flex mb-2 icon">
+                                <h5 class="fw-semibold mb-2 ms-2">Other Fees</h5>
                             </div>
                             <div class="d-flex flex-column flex-lg-row justify-content-between">
-                                <div class="div">
                                     <ul>
                                         <li>Processing Fee</li>
                                         <li>Documentation Charges</li>
                                         <li>Penal Charges</li>
                                     </ul>
-                                </div>
-                                <div class="div">
                                     <ul>
                                         <li>EMI / Cheque Bounce Charges</li>
                                         <li>Foreclosure Charges</li>
                                         <li>Insurance</li>
                                     </ul>
-                                </div>
                             </div>
                         </div>
                     </div>

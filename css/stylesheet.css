@@ -3950,6 +3950,10 @@ img {
 }
 
 
+
+
+
+
 /*  Responsive */
 @media screen and (max-width: 400px) {
   .people_say .loanitol-service .owl-theme .owl-dots,
@@ -4708,6 +4712,12 @@ img {
 }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+  .loan-against-property_img {
+    height: 240px!important;
+  }
+  .documents-required-home-loan h5{
+    font-size: var(--font-16)!important;
+  }
   .strategy-section .image{
     display: block;
   }
@@ -5007,6 +5017,12 @@ img {
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+  .documents-required-home-loan h5{
+     .loan-against-property_img {
+    height: 198px!important;
+  }
+    font-size: var(--font-18)!important;
+  }
    .strategy-section h1 {
     font-size: 30px;
 }
@@ -7050,7 +7066,13 @@ input.search-field.show-placeholder::placeholder {
   overflow: hidden;
   border-radius: var(--theme-border-radius);
 }
-
+.loan-against-property_img {
+  height: 198px;
+   width: 100%;
+   max-width:100%;
+  overflow: hidden;
+  border-radius: var(--theme-border-radius);
+}
 
 .funding-crucial-section-1 {
   background: linear-gradient(to bottom, #fff3f5, #fff3f5);
@@ -7563,6 +7585,17 @@ input.search-field.show-placeholder::placeholder {
   font-size: var(--font-18);
   color: var(--theme-color) !important;
 }
+.documents-required-home-loan h5::before,
+.icon h5::before {
+  content: url("../assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg"); /* or use Font Awesome icon code */
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px; /* space between icon and text */
+}
+
+
+
+
 .eligibility-criteria-section,
 .documents-required-home-loan,
 .features-section,

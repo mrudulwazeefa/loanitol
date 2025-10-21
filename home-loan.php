@@ -184,7 +184,7 @@
                     <h4 class="h4-size2 mb-5">Eligibility Criteria</h4>
                     <div class="card p-4">
                         <h5 class="mb-3">Age:</h5>
-                        <ul class="text-black">
+                        <ul>
                             <li>NRI salaried person: 23 to 60 years</li>
                             <li>Self-employed person: 25 to 65 years</li>
                             <li>Self-employed professional: 25 to 65 years</li>
@@ -193,7 +193,7 @@
                     </div>
                     <div class="card p-4 mt-3 mt-md-4">
                         <h5 class="mb-3">Credit Score:</h5>
-                        <ul class="text-black">
+                        <ul>
                             <li>NRI salaried person: 23 to 60 years</li>
                             <li>Self-employed person: 25 to 65 years</li>
                             <li>Self-employed professional: 25 to 65 years</li>
@@ -204,7 +204,7 @@
                 <div class="col-12 col-sm-6 col-md-6 col-lg-7 mt-3 mt-sm-0">
                     <div class="card p-4">
                         <h5 class="mb-3">Income:</h5>
-                        <ul class="text-black">
+                        <ul>
                             <li>Salaried Person: Minimum monthly salary of ₹25,000, credited through a bank
                                 account with standard deductions.</li>
                             <li>NRI Salaried Person: Minimum monthly salary equivalent to ₹1,00,000, credited
@@ -214,7 +214,7 @@
                     </div>
                     <div class="card p-4 mt-3 mt-md-4">
                         <h5 class="mb-3">Experience:</h5>
-                        <ul class="text-black">
+                        <ul>
                             <li>Salaried Person: Minimum 2 to 3 years of experience in an MNC, Private Limited, or
                                 Public Limited company.</li>
                             <li>Self-Employed Person: Minimum 3 years of experience in the current field.</li>
@@ -233,8 +233,7 @@
                     <h4 class="mb-4 h4-size2">Documents Required</h4>
                     <div class="row py-3">
                         <div class="col-md-4">
-                            <h5>Income Document
-                                Salaried</h5>
+                            <h5 class="mb-2 ms-2">Income Document Salaried</h5>
                             <ul>
                                 <li>Address Proof</li>
                                 <li>ID Proof</li>
@@ -247,7 +246,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4 mt-4 mt-md-0">
-                            <h5>Self-Employed Individuals</h5>
+                            <h5 class="mb-2 ms-2">Self-Employed Individuals</h5>
                             <ul class="mb-0">
                                 <li>Address Proof</li>
                                 <li>ID Proof</li>
@@ -269,7 +268,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4 mt-4">
-                            <h5>Self Employed Professional
+                            <h5 class="mb-2 ms-2">Self Employed Professional
                             </h5>
                             <ul>
                                 <li>Address Proof</li>
@@ -283,7 +282,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4 mt-4">
-                            <h5>Property Documents Required</h5>
+                            <h5 class="mb-2 ms-2">Property Documents Required</h5>
                             <ul class="mb-0 mb-md-3">
                                 <li>Address Proof</li>
                                 <li>ID Proof</li>
