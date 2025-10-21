@@ -394,7 +394,7 @@
                                     <img src="assets/home/icons/client-needs.svg">
                                 </div>
                             </div>
-                            <h2>Best Possible Loan Terms</h2>
+                            <h2 class="col-lg-9 col-md-11">Best Possible Loan Terms</h2>
                             <p>
                                 We secure the most competitive interest rates, fees, and repayment options, guaranteeing
                                 you the best possible loan terms.
@@ -408,7 +408,7 @@
                                     <img src="assets/home/icons/transparency-loan.svg">
                                 </div>
                             </div>
-                            <h2>Simplified Loan Process</h2>
+                            <h2 class="col-lg-9 col-md-11">Simplified Loan Process</h2>
                             <p>
                                 We make the loan process easy and stress-free with our streamlined application and
                                 approval process.
@@ -422,7 +422,7 @@
                                     <img src="assets/home/icons/experienced-knowledgeable-team.svg">
                                 </div>
                             </div>
-                            <h2>Personalized Financial Advice</h2>
+                            <h2 class="col-lg-9 col-md-11">Personalized Financial Advice</h2>
                             <p>
                                 Our experts offer personalized financial advice and tailored guidance, empowering you to
                                 make informed decisions about your financial future.
@@ -436,7 +436,7 @@
                                     <img src="assets/home/icons/possible-loan-terms.svg">
                                 </div>
                             </div>
-                            <h2>Time and Effort Savings</h2>
+                            <h2 class="col-lg-9 col-md-11">Time and Effort Savings</h2>
                             <p>
                                 Skip the tedious paperwork and stressful lender communication. We handle it all, saving
                                 you valuable time and energy to focus on your priorities.
@@ -451,7 +451,7 @@
                                     <img src="assets/home/icons/loan-process.svg">
                                 </div>
                             </div>
-                            <h2>Increased Financial Confidence</h2>
+                            <h2 class="col-lg-9 col-md-11">Increased Financial Confidence</h2>
                             <p>
                                 Unlock your financial potential. We empower you with the knowledge and support to make
                                 informed decisions and confidently achieve your financial goals.
@@ -466,7 +466,7 @@
                                     <img src="assets/home/icons/financial-advice.svg">
                                 </div>
                             </div>
-                            <h2>A Commitment to Innovation</h2>
+                            <h2 class="col-lg-9 col-md-11">A Commitment to Innovation</h2>
                             <p>
                                 We're dedicated to providing a cutting-edge loan experience. By leveraging technology,
                                 we streamline the entire process and make it as seamless as possible for you.
@@ -482,9 +482,8 @@
                                     <img src="assets/home/icons/save-money.svg">
                                 </div>
                             </div>
-                            <h2>A Reputation for Excellence</h2>
-                            <p>
-                                We have a proven track record of successfully helping clients secure the right loans for
+                            <h2 class="col-lg-9 col-md-11">A Reputation for Excellence</h2>
+                            <p> We have a proven track record of successfully helping clients secure the right loans for
                                 their needs. We have a strong reputation for excellence, consistently helping clients
                                 secure the ideal loans to achieve their financial goals.
                             </p>
@@ -497,7 +496,7 @@
                                     <img src="assets/home/icons/financial-confidence.svg">
                                 </div>
                             </div>
-                            <h2>A Customer-Centric Approach</h2>
+                            <h2 class="col-lg-9 col-md-11">A Customer-Centric Approach</h2>
                             <p>
                                 Your satisfaction is our priority. We are dedicated to providing exceptional customer
                                 service and building long-term relationships based on trust and mutual success.
@@ -511,7 +510,7 @@
                                     <img src="assets/home/icons/money-innovation.svg">
                                 </div>
                             </div>
-                            <h2>Local Expertise</h2>
+                            <h2 class="col-lg-9 col-md-11">Local Expertise</h2>
                             <p>
                                 Our deep understanding of the local market allows us to provide personalized loan
                                 solutions that meet your specific needs.
@@ -525,7 +524,7 @@
                                     <img src="assets/home/icons/money-excellence.svg">
                                 </div>
                             </div>
-                            <h2>A Trusted Brand</h2>
+                            <h2 class="col-lg-9 col-md-11">A Trusted Brand</h2>
                             <p>
                                 Years of experience and satisfied customers have made us a trusted name in lending.
                             </p>
