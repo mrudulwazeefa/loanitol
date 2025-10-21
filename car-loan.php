@@ -82,7 +82,7 @@
                                     <img src="assets/car-loan/icons/new-car-loan.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">New Car Loan</h2>
+                            <h2 class="col-lg-9 col-md-11">New Car Loan</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -92,7 +92,7 @@
                                     <img src="assets/car-loan/icons/used-car-load.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Used Car Loan</h2>
+                            <h2 class="col-lg-9 col-md-11">Used Car Loan</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -102,7 +102,7 @@
                                     <img src="assets/car-loan/icons/auto-refinance.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Auto Refinance</h2>
+                            <h2 class="col-lg-9 col-md-11">Auto Refinance</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -112,7 +112,7 @@
                                     <img src="assets/car-loan/icons/car-loan-balance-transfer.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Car Loan Balance Transfer</h2>
+                            <h2 class="col-lg-9 col-md-11">Car Loan Balance Transfer</h2>
                         </div>
                     </div>
 

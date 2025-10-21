@@ -53,7 +53,7 @@
                                         <img src="assets/real-estate-advisory-service/icons/valuation-services.svg">
                                     </div>
                                 </div>
-                                <h2>Valuation Services</h2>
+                                <h2 class="col-lg-9 col-md-11">Valuation Services</h2>
                                 <p>
                                     Determining the fair market value of properties for investment, financing,
                                     litigation, and other purposes.
@@ -68,7 +68,7 @@
                                         <img src="assets/real-estate-advisory-service/icons/development-advisory.svg">
                                     </div>
                                 </div>
-                                <h2>Development Advisory</h2>
+                                <h2 class="col-lg-9 col-md-11">Development Advisory</h2>
                                 <p>
                                     Assisting in the planning and execution of new real estate projects.
                                 </p>
@@ -82,7 +82,7 @@
                                         <img src="assets/real-estate-advisory-service/icons/feasability-studies.svg">
                                     </div>
                                 </div>
-                                <h2>Feasibility Analysis</h2>
+                                <h2 class="col-lg-9 col-md-11">Feasibility Analysis</h2>
                                 <p>
                                     Evaluating the viability and profitability of potential real estate developments.
                                 </p>
@@ -112,7 +112,7 @@
                                             class="theme-radius">
                                     </div>
                                 </div>
-                                <h2>Financial Modelling</h2>
+                                <h2 class="col-lg-9 col-md-11">Financial Modelling</h2>
                                 <p>
                                     Developing financial models to analyse potential returns and risks of real estate
                                     investments.
@@ -128,7 +128,7 @@
                                             class="theme-radius">
                                     </div>
                                 </div>
-                                <h2>Tax Advisory</h2>
+                                <h2 class="col-lg-9 col-md-11">Tax Advisory</h2>
                                 <p>
                                     Providing expert guidance on tax implications related to real estate
                                     transactions and investments.
@@ -144,7 +144,7 @@
                                             class="theme-radius">
                                     </div>
                                 </div>
-                                <h2>Acquisition & Disposition Services</h2>
+                                <h2 class="col-lg-9 col-md-11">Acquisition & Disposition Services</h2>
                                 <p>
                                     Strategically managing the buying and selling of properties to optimize investment
                                     outcomes.
@@ -160,7 +160,7 @@
                                             class="theme-radius">
                                     </div>
                                 </div>
-                                <h2>Feasibility Studies</h2>
+                                <h2 class="col-lg-9 col-md-11">Feasibility Studies</h2>
                                 <p>
                                     Conducting comprehensive assessments to determine the practicality of real estate
                                     projects or investments.
@@ -176,7 +176,7 @@
                                             class="theme-radius">
                                     </div>
                                 </div>
-                                <h2>Dispute & Litigation Advisory</h2>
+                                <h2 class="col-lg-9 col-md-11">Dispute & Litigation Advisory</h2>
                                 <p>
                                     Offering expertise in resolving real estate-related disputes and legal conflicts.
                                 </p>
@@ -191,7 +191,7 @@
                                             class="theme-radius">
                                     </div>
                                 </div>
-                                <h2>Financing & Debt Advisory</h2>
+                                <h2 class="col-lg-9 col-md-11">Financing & Debt Advisory</h2>
                                 <p>
                                     Assisting clients in securing funding for real estate projects and managing debt
                                     obligations effectively.
@@ -207,7 +207,7 @@
                                             class="theme-radius">
                                     </div>
                                 </div>
-                                <h2>Capital Advisory Services</h2>
+                                <h2 class="col-lg-9 col-md-11">Capital Advisory Services</h2>
                                 <p>
                                     Providing strategic financing and structuring solutions for real estate investments
                                     and developments.
@@ -223,7 +223,7 @@
                                             class="theme-radius">
                                     </div>
                                 </div>
-                                <h2>RERA Compliance Audits</h2>
+                                <h2 class="col-lg-9 col-md-11">RERA Compliance Audits</h2>
                                 <p>
                                     Ensuring adherence to Real Estate Regulatory Authority (RERA) regulations and
                                     guidelines.
@@ -239,7 +239,7 @@
                                             class="theme-radius">
                                     </div>
                                 </div>
-                                <h2>Investment Due Diligence</h2>
+                                <h2 class="col-lg-9 col-md-11">Investment Due Diligence</h2>
                                 <p>
                                     Conducting rigorous evaluations of potential real estate investments to mitigate
                                     risks and ensure informed decision-making.
@@ -255,7 +255,7 @@
                                             class="theme-radius">
                                     </div>
                                 </div>
-                                <h2>Hospitality Real Estate Advisory</h2>
+                                <h2 class="col-lg-9 col-md-11">Hospitality Real Estate Advisory</h2>
                                 <p>
                                     Specializing in real estate advisory for hotels, resorts, and other hospitality
                                     properties, bridging the gap between real estate and the hospitality sector.

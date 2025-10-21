@@ -53,7 +53,7 @@
                                         <img src="assets/finance-and-accounting/icons/financial-analysis.svg">
                                     </div>
                                 </div>
-                                <h2>Financial Analysis & Reporting</h2>
+                                <h2 class="col-lg-9 col-md-11">Financial Analysis & Reporting</h2>
                                 <p class="mb-0">
                                     Evaluating financial data to identify trends, measure performance, and support
                                     informed decision-making.
@@ -67,7 +67,7 @@
                                         <img src="assets/finance-and-accounting/icons/financial-planning.svg">
                                     </div>
                                 </div>
-                                <h2>Financial Planning & Analysis (FP&A)</h2>
+                                <h2 class="col-lg-9 col-md-11">Financial Planning & Analysis (FP&A)</h2>
                                 <p class="mb-0">
                                     Developing budgets, forecasts, and financial strategies to align with business
                                     goals.
@@ -81,7 +81,7 @@
                                         <img src="assets/finance-and-accounting/icons/cfo-services.svg">
                                     </div>
                                 </div>
-                                <h2>CFO Services</h2>
+                                <h2 class="col-lg-9 col-md-11">CFO Services</h2>
                                 <p class="mb-0">
                                     Offering financial leadership, strategic insights, and expertise to optimize
                                     business finances
@@ -95,7 +95,7 @@
                                         <img src="assets/finance-and-accounting/icons/cash-flow.svg">
                                     </div>
                                 </div>
-                                <h2>Cash Flow Management</h2>
+                                <h2 class="col-lg-9 col-md-11">Cash Flow Management</h2>
                                 <p class="mb-0">
                                     Overseeing cash inflows and outflows to maintain liquidity and financial stability.
                                 </p>
@@ -108,7 +108,7 @@
                                         <img src="assets/finance-and-accounting/icons/investment-management.svg">
                                     </div>
                                 </div>
-                                <h2>Investment Management</h2>
+                                <h2 class="col-lg-9 col-md-11">Investment Management</h2>
                                 <p class="mb-0">
                                     Handling investments in stocks, bonds, and other financial assets to maximize
                                     returns.
@@ -122,7 +122,7 @@
                                         <img src="assets/finance-and-accounting/icons/debt-management.svg">
                                     </div>
                                 </div>
-                                <h2>Debt Management</h2>
+                                <h2 class="col-lg-9 col-md-11">Debt Management</h2>
                                 <p class="mb-0">
                                     Managing loans, bonds, and other liabilities to optimize financial health.
                                 </p>
@@ -135,7 +135,7 @@
                                         <img src="assets/finance-and-accounting/icons/treasury-management.svg">
                                     </div>
                                 </div>
-                                <h2>Treasury Management</h2>
+                                <h2 class="col-lg-9 col-md-11">Treasury Management</h2>
                                 <p class="mb-0">
                                     Ensuring efficient use of cash and liquid assets for operational and strategic
                                     needs.
@@ -149,7 +149,7 @@
                                         <img src="assets/finance-and-accounting/icons/risk-management.svg">
                                     </div>
                                 </div>
-                                <h2>Risk Management</h2>
+                                <h2 class="col-lg-9 col-md-11">Risk Management</h2>
                                 <p class="mb-0">
                                     Identifying, analyzing, and mitigating financial risks to protect business
                                     interests.
@@ -163,7 +163,7 @@
                                         <img src="assets/finance-and-accounting/icons/finance-transformation.svg">
                                     </div>
                                 </div>
-                                <h2>Finance Transformation</h2>
+                                <h2 class="col-lg-9 col-md-11">Finance Transformation</h2>
                                 <p class="mb-0">
                                     Enhancing financial processes and systems for greater efficiency and effectiveness.
                                 </p>
@@ -190,7 +190,7 @@
                                         <img src="assets/finance-and-accounting/icons/book-keeping.svg">
                                     </div>
                                 </div>
-                                <h2>Book keeping</h2>
+                                <h2 class="col-lg-9 col-md-11">Book keeping</h2>
                                 <p class="mb-0">
                                     Recording financial transactions, reconciling accounts, and maintaining precise
                                     financial records.
@@ -204,7 +204,7 @@
                                         <img src="assets/finance-and-accounting/icons/financial-statement.svg">
                                     </div>
                                 </div>
-                                <h2>Financial Statement Preparation</h2>
+                                <h2 class="col-lg-9 col-md-11">Financial Statement Preparation</h2>
                                 <p class="mb-0">
                                     Generating reports such as balance sheets, income statements, and cash flow
                                     statements to assess financial health.
@@ -218,7 +218,7 @@
                                         <img src="assets/finance-and-accounting/icons/compliance-management.svg">
                                     </div>
                                 </div>
-                                <h2>Compliance Management</h2>
+                                <h2 class="col-lg-9 col-md-11">Compliance Management</h2>
                                 <p class="mb-0">
                                     Ensuring financial records and reporting aligned with applicable laws, regulations,
                                     and accounting standards.
@@ -232,7 +232,7 @@
                                         <img src="assets/finance-and-accounting/icons/tax-preparation.svg">
                                     </div>
                                 </div>
-                                <h2>Tax Preparation</h2>
+                                <h2 class="col-lg-9 col-md-11">Tax Preparation</h2>
                                 <p class="mb-0">
                                     Preparing and filing tax returns while ensuring compliance with tax regulations.
                                 </p>
@@ -245,7 +245,7 @@
                                         <img src="assets/finance-and-accounting/icons/auditing.svg">
                                     </div>
                                 </div>
-                                <h2>Auditing</h2>
+                                <h2 class="col-lg-9 col-md-11">Auditing</h2>
                                 <p class="mb-0">
                                     Reviewing financial records and statements to verify accuracy and regulatory
                                     compliance
@@ -259,7 +259,7 @@
                                         <img src="assets/finance-and-accounting/icons/payroll-processing.svg">
                                     </div>
                                 </div>
-                                <h2>Payroll Processing</h2>
+                                <h2 class="col-lg-9 col-md-11">Payroll Processing</h2>
                                 <p class="mb-0">
                                     Managing employee wages, deductions, and payroll taxes efficiently.
                                 </p>
@@ -272,7 +272,7 @@
                                         <img src="assets/finance-and-accounting/icons/accounts-payable.svg">
                                     </div>
                                 </div>
-                                <h2>Accounts Payable & Receivable</h2>
+                                <h2 class="col-lg-9 col-md-11">Accounts Payable & Receivable</h2>
                                 <p class="mb-0">
                                     Overseeing invoices, payments, and outstanding balances with suppliers and
                                     customers.
@@ -286,7 +286,7 @@
                                         <img src="assets/finance-and-accounting/icons/inventory-management.svg">
                                     </div>
                                 </div>
-                                <h2>Inventory Management</h2>
+                                <h2 class="col-lg-9 col-md-11">Inventory Management</h2>
                                 <p class="mb-0">
                                     Monitoring stock levels, costs, and movements to optimize inventory control.
                                 </p>
@@ -299,7 +299,7 @@
                                         <img src="assets/finance-and-accounting/icons/bank-reconsilation.svg">
                                     </div>
                                 </div>
-                                <h2>Bank Reconciliation</h2>
+                                <h2 class="col-lg-9 col-md-11">Bank Reconciliation</h2>
                                 <p class="mb-0">
                                     Comparing bank statements with internal records to maintain accurate cash balances.
                                 </p>
@@ -312,7 +312,7 @@
                                         <img src="assets/finance-and-accounting/icons/gst-analysis.svg">
                                     </div>
                                 </div>
-                                <h2>GST Analysis & Reporting</h2>
+                                <h2 class="col-lg-9 col-md-11">GST Analysis & Reporting</h2>
                                 <p class="mb-0">
                                     Evaluating the impact of Goods and Services Tax (GST) on financial transactions and
                                     reporting accordingly
@@ -326,7 +326,7 @@
                                         <img src="assets/finance-and-accounting/icons/cost-accounting.svg">
                                     </div>
                                 </div>
-                                <h2>Cost Accounting</h2>
+                                <h2 class="col-lg-9 col-md-11">Cost Accounting</h2>
                                 <p class="mb-0">
                                     Analyzing costs to enhance profitability and operational efficiency
                                 </p>
@@ -339,7 +339,7 @@
                                         <img src="assets/finance-and-accounting/icons/management-reporting.svg">
                                     </div>
                                 </div>
-                                <h2>Management Reporting</h2>
+                                <h2 class="col-lg-9 col-md-11">Management Reporting</h2>
                                 <p class="mb-0">
                                     Delivering financial insights and reports to support executive decision-making.
                                 </p>
@@ -352,7 +352,7 @@
                                         <img src="assets/finance-and-accounting/icons/strategic-planning.svg">
                                     </div>
                                 </div>
-                                <h2>Strategic Planning</h2>
+                                <h2 class="col-lg-9 col-md-11">Strategic Planning</h2>
                                 <p class="mb-0">
                                     Assisting in the formulation and execution of financial strategies to drive business
                                     growth.
@@ -366,7 +366,7 @@
                                         <img src="assets/finance-and-accounting/icons/internal-controls.svg">
                                     </div>
                                 </div>
-                                <h2>Internal Controls & Process Improvement</h2>
+                                <h2 class="col-lg-9 col-md-11">Internal Controls & Process Improvement</h2>
                                 <p class="mb-0">
                                     Prevent errors, detect fraud, and ensure data accuracy. Streamline workflows for
                                     efficiency and timely reporting.
@@ -380,7 +380,7 @@
                                         <img src="assets/finance-and-accounting/icons/budgeting-and-forecasting.svg">
                                     </div>
                                 </div>
-                                <h2>Budgeting & Forecasting</h2>
+                                <h2 class="col-lg-9 col-md-11">Budgeting & Forecasting</h2>
                                 <p class="mb-0">
                                     Creating financial plans and projections to guide future business performance.
                                 </p>

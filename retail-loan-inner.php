@@ -10,8 +10,7 @@
             <div class="row d-flex align-items-center">
                 <div class="col-lg-8 col-md-8">
                     <h5 class="h5-size col-sm-12">
-                        Achieve Your Dreams with
-                        <br>Flexible <span class="d-inline-block">Retail Loans</span>
+                        Achieve Your Dreams with Flexible <span class="d-inline-block">Retail Loans</span>
                     </h5>
                     <p style="color: #221E1E">Tailored loans to meet your personal and financial needs.
                     </p>

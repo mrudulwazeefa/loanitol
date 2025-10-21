@@ -51,7 +51,7 @@
                                     <img src="assets/referral-associate/icons/supplementary-income-opportunity.svg">
                                 </div>
                             </div>
-                            <h2 class="col-lg-9">Supplementary Income Opportunity</h2>
+                            <h2 class="col-lg-9 col-md-11">Supplementary Income Opportunity</h2>
                             <p class="mb-0">
                                 Generate additional revenue by acting as a Referral Associate. You earn commissions for
                                 successful client referrals that lead to smoothly processed and disbursed loans.
@@ -65,7 +65,7 @@
                                     <img src="assets/referral-associate/icons/minimal-time.svg">
                                 </div>
                             </div>
-                            <h2 class="col-lg-9">Minimal Time & Resource Investment</h2>
+                            <h2 class="col-lg-9 col-md-11">Minimal Time & Resource Investment</h2>
                             <p class="mb-0">
                                 Your primary function as a Referral Associate is to identify clients needing financial
                                 assistance and connect them with Loanitol. Loanitol  then manages the process of finding
@@ -80,7 +80,7 @@
                                     <img src="assets/referral-associate/icons/flexible-shedule.svg">
                                 </div>
                             </div>
-                            <h2 class="col-lg-9">Flexible Schedule</h2>
+                            <h2 class="col-lg-9 col-md-11">Flexible Schedule</h2>
                             <p class="mb-0">
                                 Operate independently without fixed working hours.
                             </p>
@@ -93,7 +93,7 @@
                                     <img src="assets/referral-associate/icons/expedite-client-funding.svg">
                                 </div>
                             </div>
-                            <h2 class="col-lg-9">Expedite Client Funding</h2>
+                            <h2 class="col-lg-9 col-md-11">Expedite Client Funding</h2>
                             <p class="mb-0">
                                 By connecting clients with Loanitol, you facilitate access to efficient loan processing.
                                 This potentially speeds up their acquisition of necessary funds, enabling their projects
@@ -108,7 +108,7 @@
                                     <img src="assets/referral-associate/icons/access-to-diverse-loan-products.svg">
                                 </div>
                             </div>
-                            <h2 class="col-lg-9">Access to Diverse Loan Products</h2>
+                            <h2 class="col-lg-9 col-md-11">Access to Diverse Loan Products</h2>
                             <p class="mb-0">
                                 Confidently refer clients knowing Loanitol offers a comprehensive portfolio, including
                                 personal, business, and other loan types, sourced from leading financial institutions to
@@ -123,7 +123,7 @@
                                     <img src="assets/referral-associate/icons/robust-network.svg">
                                 </div>
                             </div>
-                            <h2 class="col-lg-9">Robust Network of Financial Institutions</h2>
+                            <h2 class="col-lg-9 col-md-11">Robust Network of Financial Institutions</h2>
                             <p class="mb-0">
                                 Leverage Loanitol's extensive partnerships with over 100 banks, NBFCs, and financial
                                 institutions. This network ensures your referred clients gain access to competitive loan
@@ -138,7 +138,7 @@
                                     <img src="assets/referral-associate/icons/enhanced-client-trust.svg">
                                 </div>
                             </div>
-                            <h2 class="col-lg-9">Enhanced Client Trust & Confidence</h2>
+                            <h2 class="col-lg-9 col-md-11">Enhanced Client Trust & Confidence</h2>
                             <p class="mb-0">
                                 Strengthen your relationships by guiding clients towards effective financial solutions.
                                 Providing valuable connections to a reliable partner like Loanitol enhances their trust
@@ -260,7 +260,7 @@
                                     <img src="assets/msme-loan/icon/working-capital-cc.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Proof of Identity like PAN card, Aadhar Card</h2>
+                            <h2 class="col-lg-9 col-md-11">Proof of Identity like PAN card, Aadhar Card</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -270,7 +270,7 @@
                                     <img src="assets/referral-partner/icons/proof-of-address.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Proof of address</h2>
+                            <h2 class="col-lg-9 col-md-11">Proof of address</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -280,7 +280,7 @@
                                     <img src="assets/referral-partner/icons/bank-transaction.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Your Most Recent 3 Months' Bank Transaction Details</h2>
+                            <h2 class="col-lg-9 col-md-11">Your Most Recent 3 Months' Bank Transaction Details</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -290,7 +290,7 @@
                                     <img src="assets/referral-partner/icons/build-relationships-with-fls.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Empanelment Form Along With Necessary Agreements</h2>
+                            <h2 class="col-lg-9 col-md-11">Empanelment Form Along With Necessary Agreements</h2>
                         </div>
                     </div>
                 </div>

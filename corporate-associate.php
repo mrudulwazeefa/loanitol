@@ -54,7 +54,7 @@
                                         <img src="assets/corporate-associate/icons/monthly-earning-potential.svg">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Significant Monthly Earning Potential</h2>
+                                <h2 class="col-lg-9 col-md-11">Significant Monthly Earning Potential</h2>
                                 <p>
                                     Associating with Loanitol presents a prime opportunity to generate substantial
                                     supplementary income each month simply by referring your clients who require loan
@@ -69,7 +69,7 @@
                                         <img src="assets/corporate-associate/icons/strengthen-client-relationships.svg">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Strengthen Client Relationships</h2>
+                                <h2 class="col-lg-9 col-md-11">Strengthen Client Relationships</h2>
                                 <p>
                                     Build greater trust and confidence with your
                                     clients by connecting them to effective financial solutions through Loanitol,
@@ -85,7 +85,7 @@
                                         <img src="assets/corporate-associate/icons/work-flexibility.svg">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Work Flexibility</h2>
+                                <h2 class="col-lg-9 col-md-11">Work Flexibility</h2>
                                 <p>
                                     Enjoy the freedom to operate on your own schedule, integrating referral activities
                                     seamlessly with your existing professional commitments without fixed time
@@ -100,7 +100,7 @@
                                         <img src="assets/corporate-associate/icons/comprehensive-loan-profolio.svg">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Comprehensive Loan Portfolio</h2>
+                                <h2 class="col-lg-9 col-md-11">Comprehensive Loan Portfolio</h2>
                                 <p>
                                     Refer clients confidently, knowing Loanitol provides access to a wide array of loan
                                     products
@@ -114,7 +114,7 @@
                                         <img src="assets/home/icons/loan-process.svg">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Expansive Lender Network</h2>
+                                <h2 class="col-lg-9 col-md-11">Expansive Lender Network</h2>
                                 <p>
                                     Benefit from Loanitol's established relationships with over 100 banks, NBFCs, and
                                     financial

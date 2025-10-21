@@ -728,7 +728,7 @@
                                     <img src="assets/home/icons/client-needs.svg">
                                 </div>
                             </div>
-                            <h2>Unwavering Focus on Client Needs</h2>
+                            <h2 class="col-lg-9 col-md-11">Unwavering Focus on Client Needs</h2>
                             <p>
                                 We prioritize understanding your financial goals and needs to ensure our recommendations
                                 are the most
@@ -743,7 +743,7 @@
                                     <img src="assets/home/icons/transparency-loan.svg">
                                 </div>
                             </div>
-                            <h2>Transparency and Integrity</h2>
+                            <h2 class="col-lg-9 col-md-11">Transparency and Integrity</h2>
                             <p>
                                 We're dedicated to giving you clear and honest advice about your loan options. You'll
                                 understand
@@ -758,7 +758,7 @@
                                     <img src="assets/home/icons/experienced-knowledgeable-team.svg">
                                 </div>
                             </div>
-                            <h2>Experienced and Knowledgeable Team</h2>
+                            <h2 class="col-lg-9 col-md-11">Experienced and Knowledgeable Team</h2>
                             <p>
                                 Rely on our loan consultants' deep knowledge of the financial market. They are
                                 continuously trained and
@@ -774,7 +774,7 @@
                                     <img src="assets/home/icons/possible-loan-terms.svg">
                                 </div>
                             </div>
-                            <h2>Best Possible Loan Terms</h2>
+                            <h2 class="col-lg-9 col-md-11">Best Possible Loan Terms</h2>
                             <p>
                                 We secure the most competitive interest rates, fees, and repayment options, guaranteeing
                                 you the best
@@ -790,7 +790,7 @@
                                     <img src="assets/home/icons/loan-process.svg">
                                 </div>
                             </div>
-                            <h2>Simplified Loan Process</h2>
+                            <h2 class="col-lg-9 col-md-11">Simplified Loan Process</h2>
                             <p>
                                 We make the loan process easy and stress-free with our streamlined application and
                                 approval process.
@@ -805,7 +805,7 @@
                                     <img src="assets/home/icons/financial-advice.svg">
                                 </div>
                             </div>
-                            <h2>Personalized Financial Advice</h2>
+                            <h2 class="col-lg-9 col-md-11">Personalized Financial Advice</h2>
                             <p>
                                 Our experts offer personalized financial advice and tailored guidance, empowering you to
                                 make informed
@@ -821,7 +821,7 @@
                                     <img src="assets/home/icons/save-money.svg">
                                 </div>
                             </div>
-                            <h2>Time and Effort Savings</h2>
+                            <h2 class="col-lg-9 col-md-11">Time and Effort Savings</h2>
                             <p>
                                 Skip the tedious paperwork and stressful lender communication. We handle it all, saving
                                 you valuable
@@ -836,7 +836,7 @@
                                     <img src="assets/home/icons/financial-confidence.svg">
                                 </div>
                             </div>
-                            <h2>Increased Financial Confidence</h2>
+                            <h2 class="col-lg-9 col-md-11">Increased Financial Confidence</h2>
                             <p>
                                 Unlock your financial potential. We empower you with the knowledge and support to make
                                 informed
@@ -851,7 +851,7 @@
                                     <img src="assets/home/icons/money-innovation.svg">
                                 </div>
                             </div>
-                            <h2>A Commitment to Innovation</h2>
+                            <h2 class="col-lg-9 col-md-11">A Commitment to Innovation</h2>
                             <p>
                                 We're dedicated to providing a cutting-edge loan experience. By leveraging technology,
                                 we streamline the
@@ -866,7 +866,7 @@
                                     <img src="assets/home/icons/money-excellence.svg">
                                 </div>
                             </div>
-                            <h2>A Reputation for Excellence</h2>
+                            <h2 class="col-lg-9 col-md-11">A Reputation for Excellence</h2>
                             <p>
                                 We have a proven track record of successfully helping clients secure the right loans for
                                 their needs. We
@@ -883,7 +883,7 @@
                                     <img src="assets/home/icons/customer-centric.svg">
                                 </div>
                             </div>
-                            <h2>A Customer-Centric Approach</h2>
+                            <h2 class="col-lg-9 col-md-11">A Customer-Centric Approach</h2>
                             <p>
                                 Your satisfaction is our priority. We are dedicated to providing exceptional customer
                                 service and
@@ -898,7 +898,7 @@
                                     <img src="assets/home/icons/local-expertise.svg">
                                 </div>
                             </div>
-                            <h2>Local Expertise</h2>
+                            <h2 class="col-lg-9 col-md-11">Local Expertise</h2>
                             <p>
                                 Our deep understanding of the local market allows us to provide personalized loan
                                 solutions that meet

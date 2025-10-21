@@ -53,7 +53,7 @@
                                     <img src="assets/bridge-loan/icon/short-term-loan.svg">
                                 </div>
                             </div>
-                            <h2>Short-Term</h2>
+                            <h2 class="col-lg-9 col-md-11">Short-Term</h2>
                             <p>
                                 Bridge loans are intended to be taken out for a little period of time, usually a few
                                 weeks and up to 52 months at most.
@@ -67,7 +67,7 @@
                                     <img src="assets/bridge-loan/icon/greater-interest-rate.svg">
                                 </div>
                             </div>
-                            <h2>Greater Interest Rates</h2>
+                            <h2 class="col-lg-9 col-md-11">Greater Interest Rates</h2>
                             <p>
                                 Bridge loans frequently have higher interest rates than conventional loans because of
                                 their short duration and the risk they entail.
@@ -81,7 +81,7 @@
                                     <img src="assets/bridge-loan/icon/no-collateral.svg">
                                 </div>
                             </div>
-                            <h2>No Collateral Needed</h2>
+                            <h2 class="col-lg-9 col-md-11">No Collateral Needed</h2>
                             <p>
                                 Bridge loans are usually based on cash flow and business   turnover and do not require
                                 collateral.
@@ -95,7 +95,7 @@
                                     <img src="assets/bridge-loan/icon/fast-fund-access.svg">
                                 </div>
                             </div>
-                            <h2>Fast Fund Access</h2>
+                            <h2 class="col-lg-9 col-md-11">Fast Fund Access</h2>
                             <p>
                                 When necessary, bridge loans offer quick access to funds.
                             </p>
@@ -108,7 +108,7 @@
                                     <img src="assets/bridge-loan/icon/simple-documentation.svg">
                                 </div>
                             </div>
-                            <h2>Simple Documentation</h2>
+                            <h2 class="col-lg-9 col-md-11">Simple Documentation</h2>
                             <p>
                                 Few complex papers and processing time are needed.
                             </p>
@@ -121,7 +121,7 @@
                                     <img src="assets/bridge-loan/icon/smart-loan.svg">
                                 </div>
                             </div>
-                            <h2>Smart Loan Sizing</h2>
+                            <h2 class="col-lg-9 col-md-11">Smart Loan Sizing</h2>
                             <p>
                                 The loan amount is determined by monthly turnover and payback capabilities.
                             </p>
@@ -134,7 +134,7 @@
                                     <img src="assets/bridge-loan/icon/smart-payback.svg">
                                 </div>
                             </div>
-                            <h2>Smart Payback Options</h2>
+                            <h2 class="col-lg-9 col-md-11">Smart Payback Options</h2>
                             <p>
                                 The borrower will have to repay the loan by paying weekly/monthly instalments
                             </p>

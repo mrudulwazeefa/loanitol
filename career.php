@@ -27,7 +27,7 @@
         <div class="container py-2 pt-5 pb-5">
             <div class="mt-5">
                 <h1 class="text-black text-center">Current Openings</h1>
-                <p class="text-center" stytle="color: #221E1E">Demo paragraph [ Redefine Your Career Path With a Company
+                <p class="text-center">Demo paragraph [ Redefine Your Career Path With a Company
                     That Cares ]</p>
             </div>
             <div class="job-cards mb-5 mt-5">
@@ -139,7 +139,6 @@
                                     <img src="assets/career/gallery1.jpg" class="img-fluid w-100 rounded"
                                         style=" object-fit: cover;" alt="Top square">
                                 </div>
-
                                 <!-- Bottom Square -->
                                 <div class="col-6">
                                     <img src="assets/career/gallery2.jpg" class="img-fluid w-100 rounded"

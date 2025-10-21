@@ -5653,8 +5653,7 @@ img {
   color: var(--theme-color);
 }
 .card-img {
-  border-radius: 10px !important;
-  border-radius: var(--theme-border-radius);
+  border-radius: var(--theme-border-radius)!important;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.07);
 }
 .hero-small--section-area .h6-size {
@@ -7436,33 +7435,34 @@ input.search-field.show-placeholder::placeholder {
 .retail-loan-types .card {
   background-color: #2c4e59 !important;
   border: 2px solid #437382 !important;
-  border-radius: 10px !important;
-  padding: 1.5rem;
-  color: white !important;
+  border-radius:var(--theme-border-radius) !important;
+  padding: 0.8rem;
+  color: var(--white) !important;
   box-sizing: border-box !important;
   transition: border-color 0.3s ease !important;
   transition: background-color 0.3s ease, box-shadow 0.3s ease !important;
 }
 .retail-loan-types .card p {
   font-size: var(--font-16);
+  line-height: 22px;
 }
 .retail-loan-types .card:hover {
-  background-color: #ffffff !important;
-  color: black !important;
+  background-color: var(--white)!important;
+  color:var(--black)!important;
   border-color: transparent !important;
 }
 .retail-loan-types .card span {
   display: inline-block !important;
   flex-shrink: 0 !important;
   flex-grow: 0 !important;
-  flex-basis: auto !important;
+  flex-basis: auto !important; 
   position: relative;
-  height: 60px;
-  width: 60px;
-  margin-bottom: 15px;
+  margin-bottom: 15px; 
+  height: 58px;
+  width: 58px;
   padding: 1rem;
   border-radius: 100%;
-  border: 2px solid #437382 !important;
+  border: 1px solid #0a3443 !important;
   background-color: #0a3443 !important;
   transition: background-color 0.3s ease;
   transition: border-color 0.3s ease;

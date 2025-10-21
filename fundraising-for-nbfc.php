@@ -30,8 +30,7 @@
     </div>
 
 <div class="linear-gradient main-section py-5 pb-0 position-relative overflow-hidden">
-    <img class="img-fluid pattern_z_1 position-absolute end-0"
-        src="assets/msme-loan/logos.png" alt="">
+    <img class="img-fluid pattern_z_1" src="assets/msme-loan/logos.png" alt="">
         <div class="container pb-5">
             <p class="mb-4">Banks can extend loans to Non-Banking Financial Companies (NBFCs), including Housing Finance
                 Companies
@@ -66,7 +65,7 @@
                                 <img src="assets/fundraising-for-nbfc/icons/capital-adequancy.svg">
                             </div>
                         </div>
-                        <h2>Capital Adequancy</h2>
+                        <h2 class="col-lg-9 col-md-11">Capital Adequancy</h2>
                         <p>
                             To maintain required Capital Adequacy Ratio (CAR) as per RBI norms.
                         </p>
@@ -79,7 +78,7 @@
                                 <img src="assets/fundraising-for-nbfc/icons/loan-portfolio-growth.svg">
                             </div>
                         </div>
-                        <h2>Loan Portfolio Growth</h2>
+                        <h2 class="col-lg-9 col-md-11">Loan Portfolio Growth</h2>
                         <p>
                             To fund for lending activities to expand their business
                         </p>
@@ -92,7 +91,7 @@
                                 <img src="assets/fundraising-for-nbfc/icons/liquidity-management.svg">
                             </div>
                         </div>
-                        <h2>Liquidity Management</h2>
+                        <h2 class="col-lg-9 col-md-11">Liquidity Management</h2>
                         <p>
                             To ensure sufficient funds for day-to-day operations and meeting obligations.
                         </p>
@@ -105,7 +104,7 @@
                                 <img src="assets/fundraising-for-nbfc/icons/expansion-and-diversification.svg">
                             </div>
                         </div>
-                        <h2>Expansion & Diversification</h2>
+                        <h2 class="col-lg-9 col-md-11">Expansion & Diversification</h2>
                         <p>
                             To fund for lending activites to expand their business.
                         </p>
@@ -119,7 +118,7 @@
                                     class="theme-radius">
                             </div>
                         </div>
-                        <h2>Technological Upgradation</h2>
+                        <h2 class="col-lg-9 col-md-11">Technological Upgradation</h2>
                         <p>
                             To invest in technology inorder to improve efficiency and reach.
                         </p>
@@ -147,7 +146,7 @@
                                         <img src="assets/fundraising-for-nbfc/icons/capital-adequancy.svg">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Team Loans</h2>
+                                <h2 class="col-lg-9 col-md-11">Team Loans</h2>
                             </div>
                         </div>
 
@@ -159,7 +158,7 @@
                                             alt="Risk Assessment">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Finance against Assets</h2>
+                                <h2 class="col-lg-9 col-md-11">Finance against Assets</h2>
                             </div>
                         </div>
 
@@ -171,7 +170,7 @@
                                             alt="Contract Drafting">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Working Capital Loans / Cash Credit</h2>
+                                <h2 class="col-lg-9 col-md-11">Working Capital Loans / Cash Credit</h2>
                             </div>
                         </div>
 
@@ -183,7 +182,7 @@
                                             alt="Dispute Resolution">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Line of Credit LOC</h2>
+                                <h2 class="col-lg-9 col-md-11">Line of Credit LOC</h2>
                             </div>
                         </div>
 
@@ -195,7 +194,7 @@
                                             alt="Business Formation">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Refinance</h2>
+                                <h2 class="col-lg-9 col-md-11">Refinance</h2>
                             </div>
                         </div>
 
@@ -207,7 +206,7 @@
                                             alt="Market Entry Advice & Structuring">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Assignment / Securitization</h2>
+                                <h2 class="col-lg-9 col-md-11">Assignment / Securitization</h2>
                             </div>
                         </div>
                     </div>
@@ -424,7 +423,7 @@
                                 <img src="assets/fundraising-for-nbfc/icons/capital-adequancy.svg">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Hassle-Free Processing</h2>
+                        <h2 class="col-lg-9 col-md-11">Hassle-Free Processing</h2>
                         <p>
                             Access to funds with minimal documentation requirements, ensuring a quick and seamless
                             process.
@@ -438,7 +437,7 @@
                                 <img src="assets/fundraising-for-nbfc/icons/loan-portfolio-growth.svg">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Flexible Tenor & Repayment Options</h2>
+                        <h2 class="col-lg-9 col-md-11">Flexible Tenor & Repayment Options</h2>
                         <p>
                             NBFCs benefit from customized financing structures that allow them to manage cash flows
                             effectively through flexible repayment schedules.
@@ -453,7 +452,7 @@
                                 <img src="assets/fundraising-for-nbfc/icons/multiple-financing-options.svg">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Multiple Financing Options</h2>
+                        <h2 class="col-lg-9 col-md-11">Multiple Financing Options</h2>
                         <p>
                             Availability of diverse funding products tailored to business requirements, enabling NBFCs
                             to optimize capital utilization.
@@ -467,7 +466,7 @@
                                 <img src="assets/fundraising-for-nbfc/icons/comprehensive-banking-solutions.svg">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Comprehensive Banking Solutions Under One Roof</h2>
+                        <h2 class="col-lg-9 col-md-11">Comprehensive Banking Solutions Under One Roof</h2>
                         <p>
                             Fund-raising support is integrated with a wide range of banking services including Current
                             Accounts, Escrow Accounts, Salary Accounts, Bulk FDs, Life Insurance Services, NACH/ACH
@@ -484,7 +483,7 @@
                                     class="theme-radius">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Doorstep & Fast-Track Services</h2>
+                        <h2 class="col-lg-9 col-md-11">Doorstep & Fast-Track Services</h2>
                         <p>
                             Ensuring convenience with doorstep assistance, resulting in quick approval and faster
                             disbursal of funds to meet business needs without delays.
@@ -499,7 +498,7 @@
                                     class="theme-radius">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Regulatory Compliance</h2>
+                        <h2 class="col-lg-9 col-md-11">Regulatory Compliance</h2>
                         <p>
                             Requirement: RBI registration and adherence to all applicable regulations (capital adequacy,
                             NPA management, KYC/AML).
@@ -514,7 +513,7 @@
                                     class="theme-radius">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Financial Strength</h2>
+                        <h2 class="col-lg-9 col-md-11">Financial Strength</h2>
                         <p>
                             Indicators: Strong credit rating, consistent profitability, healthy asset quality (low
                             NPAs), adequate capital adequacy ratio (CAR).
@@ -529,7 +528,7 @@
                                     class="theme-radius">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Management Quality</h2>
+                        <h2 class="col-lg-9 col-md-11">Management Quality</h2>
                         <p>
                             Assessment: Experience and expertise of the management team.
                         </p>
@@ -543,7 +542,7 @@
                                     class="theme-radius">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Risk Management Framework</h2>
+                        <h2 class="col-lg-9 col-md-11">Risk Management Framework</h2>
                         <p>
                             Requirement: Robust risk management policies and procedures.
                         </p>
@@ -556,7 +555,7 @@
                                 <img src="assets/fundraising-for-nbfc/icons/business-model.svg" class="theme-radius">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Business Model</h2>
+                        <h2 class="col-lg-9 col-md-11">Business Model</h2>
                         <p>
                             Viability: Sustainable and well-defined business model.
                         </p>
@@ -570,7 +569,7 @@
                                     class="theme-radius">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Purpose of Funding</h2>
+                        <h2 class="col-lg-9 col-md-11">Purpose of Funding</h2>
                         <p>
                             Acceptable Uses: Funding for lending activities, expansion, technological upgrades.
                         </p>
@@ -583,7 +582,7 @@
                                 <img src="assets/fundraising-for-nbfc/icons/operating-history.svg" class="theme-radius">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Operating History</h2>
+                        <h2 class="col-lg-9 col-md-11">Operating History</h2>
                         <p>
                             A long and good track record might be preferred by the lenders.
                         </p>
@@ -608,7 +607,7 @@
                                     alt="Develop a Robust Business Plan">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Develop a Robust Business Plan</h2>
+                        <h2 class="col-lg-9 col-md-11">Develop a Robust Business Plan</h2>
                     </div>
                 </div>
 
@@ -620,7 +619,7 @@
                                     alt="Maintain Strong Financial Performance">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Maintain Strong Financial Performance</h2>
+                        <h2 class="col-lg-9 col-md-11">Maintain Strong Financial Performance</h2>
                     </div>
                 </div>
 
@@ -633,7 +632,7 @@
                                     alt="Strengthen Risk Management">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Strengthen Risk Management</h2>
+                        <h2 class="col-lg-9 col-md-11">Strengthen Risk Management</h2>
                     </div>
                 </div>
 
@@ -646,7 +645,7 @@
                                     alt="Build Relationships with FIs">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Build Relationships with FIs</h2>
+                        <h2 class="col-lg-9 col-md-11">Build Relationships with FIs</h2>
                     </div>
                 </div>
 
@@ -658,7 +657,7 @@
                                     alt="Comply with Regulations">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Comply with Regulations</h2>
+                        <h2 class="col-lg-9 col-md-11">Comply with Regulations</h2>
                     </div>
                 </div>
 
@@ -670,7 +669,7 @@
                                     alt="Be Transparent and Open">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Be Transparent and Open</h2>
+                        <h2 class="col-lg-9 col-md-11">Be Transparent and Open</h2>
                     </div>
                 </div>
 
@@ -682,7 +681,7 @@
                                     alt="Due Diligence">
                             </div>
                         </div>
-                        <h2 class="col-md-9">Due Diligence</h2>
+                        <h2 class="col-lg-9 col-md-11">Due Diligence</h2>
                     </div>
                 </div>
 

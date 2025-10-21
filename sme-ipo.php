@@ -304,7 +304,7 @@
                                 <img src="assets/sme-ipo/icons/ipo-feasability.svg">
                             </div>
                         </div>
-                        <h2>IPO Feasability Assessment</h2>
+                        <h2 class="col-lg-9 col-md-11">IPO Feasability Assessment</h2>
                         <p class="mb-0">
                             Evaluating your business’s readiness for public listing.
                         </p>
@@ -317,7 +317,7 @@
                                 <img src="assets/sme-ipo/icons/regulatory-and-compliance-advisory.svg">
                             </div>
                         </div>
-                        <h2>Regulatory & Compliance Advisory</h2>
+                        <h2 class="col-lg-9 col-md-11">Regulatory & Compliance Advisory</h2>
                         <p class="mb-0">Ensuring adherence to SEBI, NSE, and BSE requirements.
                         </p>
                     </div>
@@ -329,7 +329,7 @@
                                 <img src="assets/sme-ipo/icons/financial-structuring-and-valuation.svg">
                             </div>
                         </div>
-                        <h2>Financial Structuring & Valuation</h2>
+                        <h2 class="col-lg-9 col-md-11">Financial Structuring & Valuation</h2>
                         <p class="mb-0">
                             Optimizing capital structure and determining fair valuation.
                         </p>
@@ -342,7 +342,7 @@
                                 <img src="assets/sme-ipo/icons/drafting-offer-documents.svg">
                             </div>
                         </div>
-                        <h2>Drafting Offer Documents</h2>
+                        <h2 class="col-lg-9 col-md-11">Drafting Offer Documents</h2>
                         <p class="mb-0">
                             Preparation of DRHP (Draft Red Herring Prospectus) and other necessary filings
                         </p>
@@ -355,7 +355,7 @@
                                 <img src="assets/sme-ipo/icons/investor-road-shows-and-marketing.svg">
                             </div>
                         </div>
-                        <h2>Investor Roadshows & Marketing</h2>
+                        <h2 class="col-lg-9 col-md-11">Investor Roadshows & Marketing</h2>
                         <p class="mb-0">
                             Enhancing visibility and attracting potential investors.
                         </p>
@@ -368,7 +368,7 @@
                                 <img src="assets/sme-ipo/icons/listing-and-post-ipo.svg">
                             </div>
                         </div>
-                        <h2>Listing & Post-IPO Compliance</h2>
+                        <h2 class="col-lg-9 col-md-11">Listing & Post-IPO Compliance</h2>
                         <p class="mb-0">
                             Ensuring smooth listing and adherence to post-IPO regulatory requirements.
                         </p>
