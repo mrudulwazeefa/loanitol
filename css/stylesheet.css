@@ -3969,6 +3969,10 @@ img {
 }
 /* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 600px) {
+  .img-equal-height{
+    height: 180px!important;
+    margin-bottom: 5%;
+  }
   .referral_image img{
   width: 96%;
 }
@@ -4421,6 +4425,10 @@ img {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media screen and (min-width: 600px) {
+  .img-equal-height{
+    height: 180px!important;
+    margin-bottom: 12%;
+  }
   .sme-ipo_img {
     height: 215px!important;
   }
@@ -4721,6 +4729,9 @@ img {
 }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+   .img-equal-height{
+    height: 180px!important;
+  }
   .loan-against-property_img {
     height: 240px!important;
   }
@@ -5026,6 +5037,9 @@ img {
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+ 
+
+
   .documents-required-home-loan h5{
      font-size: var(--font-18)!important;
   }
@@ -5203,6 +5217,11 @@ img {
 }
 /* */
 @media only screen and (min-width: 1024px) {
+.img-equal-height {
+  height: 129px !important;
+  object-fit: cover !important;
+}
+
   .strategy-section h1 {
     font-size: 30px;
 }
@@ -6514,13 +6533,13 @@ input.search-field.show-placeholder::placeholder {
   background-color: #0c3645 !important;
   font-family: var(--theme-font);
 }
-.eligible-professionals-section h2 {
+/* .eligible-professionals-section h2 {
   font-weight: 600 !important;
-}
-.eligible-professionals-section .card p {
+} */
+/* .eligible-professionals-section .card p {
   font-size: var(--font-16);
   font-weight: 500 !important;
-}
+} */
 .eligible-professionals-section .card {
   background-color: #2c4e59;
   border: 2px solid #437382 !important;
@@ -6649,9 +6668,13 @@ input.search-field.show-placeholder::placeholder {
 .stressed-funding-documents-section {
   background: linear-gradient(to bottom, #fff3f5, #ffffff);
 }
-.stressed-funding-documents-section li::marker {
-  color: black;
+.stressed-funding-documents-section h5{
+  color: var(--theme-color);
 }
+
+/* .stressed-funding-documents-section li::marker {
+  color: black;
+} */
 .stressed-funding-features-section .card {
   font-weight: 500 !important;
   border: 1px solid #e2e2e2 !important;
@@ -6666,16 +6689,17 @@ input.search-field.show-placeholder::placeholder {
 .stressed-funding-eligibility-section .card.equal-height {
   height: 60% !important;
 }
-.stressed-funding-eligibility-section .img-equal-height {
-  height: 60% !important;
+.img-equal-height {
+  height: 144px;
   object-fit: cover !important;
-  border-radius: 0.5rem !important;
 }
 .stressed-funding-features-section,
 .stressed-funding-documents-section {
   font-family: var(--theme-font);
 }
-
+.stressed-funding-features-section p{
+  margin-bottom: 0px;
+}
 /* Blog Page */
 .blog-icon {
   flex-shrink: 0;
@@ -7628,7 +7652,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .documents-required-home-loan h5::before,
 .icon h5::before {
-  content: url("../assets/retail-home-loan-against-property/icons/loanitol-red-logo.svg"); /* or use Font Awesome icon code */
+  content: url("../assets/loan-against-property/icons/loanitol-red-logo.svg"); /* or use Font Awesome icon code */
   display: inline-block;
   vertical-align: middle;
   margin-right: 8px; /* space between icon and text */
