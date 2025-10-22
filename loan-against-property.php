@@ -25,7 +25,7 @@
                     </p>
                 </div>
                 <div class="col-lg-4 col-md-4">
-                    <img src="assets/retail-home-loan-against-property/banner.png" class="img-fluid"
+                    <img src="assets/loan-against-property/banner.png" class="img-fluid"
                         alt="Referral Partner Banner">
                 </div>
             </div>
@@ -77,7 +77,7 @@
                                 <div class="common-box w-100">
                                     <div class="icon-frame">
                                         <div class="second-frame">
-                                            <img src="assets/retail-home-loan-against-property/icons/loan-against-loan-overdraft.svg" alt="">
+                                            <img src="assets/loan-against-property/icons/loan-against-loan-overdraft.svg" alt="">
                                         </div>
                                     </div>
                                     <h2 class="col-lg-9 col-md-11">Loan Against Property Overdraft</h2>
@@ -87,7 +87,7 @@
                                 <div class="common-box w-100">
                                     <div class="icon-frame">
                                         <div class="second-frame">
-                                            <img src="assets/retail-home-loan-against-property/icons/loan-against-residential-property.svg" alt="">
+                                            <img src="assets/loan-against-property/icons/loan-against-residential-property.svg" alt="">
                                         </div>
                                     </div>
                                     <h2 class="col-lg-9 col-md-11">Loan Against Residential Property</h2>
@@ -97,7 +97,7 @@
                                 <div class="common-box w-100">
                                     <div class="icon-frame">
                                         <div class="second-frame">
-                                            <img src="assets/retail-home-loan-against-property/icons/loan-against-commerical-property.svg" alt="">
+                                            <img src="assets/loan-against-property/icons/loan-against-commerical-property.svg" alt="">
                                         </div>
                                     </div>
                                     <h2 class="col-lg-9 col-md-11">Loan Against Commercial Property</h2>
@@ -107,7 +107,7 @@
                                 <div class="common-box w-100">
                                     <div class="icon-frame">
                                         <div class="second-frame">
-                                            <img src="assets/retail-home-loan-against-property/icons/loan-against-rent-receivables.svg" alt="">
+                                            <img src="assets/loan-against-property/icons/loan-against-rent-receivables.svg" alt="">
                                         </div>
                                     </div>
                                     <h2 class="col-lg-9 col-md-11">Loan Against Rent Receivables</h2>
@@ -117,7 +117,7 @@
                                 <div class="common-box w-100">
                                     <div class="icon-frame">
                                         <div class="second-frame">
-                                            <img src="assets/retail-home-loan-against-property/icons/loan-for-purchase-of-commerical-property.svg" alt="">
+                                            <img src="assets/loan-against-property/icons/loan-for-purchase-of-commerical-property.svg" alt="">
                                         </div>
                                     </div>
                                     <h2 class="col-lg-9 col-md-11">Loan For Purchase Of Commercial Property</h2>
@@ -127,7 +127,7 @@
                                 <div class="common-box w-100">
                                     <div class="icon-frame">
                                         <div class="second-frame">
-                                            <img src="assets/retail-home-loan-against-property/icons/loan-against-special-property.svg" alt="">
+                                            <img src="assets/loan-against-property/icons/loan-against-special-property.svg" alt="">
                                         </div>
                                     </div>
                                     <h2 class="col-lg-9 col-md-11">Loan Against <br> Special Property</h2>
@@ -137,7 +137,7 @@
                                 <div class="common-box w-100">
                                     <div class="icon-frame">
                                         <div class="second-frame">
-                                            <img src="assets/retail-home-loan-against-property/icons/commerical-construction.svg"
+                                            <img src="assets/loan-against-property/icons/commerical-construction.svg"
                                                 alt="">
                                         </div>
                                     </div>
@@ -148,7 +148,7 @@
                                 <div class="common-box w-100">
                                     <div class="icon-frame">
                                         <div class="second-frame">
-                                            <img src="assets/retail-home-loan-against-property/icons/loan-against-vacant-land.svg"
+                                            <img src="assets/loan-against-property/icons/loan-against-vacant-land.svg"
                                                 alt="">
                                         </div>
                                     </div>
@@ -178,7 +178,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-md-4 d-flex mt-3 mt-md-0">
-                    <img src="assets/retail-home-loan-against-property/card-img.jpg" alt="Fundraising" class="object-fit-cover w-100 loan-against-property_img">
+                    <img src="assets/loan-against-property/card-img.jpg" alt="Fundraising" class="object-fit-cover w-100 loan-against-property_img">
                 </div>
         </div>
     </section>
