@@ -66,9 +66,9 @@
             </div>
         </div>
     </section>
-
+    <img class="img-fluid pattern_z_3" src="assets/msme-loan/logos.png" alt="">
     <section id="loans" class="section">
-        <div class="details-section documents-section">
+        <div class="details-section documents-section reverse-gradient">
             <div class="container">
                 <h4 class="h4-size2">Type of Loans</h4>
                 <div class="row g-3 g-md-4 py-5">
