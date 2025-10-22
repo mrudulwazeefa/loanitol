@@ -80,7 +80,7 @@
                                             <img src="assets/retail-home-loan-against-property/icons/loan-against-loan-overdraft.svg" alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Loan Against Property Overdraft</h2>
+                                    <h2 class="col-lg-9 col-md-11">Loan Against Property Overdraft</h2>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -90,7 +90,7 @@
                                             <img src="assets/retail-home-loan-against-property/icons/loan-against-residential-property.svg" alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Loan Against Residential Property</h2>
+                                    <h2 class="col-lg-9 col-md-11">Loan Against Residential Property</h2>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -100,7 +100,7 @@
                                             <img src="assets/retail-home-loan-against-property/icons/loan-against-commerical-property.svg" alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Loan Against Commercial Property</h2>
+                                    <h2 class="col-lg-9 col-md-11">Loan Against Commercial Property</h2>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -110,7 +110,7 @@
                                             <img src="assets/retail-home-loan-against-property/icons/loan-against-rent-receivables.svg" alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Loan Against Rent Receivables</h2>
+                                    <h2 class="col-lg-9 col-md-11">Loan Against Rent Receivables</h2>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -120,7 +120,7 @@
                                             <img src="assets/retail-home-loan-against-property/icons/loan-for-purchase-of-commerical-property.svg" alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Loan For Purchase Of Commercial Property</h2>
+                                    <h2 class="col-lg-9 col-md-11">Loan For Purchase Of Commercial Property</h2>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -130,7 +130,7 @@
                                             <img src="assets/retail-home-loan-against-property/icons/loan-against-special-property.svg" alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Loan Against <br> Special Property</h2>
+                                    <h2 class="col-lg-9 col-md-11">Loan Against <br> Special Property</h2>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -141,7 +141,7 @@
                                                 alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Commercial Construction</h2>
+                                    <h2 class="col-lg-9 col-md-11">Commercial Construction</h2>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -152,7 +152,7 @@
                                                 alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Loan Against Vacant Land</h2>
+                                    <h2 class="col-lg-9 col-md-11">Loan Against Vacant Land</h2>
                                 </div>
                             </div>
                 </div>

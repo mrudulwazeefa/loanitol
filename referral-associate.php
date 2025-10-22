@@ -223,8 +223,9 @@
                         <div class="title text-start p-4">
                             <h5 class="mb-0">Must be an Indian Citizen</h5>
                         </div>
-                        <div class="card-body p-4" styl="line-height: 1.7">
-                            who want to work as a referral partner at Loanitol must be a citizen of India. 
+                        <div class="card-body p-4">
+                            <p>
+                            who want to work as a referral partner at Loanitol must be a citizen of India.</p>
                         </div>
                     </div>
                 </div>
@@ -233,8 +234,9 @@
                         <div class="title text-start p-4">
                             <h5 class="mb-0">Must be Above 18 Years of Age</h5>
                         </div>
-                        <div class="card-body p-4" styl="line-height: 1.7">
-                            If you want to work as a Referral partner, you must be over 18 years of age. 
+                        <div class="card-body p-4">
+                            <p>
+                            If you want to work as a Referral partner, you must be over 18 years of age.</p>
                         </div>
                     </div>
                 </div>
@@ -243,8 +245,9 @@
                         <div class="title text-start p-4">
                             <h5 class="mb-0">Must have Significant Clientele</h5>
                         </div>
-                        <div class="card-body p-4" styl="line-height: 1.7">
-                            Having a significant number of preferred clients
+                        <div class="card-body p-4">
+                            <p>
+                            Having a significant number of preferred clients.</p>
                         </div>
                     </div>
                 </div>

@@ -83,7 +83,7 @@
                                             <img src="assets/home-loan/icons/home-purchase-loans.svg" alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Home/Flat Purchase Loans</h2>
+                                    <h2 class="col-lg-9 col-md-11">Home/Flat Purchase Loans</h2>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -93,7 +93,7 @@
                                             <img src="assets/home-loan/icons/home-construction-loan.svg" alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Home Construction Loan</h2>
+                                    <h2 class="col-lg-9 col-md-11">Home Construction Loan</h2>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -103,7 +103,7 @@
                                             <img src="assets/home-loan/icons/home-extension-loan.svg" alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Home Extension Loan</h2>
+                                    <h2 class="col-lg-9 col-md-11">Home Extension Loan</h2>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -113,7 +113,7 @@
                                             <img src="assets/home-loan/icons/home-improvement-loan.svg" alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Home Improvement Loan</h2>
+                                    <h2 class="col-lg-9 col-md-11">Home Improvement Loan</h2>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -123,7 +123,7 @@
                                             <img src="assets/home-loan/icons/home-transfer-loan.svg" alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Balance Transfer of Home Loans</h2>
+                                    <h2 class="col-lg-9 col-md-11">Balance Transfer of Home Loans</h2>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -133,7 +133,7 @@
                                             <img src="assets/home-loan/icons/seller-bt.svg" alt="">
                                         </div>
                                     </div>
-                                    <h2 class="col-md-9">Seller BT</h2>
+                                    <h2 class="col-lg-9 col-md-11">Seller BT</h2>
                                 </div>
                             </div>
                         </div>

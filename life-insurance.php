@@ -121,7 +121,7 @@
                                         alt="Legal Compliance">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Legal Compliance</h2>
+                            <h2 class="col-lg-9 col-md-11">Legal Compliance</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
@@ -132,7 +132,7 @@
                                         alt="Risk Assessment">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Risk Assessment and Mitigation</h2>
+                            <h2 class="col-lg-9 col-md-11">Risk Assessment and Mitigation</h2>
                         </div>
                     </div>
                     <div class="col-12 col-lg-6 insurance-card">
@@ -163,7 +163,7 @@
                                     <img src="assets/life-insurance/icon/death-coverage.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Death Coverage</h2>
+                            <h2 class="col-lg-9 col-md-11">Death Coverage</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
@@ -173,7 +173,7 @@
                                     <img src="assets/life-insurance/icon/risk-assessment.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Critical Illness Coverage</h2>
+                            <h2 class="col-lg-9 col-md-11">Critical Illness Coverage</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
@@ -183,7 +183,7 @@
                                     <img src="assets/life-insurance/icon/terminal-Illness-benefit.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Terminal Illness Benefit</h2>
+                            <h2 class="col-lg-9 col-md-11">Terminal Illness Benefit</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
@@ -193,7 +193,7 @@
                                     <img src="assets/life-insurance/icon/accidental-death-and-disability.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Accidental Death and Disability</h2>
+                            <h2 class="col-lg-9 col-md-11">Accidental Death and Disability</h2>
                         </div>
                     </div>
                    

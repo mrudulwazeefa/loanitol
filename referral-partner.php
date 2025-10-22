@@ -60,7 +60,7 @@
                                         <img src="assets/referral-partner/icons/dedicated-support.svg" alt="">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Dedicated Support</h2>
+                                <h2 class="col-lg-9 col-md-11">Dedicated Support</h2>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -70,7 +70,7 @@
                                         <img src="assets/referral-partner/icons/an-extra-income-source.svg" alt="">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">CExtra Income Source</h2>
+                                <h2 class="col-lg-9 col-md-11">CExtra Income Source</h2>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -81,7 +81,7 @@
                                             alt="">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Minimum time and Resource Investment</h2>
+                                <h2 class="col-lg-9 col-md-11">Minimum time and Resource Investment</h2>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -91,7 +91,7 @@
                                         <img src="assets/referral-partner/icons/expedite-client-funding.svg" alt="">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Expedite Client Funding</h2>
+                                <h2 class="col-lg-9 col-md-11">Expedite Client Funding</h2>
                             </div>
                         </div>
 
@@ -103,7 +103,7 @@
                                             alt="">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Access to Diverse Loan Products</h2>
+                                <h2 class="col-lg-9 col-md-11">Access to Diverse Loan Products</h2>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -114,7 +114,7 @@
                                             alt="">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Robust Network of Financial Institutions</h2>
+                                <h2 class="col-lg-9 col-md-11">Robust Network of Financial Institutions</h2>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -125,7 +125,7 @@
                                             alt="">
                                     </div>
                                 </div>
-                                <h2 class="col-md-9">Enhanced Client Trust & Confidence</h2>
+                                <h2 class="col-lg-9 col-md-11">Enhanced Client Trust & Confidence</h2>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -372,7 +372,7 @@
                                     <img src="assets/msme-loan/icon/working-capital-cc.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Proof of Identity like PAN card, Aadhar Card</h2>
+                            <h2 class="col-lg-9 col-md-11">Proof of Identity like PAN card, Aadhar Card</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -382,7 +382,7 @@
                                     <img src="assets/referral-partner/icons/proof-of-address.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Proof of address</h2>
+                            <h2 class="col-lg-9 col-md-11">Proof of address</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -392,7 +392,7 @@
                                     <img src="assets/referral-partner/icons/bank-transaction.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Your Most Recent 3 Months' Bank Transaction Details</h2>
+                            <h2 class="col-lg-9 col-md-11">Your Most Recent 3 Months' Bank Transaction Details</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -402,7 +402,7 @@
                                     <img src="assets/referral-partner/icons/build-relationships-with-fls.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Empanelment Form Along With Necessary Agreements</h2>
+                            <h2 class="col-lg-9 col-md-11">Empanelment Form Along With Necessary Agreements</h2>
                         </div>
                     </div>
                 </div>

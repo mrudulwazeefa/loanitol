@@ -57,7 +57,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Loan Settlement for Financial Distress</h2>
+                                        <h2 class="col-lg-9 col-md-11">Loan Settlement for Financial Distress</h2>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -68,7 +68,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">One-Time Settlement (OTS) Option</h2>
+                                        <h2 class="col-lg-9 col-md-11">One-Time Settlement (OTS) Option</h2>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -79,7 +79,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Prime Candidates for Loan Settlement</h2>
+                                        <h2 class="col-lg-9 col-md-11">Prime Candidates for Loan Settlement</h2>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -90,7 +90,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">NPA Classification Requirement</h2>
+                                        <h2 class="col-lg-9 col-md-11">NPA Classification Requirement</h2>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -101,7 +101,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Individuals with Overwhelming Debt</h2>
+                                        <h2 class="col-lg-9 col-md-11">Individuals with Overwhelming Debt</h2>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -112,7 +112,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Individuals Facing Job Loss or Reduced Income</h2>
+                                        <h2 class="col-lg-9 col-md-11">Individuals Facing Job Loss or Reduced Income</h2>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -123,7 +123,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Businesses in Financial Distress</h2>
+                                        <h2 class="col-lg-9 col-md-11">Businesses in Financial Distress</h2>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -134,7 +134,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Seeking a Fresh Financial Start</h2>
+                                        <h2 class="col-lg-9 col-md-11">Seeking a Fresh Financial Start</h2>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -145,7 +145,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Borrowers in Default or Nearing Default</h2>
+                                        <h2 class="col-lg-9 col-md-11">Borrowers in Default or Nearing Default</h2>
                                     </div>
                                 </div>
                             </div>
@@ -176,7 +176,7 @@
                                         alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">OTS for Financially Distressed Borrowers</h2>
+                            <h2 class="col-lg-9 col-md-11">OTS for Financially Distressed Borrowers</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
@@ -187,7 +187,7 @@
                                         alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Submission of Settlement Proposal</h2>
+                            <h2 class="col-lg-9 col-md-11">Submission of Settlement Proposal</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
@@ -198,7 +198,7 @@
                                         alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Bank's Assessment and Follow-Up</h2>
+                            <h2 class="col-lg-9 col-md-11">Bank's Assessment and Follow-Up</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
@@ -209,7 +209,7 @@
                                         alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Reduced Settlement Amount</h2>
+                            <h2 class="col-lg-9 col-md-11">Reduced Settlement Amount</h2>
                         </div>
                     </div>
                 </div>
@@ -325,7 +325,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Economic Downturns</h2>
+                                        <h2 class="col-lg-9 col-md-11">Economic Downturns</h2>
                                     </div>
                                 </div>
                                 <!-- 2 -->
@@ -337,7 +337,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Job Loss or Business Closure</h2>
+                                        <h2 class="col-lg-9 col-md-11">Job Loss or Business Closure</h2>
                                     </div>
                                 </div>
                                 <!-- 3 -->
@@ -349,7 +349,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Reduced Income</h2>
+                                        <h2 class="col-lg-9 col-md-11">Reduced Income</h2>
                                     </div>
                                 </div>
                                 <!-- 4 -->
@@ -361,7 +361,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Financial Hardship</h2>
+                                        <h2 class="col-lg-9 col-md-11">Financial Hardship</h2>
                                     </div>
                                 </div>
                                 <!-- 5 -->
@@ -373,7 +373,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Over-Indebtedness</h2>
+                                        <h2 class="col-lg-9 col-md-11">Over-Indebtedness</h2>
                                     </div>
                                 </div>
                                 <!-- 6 -->
@@ -385,7 +385,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Adjustable-Rate Mortgages</h2>
+                                        <h2 class="col-lg-9 col-md-11">Adjustable-Rate Mortgages</h2>
                                     </div>
                                 </div>
                                 <!-- 7 -->
@@ -397,7 +397,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Currency Fluctuations</h2>
+                                        <h2 class="col-lg-9 col-md-11">Currency Fluctuations</h2>
                                     </div>
                                 </div>
                                 <!-- 8 -->
@@ -409,7 +409,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <h2 class="col-md-9">Changing Business Conditions</h2>
+                                        <h2 class="col-lg-9 col-md-11">Changing Business Conditions</h2>
                                     </div>
                                 </div>
                         </div>

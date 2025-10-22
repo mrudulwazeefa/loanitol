@@ -1,5 +1,5 @@
 <?php include("includes/meta.php"); ?>
-<title>Retail Car Loan Page | Loanitol</title>
+<title>Car Loan Page | Loanitol</title>
 </head>
 
 <body>

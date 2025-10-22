@@ -81,7 +81,7 @@
                                     <img src="assets/business-loan/icons/business-loan-overdraft.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Business Loan – Overdraft (OD)</h2>
+                            <h2 class="col-lg-9 col-md-11">Business Loan – Overdraft (OD)</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -91,7 +91,7 @@
                                     <img src="assets/business-loan/icons/business-loan-term-loan.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Business Loan – Term Loan</h2>
+                            <h2 class="col-lg-9 col-md-11">Business Loan – Term Loan</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -101,7 +101,7 @@
                                     <img src="assets/business-loan/icons/professional-business-loan.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Professional Business Loan</h2>
+                            <h2 class="col-lg-9 col-md-11">Professional Business Loan</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-12">
@@ -111,7 +111,7 @@
                                     <img src="assets/business-loan/icons/machinery-loan.svg" alt="">
                                 </div>
                             </div>
-                            <h2 class="col-md-9">Machinery Loan</h2>
+                            <h2 class="col-lg-9 col-md-11">Machinery Loan</h2>
                         </div>
                     </div>
 
