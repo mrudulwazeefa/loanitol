@@ -1,5 +1,5 @@
 <?php include("includes/meta.php"); ?>
-<title>Retail Personal Loan Page | Loanitol</title>
+<title>Personal Loan | Loanitol</title>
 </head>
 
 <body>
@@ -18,50 +18,18 @@
                         </ol>
                     </nav>
                     <h5 class="h5-size col-sm-12">
-
-                        Quick And Hassle-free Personal Loans
-                        <br> For Salaried People – <span class="d-inline-block">Your Goals, </span> <br>
-                        <span>Funded!</span>
+                        Quick And Hassle-free Personal Loans For Salaried People - 
+                        <span class="d-inline-block">Your Goals, Funded!</span> 
                     </h5>
-                    <p style="color: #221E1E">Effortless Personal Loans for Salaried Individuals – Reach Your Goals with
-                        Ease!
+                    <p>Effortless Personal Loans for Salaried Individuals - Reach Your Goals with Ease!
                     </p>
                 </div>
                 <div class="col-lg-4 col-md-4">
-                    <img src="assets/retail-personal-loan/banner.png" class="img-fluid" alt="Referral Partner Banner">
+                    <img src="assets/personal-loan/banner.png" class="img-fluid" alt="Referral Partner Banner">
                 </div>
             </div>
         </div>
     </div>
-
-    <!-- <div class="tab-menu position-absolute d-none d-lg-block">
-        <ul>
-            <li class="active">
-                <a href="">Overview</a>
-            </li>
-            <li>
-                <a href="">Loans</a>
-            </li>
-            <li>
-                <a href="">Features</a>
-            </li>
-            <li>
-                <a href="">Eligibility Criteria</a>
-            </li>
-            <li>
-                <a href="">Documents Required</a>
-            </li>
-            <li>
-                <a href="">Fees & Charges</a>
-            </li>
-            <li>
-                <a href=""> FAQs</a>
-            </li>
-            <li>
-                <a href=""> Contact us</a>
-            </li>
-        </ul>
-    </div> -->
     <!-- sticky nav -->
     <div class="sticky-nav-wrapper container" id="scrolling-nav">
         <div class="container d-flex align-items-center justify-content-between">
@@ -73,11 +41,11 @@
                 <div class="scroll-container">
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link active" href="#overview">Overview</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#overview">Loans</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#loans">Loans</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#benefits">Benefits</a></li>
                         <li class="nav-item"><a class="nav-link" href="#product-details">Features</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#eligibility">Eligibility Criteria</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#document">Documents Required</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#document">Fees & Charges</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#eligibility">Eligibility</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#document">Documents Required & Fees and Charges</a></li>
                         <li class="nav-item"><a class="nav-link" href="#faqs">FAQs</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Contact Us</a></li>
                     </ul>
@@ -90,129 +58,72 @@
         </div>
     </div>
     <!--  -->
-
-    <div class="linear-gradient">
-        <section id="overview" class="section">
-            <div class="loan-against-property-overview-and-loan-section py-5">
-                <div class="overview py-5">
-                    <div class="container">
-                        <h2 class="mb-3 fw-semibold">Overview</h2>
-                        <p>A Personal Loan is an unsecured term loan offered by banks and financial institutions to
-                            salaried
-                            employees. It allows you to borrow a specific amount and repay it with applicable interest.
-                            No
-                            collateral is required from the applicant.</p>
-                    </div>
-                </div>
+    <section id="overview" class="section">
+        <div class="empower-section">
+            <div class="container">
+                <h4 class="h4-size2">Overview</h4>
+                <p>A Personal Loan is an unsecured term loan offered by banks and financial institutions tosalaried employees. It allows you to borrow a specific amount and repay it with applicable interest. No collateral is required from the applicant.</p>
             </div>
-        </section>
-        <section id="loans" class="section types-of-loan-section">
-            <div class=" py-5">
-                <div class="overview py-5">
-                    <div class="container">
-                        <h2 class="mb-3 fw-semibold">Types of Loan</h2>
-                        <div class="row g-4 flex-column flex-lg-row">
-                            <!-- Column 1: col-4 -->
-                            <div class="col-12 col-lg-4 d-flex flex-lg-column gap-4">
+        </div>
+    </section>
+
+    <section id="loans" class="section">
+        <div class="details-section documents-section">
+            <div class="container">
+                <h4 class="h4-size2">Type of Loans</h4>
+                <div class="row g-3 g-md-4 py-5">
+                    <div class="col-lg-8 col-md-12">
+                        <div class="row g-4">
+                            <div class="col-12 col-sm-6 col-lg-6">
                                 <div class="card h-100">
-                                    <div class="title text-start p-3 py-4">
+                                    <div class="title text-start p-4">
                                         <h5 class="mb-0">Personal loan</h5>
                                     </div>
-                                    <div class="card-body d-flex align-items-start">
-                                        A Personal Loan Term Loan is a one-time lump-sum loan that you repay in fixed
-                                        monthly EMIs over a set tenure. Interest is charged on the entire loan amount
-                                        for
-                                        the full term.
-                                        It is best suited for planned, large expenses and offers predictable repayment
-                                        schedules.
-                                    </div>
-                                </div>
-                                <div class="card h-100">
-                                    <div class="title text-start p-3 py-4">
-                                        <h5 class="mb-0">Personal loan - PROFESSIONAL</h5>
-                                    </div>
-                                    <div class="card-body d-flex align-items-start">
-                                        A Personal Loan for Professionals is an unsecured loan designed for
-                                        self-employed
-                                        professionals like doctors, chartered accountants. It offers quick access to
-                                        funds
-                                        for personal or business needs, with minimal documentation, flexible tenure, and
-                                        higher loan amounts based on professional stability and credit profile.
+                                    <div class="card-body p-4">
+                                        <p>
+                                        A Personal Loan Term Loan is a one-time lump-sum loan that you repay in fixed monthly EMIs over a set tenure. Interest is charged on the entire loan amount for the full term.It is best suited for planned, large expenses and offers predictable repayment schedules.</p>
                                     </div>
                                 </div>
                             </div>
-
-                            <!-- Column 2: col-5 -->
-                            <div class="col-12 col-lg-5 d-flex flex-lg-column gap-4">
+                            <div class="col-12 col-sm-6 col-lg-6">
                                 <div class="card h-100">
-                                    <div class="title text-start p-3 py-4">
+                                    <div class="title text-start p-4">
                                         <h5 class="mb-0">Personal loan OD (Overdraft)</h5>
                                     </div>
-                                    <div class="card-body d-flex align-items-start">
-                                        A Personal Loan OD is a flexible credit facility where a bank sanctions a limit,
-                                        and
-                                        you can withdraw funds as needed. Interest is charged only on the amount used
-                                        and
-                                        for the duration it is used. You can repay anytime and reuse the limit within
-                                        the
-                                        tenure, making it ideal for managing fluctuating cash needs.
+                                    <div class="card-body p-4">
+                                        <p>
+                                        A Personal Loan OD is a flexible credit facility where a bank sanctions a limit, and you can withdraw funds as needed. Interest is charged only on the amount used and for the duration it is used. You can repay anytime and reuse the limit within the tenure, making it ideal for managing fluctuating cash needs.</p>
                                     </div>
                                 </div>
+                            </div>
+                            <div class="col-12 col-sm-6 col-lg-6">
                                 <div class="card h-100">
-                                    <div class="title text-start p-3 py-4">
+                                    <div class="title text-start p-4">
+                                        <h5 class="mb-0">Personal loan - PROFESSIONAL</h5>
+                                    </div>
+                                    <div class="card-body p-4" >
+                                        <p>
+                                    A Personal Loan for Professionals is an unsecured loan designed for self-employed professionals like doctors, chartered accountants. It offers quick access to funds for personal or business needs, with minimal documentation, flexible tenure, and higher loan amounts based on professional stability and credit profile.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-sm-6 col-lg-6">
+                                <div class="card h-100">
+                                    <div class="title text-start p-4">
                                         <h5 class="mb-0">NRI Personal Loan</h5>
                                     </div>
-                                    <div class="card-body d-flex align-items-start">
-                                        An NRI Personal Loan is a loan offered to Non-Resident Indians (NRIs) to meet
-                                        personal financial needs in India. It is an unsecured loan, meaning no
-                                        collateral is
-                                        required, and funds are disbursed in INR to the applicant’s account in India.
+                                    <div class="card-body p-4" >
+                                        <p>
+                                        An NRI Personal Loan is a loan offered to Non-Resident Indians (NRIs) to meet personal financial needs in India. It is an unsecured loan, meaning no collateral is required, and funds are disbursed in INR to the applicant’s account in India.</p>
                                     </div>
                                 </div>
                             </div>
-
-                            <!-- Column 3: col-3 -->
-                            <div class="col-12 col-lg-3 order-lg-">
-                                <div class="card h-100">
-                                    <img class="object-fit-cover h-100" src="assets/retail-personal-loan/smiling-enthusiastic-business-team-working.png" style="border-radius: 10px"
-                                        alt="">
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-
-    <section id="product-details" class="section">
-        <div class="features-section features-section-retail-home-loan py-5">
-            <div class="container py-3">
-                <h2>Features</h2>
-                <div class="row py-5">
-                    <div class="col-12 col-md-8 d-flex" style="line-height: 1.8">
-                        <div class="card w-100 text-white p-4">
-                            <ul class="mb-0">
-                                <li>Flexible Loan Tenure: Choose a convenient repayment period ranging from 1 to 7
-                                    years.
-                                </li>
-                                <li>Online Application: Apply for a personal loan anytime, from anywhere.</li>
-                                <li>Instant Approvals: Get your loan approved instantly.</li>
-                                <li>No Collateral Required: Enjoy a simple documentation process with no need for
-                                    collateral.</li>
-                                <li>Debt Consolidation: Combine multiple debts into a single loan with a lower interest
-                                    rate
-                                    to save money.</li>
-                                <li>Multipurpose Usage: Use the funds for medical emergencies, marriage expenses, home
-                                    renovation, or any other personal needs.</li>
-                            </ul>
                         </div>
                     </div>
-                    <div class="col-12 col-md-4 d-flex mt-3 mt-md-0">
-                        <div class="card-img w-100 text-white">
-                            <img src="assets/retail-personal-loan/card-img.jpg" height="250px"
-                                class="object-fit-cover w-100 h-100 mt-4 mt-md-0" style="border-radius: 10px" alt="">
+                    <div class="col-lg-4 d-lg-flex d-md-none d-none">
+                        <div class="card h-100 theme-radius">
+                            <img class="object-fit-cover h-100 theme-radius" src="assets/personal-loan/smiling-enthusiastic-business-team-working.png"
+                                alt="">
                         </div>
                     </div>
                 </div>
@@ -220,27 +131,201 @@
         </div>
     </section>
 
-    <section id="eligibility" class="section">
-        <div class="eligibility-criteria-section py-5">
-            <div class="container py-3">
-                <h2 class="mb-5 fw-semibold">Eligibility Criteria</h2>
-                <div class="row py-2">
-                    <div class="col-lg-4">
-                        <div class="card p-4">
-                            <h5>Age:</h5>
-                            <ul>
-                                <li>Minimum Age: Applicants must be at least 21 years old to apply for a personal loan.
+
+        <section id="benefits" class="section features-section pb-2">
+            <div class="container" >
+                <h4 class="h4-size2 text-white">Benefits</h4>
+                <div class="row g-3 g-md-4 pt-5 pb-3">
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/personal-loan/icons/multipurpose-use.svg">
+                                </div>
+                            </div>
+                            <h2 class="col-lg-9 col-md-11">Multipurpose Use</h2>
+                            <p class="mb-0">
+                               Can be used for various needs like medical emergencies, weddings, travel, home renovation, debt consolidation, or education.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/personal-loan/icons/flexible-loan-amount.svg">
+                                </div>
+                            </div>
+                            <h2 class="col-lg-9 col-md-11">Flexible Loan Amount</h2>
+                            <p class="mb-0">
+                                Borrow small or large amounts (depending on eligibility and bank/NBFC policies).
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/personal-loan/icons/flexible-tenure.svg">
+                                </div>
+                            </div>
+                            <h2 class="col-lg-9 col-md-11">Flexible Tenure</h2>
+                            <p class="mb-0">
+                                Repayment tenure usually ranges from 12 months to 60 months (sometimes up to 84 months), making EMIs more manageable. In Overdraft method , You pay interest only on what you withdraw, not on the total limit.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/personal-loan/icons/minimal-documentation.svg">
+                                </div>
+                            </div>
+                            <h2 class="col-lg-9 col-md-11">Minimal Documentation</h2>
+                            <p class="mb-0">
+                                Requires only basic KYC, income proof, and bank statements—much simpler compared to secured loans.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/personal-loan/icons/fixed-interest-rates.svg">
+                                </div>
+                            </div>
+                            <h2 class="col-lg-9 col-md-11">Fixed Interest Rates</h2>
+                            <p class="mb-0">
+                                Most personal loans come with fixed interest rates, so your EMI remains the same throughout the tenure.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/personal-loan/icons/no-end-use-restriction.svg">
+                                </div>
+                            </div>
+                            <h2 class="col-lg-9 col-md-11">No End-Use Restriction</h2>
+                            <p class="mb-0">
+                                Unlike home loans or car loans, you can freely use the funds as per your need.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="product-details" class="section features-section">
+            <div class="container" >
+                <h4 class="h4-size2 text-white">Features</h4>
+                <div class="row g-3 g-md-4 pt-5 pb-3">
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/personal-loan/icons/flexible-loan-tenure.svg">
+                                </div>
+                            </div>
+                            <h2 class="col-lg-9 col-md-11">Flexible Loan Tenure</h2>
+                            <p class="mb-0">
+                               Choose a convenient repayment period ranging from 1 to 7 years.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/personal-loan/icons/online-application.svg">
+                                </div>
+                            </div>
+                            <h2 class="col-lg-9 col-md-11">Online Application</h2>
+                            <p class="mb-0">
+                               Apply for a personal loan anytime, from anywhere.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/personal-loan/icons/instant-approvals.svg">
+                                </div>
+                            </div>
+                            <h2 class="col-lg-9 col-md-11">Instant Approvals</h2>
+                            <p class="mb-0">
+                                Get your loan approved instantly.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/personal-loan/icons/no-collateral-required.svg">
+                                </div>
+                            </div>
+                            <h2 class="col-lg-9 col-md-11">No Collateral Required</h2>
+                            <p class="mb-0">
+                                Enjoy a simple documentation process with no need for
+                                    collateral.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/personal-loan/icons/debt-consolidation.svg">
+                                </div>
+                            </div>
+                            <h2 class="col-lg-9 col-md-11">Debt Consolidation</h2>
+                            <p class="mb-0">
+                                Combine multiple debts into a single loan with a lower interest rate to save money.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                        <div class="choose_frame w-100">
+                            <div class="icon-frame">
+                                <div class="second-frame">
+                                    <img src="assets/personal-loan/icons/multipurpose-usage.svg">
+                                </div>
+                            </div>
+                            <h2 class="col-lg-9 col-md-11">Multipurpose Usage</h2>
+                            <p class="mb-0">
+                                Use the funds for medical emergencies, marriage expenses, home renovation, or any other personal needs.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    <section id="eligibility" class="section eligibility eligibility-criteria-section">
+        <div class="container">
+            <div class="row py-3">
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <h4 class="h4-size2 mb-5">Eligibility Criteria</h4>
+                    <div class="card p-4">
+                        <h5 class="mb-3">Age:</h5>
+                        <ul>
+                           <li>Minimum Age: Applicants must be at least 21 years old to apply for a personal loan.
                                 </li>
                                 <li>Maximum Age: The loan must mature by the age of 60 or the retirement age, whichever
-                                    comes first.</li>
+                                    comes first.</li> 
                                 <li>NRI salaried person: 23 to 55 years;</li>
                                 <li>Salaried person: 21 to 55 years</li>
-                            </ul>
-                        </div>
-                        <div class="card p-4 mt-3 mt-lg-4">
-                            <h5>Experience:</h5>
+                        </ul>
+                    </div>
+                    <div class="card p-4 mt-3 mt-sm-4">
+                        <h5 class="mb-3">Experience:</h5>
                             <ul>
-                                <li>Should have completed minimum 2 years in employment and minimum 1 year in the
+                               <li>Should have completed minimum 2 years in employment and minimum 1 year in the
                                     current
                                     organisation.</li>
                                 <li>Credit score must be above 750</li>
@@ -250,13 +335,13 @@
                                     Limited company.</li>
                                 <li>Self-Employed Professional: Minimum 2 years of experience in the current field.</li>
                             </ul>
-                        </div>
                     </div>
-                    <div class="col-lg-8 mt-3 mt-lg-0">
-                        <div class="card p-4">
-                            <h5>Income:</h5>
-                            <ul>
-                                <li>Resident Indian: Must have a minimum net monthly income of ₹25,000 to be eligible
+                </div>
+                <div class="col-12 col-sm-6 col-lg-8 mt-3 mt-sm-0">
+                    <div class="card p-4">
+                        <h5 class="mb-3">Income:</h5>
+                        <ul>
+                           <li>Resident Indian: Must have a minimum net monthly income of ₹25,000 to be eligible
                                     for a
                                     personal loan.</li>
                                 <li>NRI Employee: Must have a minimum salary of ₹2.5 lakh in European countries and ₹1.5
@@ -270,58 +355,55 @@
                                     ₹250000(European country) , credited through a bank account.</li>
                                 <li>NRI Salaried Person: Minimum monthly salary equivalent to ₹1,50,000(GIC Country)
                                     ₹250000(European country) , credited through a bank account.</li>
-                            </ul>
-                        </div>
-                        <div class="card p-4 mt-3 mt-md-4">
-                            <h5>Credit Score:</h5>
-                            <ul>
-                                <li>Maintain a strong credit score.</li>
+                        </ul>
+                    </div>
+                    <div class="card p-4 mt-4 d-none d-lg-block">
+                        <h5 class="mb-3">Credit Score:</h5>
+                        <ul>
+                           <li>Maintain a strong credit score.</li>
                                 <li>Have a clear and consistent repayment history.</li>
                                 <li>A credit score of 750 or higher is regarded as favourable for approval.</li>
-                            </ul>
-                        </div>
-                        <div class="card p-4 mt-3 mt-md-4">
-                            <h5>Income Document:</h5>
-                            <ul>
-                                <li>Address Proof</li>
-                                <li>ID Proof</li>
-                                <li>Passport (in case of NRI personal loan)</li>
-                                <li>PAN</li>
-                                <li>Form 16</li>
-                                <li>Employee ID Card</li>
-                                <li>Salary Slips for the last 6 months</li>
-                                <li>Bank Account Statement for the last 6 months</li>
-                                <li>Proof of Employment Duration</li>
-                                <li>Qualification certificate (for professional loans)</li>
-                            </ul>
-                        </div>
+                        </ul>
                     </div>
-
+                     <div class="card p-4 mt-4" d-none d-lg-block>
+                        <h5 class="mb-3">Income Document:</h5>
+                        <ul>
+                            <li>Address Proof</li>
+                            <li>ID Proof</li>
+                            <li>Passport (in case of NRI personal loan)</li>
+                            <li>PAN</li>
+                            <li>Form 16</li>
+                            <li>Employee ID Card</li>
+                            <li>Salary Slips for the last 6 months</li>
+                            <li>Bank Account Statement for the last 6 months</li>
+                            <li>Proof of Employment Duration</li>
+                            <li>Qualification certificate (for professional loans)</li>
+                            <li>Qualification certificate (for professional loans)</li>
+                        </ul>
+                    </div>
                 </div>
-            </div>
         </div>
     </section>
 
     <section id="document" class="section">
-        <div class="fees-and-charges-section text-white py-5">
-            <div class="container py-4">
-                <div class="row d-flex flex-column flex-sm-row">
-                    <div class="col-12 col-sm-6 d-flex align-items-center">
-                        <div class="personal-loan-documents-required-card">
-                            <h2 class="fw-semibold">Documents Required</h2>
-                            <ul>
+        <div class="fees-and-charges-section py-5">
+            <div class="container py-3">
+                <div class="row">
+                    <div class="col-12 col-sm-5">
+                            <h4 class="mb-4 text-white h4-size2">Documents Required</h4>
+                            <ul class="ps-3 text-white">
                                 <li>Passport-size Photo</li>
                                 <li>ID & Address proof</li>
                                 <li>PAN Card</li>
                                 <li>Salary Slips for the Last 3 to 6 Months</li>
                                 <li>Bank Statements for the Last 6 to 12 Months showing salary credits</li>
                             </ul>
-                        </div>
                     </div>
-                    <div class="col-12 col-sm-6 mt-4 mt-sm-0">
+                    <div class="col-12 col-sm-7 mt-4 mt-sm-0">
                         <div class="card p-4">
-                            <h2 class="fw-semibold">Fees & Charges</h2>
-                            <div class="d-flex flex-lg-row flex-column">
+                            <h4 class="mb-4 h4-size2">Fees & Charges</h4>
+                            <div class="row">
+                                <div class="col-md-6">
                                 <ul>
                                     <li>Loan Processing Fees</li>
                                     <li>Stamp Duty Charges</li>
@@ -330,6 +412,8 @@
                                     <li>EMI / Cheque Bounce Charges</li>
                                     <li>Insurance</li>
                                 </ul>
+                                </div>
+                                <div class="col-md-6">
                                 <ul>
                                     <li>Processing Fee</li>
                                     <li>Documentation Charges</li>
@@ -337,6 +421,7 @@
                                     <li>EMI / Cheque Bounce Charges</li>
                                     <li>Other Notarization Charges</li>
                                 </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -440,7 +525,7 @@
                             <h2 class="accordion-header p-1">
                                 <button
                                     class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
+                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item5">
                                     <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                                     What is the repayment tenure?
                                     <span class="ms-auto icon">
@@ -448,7 +533,7 @@
                                     </span>
                                 </button>
                             </h2>
-                            <div id="loanitol_item4" class="accordion-collapse collapse"
+                            <div id="loanitol_item5" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     Repayment tenures usually range from 1 to 7 years, based on lender policies.
@@ -460,7 +545,7 @@
                             <h2 class="accordion-header p-1">
                                 <button
                                     class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
+                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item6">
                                     <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                                     How fast is the loan disbursed?
                                     <span class="ms-auto icon">
@@ -468,7 +553,7 @@
                                     </span>
                                 </button>
                             </h2>
-                            <div id="loanitol_item4" class="accordion-collapse collapse"
+                            <div id="loanitol_item6" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     With proper documentation, loans are often approved and disbursed within 24–48
@@ -481,7 +566,7 @@
                             <h2 class="accordion-header p-1">
                                 <button
                                     class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
+                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item7">
                                     <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                                     What documents are required?
                                     <span class="ms-auto icon">
@@ -489,7 +574,7 @@
                                     </span>
                                 </button>
                             </h2>
-                            <div id="loanitol_item4" class="accordion-collapse collapse"
+                            <div id="loanitol_item7" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     Basic KYC (ID and address proof), income proof (salary slips, bank statements), and
@@ -503,7 +588,7 @@
                             <h2 class="accordion-header p-1">
                                 <button
                                     class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
+                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item8">
                                     <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                                     What is the interest rate?
                                     <span class="ms-auto icon">
@@ -511,7 +596,7 @@
                                     </span>
                                 </button>
                             </h2>
-                            <div id="loanitol_item4" class="accordion-collapse collapse"
+                            <div id="loanitol_item8" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     What is the interest rate?
@@ -523,7 +608,7 @@
                             <h2 class="accordion-header p-1">
                                 <button
                                     class="accordion-button collapsed d-flex justify-content-between align-items-center"
-                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item4">
+                                    type="button" data-bs-toggle="collapse" data-bs-target="#loanitol_item9">
                                     <img src="assets/home/icons/sm-logo.svg" alt="list-icon" class="me-3">
                                     Can I prepay or foreclose my personal loan?
                                     <span class="ms-auto icon">
@@ -531,7 +616,7 @@
                                     </span>
                                 </button>
                             </h2>
-                            <div id="loanitol_item4" class="accordion-collapse collapse"
+                            <div id="loanitol_item9" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     Can I prepay or foreclose my personal loan?

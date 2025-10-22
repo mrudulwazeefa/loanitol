@@ -2305,14 +2305,14 @@ color: var(--theme-color);
 }
 .form-control {
   font-family: "Inter", sans-serif;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   height: 50px;
   font-size: 14px !important;
 }
 .emi-input-container,
 #emi-calculator .btn {
   font-family: "Inter", sans-serif;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   height: 58px !important;
 }
 .calculator-btn {
@@ -3180,7 +3180,7 @@ textarea {
 .modal-content {
   position: relative;
   overflow: hidden;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   /* background-color: transparent; */
   box-shadow: none;
   border: none;
@@ -3953,8 +3953,6 @@ img {
 .benefits-image img{
   border-radius: var(--theme-border-radius);
 }
-
-
 
 /*  Responsive */
 @media screen and (max-width: 400px) {
@@ -5951,7 +5949,7 @@ input.search-field.show-placeholder::placeholder {
   display: flex;
   justify-content: space-between;
   border: #fff5c9 solid 1px;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   font-family: var(--theme-font);
   font-weight: 500;
 }
@@ -6170,7 +6168,7 @@ input.search-field.show-placeholder::placeholder {
   margin: 1rem auto;
 }
 .article-inner-carousel-img {
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
 }
 /* owl carousel style end */
 /* Article inner page end*/
@@ -6203,7 +6201,7 @@ input.search-field.show-placeholder::placeholder {
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.07);
   border: none;
   height: 170px !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
 }
 @media (min-width: 1200px) {
   .legal-advisory-container .card {
@@ -6253,12 +6251,12 @@ input.search-field.show-placeholder::placeholder {
 }
 .benefits-section .card {
   border: none;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
 }
 .benefits-section .card-body {
   background-color: #2c4e59;
   border: 2px solid #437382;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   padding: 2rem;
 }
 
@@ -6284,7 +6282,7 @@ input.search-field.show-placeholder::placeholder {
 .real-estate-container .details-section .card {
   border: 1px solid #e2e2e2 !important;
   font-family: var(--theme-font) !important;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
 }
 .real-estate-container .details-section .card .title {
@@ -6317,7 +6315,7 @@ input.search-field.show-placeholder::placeholder {
 .benefits-real-estate-section .card {
   background-color: #2c4e59 !important;
   border: 2px solid #437382 !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   padding: 2rem !important;
 }
 .strategy-section {
@@ -6440,9 +6438,9 @@ input.search-field.show-placeholder::placeholder {
   color: black !important;
   font-size: 1rem;
 }
-.features-section h2 {
+/* .features-section h2 {
   font-weight: 600 !important;
-}
+} */
 .features-section li::marker {
   color: white;
 }
@@ -6453,7 +6451,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .finance-accounting-container .finance-service-section .card {
   font-family: var(--theme-font) !important;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
 }
 .finance-accounting-container .finance-service-section .card .title {
@@ -6465,7 +6463,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .finance-accounting-container .accounting-service-section .card {
   font-family: var(--theme-font) !important;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   /* height: 230px !important; */
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
 }
@@ -6490,7 +6488,7 @@ input.search-field.show-placeholder::placeholder {
   padding: 2rem;
   border: 1px solid #bc1228;
   background-color: #c31d33;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
 }
 
 /* Referral Partner Section */
@@ -6514,7 +6512,7 @@ input.search-field.show-placeholder::placeholder {
 .eligible-professionals-section .card {
   background-color: #2c4e59;
   border: 2px solid #437382 !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
 }
 .registration-program-section h2 {
   font-weight: 600 !important;
@@ -6545,7 +6543,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .referral-associate-advantages-section .card {
   height: 198px !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   border: 1px solid #e2e2e2 !important;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
   object-fit: cover;
@@ -6563,7 +6561,7 @@ input.search-field.show-placeholder::placeholder {
   object-position: center;
   /* height: 280px;
   width: 100%; */
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
 }
 .referral-associate .referral-associate-card {
   height: 100px !important;
@@ -6596,7 +6594,7 @@ input.search-field.show-placeholder::placeholder {
 /* Corporate associate */
 .loan-dsa-eligibility .card {
   border: 1px solid #E2E2E2;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
 }
 
 /* Bridge Loan Page */
@@ -6746,7 +6744,7 @@ input.search-field.show-placeholder::placeholder {
 .career-btn {
   color: white !important;
   border: 1px solid white !important;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
 }
 .current-openings-container {
   background-image: linear-gradient(to bottom, #fff3f5, #ffffff);
@@ -6802,7 +6800,7 @@ input.search-field.show-placeholder::placeholder {
   background-color: white;
   border: 1px solid black;
   padding: 0.5rem 2rem;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
 }
 
 /* Life Insurance Page */
@@ -6858,7 +6856,7 @@ input.search-field.show-placeholder::placeholder {
 .features-life-insurance .card {
   border: 1px solid #e2e2e2 !important;
   font-family: var(--theme-font) !important;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
 }
 .features-life-insurance .card .title {
@@ -6882,7 +6880,7 @@ input.search-field.show-placeholder::placeholder {
 .eligibility-insurance .card {
   border: 1px solid #e2e2e2 !important;
   font-family: var(--theme-font) !important;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
 }
 .eligibility-insurance .card .title {
@@ -6934,7 +6932,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .mutual-fund-main-section .card {
   height: 170px !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   border: none;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.07);
 }
@@ -6967,7 +6965,7 @@ input.search-field.show-placeholder::placeholder {
 .ways-to-invest-section .card {
   background-color: #2c4e59 !important;
   border: 2px solid #437382 !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   padding: 2rem;
   color: white !important;
 }
@@ -7015,7 +7013,7 @@ input.search-field.show-placeholder::placeholder {
 .mutual-funds-types-section .card {
   border: 1px solid #e2e2e2 !important;
   font-family: var(--theme-font) !important;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   /* height: 230px !important; */
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
 }
@@ -7034,7 +7032,7 @@ input.search-field.show-placeholder::placeholder {
 /* .funding-crucial-section-1 .card {
   border: 1px solid #e2e2e2 !important;
   font-family: var(--theme-font) !important;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
 /* } */
 /* .funding-crucial-section-1 .card .title {
@@ -7047,10 +7045,10 @@ input.search-field.show-placeholder::placeholder {
 /* 
 .funding-crucial-section-1 .img-card {
   height: 230px !important;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
 } */
 /* .funding-crucial-section-1 img {
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
 } */
 
 .funding-crucial-section_img {
@@ -7089,7 +7087,7 @@ input.search-field.show-placeholder::placeholder {
 }
 /* .funding-crucial-section-2 .card {
   height: 170px !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   border: none;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.07);
 }
@@ -7135,17 +7133,17 @@ input.search-field.show-placeholder::placeholder {
 .regulations-section .card {
   background-color: #2c4e59 !important;
   /* border: 2px solid #437382 !important; */
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   padding: 1rem !important;
   color: white !important;
 }
 .factors-section .container img {
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
 }
 .factors-section .card {
   border: 1px solid #e2e2e2 !important;
   font-family: var(--theme-font) !important;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   /* height: 230px !important; */
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
 }
@@ -7194,7 +7192,7 @@ input.search-field.show-placeholder::placeholder {
 }
 /* .seeking-funding-section .card {
   height: 170px !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   border: none !important;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.07);
 }
@@ -7291,7 +7289,7 @@ input.search-field.show-placeholder::placeholder {
   color: white;
 }
 .msme-benefits-section .card {
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   transition: background-color 0.3s ease;
 }
 .msme-benefits-section .card .title {
@@ -7319,7 +7317,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .msme-loan-types-section .card {
   height: 170px !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   border: none;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03);
 }
@@ -7335,7 +7333,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .sme-ipo-features-section .card {
   height: 210px !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   border: none;
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03);
 }
@@ -7361,7 +7359,7 @@ input.search-field.show-placeholder::placeholder {
 .sme-benefits-section .card {
   background-color: #2c4e59 !important;
   border: 2px solid #437382 !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   padding: 2rem !important;
 }
 /* .sme-ipo-eligibility li::marker {
@@ -7371,7 +7369,7 @@ input.search-field.show-placeholder::placeholder {
   background: linear-gradient(to bottom, #fff3f5, white);
 }
 .linear-gradient2 img {
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
 }
 .consultation-section {
   background-color: var(--theme-color);
@@ -7379,13 +7377,13 @@ input.search-field.show-placeholder::placeholder {
 .consultation-section .card {
   background-color: #bd162b !important;
   border: 2px solid #e5132e !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   padding: 2rem !important;
 }
 .sme-service-section .card {
   border: 1px solid #e2e2e2 !important;
   font-family: var(--theme-font) !important;
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.03) !important;
 }
 .sme-service-section .card .title {
@@ -7404,7 +7402,7 @@ input.search-field.show-placeholder::placeholder {
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.07);
   border: none;
   height: 170px !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
 }
 .retail-loan-benefits-section span {
   background-color: #fffae3 !important;
@@ -7477,7 +7475,7 @@ input.search-field.show-placeholder::placeholder {
   box-shadow: inset 6px 6px 12px rgba(0, 0, 0, 0.4);
 }
 .card-img {
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
 }
 
 /* Customer Loyalty Program */
@@ -7506,7 +7504,7 @@ input.search-field.show-placeholder::placeholder {
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.07);
   border: none;
   height: 170px !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
 }
 .overview-and-loan-section .card .title {
   font-weight: 600;
@@ -7546,9 +7544,9 @@ input.search-field.show-placeholder::placeholder {
   /* padding: 4% 0%; */
   animation: moveBackground 4s infinite ease-in-out;
 }
-.fees-and-charges-section li::marker {
+/* .fees-and-charges-section li::marker {
   color: black !important ;
-}
+} */
 .tab-menu {
   margin-top: -35px;
   padding: 20px 35px;
@@ -7609,7 +7607,7 @@ input.search-field.show-placeholder::placeholder {
 /* Retail Business Loan */
 #document .business-loan .card {
   border: none !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
 }
 .responsive-height {
   height: 300px !important;
@@ -7626,7 +7624,7 @@ input.search-field.show-placeholder::placeholder {
 }
 .types-of-loan-section .card {
   border: none !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
   border: 1px solid #E2E2E2 !important;
 }
 .types-of-loan-section .card .title {
@@ -7649,7 +7647,7 @@ input.search-field.show-placeholder::placeholder {
   box-shadow: 12px 4px 32px 7px rgba(0, 0, 0, 0.07);
   border: none;
   height: 170px !important;
-  border-radius: 10px !important;
+  border-radius: var(--theme-border-radius) !important;
 }
 .loan-against-property-overview-and-loan-section .card .title {
   font-weight: 600;
@@ -7701,7 +7699,7 @@ input.search-field.show-placeholder::placeholder {
   font-family: var(--theme-font);
 }
 .calculator-section .card {
-  border-radius: 10px;
+  border-radius: var(--theme-border-radius);
 }
 .calculator-section .card-green {
   background-color: #139813;
@@ -7768,7 +7766,7 @@ input.search-field.show-placeholder::placeholder {
   height: auto;
   max-height: 90vh;
   display: block;
-  border-radius: 10px; 
+  border-radius: var(--theme-border-radius); 
 }
 .ads-continer .modal-content{
   width:auto;
