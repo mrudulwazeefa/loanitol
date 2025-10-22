@@ -16,10 +16,10 @@
                             <li class="breadcrumb-item active" aria-current="page">MSME Loan</li>
                         </ol>
                     </nav>
-                    <h5 class="h5-size col-sm-12">
-                        Take Your Business to New <br> Heights with an <span class="d-inline-block">SME IPO</span>
+                    <h5 class="h5-size col-sm-10">
+                        Take Your Business to New Heights with an <span class="d-inline-block">SME IPO</span>
                     </h5>
-                    <p style="color: #221E1E">We Assist You in Elevating Your Business with an SME IPO.
+                    <p>We Assist You in Elevating Your Business with an SME IPO.
                     </p>
                 </div>
                 <div class="col-lg-4 col-md-4">
@@ -36,83 +36,96 @@
                 <p>Small and medium-sized businesses (SMEs) can raise money from the public market using a specialized
                     fundraising method called an initial public offering (IPO). It gives expanding companies access to a
                     wider range of investors by enabling them to list on SME platforms of stock exchanges like NSE
-                    Emerge
-                    and BSE SME. In contrast to main board offerings, the SME IPO framework offers simplified listing
-                    procedures and fewer regulatory restrictions in order to assist new businesses.</p>
+                    Emerge and BSE SME. In contrast to main board offerings, the SME IPO framework offers simplified
+                    listing procedures and fewer regulatory restrictions in order to assist new businesses.</p>
             </div>
         </div>
-        <img class="logo-design img-fluid" src="assets/msme-loan/logos.png" alt="">
-        <div class="sme-ipo-features-section py-5">
+        <img class="img-fluid pattern_z_2" src="assets/msme-loan/logos.png" alt="">
+        <div class="py-5">
             <div class="container">
-                <h2 class="fw-semibold mb-3">Features</h2>
-                <div class="row py-4 flex-lg-row flex-column">
+                <h4 class="h4-size2 mb-3">Features</h4>
+                <div class="row g-3 mb-3 align-items-stretch pd-choose">
                     <div class="col-md-12 col-lg-8">
                         <div class="row g-3 g-md-4">
-                            <div class="col-sm-6">
-                                <div class="card justify-content-center text-center p-3">
-                                    <span>
-                                        <img src="assets/sme-ipo/icons/reduced-investment-and-turnover-thresholds.svg"
-                                            alt="">
-                                    </span>
-                                    <p class="title">Reduced Investment and <br> Turnover Thresholds</p>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/sme-ipo/icons/reduced-investment-and-turnover-thresholds.svg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-lg-9 col-md-11">Reduced Investment and Turnover Thresholds</h2>
                                 </div>
                             </div>
-                            <div class="col-sm-6">
-                                <div class="card justify-content-center text-center p-3">
-                                    <span>
-                                        <img src="assets/sme-ipo/icons/listing-on-different-platforms-for-sme.svg"
-                                            alt="">
-                                    </span>
-                                    <p class="title">Listing on Different Platforms <br> for SMEs</p>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/sme-ipo/icons/listing-on-different-platforms-for-sme.svg"
+                                                alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-lg-9 col-md-11">Listing on Different Platforms for SMEs</h2>
                                 </div>
                             </div>
-                            <div class="col-sm-6">
-                                <div class="card justify-content-center text-center p-3">
-                                    <span>
-                                        <img src="assets/sme-ipo/icons/investor-liquidity.svg" alt="">
-                                    </span>
-                                    <p class="title">Investor Liquidity</p>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/sme-ipo/icons/investor-liquidity.svg" alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-lg-9 col-md-11">Investor Liquidity</h2>
                                 </div>
                             </div>
-                            <div class="col-sm-6">
-                                <div class="card justify-content-center text-center p-3">
-                                    <span>
-                                        <img src="assets/sme-ipo/icons/access-to-capital.svg" alt="">
-                                    </span>
-                                    <p class="title">Access to Capital</p>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/sme-ipo/icons/access-to-capital.svg" alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-lg-9 col-md-11">Access to Capital</h2>
                                 </div>
                             </div>
-                            <div class="col-sm-6">
-                                <div class="card justify-content-center text-center p-3">
-                                    <span>
-                                        <img src="assets/sme-ipo/icons/controlled-trading-environment.svg" alt="">
-                                    </span>
-                                    <p class="title">Controlled Trading <br> Environment</p>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/sme-ipo/icons/controlled-trading-environment.svg" alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-lg-9 col-md-11">Controlled Trading Environment</h2>
                                 </div>
                             </div>
-                            <div class="col-sm-6">
-                                <div class="card justify-content-center text-center p-3">
-                                    <span>
-                                        <img src="assets/sme-ipo/icons/suppliers-and-vendors.svg" alt="">
-                                    </span>
-                                    <p class="title">Suppliers & Vendors</p>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/sme-ipo/icons/suppliers-and-vendors.svg" alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-lg-9 col-md-11">Suppliers & Vendors</h2>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-12 col-lg-4">
-                        <div class="row g-3 g-md-4 pt-4 pt-lg-0">
-                            <div class="col-md-6 col-lg-12">
-                                <div class="card justify-content-center text-center p-3">
-                                    <span>
-                                        <img src="assets/sme-ipo/icons/trading-restrictions.svg" alt="">
-                                    </span>
-                                    <p class="title">Trading Restrictions</p>
+                        <div class="row g-3 g-md-4 pt-0 pt-lg-0">
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-6 col-12">
+                                <div class="common-box w-100">
+                                    <div class="icon-frame">
+                                        <div class="second-frame">
+                                            <img src="assets/sme-ipo/icons/trading-restrictions.svg" alt="">
+                                        </div>
+                                    </div>
+                                    <h2 class="col-lg-9 col-md-11">Trading Restrictions</h2>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-lg-12">
-                                <img src="assets/sme-ipo/card-img.jpg" height="435px" class="w-100 object-fit-cover"
-                                    style="border-radius: 10px" alt="">
+                            <div class="col-lg-12 mt-3 mt-md-0 pt-4 d-none d-lg-block">
+                                <img class="theme-radius object-fit-cover w-100 h-405" src="assets/sme-ipo/card-img.jpg"
+                                    alt="">
                             </div>
                         </div>
                     </div>
@@ -123,39 +136,44 @@
 
     <div class="sme-benefits-section py-5">
         <div class="container p-3">
-            <h2 class="fw-semibold text-white mb-4">Benefits</h2>
-            <div class="row py-3">
+            <h4 class="mb-4 h4-size2">Benefits</h4>
+            <div class="row py-3 heading">
                 <div class="col-sm-6 col-lg-4 d-flex">
                     <div class="card p-3">
-                        <h5 class="text-white">Growing Businesses</h5>
-                        <p class="text-white">Companies seeking expansion capital without increasing debt burdens.</p>
+                        <h5>Growing Businesses</h5>
+                        <p>Companies seeking expansion capital without increasing debt burdens.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4 d-flex mt-3 mt-sm-0">
                     <div class="card p-3">
-                        <h5 class="text-white">Entrepreneurs & Promoters</h5>
-                        <p class="text-white">Those aiming to unlock value from their businesses while retaining
-                            control.</p>
+                        <h5>Entrepreneurs & Promoters</h5>
+                        <p>Those aiming to unlock value from their businesses while retaining control.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4 d-flex mt-3 mt-sm-4 mt-lg-0">
                     <div class="card p-3">
-                        <h5 class="text-white">Investors & Stakeholders</h5>
-                        <p class="text-white">Early-stage investors and stakeholders who can benefit from liquidity.</p>
+                        <h5>Investors & Stakeholders</h5>
+                        <p>Early-stage investors and stakeholders who can benefit from liquidity.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4 mt-3 mt-sm-4 d-flex">
                     <div class="card p-3">
-                        <h5 class="text-white">Employees</h5>
-                        <p class="text-white">Companies can offer ESOPs (Employee Stock Ownership Plans), boosting
+                        <h5>Employees</h5>
+                        <p>Companies can offer ESOPs (Employee Stock Ownership Plans), boosting
                             motivation and retention.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4 mt-3 mt-sm-4 d-flex">
                     <div class="card p-3">
-                        <h5 class="text-white">Industry Leaders</h5>
-                        <p class="text-white">Businesses looking to enhance credibility and market positioning through
-                            public listing.</p>
+                        <h5>Industry Leaders</h5>
+                        <p>Businesses looking to enhance credibility and market positioning through public listing.</p>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-4 mt-3 mt-sm-4 d-flex">
+                    <div class="card p-3">
+                        <h5>Suppliers & Vendors</h5>
+                        <p>A listed company's credibility ensures stronger supplier relationships, better payment terms,
+                            and long-term partnerships.</p>
                     </div>
                 </div>
             </div>
@@ -164,17 +182,18 @@
 
     <div class="linear-gradient2 sme-ipo-eligibility py-5">
         <div class="container py-3">
-            <h2 class="fw-semibold">Eligibility</h2>
+            <h4 class="h4-size2">Eligibility</h4>
             <div class="row g-3 g-md-4 mt-4">
                 <div class="col-md-6">
                     <div class="card border-0 p-4">
-                        <h5 class="mb-3" style="color: #D81F37">Minimum Paid-Up Capital and Net Worth :</h5>
-                        <p>In order to be eligible for a SME IPO, the firm must meet minimum standards for both paid-up capital and net worth.
-                            SMEs must meet lower requirements set by the stock exchange than those needed to float on the main stock exchange.
+                        <h5 class="mb-3">Minimum Paid-Up Capital and Net Worth :</h5>
+                        <p>In order to be eligible for a SME IPO, the firm must meet minimum standards for both paid-up
+                            capital and net worth. SMEs must meet lower requirements set by the stock exchange than
+                            those needed to float on the main stock exchange.
                         </p>
                     </div>
                     <div class="card mt-3 mt-md-4 border-0 p-4">
-                        <h5 class="mb-3" style="color: #D81F37">Post-Issue ownership Restrictions :</h5>
+                        <h5 class="mb-3">Post-Issue ownership Restrictions :</h5>
                         <p>Post-issue ownership patterns are subject to restrictions. Usually, this means that promoters
                             must keep a sizable portion of the business. This increases an investor's confidence by
                             guaranteeing that the promoters remain dedicated to the firm and have a stake in its
@@ -184,7 +203,8 @@
                 </div>
                 <div class="col-md-6">
                     <div class="card border-0 p-4">
-                        <h5 class="mb-3" style="color: #D81F37">Profitability Track Record or Alternative Performance Criteria :</h5>
+                        <h5 class="mb-3">Profitability Track Record or Alternative Performance
+                            Criteria :</h5>
                         <p>SMEs aiming to list through an SME IPO must show a history of profitability or meet specific
                             performance criteria established by the stock exchange. This ensures that only companies
                             with a demonstrated potential for success and sustainability are listed, offering a level of
@@ -193,9 +213,9 @@
                     </div>
                 </div>
             </div>
-            <div class="d-flex row flex-column flex-sm-row g-5 mt-4 mt-md-5 pt-2">
+             <div class="row my-5 py-4 d-flex row flex-column flex-sm-row">
                 <div class="col-12 col-lg-8">
-                    <h4>BSE SME Eligibility Requirements</h4>
+                    <h4 class="mb-4 h4-size2">BSE SME Eligibility Requirements</h4>
                     <ul class="mt-4">
                         <li>The company must be incorporated under the Companies Act, 1956.</li>
                         <li>The company should have a positive net worth.</li>
@@ -214,16 +234,17 @@
                             SME.</li>
                     </ul>
                 </div>
-                <div class="col-12 col-lg-4 ">
-                    <img src="assets/sme-ipo/card-img2.jpg" class="object-fit-cover w-100" height="460px" alt="">
+                <div class="col-12 col-lg-4 d-lg-flex d-md-none d-sm-none d-none">
+                    <img src="assets/sme-ipo/card-img2.jpg" class="object-fit-cover w-100 h-405" alt="">
                 </div>
             </div>
-            <div class="d-flex row g-5 mt-4 mt-md-5 pt-2">
-                <div class="col-12 col-lg-4 order-1 order-lg-0">
-                    <img src="assets/sme-ipo/card-img3.jpg" class="object-fit-cover w-100" height="460px" alt="">
+           
+            <div class="d-flex row my-5 py-4">
+                <div class="col-12 col-lg-4 order-1 order-lg-0 d-lg-flex d-md-none d-sm-none d-none">
+                    <img src="assets/sme-ipo/card-img3.jpg" class="object-fit-cover w-100 h-405" alt="">
                 </div>
                 <div class="col-12 col-lg-8 order-0 order-lg-1">
-                    <h4>BSE SME Eligibility Requirements</h4>
+                    <h4 class="mb-4 h4-size2">NSE Emerge Eligibility Requirements</h4>
                     <ul class="mt-4">
                         <li>The company must be incorporated under the Companies Act, 1956.</li>
                         <li>The company should have a positive net worth.</li>
@@ -242,59 +263,62 @@
                             SME.</li>
                     </ul>
                 </div>
-            </div>
+            </div> 
         </div>
     </div>
 
     <div class="consultation-section py-5">
-        <div class="container py-4">
-            <h3 class="text-white mb-4">Why Choose Us for SME IPO Consultation?</h3>
-            <p class="text-white">We specialize in end-to-end SME IPO advisory services, guiding businesses through the
-                entire listing
+        <div class="container py-4 text-white">
+            <h4 class="mb-4 h4-size2">Why Choose Us for SME IPO Consultation?</h4>
+            <p>We specialize in end-to-end SME IPO advisory services, guiding businesses through the entire listing
                 process with a structured approach. Our expertise ensures a seamless transition to public markets with
                 maximum benefits.</p>
-            <div class="row g-3 g-md-4 py-5">
+            <div class="row g-3 g-md-4 py-5 pb-0 sme-ipo">
                 <div class="col-sm-6 col-lg-4 d-flex">
                     <div class="card">
-                        <h6 class="text-white">Extensive Industry Experience :</h6>
-                        <p class="text-white">Associated with Proven track record of successful SME IPO listings across
+                        <h6>Extensive Industry Experience :</h6>
+                        <p>Associated with Proven track record of successful SME IPO listings across
                             various industries</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4 d-flex">
                     <div class="card">
-                        <h6 class="text-white">Tailored Financial & Compliance Advisory :</h6>
-                        <p class="text-white">We provide customized solutions, ensuring regulatory compliance and
+                        <h6>Tailored Financial & Compliance Advisory :</h6>
+                        <p>We provide customized solutions, ensuring regulatory compliance and
                             financial preparedness</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4 d-flex">
                     <div class="card">
-                        <h6 class="text-white">Strategic Market Positioning :</h6>
-                        <p class="text-white">Helping you craft an investment narrative that appeals to institutional
+                        <h6>Strategic Market Positioning :</h6>
+                        <p>Helping you craft an investment narrative that appeals to institutional
                             and retail investors.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4 d-flex">
                     <div class="card">
-                        <h6 class="text-white">End-to-End Support :</h6>
-                        <p class="text-white">From pre-IPO readiness to post-listing compliance, we handle it all.</p>
+                        <h6>End-to-End Support :</h6>
+                        <p>From pre-IPO readiness to post-listing compliance, we handle it all.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-4 d-flex">
                     <div class="card">
-                        <h6 class="text-white">Strong Network :</h6>
-                        <p class="text-white">Collaboration with merchant bankers, legal advisors, and regulatory
+                        <h6>Strong Network :</h6>
+                        <p>Collaboration with merchant bankers, legal advisors, and regulatory
                             authorities to facilitate smooth execution</p>
                     </div>
+                </div>
+                <div class="col-sm-6 col-lg-4 d-flex">
+                    <img src="assets/sme-ipo/choose-us-img.jpg" alt="choose-us"
+                        class="object-fit-cover w-100 sme-ipo_img">
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="sme-service-section py-5">
+<div class="sme-service-section py-5">
         <div class="container py-4">
-            <h2 class="fw-semibold">Our SME IPO Services</h2>
+            <h4 class="h4-size2">Our SME IPO Services</h4>
             <p>Our comprehensive SME IPO consultation covers:</p>
             <div class="row py-4">
                 <div class="col-lg-4 col-sm-6 d-flex">
@@ -378,21 +402,18 @@
         </div>
 
         <div class="container">
-            <div class="pt-4" style="line-height: 1.8">
-                <h2 class="mb-3 fw-semibold">Take Your Business to the Next Level</h2>
+            <div class="pt-4">
+                <h4 class="h4-size2 mb-3">Take Your Business to the Next Level</h4>
                 <p>A successful SME IPO not only unlocks growth capital but also strengthens brand reputation, enhances
                     credibility, and fosters long-term business expansion. Partner with us for a structured, efficient,
-                    and successful IPO journey.
-
-                    <br> <br>
-
-                    Get in touch with us today to explore your SME IPO potential and take your company public with
+                    and successful IPO journey.</p>
+                <p>Get in touch with us today to explore your SME IPO potential and take your company public with
                     confidence!
                 </p>
             </div>
         </div>
 
-    </div>
+    </div> 
 
     <!-- free to contact -->
     <div class="bg-contact-area">
@@ -413,21 +434,7 @@
             </div>
         </div>
     </div>
-
     <?php include("includes/calculation-bottom.php"); ?>
     <?php include("includes/footer.php"); ?>
-
-    <script>
-    //modal video pause when closed
-    $('#exampleModal').on('hidden.bs.modal', function() {
-        var video = document.getElementById('modalVideo');
-        if (video) {
-            video.pause();
-            video.currentTime = 0; // resets
-        }
-    });
-    </script>
-
 </body>
-
 </html>
