@@ -99,7 +99,6 @@
         <br>
         <span>Phone: </span><a href="tel:919090388883">+91-9090388883</a>
     </div>
-    <?php include("includes/calculation-bottom.php"); ?>
     <?php include("includes/footer.php"); ?>
 </body>
 </html>
