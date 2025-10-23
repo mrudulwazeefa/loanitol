@@ -173,7 +173,7 @@
                                     loans.</p>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-6">
+                        <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="features-style-box features-style-box-height">
                                 <div class="row d-flex align-items-center">
                                     <div class="col-lg-2">
@@ -191,10 +191,18 @@
                                     predictable interest rates, which are frequently fixed.</p>
                             </div>
                         </div>
-                        <div class="col-md-8 col-sm-6" style="height: 225px;margin-top: 0.5%;">
+                        <!-- <div class="col-lg-8 col-md-6 col-sm-6" style="height: 225px;margin-top: 0.5%;">
                             <img src="assets/services/msme-loan/working-capital-term-loan/working-capital-term.jpg"
                                 style="object-fit: cover; width:100%; height: 100%; border-radius: 4px;">
+                        </div> -->
+                        <div class="col-lg-8 col-md-6 col-sm-6 mt-3 d-md-flex d-sm-none d-flex ">
+                        <img src="assets/services/msme-loan/working-capital-term-loan/working-capital-term.jpg" alt="working-capital-term" class="object-fit-cover w-100 working-capital-term-img">
                         </div>
+
+
+
+
+
                     </div>
                 </div>
             </div>

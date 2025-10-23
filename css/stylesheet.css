@@ -4744,6 +4744,12 @@ img {
   .loan-against-property_img {
     height: 240px!important;
   }
+  .working-capital-term-img {
+    height: 245px!important;
+  }
+
+
+
   .documents-required-home-loan h5{
     font-size: var(--font-16)!important;
   }
@@ -5052,7 +5058,8 @@ img {
      font-size: var(--font-18)!important;
   }
      .loan-against-property_img,
-     .sme-ipo_img {
+     .sme-ipo_img,
+      .working-capital-term-img{
     height: 198px!important;
   }
 
@@ -7125,6 +7132,16 @@ input.search-field.show-placeholder::placeholder {
   overflow: hidden;
   border-radius: var(--theme-border-radius);
 }
+.working-capital-term-img{
+  height: 215px;
+   width: 100%;
+   max-width:100%;
+  overflow: hidden;
+  border-radius: var(--theme-border-radius);
+}
+
+
+
 
 .funding-crucial-section-1 {
   background: linear-gradient(to bottom, #fff3f5, #fff3f5);
