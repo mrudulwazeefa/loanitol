@@ -32,7 +32,7 @@
             </span>
         </div>
         <div class="row g-3 g-md-4 pt-4">
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container">
                 <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModalVideos1"
                     class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -40,12 +40,12 @@
                     <g>
                         <path
                             d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                            fill="#D81F37" opacity="1" data-original="#000000"></path>
+                           ></path>
                     </g>
                 </svg>
                 <img class="card-img img-fluid" src="assets/videos/video-thumbnail.webp" alt="">
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container">
                 <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModalVideos1"
                     class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -53,25 +53,24 @@
                     <g>
                         <path
                             d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                            fill="#D81F37" opacity="1" data-original="#000000"></path>
+                           ></path>
                     </g>
                 </svg>
                 <img class="card-img img-fluid" src="assets/videos/video-thumbnail.webp" alt="">
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container">
                 <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModalVideos1"
                     class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
                     viewBox="0 0 48 48" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
                     <g>
                         <path
-                            d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                            fill="#D81F37" opacity="1" data-original="#000000"></path>
+                            d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"></path>
                     </g>
                 </svg>
                 <img class="card-img img-fluid" src="assets/videos/video-thumbnail.webp" alt="">
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container">
                 <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModalVideos1"
                     class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -79,12 +78,12 @@
                     <g>
                         <path
                             d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                            fill="#D81F37" opacity="1" data-original="#000000"></path>
+                           ></path>
                     </g>
                 </svg>
                 <img class="card-img img-fluid" src="assets/videos/video-thumbnail.webp" alt="">
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container hidden-cols">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container hidden-cols">
                 <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModalVideos1"
                     class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -92,12 +91,12 @@
                     <g>
                         <path
                             d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                            fill="#D81F37" opacity="1" data-original="#000000"></path>
+                           ></path>
                     </g>
                 </svg>
                 <img class="card-img img-fluid" src="assets/videos/video-thumbnail.webp" alt="">
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container hidden-cols">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container hidden-cols">
                 <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModalVideos1"
                     class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -105,12 +104,12 @@
                     <g>
                         <path
                             d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                            fill="#D81F37" opacity="1" data-original="#000000"></path>
+                           ></path>
                     </g>
                 </svg>
                 <img class="card-img img-fluid" src="assets/videos/video-thumbnail.webp" alt="">
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container hidden-cols">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container hidden-cols">
                 <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModalVideos1"
                     class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -118,12 +117,12 @@
                     <g>
                         <path
                             d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                            fill="#D81F37" opacity="1" data-original="#000000"></path>
+                           ></path>
                     </g>
                 </svg>
                 <img class="card-img img-fluid" src="assets/videos/video-thumbnail.webp" alt="">
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container hidden-cols">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container hidden-cols">
                 <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModalVideos1"
                     class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
                     xmlns:xlink="http://www.w3.org/1999/xlink" width="65px" height="65px" x="0" y="0"
@@ -131,7 +130,7 @@
                     <g>
                         <path
                             d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                            fill="#D81F37" opacity="1" data-original="#000000"></path>
+                           ></path>
                     </g>
                 </svg>
                 <img class="card-img img-fluid" src="assets/videos/video-thumbnail.webp" alt="">
@@ -162,6 +161,10 @@
         </div>
     </div>
 
+
+
+    
+
     <div class="container ads-continer video-container py-2 mt-5 mb-5 position-relative">
         <div class="title-main-container h4-size mb-2 title d-flex justify-content-between">
             <div class="d-flex align-items-center">
@@ -177,9 +180,9 @@
                 <input class="search-field" type="text" id="search-input1" placeholder="Search Reels..." />
             </span>
         </div>
-        <div class="row g-3 g-md-4 pt-4">
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3 position-relative video-container">
-                <div class="card border-0 p-3 rounded-4">
+        <div class="row g-3 g-md-3 pt-4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 position-relative video-container">
+                <div class="card border-0 p-3 p-md-2 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/44-Appukalil-Ninnu.webp" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal1"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -188,7 +191,7 @@
                         <g>
                             <path
                                 d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                                fill="#D81F37" opacity="1" data-original="#000000">
+                               >
                             </path>
                         </g>
                     </svg>
@@ -211,8 +214,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container">
-                <div class="card border-0 p-3 rounded-4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container">
+                <div class="card border-0 p-3 p-md-2 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/aleena-about-business.webp" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -221,7 +224,7 @@
                         <g>
                             <path
                                 d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                                fill="#D81F37" opacity="1" data-original="#000000">
+                               >
                             </path>
                         </g>
                     </svg>
@@ -243,8 +246,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container">
-                <div class="card border-0 p-3 rounded-4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container">
+                <div class="card border-0 p-3 p-md-2 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/90percent-loan-for-machineries.webp" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal3"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -253,7 +256,7 @@
                         <g>
                             <path
                                 d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                                fill="#D81F37" opacity="1" data-original="#000000"></path>
+                               ></path>
                         </g>
                     </svg>
                 </div>
@@ -274,8 +277,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container">
-                <div class="card border-0 p-3 rounded-4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container d-c-none">
+                <div class="card border-0 p-3 p-md-2 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/app-loan-edukkunnavar.webp" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal4"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -284,7 +287,7 @@
                         <g>
                             <path
                                 d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                                fill="#D81F37" opacity="1" data-original="#000000"></path>
+                               ></path>
                         </g>
                     </svg>
                 </div>
@@ -305,8 +308,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container hidden-cols-reels">
-                <div class="card border-0 p-3 rounded-4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container hidden-cols-reels">
+                <div class="card border-0 p-3 p-md-2 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_10.webp" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal5"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -315,7 +318,7 @@
                         <g>
                             <path
                                 d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                                fill="#D81F37" opacity="1" data-original="#000000"></path>
+                               ></path>
                         </g>
                     </svg>
                 </div>
@@ -336,8 +339,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container hidden-cols-reels">
-                <div class="card border-0 p-3 rounded-4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container hidden-cols-reels">
+                <div class="card border-0 p-3 p-md-2 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_8__reel_1.webp" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal6"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -346,7 +349,7 @@
                         <g>
                             <path
                                 d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                                fill="#D81F37" opacity="1" data-original="#000000"></path>
+                               ></path>
                         </g>
                     </svg>
                 </div>
@@ -367,8 +370,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container hidden-cols-reels">
-                <div class="card border-0 p-3 rounded-4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container hidden-cols-reels">
+                <div class="card border-0 p-3  p-md-2 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_8__reel_2.webp" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal7"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -377,7 +380,7 @@
                         <g>
                             <path
                                 d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                                fill="#D81F37" opacity="1" data-original="#000000"></path>
+                               ></path>
                         </g>
                     </svg>
                 </div>
@@ -398,8 +401,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container hidden-cols-reels">
-                <div class="card border-0 p-3 rounded-4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container hidden-cols-reels">
+                <div class="card border-0 p-3  p-md-2rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_8__reel_3.webp" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal8"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -408,7 +411,7 @@
                         <g>
                             <path
                                 d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                                fill="#D81F37" opacity="1" data-original="#000000"></path>
+                               ></path>
                         </g>
                     </svg>
                 </div>
@@ -429,8 +432,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container hidden-cols-reels">
-                <div class="card border-0 p-3 rounded-4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container hidden-cols-reels">
+                <div class="card border-0 p-3 p-md-2 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_8__reel_4.webp" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal9"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -439,7 +442,7 @@
                         <g>
                             <path
                                 d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                                fill="#D81F37" opacity="1" data-original="#000000"></path>
+                               ></path>
                         </g>
                     </svg>
                 </div>
@@ -460,8 +463,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container hidden-cols-reels">
-                <div class="card border-0 p-3 rounded-4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container hidden-cols-reels">
+                <div class="card border-0 p-3 p-md-2 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_9__reel_2.webp" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal10"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -470,7 +473,7 @@
                         <g>
                             <path
                                 d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                                fill="#D81F37" opacity="1" data-original="#000000"></path>
+                               ></path>
                         </g>
                     </svg>
                 </div>
@@ -491,8 +494,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container hidden-cols-reels">
-                <div class="card border-0 p-3 rounded-4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container hidden-cols-reels">
+                <div class="card border-0 p-3 p-md-2 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/episode_9__reel_3.webp" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal11"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -501,7 +504,7 @@
                         <g>
                             <path
                                 d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                                fill="#D81F37" opacity="1" data-original="#000000"></path>
+                               ></path>
                         </g>
                     </svg>
                 </div>
@@ -522,8 +525,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3  position-relative video-container hidden-cols-reels">
-                <div class="card border-0 p-3 rounded-4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3  position-relative video-container hidden-cols-reels">
+                <div class="card border-0 p-3 p-md-2 rounded-4">
                     <img class="ads-reel-img img-fluid" src="assets/videos/personal_loan_kittunath.webp" alt="">
                     <svg type="button" data-bs-toggle="modal" data-bs-target="#exampleModal12"
                         class="play-icon p-3 position-absolute" xmlns="http://www.w3.org/2000/svg" version="1.1"
@@ -532,7 +535,7 @@
                         <g>
                             <path
                                 d="m37.324 20.026-22-12.412a4.685 4.685 0 0 0-4.711.036 4.528 4.528 0 0 0-2.28 3.938v24.824a4.528 4.528 0 0 0 2.28 3.938 4.687 4.687 0 0 0 4.711.036l22-12.412a4.543 4.543 0 0 0 0-7.948z"
-                                fill="#D81F37" opacity="1" data-original="#000000"></path>
+                               ></path>
                         </g>
                     </svg>
                 </div>

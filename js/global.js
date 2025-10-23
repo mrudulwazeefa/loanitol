@@ -228,6 +228,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+
   const chooseMoreBtn = document.getElementById("chooseshowMoreBtn");
   if (chooseMoreBtn) {
     chooseMoreBtn.addEventListener("click", function () {

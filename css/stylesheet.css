@@ -832,7 +832,10 @@ border: 1px solid var(--theme-color) !important;
   position: var(--relative);
 }
 
-.hidden-cols, .hidden-cols-reels {
+.hidden-cols, .hidden-cols-reels{
+  display: none;
+}
+ .d-m-none{
   display: none;
 }
 
@@ -3959,7 +3962,6 @@ img {
 }
 
 
-
 /*  Responsive */
 @media screen and (max-width: 400px) {
   .people_say .loanitol-service .owl-theme .owl-dots,
@@ -3969,6 +3971,9 @@ img {
 }
 /* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 600px) {
+    /* .d-m-none {
+  display: block;
+} */
   .img-equal-height{
     height: 180px!important;
     margin-bottom: 5%;
@@ -4425,6 +4430,9 @@ img {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media screen and (min-width: 600px) {
+  /* .d-m-none {
+  display: block;
+} */
   .img-equal-height{
     height: 180px!important;
     margin-bottom: 12%;
@@ -4729,6 +4737,7 @@ img {
 }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+
    .img-equal-height{
     height: 180px!important;
   }
@@ -5039,7 +5048,6 @@ img {
 @media only screen and (min-width: 992px) {
  
 
-
   .documents-required-home-loan h5{
      font-size: var(--font-18)!important;
   }
@@ -5217,6 +5225,9 @@ img {
 }
 /* */
 @media only screen and (min-width: 1024px) {
+  /* .d-m-none {
+  display: block;
+} */
 .img-equal-height {
   height: 129px !important;
   object-fit: cover !important;
@@ -5705,8 +5716,9 @@ img {
   transition: 0.3s;
   cursor: pointer;
 }
-.play-icon {
+.play-icon path {
   fill: var(--theme-color);
+  opacity: 1;
 }
 .play-icon:hover {
   background-color: white;
