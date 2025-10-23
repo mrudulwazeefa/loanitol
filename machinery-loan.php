@@ -272,18 +272,45 @@
                 <div class="col-lg-8 col-md-12">
                     <h4 class="h4-size2">Eligibility Criteria</h4>
                     <ul>
-                        <li><b>Business Vintage:</b> At least two to three years of operational experience (new firm can
+                        <li>
+                            <ul class="eligibility_ul">
+                                <li>Business Vintage:</li>
+                                <li>At least two to three years of operational experience (new firm can
                             also fund).</li>
-                        <li><b>Business Type:</b> Manufacturers, traders, service providers, or construction companies.
+                            </ul>
                         </li>
-                        <li><b>Requirement for Turnover:</b> Annual turnover in accordance with lender policy (usually
+                        <li>
+                             <ul class="eligibility_ul">
+                                <li>Business Type:</li>
+                                <li>Manufacturers, traders, service providers, or construction companies.</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <ul class="eligibility_ul">
+                                <li>Requirement for Turnover:</li>
+                                <li>Annual turnover in accordance with lender policy (usually
                             ₹10 lakh and above).</li>
-                        <li><b>Collateral:</b> Needed for secured loans; unsecured loans rely on business financials;
+                            </ul>
+                        <li>
+                            <ul class="eligibility_ul">
+                                <li>Collateral:</li>
+                                <li>Needed for secured loans; unsecured loans rely on business financials;</li>
+                            </ul>
                         </li>
-                        <li><b>Profitability:</b> The company must have demonstrated steady profits for the last two
+                        <li>
+                             <ul class="eligibility_ul">
+                                <li>Profitability:</li>
+                                <li>The company must have demonstrated steady profits for the last two
                             years;</li>
-                        <li><b>Credit Score:</b> At least 730+ (for unsecured loans); higher scores translate into
+                            </ul>
+                        </li>
+                        <li>
+                            <ul class="eligibility_ul">
+                                <li>Credit Score:</li>
+                                <li>At least 730+ (for unsecured loans); higher scores translate into
                             better interest rates.</li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-12 d-sm-none d-md-none d-lg-block mb-4">

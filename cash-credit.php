@@ -245,8 +245,12 @@
                     <h4 class="h4-size2">Eligibility Criteria</h4>
                     <p>To avail of a cash credit facility, businesses must meet the following conditions:</p>
                     <ul>
-                        <li><b>Type of Business:</b> Construction companies, manufacturers, traders, or service
-                            providers.</li>
+                        <li>
+                            <ul class="eligibility_ul">
+                                <li>Type of Business:</li>
+                                <li>Construction companies, manufacturers, traders, or service providers.</li>
+                            </ul>
+                        </li>
                         <li>Must be a registered MSME that has been in business for at least one to two years; new
                             companies may also qualify.</li>
                         <li>Must have a track record of successful business operations.</li>
@@ -257,9 +261,19 @@
                         <li>The maximum loan amount is 25% of the yearly revenue.</li>
                         <li>Private limited companies, partnerships, and proprietorships are among the acceptable
                             business forms.</li>
-                        <li><b>Collateral:</b> Although unsecured loans could potentially be available, 100% collateral
+                        <li>
+                            <ul class="eligibility_ul">
+                                <li>Collateral:</li>
+                                <li>Although unsecured loans could potentially be available, 100% collateral
                             security is desired.</li>
-                        <li><b>Stock:</b> there should be enough stock.</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <ul class="eligibility_ul">
+                                <li>Stock:</li>
+                                <li>there should be enough stock.</li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
                 <div class='col-lg-4 col-md-12 d-sm-none d-md-none d-lg-block mb-4'>

@@ -3958,8 +3958,20 @@ img {
 }
 .h-405 {
   height: 404px;
-  /* height: 81%; */
 }
+
+.eligibility_ul{
+  display: inline;
+  padding-left: 0px!important;
+}
+.eligibility_ul li{
+  display: inline;
+ 
+}
+.eligibility_ul li:first-child{
+  font-weight: 600;
+}
+
 
 
 /*  Responsive */

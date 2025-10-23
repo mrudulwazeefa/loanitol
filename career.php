@@ -5,21 +5,22 @@
 <body>
     <?php include("includes/nav.php"); ?>
 
-    <div class="career-banner position-relative">
-        <img class="career-banner-img img-fluid w-100 h-50" src="assets/career/banner.jpg" alt="Career Banner">
-        <div
-            class="overlay position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-center text-center px-3">
-            <h1 class="banner-title fw-semibold text-white mb-3">
-                Ready to take the next step <br> in your career?
-            </h1>
-            <p class="text-white mb-4">
-                Join our dynamic team where your ideas matter, your growth is supported,
-                and your work makes a real impact. Be part of something meaningful—apply now!
-            </p>
-            <a href="#" class="career-btn px-4 py-2">
-                Current Openings<img class="img-fluid ms-2" width="20px"
-                    src="assets/career/icon/right-top-arrow-white.svg" alt="">
-            </a>
+    <div class="linear-gradient py-5">
+        <div class="py-5 career-banner position-relative h-100">
+            <div
+                class="py-5 top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-center text-center px-3">
+                <h1 class="banner-title fw-semibold mb-3">
+                    Ready to take the next step in your career?
+                </h1>
+                <p class="mb-4">
+                    Join our dynamic team where your ideas matter, your growth is supported,
+                    and your work makes a real impact. Be part of something meaningful—apply now!
+                </p>
+                <a href="#" class="career-btn px-4 py-2">
+                    Current Openings<img class="img-fluid ms-2" width="20px"
+                        src="assets/career/icon/right-top-arrow.svg" alt="">
+                </a>
+            </div>
         </div>
     </div>
 
@@ -27,7 +28,7 @@
         <div class="container py-2 pt-5 pb-5">
             <div class="mt-5">
                 <h1 class="text-black text-center">Current Openings</h1>
-                <p class="text-center">Demo paragraph [ Redefine Your Career Path With a Company
+                <p class="text-center" stytle="color: #221E1E">Demo paragraph [ Redefine Your Career Path With a Company
                     That Cares ]</p>
             </div>
             <div class="job-cards mb-5 mt-5">
@@ -67,7 +68,7 @@
                         flourishes. Here’s why joining our team could be your best career move:</p>
                 </div>
             </div>
-            <div class="row pb-5 pt-5">
+            <div class="row g-3 g-md-4 pb-5 pt-5">
                 <div class="col-12 col-md-6 d-flex">
                     <div class="card p-5 d-flex">
                         <img width="50px" class="img-fluid" src="assets/career/icon/1.svg" alt="">
@@ -80,7 +81,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 d-flex mt-4 mt-md-0">
+                <div class="col-12 col-md-6 d-flex">
                     <div class="card p-5 d-flex">
                         <img width="50px" class="img-fluid" src="assets/career/icon/1.svg" alt="">
                         <div>
@@ -93,7 +94,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 d-flex mt-4">
+                <div class="col-12 col-md-6 d-flex">
                     <div class="card p-5 d-flex">
                         <img width="50px" class="img-fluid" src="assets/career/icon/1.svg" alt="">
                         <div>
@@ -104,7 +105,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 d-flex mt-4">
+                <div class="col-12 col-md-6 d-flex">
                     <div class="card p-5 d-flex">
                         <img width="50px" class="img-fluid" src="assets/career/icon/1.svg" alt="">
                         <div>
@@ -131,9 +132,9 @@
             </div>
             <div class="gallery">
                 <div class="container py-5">
-                    <div class="row g-3">
-                        <div class="col-6">
-                            <div class="row g-3">
+                    <div class="row flex-column flex-md-row g-3 g-md-4">
+                        <div class="col-12 col-md-6">
+                            <div class="row g-3 g-md-4">
                                 <!-- Top Square -->
                                 <div class="col-6">
                                     <img src="assets/career/gallery1.jpg" class="img-fluid w-100 rounded"
@@ -142,16 +143,17 @@
                                 <!-- Bottom Square -->
                                 <div class="col-6">
                                     <img src="assets/career/gallery2.jpg" class="img-fluid w-100 rounded"
-                                        style="height: 270px; object-fit: cover; object-position: bottom" alt="Bottom square">
+                                        style="height: 270px; object-fit: cover; object-position: bottom"
+                                        alt="Bottom square">
 
-                                    <img src="assets/career/gallery4.jpg" class="img-fluid w-100 mt-3 rounded"
+                                    <img src="assets/career/gallery4.jpg" class="img-fluid w-100 mt-3 mt-md-4 rounded"
                                         style="height: 250px; object-fit: cover;" alt="Bottom square">
                                 </div>
 
                             </div>
                         </div>
-                        <div class="col-6">
-                            <div class="row g-3">
+                        <div class="col-12 col-md-6">
+                            <div class="row g-3 g-md-4">
                                 <!-- Top Square -->
                                 <div class="col-12">
                                     <img src="assets/career/gallery3.jpg" class="img-fluid w-100 rounded"

@@ -191,18 +191,9 @@
                                     predictable interest rates, which are frequently fixed.</p>
                             </div>
                         </div>
-                        <!-- <div class="col-lg-8 col-md-6 col-sm-6" style="height: 225px;margin-top: 0.5%;">
-                            <img src="assets/services/msme-loan/working-capital-term-loan/working-capital-term.jpg"
-                                style="object-fit: cover; width:100%; height: 100%; border-radius: 4px;">
-                        </div> -->
                         <div class="col-lg-8 col-md-6 col-sm-6 mt-3 d-md-flex d-sm-none d-flex ">
                         <img src="assets/services/msme-loan/working-capital-term-loan/working-capital-term.jpg" alt="working-capital-term" class="object-fit-cover w-100 working-capital-term-img">
                         </div>
-
-
-
-
-
                     </div>
                 </div>
             </div>
@@ -219,38 +210,68 @@
                     </p>
                     <ul>
                         <li>
-                            <b>Type of Business:</b> Construction companies, manufacturers, traders, or service
-                            providers.
+                            <ul class="eligibility_ul">
+                                <li>Type of Business:</li>
+                                <li>Construction companies, manufacturers, traders, or service providers.</li>
+                            </ul>
                         </li>
                         <li>
-                            <b>Business Vintage:</b> Generally, companies need to have been in operation for a certain
-                            amount of time, such as two to three years. (New businesses also take into account).
+                            <ul class="eligibility_ul">
+                                <li>Business Vintage:</li>
+                                <li>Generally, companies need to have been in operation for a certain
+                            amount of time, such as two to three years. (New businesses also take into account).</li>
+                            </ul>
                         </li>
                         <li>
-                            <b>Annual Turnover:</b> In order to evaluate repayment capacity, lenders frequently demand a
-                            minimum annual turnover.
+                            <ul class="eligibility_ul">
+                                <li>Annual Turnover:</li>
+                                <li>In order to evaluate repayment capacity, lenders frequently demand a
+                            minimum annual turnover.</li>
+                            </ul>
                         </li>
                         <li>
-                            <b>Credit Score/CIBIL Score:</b> Approval of a loan depends on a high credit score.
+                            <ul class="eligibility_ul">
+                                <li>Credit Score/CIBIL Score:</li>
+                                <li>Approval of a loan depends on a high credit score.</li>
+                            </ul>
                         </li>
                         <li>
-                            <b>Stability of finances:</b> Proven profitability and sound financial records.
-                        </li>
-                        <li>Business Type:</b> Some lenders may favor or disqualify particular business kinds.
-                        </li>
-                        <li>
-                            <b>Industry Type:</b> Certain industries are regarded as more hazardous than others.
+                            <ul class="eligibility_ul">
+                                <li>Stability of finances:</li>
+                                <li>Proven profitability and sound financial records.</li>
+                            </ul>
                         </li>
                         <li>
-                            <b>Debt-to-Equity Ratio:</b> Financial stability is indicated by a strong debt-to-equity
-                            ratio.
+                            <ul class="eligibility_ul">
+                                <li>Business Type:</li>
+                                <li>Some lenders may favor or disqualify particular business kinds.</li>
+                            </ul>
                         </li>
                         <li>
-                            <b>Collateral (Occasionally):</b> Depending on the loan size and business characteristics,
-                            certain lenders may demand collateral.
+                            <ul class="eligibility_ul">
+                                <li>Industry Type:</li>
+                                <li>Certain industries are regarded as more hazardous than others.</li>
+                            </ul>
                         </li>
                         <li>
-                            <b>GST Registration:</b> It is often necessary to provide proof of GST registration.
+                            <ul class="eligibility_ul">
+                                <li>Debt-to-Equity Ratio:</li>
+                                <li>Financial stability is indicated by a strong debt-to-equity
+                            ratio.</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <ul class="eligibility_ul">
+                                <li>Collateral (Occasionally):</li>
+                                <li>Depending on the loan size and business characteristics,
+                            certain lenders may demand collateral.</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <ul class="eligibility_ul">
+                                <li>GST Registration:</li>
+                                <li>It is often necessary to provide proof of GST registration.</li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
