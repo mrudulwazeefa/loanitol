@@ -21,35 +21,6 @@
             </div>
         </div>
     </div>
-
-    <!-- <div class="tab-menu position-absolute d-none d-lg-block">
-        <ul>
-            <li class="active">
-                <a href="">Overview</a>
-            </li>
-            <li>
-                <a href="">Loans</a>
-            </li>
-            <li>
-                <a href="">Features</a>
-            </li>
-            <li>
-                <a href="">Eligibility Criteria</a>
-            </li>
-            <li>
-                <a href="">Documents Required</a>
-            </li>
-            <li>
-                <a href="">Fees & Charges</a>
-            </li>
-            <li>
-                <a href=""> FAQs</a>
-            </li>
-            <li>
-                <a href=""> Contact us</a>
-            </li>
-        </ul>
-    </div> -->
     <!-- sticky nav -->
     <div class="sticky-nav-wrapper container" id="scrolling-nav">
         <div class="container d-flex align-items-center justify-content-between">
