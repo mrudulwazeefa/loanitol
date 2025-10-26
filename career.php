@@ -5,76 +5,73 @@
 <body>
     <?php include("includes/nav.php"); ?>
 
-    <div class="linear-gradient py-5">
-        <div class="py-5 career-banner position-relative h-100">
+    <div class="linear-gradient py-5 pb-0">
+        <div class="py-5 py-sm-3 py-md-4 py-lg-5 career-banner position-relative h-100">
             <div
-                class="py-5 top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-center text-center px-3">
-                <h1 class="banner-title fw-semibold mb-3">
-                    Ready to take the next step in your career?
-                </h1>
-                <p class="mb-4">
-                    Join our dynamic team where your ideas matter, your growth is supported,
-                    and your work makes a real impact. Be part of something meaningful—apply now!
+                class="py-5 py-sm-0 py-md-4 py-lg-5 top-0 start-0 w-100 h-100 d-flex flex-column justify-content-center align-items-center text-center px-3">
+                <h5 class="career-head col-xl-4 col-lg-5 col-md-6 col-sm-7">Ready to take the next step in your career?</span>
+                </h5>
+                <p class="mb-4 col-md-6 col-sm-8">
+                    "Be Part of Something Meaningful." At Loanitol, we don’t just work—we create value, build trust, and grow together as a team.
                 </p>
-                <a href="#" class="career-btn px-4 py-2">
-                    Current Openings<img class="img-fluid ms-2" width="20px"
-                        src="assets/career/icon/right-top-arrow.svg" alt="">
+                <a href="#current-opening" class="career-opening">
+                    Current Openings
                 </a>
             </div>
         </div>
     </div>
 
-    <div class="current-openings-container">
+    <div class="current-openings-container pt-5" id="current-opening">
         <div class="container py-2 pt-5 pb-5">
-            <div class="mt-5">
-                <h1 class="text-black text-center">Current Openings</h1>
-                <p class="text-center" stytle="color: #221E1E">Demo paragraph [ Redefine Your Career Path With a Company
-                    That Cares ]</p>
+            <div class="text-center">
+                <h1 class="fw-semibold">Current Openings</h1>
+                <p>Demo paragraph [ Redefine Your Career Path With a Company That Cares ]</p>
             </div>
             <div class="job-cards mb-5 mt-5">
                 <div class="job-card">
                     <h5 class="job-card-title mb-0">Financial Analyst (1)</h5>
-                    <button>Apply Now
-                        <img class="img-fluid" width="20px" src="assets/career/icon/right-top-arrow.svg" alt="">
-
-                    </button>
+                    <a href="#" role="button">
+                        Apply Now
+                        <img class="img-fluid" src="assets/career/icon/right-top-arrow.svg" alt="">
+                    </a>
                 </div>
                 <div class="job-card">
                     <h5 class="job-card-title mb-0">Bank follow-up Officer (1)</h5>
-                    <button>Apply Now
-                        <img class="img-fluid" width="20px" src="assets/career/icon/right-top-arrow.svg" alt="">
-
-                    </button>
+                    <a href="#" role="button">
+                        Apply Now
+                        <img class="img-fluid" src="assets/career/icon/right-top-arrow.svg" alt="">
+                    </a>
                 </div>
                 <div class="job-card">
                     <h5 class="job-card-title mb-0">Customer Care Executive (1)</h5>
-                    <button>Apply Now
-                        <img class="img-fluid" width="20px" src="assets/career/icon/right-top-arrow.svg" alt="">
-                    </button>
+                    <a href="#" role="button">
+                        Apply Now
+                        <img class="img-fluid" src="assets/career/icon/right-top-arrow.svg" alt="">
+                    </a>
                 </div>
             </div>
         </div>
     </div>
     <div class="why-work-with-us">
         <div class="container py-2 pt-5 pb-5">
-            <div class="d-flex flex-column flex-sm-row pb-0 pb-sm-5 pt-5">
-                <img width="170px" class="img-fluid" src="assets/career/icon/loanitol-logo-big.svg" alt="">
+            <div class="d-flex flex-column flex-sm-row pb-0 pt-5 pb-sm-3 pt-sm-3">
+                <img class="img-fluid" src="assets/career/icon/loanitol-logo-big.svg" alt="">
                 <div class="main-text ms-0 ms-sm-5 mt-4 mt-sm-0">
-                    <h1>Why Work at <br> Loanitol ?</h1>
+                    <h1 class="col-lg-4 col-11">Why Work at Loanitol ?</h1>
                     <p>At Loanitol, we believe that a thriving workplace is built on empowerment, innovation, and
                         respect
-                        for individuality. We don’t just offer jobs—we craft careers and foster environments where
+                        for individuality. We don't just offer jobs—we craft careers and foster environments where
                         talent
-                        flourishes. Here’s why joining our team could be your best career move:</p>
+                        flourishes. Here's why joining our team could be your best career move:</p>
                 </div>
             </div>
-            <div class="row g-3 g-md-4 pb-5 pt-5">
+            <div class="row g-3 g-md-4 pb-5 pt-5 pt-md-3 pb-md-3">
                 <div class="col-12 col-md-6 d-flex">
                     <div class="card p-5 d-flex">
                         <img width="50px" class="img-fluid" src="assets/career/icon/1.svg" alt="">
                         <div>
-                            <h3 class="card-digit">01.</h3>
-                            <h3 class="title mb-4">Workplace Flexibility</h3>
+                            <h4 class="card-digit">01.</h4>
+                            <h4 class="fw-normal mb-4">Workplace Flexibility</h4>
                             <p>We value your life outside of work. Our flexible working hours let you start your day
                                 anytime between 8:30 AM and 7 PM, with a core collaboration window from 10 AM to 5 PM to
                                 support team interaction.</p>
@@ -85,8 +82,8 @@
                     <div class="card p-5 d-flex">
                         <img width="50px" class="img-fluid" src="assets/career/icon/1.svg" alt="">
                         <div>
-                            <h3 class="card-digit">02.</h3>
-                            <h3 class="title mb-4">Accelerated Career Growth</h3>
+                            <h4 class="card-digit">02.</h4>
+                            <h4 class="fw-normal mb-4">Accelerated Career Growth</h4>
                             <p>At Loanitol, your professional growth comes first. We support your journey with tailored
                                 development plans and  mentorship opportunities  you'll benefit from ongoing leadership
                                 training. Advancement here is driven by ability and performance—not just years of
@@ -98,8 +95,8 @@
                     <div class="card p-5 d-flex">
                         <img width="50px" class="img-fluid" src="assets/career/icon/1.svg" alt="">
                         <div>
-                            <h3 class="card-digit">03.</h3>
-                            <h3 class="title mb-4">Unlimited Earning Potential</h3>
+                            <h4 class="card-digit">03.</h4>
+                            <h4 class="fw-normal mb-4">Unlimited Earning Potential</h4>
                             <p>Break free from salary limits with rewards tied to your performance, including quarterly
                                 bonuses, incentive programs, and profit-sharing opportunities.</p>
                         </div>
@@ -109,8 +106,8 @@
                     <div class="card p-5 d-flex">
                         <img width="50px" class="img-fluid" src="assets/career/icon/1.svg" alt="">
                         <div>
-                            <h3 class="card-digit">04.</h3>
-                            <h3 class="title mb-4">Cutting-Edge Tech Environment</h3>
+                            <h4 class="card-digit">04.</h4>
+                            <h4 class="fw-normal mb-4">Cutting-Edge Tech Environment</h4>
                             <p>Be part of a future-focused workplace. Our teams harness AI-powered analytics, cloud
                                 technologies, and automation to create forward-thinking financial solutions.</p>
                         </div>
@@ -123,65 +120,104 @@
     <div class="life-at-loanitol">
         <div class="container py-2 pt-5 pb-5">
             <div class="mt-5 mb-5">
-                <h1 class="text-black text-center fw-semibold">Life @ Loanitol</h1>
-                <p class="text-center" stytle="color: #221E1E">Demo paragraph [ A place where you can unlock your true
-                    potential, achieve your goals, and grow your career in a purpose-driven environment. At Loanitol,
-                    we’re
-                    not just transforming finances—we’re transforming lives. Join us and be part of a team that empowers
-                    dreams, supports innovation, and celebrates success every step of the way.]</p>
+                <h1 class="fw-semibold">Life @ Loanitol</h1>
+                <p class="text-center col-md-8 col-sm-12"> Life Beyond Limits - isn’t just about work—it’s about building a future, exploring your potential, and enjoying every step with a team that inspires you.</p>
             </div>
-            <div class="gallery">
-                <div class="container py-5">
-                    <div class="row flex-column flex-md-row g-3 g-md-4">
-                        <div class="col-12 col-md-6">
-                            <div class="row g-3 g-md-4">
-                                <!-- Top Square -->
-                                <div class="col-6">
-                                    <img src="assets/career/gallery1.jpg" class="img-fluid w-100 rounded"
-                                        style=" object-fit: cover;" alt="Top square">
-                                </div>
-                                <!-- Bottom Square -->
-                                <div class="col-6">
-                                    <img src="assets/career/gallery2.jpg" class="img-fluid w-100 rounded"
-                                        style="height: 270px; object-fit: cover; object-position: bottom"
-                                        alt="Bottom square">
-
-                                    <img src="assets/career/gallery4.jpg" class="img-fluid w-100 mt-3 mt-md-4 rounded"
-                                        style="height: 250px; object-fit: cover;" alt="Bottom square">
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="col-12 col-md-6">
-                            <div class="row g-3 g-md-4">
-                                <!-- Top Square -->
-                                <div class="col-12">
-                                    <img src="assets/career/gallery3.jpg" class="img-fluid w-100 rounded"
-                                        style="height: 250px; object-fit: cover;" alt="Top square">
-                                </div>
-
-                                <!-- Bottom Square -->
-                                <div class="col-6">
-                                    <img src="assets/career/gallery2.jpg" class="img-fluid w-100 rounded"
-                                        style="height: 250px; object-fit: cover;" alt="Bottom square">
-                                </div>
-                                <div class="col-6">
-                                    <img src="assets/career/gallery6.jpg" class="img-fluid w-100 rounded"
-                                        style="height: 250px; object-fit: cover;" alt="Bottom square">
-                                </div>
-                            </div>
-                        </div>
-
+            <div class="row g-3 career-section">
+                <!-- Initial Grid -->
+                <div class="col-md-6 d-flex gap-3">
+                    <div class="flex-fill">
+                        <img src="assets/career/gallery1.webp" class="img-fluid w-100 h-100 object-fit-cover"
+                            alt="Image 1">
                     </div>
-                    <div class="mt-5 d-flex justify-content-center">
-                        <button class="see-more-btn">See More <img class="img-fluid ms-2" width="20px"
-                                src="assets/career/icon/right-top-arrow.svg" alt=""></button>
+                    <div class="d-flex flex-column gap-3">
+                        <img src="assets/career/gallery2.webp" class="img-fluid w-100 h-50 object-fit-cover"
+                            alt="Image 2">
+                        <img src="assets/career/gallery4.webp" class="img-fluid w-100 h-50 object-fit-cover"
+                            alt="Image 3">
+                    </div>
+                </div>
+                <div class="col-md-6 d-flex flex-column gap-3">
+                    <div class="flex-fill h-50">
+                        <img src="assets/career/gallery3.webp" class="img-fluid w-100 h-100 object-fit-cover"
+                            alt="Image 4" style="object-position: top left;">
+                    </div>
+                    <div class="d-flex gap-3 flex-fill h-40">
+                        <img src="assets/career/gallery6.webp" class="img-fluid w-50 h-100 object-fit-cover"
+                            alt="Image 5">
+                        <img src="assets/career/gallery7.webp" class="img-fluid w-50 h-100 object-fit-cover"
+                            alt="Image 6">
                     </div>
                 </div>
             </div>
+
+            <!-- Hidden More Images -->
+            <div class="row g-3 career-section mt-1 d-none" id="moreImages">
+                <div class="col-md-6 d-flex gap-3">
+                    <div class="flex-fill">
+                        <img src="assets/career/gallery8.webp" class="img-fluid w-100 h-100 object-fit-cover"
+                            alt="Image 7">
+                    </div>
+                    <div class="d-flex flex-column gap-3">
+                        <img src="assets/career/gallery9.webp" class="img-fluid w-100 h-50 object-fit-cover"
+                            alt="Image 8">
+                        <img src="assets/career/gallery10.webp" class="img-fluid w-100 h-50 object-fit-cover"
+                            alt="Image 9">
+                    </div>
+                </div>
+                <div class="col-md-6 d-flex flex-column gap-3">
+                    <div class="flex-fill h-50">
+                        <img src="assets/career/gallery11.webp" class="img-fluid w-100 h-100 object-fit-cover"
+                            alt="Image 10">
+                    </div>
+                    <div class="d-flex gap-3 flex-fill h-40">
+                        <img src="assets/career/gallery12.webp" class="img-fluid w-50 h-100 object-fit-cover"
+                            alt="Image 11">
+                        <img src="assets/career/gallery13.webp" class="img-fluid w-50 h-100 object-fit-cover"
+                            alt="Image 12">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Toggle Button -->
+            <div class="text-center my-5">
+                <a class="seemore" id="toggleBtn">See More</a>
+            </div>
         </div>
+        <script>
+    const toggleBtn = document.getElementById('toggleBtn');
+    const moreImages = document.getElementById('moreImages');
+
+    toggleBtn.addEventListener('click', () => {
+        moreImages.classList.toggle('d-none'); // toggle visibility
+
+        // Change button text
+        if (moreImages.classList.contains('d-none')) {
+            toggleBtn.textContent = 'See More ';
+        } else {
+            toggleBtn.textContent = 'Show Less';
+        }
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </div>
-    </div>
+
+
 
     <!-- free to contact -->
     <div class="bg-contact-area">
