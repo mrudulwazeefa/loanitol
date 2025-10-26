@@ -241,6 +241,29 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+/* ---------------- career page toggle button ---------------- */
+document.addEventListener('DOMContentLoaded', () => {
+    const toggleBtn = document.getElementById('toggleBtn');
+    const moreImages = document.getElementById('moreImages');
+
+    if (toggleBtn && moreImages) {
+        toggleBtn.addEventListener('click', () => {
+            moreImages.classList.toggle('d-none'); // toggle visibility
+
+            // Change button text
+            toggleBtn.textContent = moreImages.classList.contains('d-none') 
+                ? 'See More' 
+                : 'Show Less';
+        });
+    }
+});
+
+
+
+
+
+
+
   /* ---------------- Popup Functions ---------------- */
   window.togglePopup = function (openId, closeId) {
     const openEl = document.getElementById(openId);
