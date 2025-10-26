@@ -117,22 +117,22 @@
                         <div class="common-box w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/corporate-and-legal-advisory/icons/legal-compliance.svg"
-                                        alt="Legal Compliance">
+                                    <img src="assets/life-insurance/icon/financial-security.svg"
+                                        alt="Financial Security">
                                 </div>
                             </div>
-                            <h2 class="col-lg-9 col-md-11">Legal Compliance</h2>
+                            <h2 class="col-lg-9 col-md-11">Financial Security</h2>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-12">
                         <div class="common-box w-100">
                             <div class="icon-frame">
                                 <div class="second-frame">
-                                    <img src="assets/corporate-and-legal-advisory/icons/risk-assessment.svg"
-                                        alt="Risk Assessment">
+                                    <img src="assets/life-insurance/icon/debt-coverage.svg"
+                                        alt="Debt Coverage">
                                 </div>
                             </div>
-                            <h2 class="col-lg-9 col-md-11">Risk Assessment and Mitigation</h2>
+                            <h2 class="col-lg-9 col-md-11">Debt Coverage</h2>
                         </div>
                     </div>
                     <div class="col-12 col-lg-6 insurance-card">
@@ -144,7 +144,7 @@
             <!-- 5 -->
 
             <div class="py-4">
-                <h4 class="h4-size2">How Term Life Insurance Works</h4>
+                <h4 class="h4-size2 pt-4">How Term Life Insurance Works</h4>
                 <ul class="py-3">
                     <li>The policyholder assigns beneficiaries to the policy.</li>
                     <li>In the event of the policyholder's death while the policy is active, the insurance company
