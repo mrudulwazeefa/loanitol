@@ -181,7 +181,7 @@
     <section class="board">
         <div class="container">
             <h4 class="h4-size text-center text-white">Events and Awards</h4>
-                <div class="container events-and-awards-section py-5 my-5">
+                <div class="container events-and-awards-section py-1 my-5">
                     <div class="row g-2 g-md-1">
                         <div class="col-md-6 p-2">
                             <img src="assets/events-and-awards/image-1.jpg" alt="">
