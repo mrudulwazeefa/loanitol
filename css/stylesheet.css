@@ -866,12 +866,11 @@ option {
 .h4-size {
   font-size: 28px;
 }
-
-.h4-size2 {
-  font-size: 24px;
+.h4-size3{
+  font-size: 20px;
 }
-
-.h4-testimonial-size {
+.h4-testimonial-size,
+.h4-size2 {
   font-size: 24px;
 }
 
@@ -4027,6 +4026,11 @@ img {
 }
 /* Extra small devices (phones, 600px and down) */
 @media screen and (max-width: 600px) {
+
+.exclusive h4{
+  font-size: 20px;
+}
+
     .life-at-loanitol h1,
 .current-openings-container h1,
 .why-work-with-us h1 {
@@ -4218,6 +4222,9 @@ img {
   }
   .h4-size2 {
     font-size: 24px;
+  }
+  .h4-size3 {
+    font-size: 20px;
   }
   .sticky-nav-wrapper {
     border-radius: 0px;
@@ -4508,6 +4515,9 @@ img {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media screen and (min-width: 600px) {
+  .exclusive h4{
+  font-size: 20px;
+}
 .life-at-loanitol h1,
 .current-openings-container h1,
 .why-work-with-us h1{
@@ -4621,6 +4631,9 @@ img {
   }
   .h4-size2 {
     font-size: 24px;
+  }
+  .h4-size3 {
+    font-size: 20px;
   }
   .eligibility {
     padding: 4% 0% 6% 0%;
@@ -4825,6 +4838,9 @@ img {
 }
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+    .exclusive h4{
+  font-size: 20px;
+}
       .life-at-loanitol h1,
 .current-openings-container h1,
 .why-work-with-us h1 {
@@ -5152,6 +5168,9 @@ img {
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+    .exclusive h4{
+  font-size: 22px;
+}
   .life-at-loanitol h1,
 .current-openings-container h1{
   font-size: 36px!important;
@@ -5343,6 +5362,9 @@ img {
 }
 /* */
 @media only screen and (min-width: 1024px) {
+      .exclusive h4{
+  font-size: 23px;
+}
   /* .d-m-none {
   display: block;
 } */
@@ -5581,6 +5603,9 @@ img {
   }
   .h4-size2 {
     font-size: 24px;
+  }
+  .h4-size3 {
+    font-size: 20px;
   }
   .h4-size-area {
     font-size: 32px;
@@ -7706,12 +7731,37 @@ input.search-field.show-placeholder::placeholder {
 .refer-and-earn-section {
   background-color: var(--theme-color);
 }
+.refer-and-earn-section .circle_theme{
+  background: var(--theme-color);
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    padding: 2px;
+    box-shadow: inset 0px 0px 13.6px 6px rgba(0, 0, 0, 0.20);
+}
+.refer-and-earn-section .circle_theme img {
+    width: 65%;
+    height: 65%;
+}
+/* .refer-and-earn-section h4{
+  font-size: 24px;
+} */
+
 .card-section .card {
   border: none;
 }
 .card-section .card .title {
   border-bottom: 1px solid #ebebeb;
 }
+.card-section ul{
+  padding-left: 0px;
+}
+.card-section ul li{
+  display: block;
+}
+
+
+
 
 /*  Retail home loan */
 .overview-and-loan-section {
@@ -7808,10 +7858,10 @@ input.search-field.show-placeholder::placeholder {
 }
 .documents-required-home-loan h5::before,
 .icon h5::before {
-  content: url("../assets/loan-against-property/icons/loanitol-red-logo.svg"); /* or use Font Awesome icon code */
+  content: url("../assets/loan-against-property/icons/loanitol-red-logo.svg"); 
   display: inline-block;
   vertical-align: middle;
-  margin-right: 8px; /* space between icon and text */
+  margin-right: 8px;
 }
 
 .eligibility-criteria-section,
