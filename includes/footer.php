@@ -4,73 +4,73 @@
         <div class="col-lg-3 col-md-3 col-sm-4 col-12 links-hd">
           <h5>Our Loans</h5>
           <ul>
-            <li><a href="#!">Retail Loans</a></li>
-            <li><a href="#!">MSME Loans</a></li>
-            <li><a href="#!">Bridge Loans</a></li>
-            <li><a href="#!">Distress Funding</a></li>
-            <li><a href="#!">Fund Raising</a></li>
+            <li><a href="#">Retail Loans</a></li>
+            <li><a href="#">MSME Loans</a></li>
+            <li><a href="#">Bridge Loans</a></li>
+            <li><a href="#">Distress Funding</a></li>
+            <li><a href="#">Fund Raising</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-4 col-12 links-hd">
           <h5>Advisory Services </h5>
           <ul>
-            <li><a href="#!">Corporate Legal Advisory</a></li>
-            <li><a href="#!">Restructuring and One-Time Settlement</a></li>
-            <li><a href="#!">Real Estate Advisory</a></li>
-            <li><a href="#!">Finance and Accounting</a></li>
-            <li><a href="#!">Investment and Insurance</a></li>
-            <li><a href="#!">Corporate Training and Business Consultation</a></li>
+            <li><a href="#">Corporate Legal Advisory</a></li>
+            <li><a href="#">Restructuring and One-Time Settlement</a></li>
+            <li><a href="#">Real Estate Advisory</a></li>
+            <li><a href="#">Finance and Accounting</a></li>
+            <li><a href="#">Investment and Insurance</a></li>
+            <li><a href="#">Corporate Training and Business Consultation</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-4 col-12 links-hd">
           <h5>Financial Tools</h5>
           <ul>
-            <li><a href="#!">Loan Comparison Tool</a></li>
-            <li><a href="#!">EMI Calculator</a></li>
-            <li><a href="#!">Loan Eligibility Check</a></li>
-            <li><a href="#!">Credit Score Checker</a></li>
-            <li><a href="#!">Rate Conversion Tools</a></li>
-            <li><a href="#!">SIP Calculator</a></li>
-            <li><a href="#!">SWP Calculator</a></li>
-            <li><a href="#!">FD Calculator</a></li>
+            <li><a href="#">Loan Comparison Tool</a></li>
+            <li><a href="#">EMI Calculator</a></li>
+            <li><a href="#">Loan Eligibility Check</a></li>
+            <li><a href="#">Credit Score Checker</a></li>
+            <li><a href="#">Rate Conversion Tools</a></li>
+            <li><a href="#">SIP Calculator</a></li>
+            <li><a href="#">SWP Calculator</a></li>
+            <li><a href="#">FD Calculator</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-4 col-12 links-hd">
           <h5>Knowledge Base</h5>
           <ul>
-            <li><a href="#!">Blogs</a></li>
-            <li><a href="#!">Vlogs /reels /Shorts/Videos</a></li>
-            <li><a href="#!">Events</a></li>
-            <li><a href="#!">Learn & Resources</a></li>
-            <li><a href="#!">Ads</a></li>
-            <li><a href="#!">Recent Article</a></li>
-            <li><a href="#!">Terms and Condition</a></li>
-            <li><a href="#!">Privacy Policy</a></li>
+            <li><a href="#">Blogs</a></li>
+            <li><a href="#">Vlogs /reels /Shorts/Videos</a></li>
+            <li><a href="#">Events</a></li>
+            <li><a href="#">Learn & Resources</a></li>
+            <li><a href="#">Ads</a></li>
+            <li><a href="#">Recent Article</a></li>
+            <li><a href="#">Terms and Condition</a></li>
+            <li><a href="#">Privacy Policy</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-4 col-12 links-hd">
           <h5>Fund Raising</h5>
           <ul>
-            <li><a href="#!">Distress Funding</a></li>
-            <li><a href="#!">Pvt Funding</a></li>
-            <li><a href="#!">Fundraising for NBFC</a></li>
-            <li><a href="#!">SME IPO</a></li>
+            <li><a href="#">Distress Funding</a></li>
+            <li><a href="#">Pvt Funding</a></li>
+            <li><a href="#">Fundraising for NBFC</a></li>
+            <li><a href="#">SME IPO</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-4 col-12 links-hd">
           <h5>Partner With Us</h5>
           <ul>
-            <li><a href="#!">Referral Associates</a></li>
-            <li><a href="#!">Referral Partner</a></li>
-            <li><a href="#!">Corporate Associate</a></li>
-            <li><a href="#!">Customer Loyalty Program</a></li>
+            <li><a href="#">Referral Associates</a></li>
+            <li><a href="#">Referral Partner</a></li>
+            <li><a href="#">Corporate Associate</a></li>
+            <li><a href="#">Customer Loyalty Program</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-4 col-12 links-hd">
           <h5>Careers</h5>
           <ul>
-            <li><a href="#!">Employment Opportunity</a></li>
-            <li><a href="#!">Referral Associate </a></li>
+            <li><a href="#">Employment Opportunity</a></li>
+            <li><a href="#">Referral Associate </a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-8 social_media socialIcons">
@@ -136,10 +136,10 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-6 col-sm-6 text-white">
-          <p>&copy; <?php echo date("Y"); ?> Loanitol — All Rights Reserved</p>
+          <p>&copy; <?php echo date("Y"); ?> Loanitol — All Rights Reserved</p>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 f-right text-white">
-          <p>Toll-free Number — <a href="tel:+919090388883">+91 9090388883</a></p>
+          <p>Toll-free Number — <a href="tel:+919090388883">+91 9090388883</a></p>
         </div>
       </div>
     </div>
