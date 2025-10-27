@@ -16,8 +16,8 @@
                             <li class="breadcrumb-item active" aria-current="page">Life Insurance</li>
                         </ol>
                     </nav>
-                    <h5 class="h5-size col-sm-12">
-                        Protect What Matters Most <br> With <span class="d-inline-block">Life Insurance Plans</span>
+                    <h5 class="h5-size col-lg-8">
+                        Protect What Matters Most With <span class="d-inline-block">Life Insurance Plans</span>
                     </h5>
                     <p">Get reliable life insurance to secure your family’s future and peace of
                         mind.
