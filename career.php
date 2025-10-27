@@ -25,7 +25,7 @@
         <div class="container py-2 pt-5 pb-5">
             <div class="text-center">
                 <h1 class="fw-semibold">Current Openings</h1>
-                <p>Yout Next Big Career Moves Starts Here</p>
+                <p>Your Next Big Career Moves Starts Here</p>
             </div>
             <div class="job-cards mb-5 mt-5">
                 <div class="job-card">
