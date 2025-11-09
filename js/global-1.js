@@ -72,6 +72,8 @@ document.addEventListener("DOMContentLoaded", function () {
       e.stopPropagation();
 
       const clickedSubmenu = this.nextElementSibling;
+
+      // Close all other open submenus
       document.querySelectorAll('.dropdown-submenu > .dropdown-menu.show').forEach(submenu => {
         if (submenu !== clickedSubmenu) {
           submenu.classList.remove('show');
@@ -84,8 +86,10 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       });
 
+      // Toggle clicked submenu
       if (clickedSubmenu) clickedSubmenu.classList.toggle('show');
 
+      // Toggle icon
       const icon = this.querySelector('i');
       if (icon) {
         if (icon.classList.contains('fa-angle-down')) {
@@ -204,29 +208,30 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  const showMorevideo = document.getElementById("showMorevideo");
-  if (showMorevideo) {
-    showMorevideo.addEventListener("click", function () {
-      const hiddenCols = document.querySelectorAll(".hidden-cols");
-      if (hiddenCols.length > 0) {
-        const isVisible = hiddenCols[0].style.display === "block";
-        hiddenCols.forEach(col => col.style.display = isVisible ? "none" : "block");
-        this.textContent = isVisible ? "Show More" : "Hide Videos";
-      }
-    });
-  }
+const showMorevideo = document.getElementById("showMorevideo");
+if (showMorevideo) {
+  showMorevideo.addEventListener("click", function () {
+    const hiddenCols = document.querySelectorAll(".hidden-cols");
+    if (hiddenCols.length > 0) {
+      const isVisible = hiddenCols[0].style.display === "block";
+      hiddenCols.forEach(col => col.style.display = isVisible ? "none" : "block");
+      this.textContent = isVisible ? "Show More" : "Hide Videos";
+    }
+  });
+}
 
-  const showMoreReels = document.getElementById("showMoreReels");
-  if (showMoreReels) {
-    showMoreReels.addEventListener("click", function () {
-      const hiddenCols = document.querySelectorAll(".hidden-cols-reels");
-      if (hiddenCols.length > 0) {
-        const isVisible = hiddenCols[0].style.display === "block";
-        hiddenCols.forEach(col => col.style.display = isVisible ? "none" : "block");
-        this.textContent = isVisible ? "Show More" : "Hide Videos";
-      }
-    });
-  }
+const showMoreReels = document.getElementById("showMoreReels");
+if (showMoreReels) {
+  showMoreReels.addEventListener("click", function () {
+    const hiddenCols = document.querySelectorAll(".hidden-cols-reels");
+    if (hiddenCols.length > 0) {
+      const isVisible = hiddenCols[0].style.display === "block";
+      hiddenCols.forEach(col => col.style.display = isVisible ? "none" : "block");
+      this.textContent = isVisible ? "Show More" : "Hide Videos";
+    }
+  });
+}
+
 
 
   const chooseMoreBtn = document.getElementById("chooseshowMoreBtn");
@@ -240,29 +245,6 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
   }
-
-/* ---------------- career page toggle button ---------------- */
-document.addEventListener('DOMContentLoaded', () => {
-    const toggleBtn = document.getElementById('toggleBtn');
-    const moreImages = document.getElementById('moreImages');
-
-    if (toggleBtn && moreImages) {
-        toggleBtn.addEventListener('click', () => {
-            moreImages.classList.toggle('d-none'); // toggle visibility
-
-            // Change button text
-            toggleBtn.textContent = moreImages.classList.contains('d-none') 
-                ? 'See More' 
-                : 'Show Less';
-        });
-    }
-});
-
-
-
-
-
-
 
   /* ---------------- Popup Functions ---------------- */
   window.togglePopup = function (openId, closeId) {
@@ -279,100 +261,6 @@ document.addEventListener('DOMContentLoaded', () => {
     if (el) el.style.display = "none";
   };
 
-  /* ---------------- Video Modal Autoplay ---------------- */
-  const modals = document.querySelectorAll(".modal");
-  modals.forEach(modal => {
-    const video = modal.querySelector("video");
-    modal.addEventListener("shown.bs.modal", () => {
-      if (video) {
-        video.muted = false;
-        video.currentTime = 0;
-        video.play().catch(err => console.log("Autoplay blocked:", err));
-      }
-    });
-    modal.addEventListener("hide.bs.modal", () => {
-      if (video) {
-        video.pause();
-        video.currentTime = 0;
-      }
-    });
-  });
-
-  /* ---------------- Search Input Animation (1 & 2) ---------------- */
-  function initSearchAnimation(iconId, inputId, placeholderText) {
-    const icon = document.getElementById(iconId);
-    const input = document.getElementById(inputId);
-    if (!icon || !input) return;
-
-    icon.style.transition = 'width 0.3s ease, height 0.3s ease, transform 0.3s cubic-bezier(0.4,0,0.2,1)';
-    input.style.transition = 'width 0.5s ease';
-
-    const showPlaceholder = () => input.classList.add('show-placeholder');
-    const hidePlaceholder = () => input.classList.remove('show-placeholder');
-
-    icon.addEventListener('click', e => {
-      e.stopPropagation();
-      icon.style.fill = (icon.style.fill === '#ed102c' || icon.style.fill === 'rgb(237, 16, 44)') ? 'black' : '#ed102c';
-
-      const isVisible = input.style.display === 'block';
-      if (!isVisible) {
-        input.placeholder = '';
-        hidePlaceholder();
-        input.style.display = 'block';
-        input.style.width = '0px';
-        icon.style.transform = 'translateX(-12px)';
-
-        setTimeout(() => {
-          input.style.width = '200px';
-          input.style.marginLeft = '0.5rem';
-          const delay = window.innerWidth <= 600 ? 100 : 200;
-          setTimeout(() => {
-            input.placeholder = placeholderText;
-            showPlaceholder();
-          }, delay);
-        }, 10);
-
-        if (window.innerWidth < 500) {
-          icon.style.width = '18px';
-          icon.style.height = '18px';
-        } else {
-          icon.style.width = '21px';
-          icon.style.height = '21px';
-        }
-        input.focus();
-      } else {
-        input.placeholder = '';
-        hidePlaceholder();
-        input.style.width = '0px';
-        input.style.marginLeft = '0.5rem';
-        icon.style.transform = 'translateX(0)';
-        icon.style.width = '25px';
-        icon.style.height = '25px';
-        setTimeout(() => {
-          input.style.display = 'none';
-        }, 300);
-      }
-    });
-
-    input.addEventListener('input', () => input.value ? hidePlaceholder() : showPlaceholder());
-    input.addEventListener('focus', () => { if (input.value) hidePlaceholder(); });
-    input.addEventListener('blur', () => { if (!input.value) showPlaceholder(); });
-
-    document.addEventListener('click', e => {
-      if (!icon.contains(e.target) && !input.contains(e.target)) {
-        input.style.width = '0px';
-        input.style.marginLeft = '0.5rem';
-        icon.style.transform = 'translateX(0)';
-        icon.style.width = '25px';
-        icon.style.height = '25px';
-        setTimeout(() => input.style.display = 'none', 300);
-        icon.style.fill = 'black';
-      }
-    });
-  }
-
-  initSearchAnimation('search-icon1', 'search-input1', 'Search Videos...');
-  initSearchAnimation('search-icon2', 'search-input2', 'Search Reels...');
-  initSearchAnimation('search-icon3', 'search-input2', 'Search Blog...');
+  /* ---------------- Video Modal Placeholder ---------------- */
 
 });
